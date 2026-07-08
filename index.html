@@ -1,0 +1,903 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>讀書後重點整理</title>
+  <link rel="preload" href="theme.js" as="script">
+  <link rel="preload" href="bg.js" as="script">
+  <link rel="preload" href="data.json" as="fetch" type="application/json" crossorigin="anonymous">
+  <style>
+    * { box-sizing: border-box; }
+    :root {
+      --app-bg: #f6f2ea;
+      --app-ink: #1d2528;
+      --app-muted: #657075;
+      --app-paper: rgba(255, 255, 255, .94);
+      --app-card: #ffffff;
+      --app-soft: #f3efe6;
+      --app-line: rgba(48, 64, 70, .16);
+      --app-accent: #9b5b25;
+      --app-accent-2: #1f7a78;
+      --app-accent-3: #c84c44;
+      --app-shadow: 0 20px 48px rgba(35, 31, 25, .12);
+      --app-radius: 8px;
+      --control-bg: rgba(255, 255, 255, .94);
+    }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      color: var(--app-ink);
+      background: var(--app-bg);
+      font-family: "Microsoft JhengHei", "PingFang TC", "Noto Sans TC", Arial, sans-serif;
+      line-height: 1.6;
+      letter-spacing: 0;
+    }
+    button,
+    input,
+    select,
+    textarea {
+      font: inherit;
+    }
+    a { color: inherit; }
+    #scroll-progress-bar {
+      position: fixed;
+      top: env(safe-area-inset-top, 0);
+      left: 0;
+      z-index: 30;
+      width: 0%;
+      height: 4px;
+      background: linear-gradient(90deg, var(--app-accent), var(--app-accent-2), var(--app-accent-3));
+      box-shadow: 0 0 16px rgba(155, 91, 37, .45);
+      pointer-events: none;
+    }
+    .dynamic-bg {
+      position: fixed;
+      inset: 0;
+      z-index: 0;
+      pointer-events: none;
+      overflow: hidden;
+    }
+    .top-controls {
+      position: sticky;
+      top: 8px;
+      z-index: 20;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 8px;
+      width: min(1180px, calc(100% - 20px));
+      margin: 8px auto 0;
+      padding: 6px;
+      border: 1px solid var(--app-line);
+      border-radius: var(--app-radius);
+      background: var(--control-bg);
+      box-shadow: 0 12px 30px rgba(0, 0, 0, .10);
+      backdrop-filter: blur(16px);
+    }
+    .control-group {
+      display: inline-grid;
+      grid-template-columns: auto minmax(128px, 1fr);
+      align-items: center;
+      gap: 6px;
+      min-width: 210px;
+      padding: 4px 6px;
+      border: 1px solid rgba(0, 0, 0, .08);
+      border-radius: 6px;
+      background: rgba(255, 255, 255, .66);
+    }
+    .book-control {
+      min-width: min(100%, 360px);
+      grid-template-columns: auto minmax(190px, 1fr);
+    }
+    .search-control {
+      min-width: min(100%, 390px);
+      grid-template-columns: auto minmax(170px, 1fr) auto auto;
+    }
+    .pager-control {
+      min-width: min(100%, 310px);
+      grid-template-columns: auto auto minmax(96px, 1fr) auto;
+    }
+    .control-group label {
+      color: var(--app-muted);
+      font-size: 12px;
+      font-weight: 800;
+      white-space: nowrap;
+    }
+    .control-group select,
+    .control-group input {
+      min-height: 28px;
+      width: 100%;
+      border: 1px solid var(--app-line);
+      border-radius: 5px;
+      background: #fff;
+      color: var(--app-ink);
+      padding: 2px 8px;
+    }
+    .control-button,
+    .tool-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 28px;
+      border: 1px solid var(--app-line);
+      border-radius: 5px;
+      background: var(--app-soft);
+      color: var(--app-ink);
+      padding: 2px 10px;
+      font-size: 13px;
+      font-weight: 900;
+      text-decoration: none;
+      cursor: pointer;
+      white-space: nowrap;
+    }
+    .control-button:disabled {
+      cursor: not-allowed;
+      opacity: .45;
+    }
+    .page-info {
+      color: var(--app-muted);
+      font-size: 12px;
+      font-weight: 900;
+      text-align: center;
+      white-space: nowrap;
+    }
+    .book-shell {
+      position: relative;
+      z-index: 1;
+      width: min(1180px, calc(100% - 24px));
+      margin: 0 auto;
+      padding: 26px 0 52px;
+    }
+    .hero {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 280px;
+      gap: 18px;
+      align-items: stretch;
+      min-height: 236px;
+      margin: 18px 0;
+    }
+    .hero-main,
+    .hero-stat,
+    .book-view,
+    .empty-state {
+      border: 1px solid var(--app-line);
+      border-radius: var(--app-radius);
+      background: var(--app-paper);
+      box-shadow: var(--app-shadow);
+    }
+    .hero-main {
+      display: grid;
+      align-content: end;
+      min-height: 236px;
+      padding: clamp(22px, 4vw, 42px);
+      overflow: hidden;
+    }
+    .eyebrow {
+      margin: 0 0 12px;
+      color: var(--app-accent);
+      font-size: 13px;
+      font-weight: 900;
+      text-transform: uppercase;
+    }
+    h1 {
+      margin: 0 0 12px;
+      font-size: clamp(2.1rem, 6vw, 5.3rem);
+      line-height: 1;
+      letter-spacing: 0;
+    }
+    .status-text {
+      max-width: 720px;
+      margin: 0;
+      color: var(--app-muted);
+      font-size: clamp(1rem, 2vw, 1.18rem);
+    }
+    .hero-stat {
+      display: grid;
+      align-content: space-between;
+      padding: 20px;
+      background:
+        linear-gradient(145deg, rgba(255,255,255,.72), rgba(255,255,255,.36)),
+        var(--app-soft);
+    }
+    .stat-number {
+      color: var(--app-accent);
+      font-size: clamp(3rem, 7vw, 5.4rem);
+      line-height: .9;
+      font-weight: 900;
+    }
+    .stat-label {
+      margin: 8px 0 0;
+      color: var(--app-muted);
+      font-weight: 800;
+    }
+    .book-view {
+      display: grid;
+      grid-template-columns: 330px minmax(0, 1fr);
+      gap: 0;
+      overflow: hidden;
+    }
+    .book-side {
+      display: grid;
+      gap: 16px;
+      align-content: start;
+      padding: 24px;
+      color: #fff;
+      background:
+        linear-gradient(160deg, color-mix(in srgb, var(--app-accent), #111 14%), var(--app-accent-2));
+    }
+    .book-mark {
+      width: 58px;
+      height: 86px;
+      border: 2px solid rgba(255,255,255,.52);
+      border-radius: 4px 4px 24px 24px;
+      background:
+        linear-gradient(180deg, rgba(255,255,255,.30), rgba(255,255,255,.06)),
+        rgba(255,255,255,.12);
+    }
+    .book-side h2 {
+      margin: 0;
+      font-size: clamp(1.55rem, 4vw, 2.6rem);
+      line-height: 1.12;
+      letter-spacing: 0;
+    }
+    .book-side p {
+      margin: 0;
+      color: rgba(255,255,255,.80);
+    }
+    .book-meta {
+      display: grid;
+      gap: 8px;
+      margin-top: 8px;
+    }
+    .meta-row {
+      display: grid;
+      grid-template-columns: 68px 1fr;
+      gap: 8px;
+      padding-top: 8px;
+      border-top: 1px solid rgba(255,255,255,.22);
+      font-size: 14px;
+    }
+    .meta-row span {
+      color: rgba(255,255,255,.68);
+      font-weight: 800;
+    }
+    .book-main {
+      display: grid;
+      gap: 18px;
+      align-content: start;
+      padding: 24px;
+      background: var(--app-card);
+    }
+    .summary-panel,
+    .source-panel,
+    .highlight-panel {
+      border: 1px solid var(--app-line);
+      border-radius: var(--app-radius);
+      background: var(--app-paper);
+      padding: 18px;
+    }
+    .section-title {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin: 0 0 12px;
+      color: var(--app-accent);
+      font-size: 1rem;
+      font-weight: 900;
+      letter-spacing: 0;
+    }
+    .section-title::after {
+      content: "";
+      flex: 1;
+      height: 1px;
+      background: var(--app-line);
+    }
+    .summary-panel p,
+    .source-panel p {
+      margin: 0;
+      color: var(--app-muted);
+    }
+    .tag-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-top: 14px;
+    }
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      min-height: 28px;
+      padding: 4px 10px;
+      border: 1px solid var(--app-line);
+      border-radius: 999px;
+      background: var(--app-soft);
+      color: var(--app-ink);
+      font-size: 13px;
+      font-weight: 800;
+    }
+    .source-tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 14px;
+    }
+    .source-button {
+      min-height: 34px;
+      border: 1px solid var(--app-line);
+      border-radius: 6px;
+      background: var(--app-soft);
+      color: var(--app-ink);
+      padding: 5px 12px;
+      font-weight: 900;
+      cursor: pointer;
+    }
+    .source-button[aria-pressed="true"] {
+      border-color: color-mix(in srgb, var(--app-accent), #000 8%);
+      background: var(--app-accent);
+      color: #fff;
+    }
+    .source-button:disabled {
+      cursor: not-allowed;
+      opacity: .48;
+    }
+    .point-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 10px;
+      margin-top: 12px;
+    }
+    .point-card {
+      min-height: 74px;
+      border: 1px solid var(--app-line);
+      border-radius: 7px;
+      background:
+        linear-gradient(180deg, rgba(255,255,255,.78), rgba(255,255,255,.52)),
+        var(--app-soft);
+      padding: 12px;
+      color: var(--app-ink);
+      word-break: break-word;
+    }
+    .pending {
+      border: 1px dashed color-mix(in srgb, var(--app-accent), transparent 35%);
+      border-radius: 7px;
+      background: var(--app-soft);
+      padding: 16px;
+      color: var(--app-muted);
+    }
+    .empty-state {
+      padding: 26px;
+      color: var(--app-muted);
+      text-align: center;
+    }
+    .loading {
+      min-height: 240px;
+      display: grid;
+      place-items: center;
+    }
+    @media (max-width: 920px) {
+      .hero,
+      .book-view {
+        grid-template-columns: 1fr;
+      }
+      .book-side {
+        min-height: 260px;
+      }
+      .point-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+    @media (max-width: 760px) {
+      .top-controls {
+        position: relative;
+        top: auto;
+        width: min(100% - 14px, 560px);
+      }
+      .control-group,
+      .book-control,
+      .search-control,
+      .pager-control {
+        grid-template-columns: 1fr;
+        min-width: min(100%, 280px);
+      }
+      .book-shell {
+        width: min(100% - 14px, 560px);
+        padding-top: 10px;
+      }
+      .hero-main,
+      .hero-stat,
+      .book-side,
+      .book-main {
+        padding: 18px;
+      }
+    }
+    @media print {
+      .top-controls,
+      .dynamic-bg,
+      #scroll-progress-bar,
+      .source-tabs {
+        display: none;
+      }
+      .book-shell {
+        width: 100%;
+        padding: 0;
+      }
+      .book-view {
+        box-shadow: none;
+      }
+      .point-grid {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+  </style>
+  <style id="themeStyle"></style>
+</head>
+<body>
+  <div id="scroll-progress-bar" aria-hidden="true"></div>
+  <div id="dynamicBackground" class="dynamic-bg" aria-hidden="true"></div>
+
+  <div class="top-controls">
+    <div class="control-group">
+      <label for="themeSelect">風格</label>
+      <select id="themeSelect" aria-label="風格"></select>
+    </div>
+    <div class="control-group">
+      <label for="bgSelect">背景</label>
+      <select id="bgSelect" aria-label="背景"></select>
+    </div>
+    <div class="control-group">
+      <label for="categorySelect">主題</label>
+      <select id="categorySelect" aria-label="主題"></select>
+    </div>
+    <div class="control-group book-control">
+      <label for="bookSelect">書名</label>
+      <select id="bookSelect" aria-label="書名"></select>
+    </div>
+    <div class="control-group pager-control">
+      <label>換頁</label>
+      <button id="prevPageButton" class="control-button" type="button">上一頁</button>
+      <span id="pageInfo" class="page-info">第 1 / 1 頁</span>
+      <button id="nextPageButton" class="control-button" type="button">下一頁</button>
+    </div>
+    <div class="control-group search-control">
+      <label for="searchInput">搜尋</label>
+      <input id="searchInput" type="search" placeholder="書名或作者關鍵字" autocomplete="off">
+      <button id="searchButton" class="control-button" type="button">搜尋</button>
+      <button id="clearSearchButton" class="control-button" type="button">清除</button>
+    </div>
+    <a class="tool-link" href="modifyData.html">編輯資料</a>
+  </div>
+
+  <main class="book-shell">
+    <section class="hero" aria-labelledby="pageTitle">
+      <div class="hero-main">
+        <p class="eyebrow">Johsok Book Reading</p>
+        <h1 id="pageTitle">讀書後重點整理</h1>
+        <p id="statusText" class="status-text">正在載入書籍資料。</p>
+      </div>
+      <aside class="hero-stat">
+        <div>
+          <div id="bookCount" class="stat-number">0</div>
+          <p class="stat-label">本整理中</p>
+        </div>
+        <p id="categoryStatus" class="status-text">資料索引初始化中</p>
+      </aside>
+    </section>
+
+    <section id="bookView" class="empty-state loading" aria-live="polite">載入中</section>
+  </main>
+
+  <script>
+    (function () {
+      "use strict";
+
+      const manifestUrl = "data.json";
+      const pageSize = 50;
+      const state = {
+        manifest: null,
+        category: null,
+        categoryData: null,
+        book: null,
+        highlightSource: "chatgpt",
+        cache: new Map(),
+        mode: "category",
+        searchQuery: "",
+        bookOptions: [],
+        bookPage: 1
+      };
+
+      const els = {
+        categorySelect: document.getElementById("categorySelect"),
+        bookSelect: document.getElementById("bookSelect"),
+        prevPageButton: document.getElementById("prevPageButton"),
+        nextPageButton: document.getElementById("nextPageButton"),
+        pageInfo: document.getElementById("pageInfo"),
+        searchInput: document.getElementById("searchInput"),
+        searchButton: document.getElementById("searchButton"),
+        clearSearchButton: document.getElementById("clearSearchButton"),
+        bookView: document.getElementById("bookView"),
+        statusText: document.getElementById("statusText"),
+        categoryStatus: document.getElementById("categoryStatus"),
+        bookCount: document.getElementById("bookCount"),
+        progressBar: document.getElementById("scroll-progress-bar")
+      };
+
+      document.addEventListener("DOMContentLoaded", init);
+      document.addEventListener("scroll", updateScrollProgress, { passive: true });
+      window.addEventListener("resize", updateScrollProgress);
+
+      async function init() {
+        try {
+          const manifest = await loadJson(manifestUrl);
+          state.manifest = manifest;
+          populateCategories(manifest.categories || []);
+          const params = new URLSearchParams(window.location.search);
+          const requestedCategory = params.get("category");
+          const firstCategory = findCategory(requestedCategory) || manifest.categories[0];
+          if (!firstCategory) throw new Error("data.json 沒有主題分類。");
+          els.categorySelect.value = firstCategory.id;
+          await selectCategory(firstCategory.id, params.get("book"));
+          bindEvents();
+        } catch (error) {
+          renderError(error);
+        } finally {
+          updateScrollProgress();
+        }
+      }
+
+      function bindEvents() {
+        els.categorySelect.addEventListener("change", function () {
+          state.mode = "category";
+          state.searchQuery = "";
+          els.searchInput.value = "";
+          selectCategory(els.categorySelect.value).catch(renderError);
+        });
+
+        els.bookSelect.addEventListener("change", function () {
+          selectBookOption(els.bookSelect.value).catch(renderError);
+        });
+
+        els.prevPageButton.addEventListener("click", function () {
+          if (state.bookPage <= 1) return;
+          state.bookPage -= 1;
+          renderBookOptionsPage();
+        });
+
+        els.nextPageButton.addEventListener("click", function () {
+          const totalPages = getTotalPages();
+          if (state.bookPage >= totalPages) return;
+          state.bookPage += 1;
+          renderBookOptionsPage();
+        });
+
+        els.searchButton.addEventListener("click", function () {
+          searchBooks().catch(renderError);
+        });
+
+        els.clearSearchButton.addEventListener("click", function () {
+          state.mode = "category";
+          state.searchQuery = "";
+          els.searchInput.value = "";
+          selectCategory(els.categorySelect.value).catch(renderError);
+        });
+
+        els.searchInput.addEventListener("keydown", function (event) {
+          if (event.key === "Enter") {
+            event.preventDefault();
+            searchBooks().catch(renderError);
+          }
+        });
+      }
+
+      async function selectCategory(categoryId, requestedBookId) {
+        const category = findCategory(categoryId);
+        if (!category) return;
+
+        state.category = category;
+        state.categoryData = await loadCategory(category);
+        els.categorySelect.value = category.id;
+
+        if (state.mode === "category") {
+          state.bookOptions = asArray(state.categoryData.books).map(function (book) {
+            return optionFromBook(book, category.id);
+          });
+          state.bookPage = 1;
+          const firstBook = findBook(requestedBookId) || asArray(state.categoryData.books)[0];
+          renderBookOptionsPage();
+          if (firstBook) {
+            jumpToOption(category.id, firstBook.id);
+            selectBook(firstBook.id);
+          } else {
+            state.book = null;
+            renderEmpty("這個主題目前還沒有書籍資料。");
+          }
+        }
+
+        updateStats();
+      }
+
+      async function selectBookOption(value) {
+        const option = parseOptionValue(value);
+        if (!option.bookId) return;
+        const category = findCategory(option.categoryId || (state.category && state.category.id));
+        if (!category) return;
+
+        if (!state.category || state.category.id !== category.id || !state.categoryData) {
+          state.category = category;
+          state.categoryData = await loadCategory(category);
+          els.categorySelect.value = category.id;
+        }
+
+        selectBook(option.bookId);
+      }
+
+      function selectBook(bookId) {
+        const book = findBook(bookId);
+        if (!book) return;
+        state.book = book;
+        state.highlightSource = book.chatgptHighlights && book.chatgptHighlights.length ? "chatgpt" : "gemini";
+        renderBook(book);
+        setSelectedBookOption(state.category.id, book.id);
+      }
+
+      async function searchBooks() {
+        const query = normalize(els.searchInput.value);
+        if (!query) {
+          state.mode = "category";
+          state.searchQuery = "";
+          await selectCategory(els.categorySelect.value);
+          return;
+        }
+
+        const results = asArray(state.manifest.books).filter(function (book) {
+          return normalize(book.title).includes(query) || normalize(book.author).includes(query);
+        });
+
+        state.mode = "search";
+        state.searchQuery = els.searchInput.value.trim();
+        state.bookOptions = results.map(function (book) {
+          return optionFromBook(book, book.categoryId);
+        });
+        state.bookPage = 1;
+        renderBookOptionsPage();
+
+        if (!results.length) {
+          renderEmpty(`找不到「${state.searchQuery}」。`);
+          updateStats();
+          return;
+        }
+
+        const first = results[0];
+        await selectBookOption(makeOptionValue(first.categoryId, first.id));
+        els.statusText.textContent = `搜尋「${state.searchQuery}」找到 ${results.length} 筆，已顯示第一筆。`;
+        updateStats();
+      }
+
+      async function loadCategory(category) {
+        if (state.cache.has(category.id)) return state.cache.get(category.id);
+        const data = await loadJson(category.file);
+        state.cache.set(category.id, data);
+        return data;
+      }
+
+      async function loadJson(url) {
+        const response = await fetch(url, { cache: "no-store" });
+        if (!response.ok) throw new Error(`${url} 載入失敗：${response.status}`);
+        return response.json();
+      }
+
+      function populateCategories(categories) {
+        els.categorySelect.innerHTML = categories.map(function (category) {
+          return `<option value="${escapeAttr(category.id)}">${escapeHtml(category.label)}</option>`;
+        }).join("");
+      }
+
+      function renderBookOptionsPage() {
+        const total = state.bookOptions.length;
+        const totalPages = getTotalPages();
+        state.bookPage = Math.min(totalPages, Math.max(1, state.bookPage));
+        const start = (state.bookPage - 1) * pageSize;
+        const pageItems = state.bookOptions.slice(start, start + pageSize);
+
+        els.bookSelect.innerHTML = pageItems.map(function (book) {
+          const label = state.mode === "search" ? `${categoryLabel(book.categoryId)}｜${book.title}` : book.title;
+          return `<option value="${escapeAttr(makeOptionValue(book.categoryId, book.id))}">${escapeHtml(label)}</option>`;
+        }).join("");
+
+        els.bookSelect.disabled = !pageItems.length;
+        els.prevPageButton.disabled = state.bookPage <= 1 || totalPages <= 1;
+        els.nextPageButton.disabled = state.bookPage >= totalPages || totalPages <= 1;
+        els.pageInfo.textContent = `第 ${state.bookPage} / ${totalPages} 頁（${Math.min(pageSize, total || pageSize)} 筆/頁）`;
+      }
+
+      function jumpToOption(categoryId, bookId) {
+        const index = state.bookOptions.findIndex(function (book) {
+          return book.id === bookId && book.categoryId === categoryId;
+        });
+        if (index >= 0) {
+          state.bookPage = Math.floor(index / pageSize) + 1;
+          renderBookOptionsPage();
+        }
+        setSelectedBookOption(categoryId, bookId);
+      }
+
+      function setSelectedBookOption(categoryId, bookId) {
+        const value = makeOptionValue(categoryId, bookId);
+        const hasOption = Array.from(els.bookSelect.options).some(function (option) {
+          return option.value === value;
+        });
+        if (hasOption) els.bookSelect.value = value;
+      }
+
+      function renderBook(book) {
+        const chatgpt = asArray(book.chatgptHighlights);
+        const gemini = asArray(book.geminiHighlights);
+        const points = state.highlightSource === "gemini" ? gemini : chatgpt;
+        const sourceLabel = state.highlightSource === "gemini" ? "Gemini" : "ChatGPT";
+        const tags = asArray(book.tags);
+        const metaRows = [
+          ["作者", book.author],
+          ["主題", (state.categoryData && state.categoryData.categoryLabel) || ""],
+          ["來源", book.sourceName || "手動整理"],
+          ["更新", book.updatedAt || ""]
+        ].filter(function (row) { return row[1]; });
+
+        document.title = `${book.title} - 讀書後重點整理`;
+        if (state.mode !== "search") {
+          els.statusText.textContent = `${book.title}｜${book.author}`;
+        }
+        els.bookView.className = "book-view";
+        els.bookView.innerHTML = `
+          <aside class="book-side">
+            <div class="book-mark" aria-hidden="true"></div>
+            <div>
+              <h2>${escapeHtml(book.title)}</h2>
+              <p>${escapeHtml(book.author)}</p>
+            </div>
+            <div class="book-meta">
+              ${metaRows.map(function (row) {
+                return `<div class="meta-row"><span>${escapeHtml(row[0])}</span><div>${sourceLink(row[0], row[1], book.sourceUrl)}</div></div>`;
+              }).join("")}
+            </div>
+          </aside>
+          <div class="book-main">
+            <section class="summary-panel">
+              <h3 class="section-title">讀後摘要</h3>
+              <p>${escapeHtml(book.summary || "尚未填寫摘要。")}</p>
+              <div class="tag-row">${tags.map(function (tag) {
+                return `<span class="tag">${escapeHtml(tag)}</span>`;
+              }).join("")}</div>
+            </section>
+            <section class="source-panel">
+              <h3 class="section-title">整理狀態</h3>
+              <p>ChatGPT：${chatgpt.length} 個重點。Gemini：${gemini.length ? `${gemini.length} 個重點` : escapeHtml(book.geminiStatus || "待補齊")}。</p>
+            </section>
+            <section class="highlight-panel">
+              <h3 class="section-title">${escapeHtml(sourceLabel)}重點</h3>
+              <div class="source-tabs">
+                <button class="source-button" type="button" data-source="chatgpt" aria-pressed="${state.highlightSource === "chatgpt"}">ChatGPT ${chatgpt.length}</button>
+                <button class="source-button" type="button" data-source="gemini" aria-pressed="${state.highlightSource === "gemini"}" ${gemini.length ? "" : "disabled"}>Gemini ${gemini.length || "待補"}</button>
+              </div>
+              ${points.length ? `<div class="point-grid">${points.map(function (point) {
+                return `<article class="point-card">${escapeHtml(point)}</article>`;
+              }).join("")}</div>` : `<div class="pending">${escapeHtml(book.geminiStatus || "此版本尚未產出。")}</div>`}
+            </section>
+          </div>
+        `;
+
+        els.bookView.querySelectorAll(".source-button").forEach(function (button) {
+          button.addEventListener("click", function () {
+            state.highlightSource = button.dataset.source;
+            renderBook(book);
+          });
+        });
+        updateStats();
+      }
+
+      function sourceLink(label, value, href) {
+        if (label !== "來源" || !href) return escapeHtml(value);
+        return `<a href="${escapeAttr(href)}" target="_blank" rel="noopener noreferrer">${escapeHtml(value)}</a>`;
+      }
+
+      function renderEmpty(message) {
+        els.statusText.textContent = message;
+        els.bookView.className = "empty-state";
+        els.bookView.textContent = message;
+      }
+
+      function renderError(error) {
+        const message = error && error.message ? error.message : String(error);
+        els.statusText.textContent = "資料載入失敗。";
+        els.categoryStatus.textContent = "請用本機伺服器或 GitHub Pages 開啟";
+        els.bookView.className = "empty-state";
+        els.bookView.textContent = message;
+      }
+
+      function updateStats() {
+        const manifestCount = (state.manifest && state.manifest.totalBooks) || 0;
+        const currentCount = state.categoryData ? asArray(state.categoryData.books).length : 0;
+        els.bookCount.textContent = manifestCount || currentCount;
+        if (state.mode === "search") {
+          els.categoryStatus.textContent = `搜尋結果：${state.bookOptions.length} 筆`;
+        } else {
+          els.categoryStatus.textContent = state.category ? `${state.category.label}：${currentCount} 本` : "尚未選擇主題";
+        }
+      }
+
+      function updateScrollProgress() {
+        if (!els.progressBar) return;
+        const scrollTop = window.scrollY || document.documentElement.scrollTop;
+        const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+        const progress = docHeight > 0 ? scrollTop / docHeight * 100 : 0;
+        els.progressBar.style.width = `${Math.min(100, Math.max(0, progress))}%`;
+      }
+
+      function findCategory(id) {
+        return (state.manifest && asArray(state.manifest.categories).find(function (category) {
+          return category.id === id;
+        })) || null;
+      }
+
+      function findBook(id) {
+        return (state.categoryData && asArray(state.categoryData.books).find(function (book) {
+          return book.id === id;
+        })) || null;
+      }
+
+      function categoryLabel(categoryId) {
+        const category = findCategory(categoryId);
+        return category ? category.label : categoryId;
+      }
+
+      function optionFromBook(book, categoryId) {
+        return {
+          id: book.id,
+          title: book.title,
+          author: book.author,
+          categoryId: categoryId || book.categoryId
+        };
+      }
+
+      function makeOptionValue(categoryId, bookId) {
+        return `${categoryId || ""}::${bookId || ""}`;
+      }
+
+      function parseOptionValue(value) {
+        const parts = String(value || "").split("::");
+        return { categoryId: parts[0] || "", bookId: parts[1] || "" };
+      }
+
+      function getTotalPages() {
+        return Math.max(1, Math.ceil(state.bookOptions.length / pageSize));
+      }
+
+      function normalize(value) {
+        return String(value || "").trim().toLocaleLowerCase();
+      }
+
+      function asArray(value) {
+        return Array.isArray(value) ? value : [];
+      }
+
+      function escapeHtml(value) {
+        return String(value ?? "").replace(/[&<>"']/g, function (char) {
+          return {
+            "&": "&amp;",
+            "<": "&lt;",
+            ">": "&gt;",
+            "\"": "&quot;",
+            "'": "&#39;"
+          }[char];
+        });
+      }
+
+      function escapeAttr(value) {
+        return escapeHtml(value).replace(/\n/g, " ");
+      }
+    })();
+  </script>
+  <script src="bg.js" defer></script>
+  <script src="theme.js" defer></script>
+</body>
+</html>

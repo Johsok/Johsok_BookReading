@@ -1,0 +1,192 @@
+{
+  "version": "2026-07-08",
+  "title": "讀書後重點整理",
+  "recommendedStorage": "data.json 僅存索引；分類 JSON 存書籍重點；超過 1000 本時改為每本一個 JSON 並由 data.json 指向檔案路徑。",
+  "categories": [
+    {
+      "id": "01_business_startup",
+      "label": "01_商業創業",
+      "file": "01_business_startup.json",
+      "description": "商業、創業、投資、職涯與財務決策。"
+    },
+    {
+      "id": "02_psychology_growth",
+      "label": "02_心理勵志",
+      "file": "02_psychology_growth.json",
+      "description": "心理、習慣、情緒、人際與自我成長。"
+    },
+    {
+      "id": "03_natural_science",
+      "label": "03_自然科學",
+      "file": "03_natural_science.json",
+      "description": "宇宙、生命、物理、數學與科學思維。"
+    },
+    {
+      "id": "04_healthcare",
+      "label": "04_醫療保健",
+      "file": "04_healthcare.json",
+      "description": "醫療知識、身心健康、疾病預防與照護。"
+    },
+    {
+      "id": "05_food_wellness",
+      "label": "05_飲食養生",
+      "file": "05_food_wellness.json",
+      "description": "飲食、營養、運動、代謝與日常養生。"
+    },
+    {
+      "id": "06_computer_info",
+      "label": "06_電腦資訊",
+      "file": "06_computer_info.json",
+      "description": "程式、演算法、AI、資料、工作流與資訊科技。"
+    },
+    {
+      "id": "07_other",
+      "label": "07_其他",
+      "file": "07_other.json",
+      "description": "歷史、文化、生活、文學與無法歸入單一主題的書。"
+    }
+  ],
+  "books": [
+    {
+      "id": "navalmanack-deluxe",
+      "title": "納瓦爾寶典珍藏版：從白手起家到財務自由，矽谷傳奇創投家的投資哲學與人生智慧",
+      "author": "艾瑞克．喬根森",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "創業",
+        "投資",
+        "財務自由",
+        "人生策略"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003"
+    },
+    {
+      "id": "poor-charlies-almanack",
+      "title": "窮查理的普通常識（紀念典藏版）：巴菲特50年智慧合夥人查理．蒙格的人生哲學",
+      "author": "查理．蒙格",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "投資",
+        "心智模型",
+        "決策",
+        "商業判斷"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003"
+    },
+    {
+      "id": "atomic-habits",
+      "title": "原子習慣：細微改變帶來巨大成就的實證法則",
+      "author": "詹姆斯‧克利爾",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "習慣",
+        "自我管理",
+        "行為設計",
+        "成長"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006"
+    },
+    {
+      "id": "i-may-be-wrong",
+      "title": "我可能錯了：森林智者的最後一堂人生課",
+      "author": "比約恩．納提科．林德布勞、卡洛琳．班克勒、納維德．莫迪里",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "正念",
+        "謙遜",
+        "人生課",
+        "情緒"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006"
+    },
+    {
+      "id": "brief-history-of-time",
+      "title": "時間簡史：從大爆炸到黑洞",
+      "author": "史蒂芬．霍金",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "宇宙",
+        "物理",
+        "時間",
+        "黑洞"
+      ],
+      "sourceName": "科普暢銷經典",
+      "sourceUrl": "https://zh.wikipedia.org/wiki/%E6%99%82%E9%96%93%E7%B0%A1%E5%8F%B2"
+    },
+    {
+      "id": "rewire-neuroplasticity",
+      "title": "Rewire-神經可塑性：用神經科學突破行為模式迴圈，終結焦慮、恐慌和憂鬱，實現最佳的心理健康",
+      "author": "妮可．維諾拉",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "神經可塑性",
+        "心理健康",
+        "焦慮",
+        "行為模式"
+      ],
+      "sourceName": "博客來中文書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/"
+    },
+    {
+      "id": "carb-cycling",
+      "title": "碳水循環（新年瘦身特別版）：一輩子都瘦用的增肌減脂飲食法",
+      "author": "蕭捷健",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "減脂",
+        "代謝",
+        "運動"
+      ],
+      "sourceName": "博客來醫療保健暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/08/?loc=P_0002_009"
+    },
+    {
+      "id": "algorithm-python-visual",
+      "title": "演算法 圖解原理 x Python實作 x 創意應用 王者歸來（四版）",
+      "author": "洪錦魁",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "演算法",
+        "Python",
+        "資料結構",
+        "程式設計"
+      ],
+      "sourceName": "博客來電腦資訊暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/19/?loc=P_0002_021"
+    },
+    {
+      "id": "gemini-notebooklm-workflow",
+      "title": "Gemini 3 x NotebookLM領軍：Nano Banana Pro x Veo x Whisk x Flow x Gem - Google 多模態 AI 工作流",
+      "author": "洪錦魁",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "AI",
+        "Gemini",
+        "NotebookLM",
+        "多模態工作流"
+      ],
+      "sourceName": "博客來中文書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/"
+    },
+    {
+      "id": "young-taiwan-history",
+      "title": "少年臺灣史 二○一九年增訂版",
+      "author": "周婉窈",
+      "categoryId": "07_other",
+      "tags": [
+        "臺灣史",
+        "歷史",
+        "文化",
+        "通識"
+      ],
+      "sourceName": "博客來中文書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/"
+    }
+  ],
+  "totalBooks": 10
+}
