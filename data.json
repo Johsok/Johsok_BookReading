@@ -1,5 +1,5 @@
 {
-  "version": "2026-07-08",
+  "version": "2026-07-09",
   "title": "讀書後重點整理",
   "recommendedStorage": "data.json 僅存索引；分類 JSON 存書籍重點；超過 1000 本時改為每本一個 JSON 並由 data.json 指向檔案路徑。",
   "categories": [
@@ -186,7 +186,147 @@
       ],
       "sourceName": "博客來中文書暢銷榜",
       "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/"
+    },
+    {
+      "id": "taiwan-ai-future",
+      "title": "台灣AI大未來：解析最新的AI趨勢、台灣情勢、企業布局與個人發展",
+      "author": "簡立峰（Chien Lee-feng）、蕭玉品",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "AI",
+        "企業轉型",
+        "台灣產業",
+        "個人發展"
+      ],
+      "sourceName": "博客來商業理財新書榜／商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011030708"
+    },
+    {
+      "id": "homebuyer-guide-sway",
+      "title": "自住剛需購屋指南－限量贈品〖賞屋＋驗屋小指南〗：這才是人住的！20種爛格局大公開，Sway寫給你的買房護身符",
+      "author": "Sway",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "房地產",
+        "自住購屋",
+        "風險檢查",
+        "驗屋"
+      ],
+      "sourceName": "博客來商業理財新書榜／商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011034051"
+    },
+    {
+      "id": "why-nations-go-broke",
+      "title": "國家為什麼會破產：橋水基金應對大週期的原則",
+      "author": "瑞．達利歐",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "總體經濟",
+        "債務週期",
+        "投資風險",
+        "國際局勢"
+      ],
+      "sourceName": "博客來商業理財新書榜／商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011032886"
+    },
+    {
+      "id": "taiwan-tech-wave-makers",
+      "title": "科技造浪者：一部奇蹟般的台灣科技產業史，揭開全球都想知道的人脈網絡",
+      "author": "鄭芳芳",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "科技產業",
+        "台灣史",
+        "半導體",
+        "創新網絡"
+      ],
+      "sourceName": "博客來商業理財新書榜／商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011035300"
+    },
+    {
+      "id": "adult-learning-solo-leveling",
+      "title": "大人學獨自升級：真正的升級是擴大舒適圈〖職場終極奧義〗",
+      "author": "姚詩豪、張國洋",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "職涯成長",
+        "決策",
+        "心理韌性",
+        "行動策略"
+      ],
+      "sourceName": "博客來商業理財新書榜／商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011032114"
+    },
+    {
+      "id": "middle-passage-hollis",
+      "title": "中年之路：穿越幽暗，迎向完整的內在鍊金之旅",
+      "author": "詹姆斯．霍利斯",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "中年轉化",
+        "榮格心理學",
+        "自我探索",
+        "生命意義"
+      ],
+      "sourceName": "博客來心理勵志新書榜／商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0010990110"
+    },
+    {
+      "id": "non-reaction-practice",
+      "title": "不反應的練習：讓所有煩惱都消失，世界最強、最古老的心理訓練入門",
+      "author": "草薙龍瞬",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "情緒調節",
+        "正念",
+        "佛教心理學",
+        "自我覺察"
+      ],
+      "sourceName": "博客來心理勵志新書榜／商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0010989947"
+    },
+    {
+      "id": "not-want-die-end-pain",
+      "title": "我不是想死，我是想結束痛苦：人為什麼會自殺？從動機到行為的研究探索，溫柔而理性地全面了解自殺",
+      "author": "羅里‧奧康納",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "自殺防治",
+        "心理健康",
+        "汙名化",
+        "危機支持"
+      ],
+      "sourceName": "博客來心理勵志新書榜／商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0010990059"
+    },
+    {
+      "id": "manage-energy-not-time",
+      "title": "你該管理的是能量，而不是時間：徹底告別身心疲憊！用「能量管理」強化決策力，讓高效成為日常、心流穩定運轉",
+      "author": "韓善英",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "能量管理",
+        "時間管理",
+        "身心疲憊",
+        "專注"
+      ],
+      "sourceName": "博客來商業理財新書榜／商品頁（自我成長類，依內容歸心理勵志）",
+      "sourceUrl": "https://www.books.com.tw/products/0011033562"
+    },
+    {
+      "id": "reframe-thinking",
+      "title": "換框思維力：把OS轉成SO，不內耗不糾結，重啟人生只需改變視角",
+      "author": "賴婷婷",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "換框",
+        "思維彈性",
+        "自我成長",
+        "內耗管理"
+      ],
+      "sourceName": "博客來商業理財新書榜／商品頁（自我成長類，依內容歸心理勵志）",
+      "sourceUrl": "https://www.books.com.tw/products/0011031674"
     }
   ],
-  "totalBooks": 10
+  "totalBooks": 20
 }

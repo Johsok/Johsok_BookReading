@@ -249,7 +249,6 @@
       background: var(--app-card);
     }
     .summary-panel,
-    .source-panel,
     .highlight-panel {
       border: 1px solid var(--app-line);
       border-radius: var(--app-radius);
@@ -272,8 +271,7 @@
       height: 1px;
       background: var(--app-line);
     }
-    .summary-panel p,
-    .source-panel p {
+    .summary-panel p {
       margin: 0;
       color: var(--app-muted);
     }
@@ -719,7 +717,7 @@
         const chatgpt = asArray(book.chatgptHighlights);
         const gemini = asArray(book.geminiHighlights);
         const points = state.highlightSource === "gemini" ? gemini : chatgpt;
-        const sourceLabel = state.highlightSource === "gemini" ? "Gemini" : "ChatGPT";
+        const highlightTitle = state.highlightSource === "gemini" ? "Gemini重點" : "重點整理";
         const tags = asArray(book.tags);
         const metaRows = [
           ["作者", book.author],
@@ -756,12 +754,8 @@
                 return `<span class="tag">${escapeHtml(tag)}</span>`;
               }).join("")}</div>
             </section>
-            <section class="source-panel">
-              <h3 class="section-title">整理狀態</h3>
-              <p>ChatGPT：${chatgpt.length} 個重點。Gemini：${gemini.length ? `${gemini.length} 個重點` : escapeHtml(book.geminiStatus || "待補齊")}。</p>
-            </section>
             <section class="highlight-panel">
-              <h3 class="section-title">${escapeHtml(sourceLabel)}重點</h3>
+              <h3 class="section-title">${escapeHtml(highlightTitle)}</h3>
               <div class="source-tabs">
                 <button class="source-button" type="button" data-source="chatgpt" aria-pressed="${state.highlightSource === "chatgpt"}">ChatGPT ${chatgpt.length}</button>
                 <button class="source-button" type="button" data-source="gemini" aria-pressed="${state.highlightSource === "gemini"}" ${gemini.length ? "" : "disabled"}>Gemini ${gemini.length || "待補"}</button>
