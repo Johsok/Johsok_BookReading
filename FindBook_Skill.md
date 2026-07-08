@@ -56,12 +56,14 @@
 
 ## Gemini 重點
 
-1. 使用 MCP 操作使用者的 Chrome。
-2. 開啟 Gemini。
-3. 對同一本書輸入整理要求：請整理 100 個重點，格式為 `01、...` 到 `100、...`，不得引用大段原文。
-4. 取得 Gemini 回覆後，檢查是否剛好 100 點。
-5. 若不足或編號錯誤，要求 Gemini 補齊或重排。
-6. 將 Gemini 結果存入該書的 `geminiHighlights`。
+1. 使用 Codex 的 MCP 連接並操作使用者已登入 Gemini 的 Chrome。
+2. 進入 Gemini 頁面。
+3. 將該書的「書名 + 作者」丟給 Gemini，要求產出該書籍的 100 個重點整理。
+4. Gemini 提示詞需要求：格式為 `01、...` 到 `100、...`，不得引用大段原文，內容以高層次讀書筆記、核心觀念與可應用洞察為主。
+5. 取得 Gemini 回覆後，檢查是否剛好 100 點。
+6. 若不足、超過或編號錯誤，要求 Gemini 補齊、刪減或重排到剛好 100 點。
+7. 將 Gemini 結果寫回 `index.html` 會讀取的相關 JSON 中，存入該書的 `geminiHighlights`。
+8. 確認同一本書同時保留 `chatgptHighlights` 與 `geminiHighlights`，讓 `index.html` 可以同時顯示 ChatGPT 和 Gemini 的重點整理。
 
 ## 寫入 JSON
 

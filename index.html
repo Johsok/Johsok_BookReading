@@ -65,8 +65,9 @@
       z-index: 20;
       display: flex;
       flex-wrap: wrap;
-      justify-content: center;
-      gap: 8px;
+      align-items: center;
+      justify-content: flex-start;
+      gap: 6px;
       width: min(1180px, calc(100% - 20px));
       margin: 8px auto 0;
       padding: 6px;
@@ -78,26 +79,30 @@
     }
     .control-group {
       display: inline-grid;
-      grid-template-columns: auto minmax(128px, 1fr);
+      grid-template-columns: auto max-content;
       align-items: center;
       gap: 6px;
-      min-width: 210px;
-      padding: 4px 6px;
+      width: fit-content;
+      min-width: 0;
+      padding: 3px 5px;
       border: 1px solid rgba(0, 0, 0, .08);
       border-radius: 6px;
       background: rgba(255, 255, 255, .66);
     }
+    .fit-control select {
+      width: auto;
+      min-width: 0;
+      max-width: 28ch;
+      field-sizing: content;
+    }
     .book-control {
-      min-width: min(100%, 360px);
-      grid-template-columns: auto minmax(190px, 1fr);
+      grid-template-columns: auto minmax(220px, 1fr) auto auto auto;
+      flex: 1 1 440px;
+      min-width: min(100%, 430px);
     }
     .search-control {
-      min-width: min(100%, 390px);
-      grid-template-columns: auto minmax(170px, 1fr) auto auto;
-    }
-    .pager-control {
-      min-width: min(100%, 310px);
-      grid-template-columns: auto auto minmax(96px, 1fr) auto;
+      grid-template-columns: auto minmax(150px, 220px) auto;
+      min-width: 0;
     }
     .control-group label {
       color: var(--app-muted);
@@ -132,34 +137,39 @@
       cursor: pointer;
       white-space: nowrap;
     }
+    .page-button {
+      width: 28px;
+      padding: 0;
+      font-size: 18px;
+      line-height: 1;
+    }
     .control-button:disabled {
       cursor: not-allowed;
       opacity: .45;
     }
     .page-info {
+      min-width: 5.5ch;
       color: var(--app-muted);
       font-size: 12px;
       font-weight: 900;
       text-align: center;
       white-space: nowrap;
     }
+    .control-text-measure {
+      position: fixed;
+      top: -9999px;
+      left: -9999px;
+      visibility: hidden;
+      white-space: nowrap;
+      pointer-events: none;
+    }
     .book-shell {
       position: relative;
       z-index: 1;
       width: min(1180px, calc(100% - 24px));
       margin: 0 auto;
-      padding: 26px 0 52px;
+      padding: 14px 0 52px;
     }
-    .hero {
-      display: grid;
-      grid-template-columns: minmax(0, 1fr) 280px;
-      gap: 18px;
-      align-items: stretch;
-      min-height: 236px;
-      margin: 18px 0;
-    }
-    .hero-main,
-    .hero-stat,
     .book-view,
     .empty-state {
       border: 1px solid var(--app-line);
@@ -167,65 +177,30 @@
       background: var(--app-paper);
       box-shadow: var(--app-shadow);
     }
-    .hero-main {
-      display: grid;
-      align-content: end;
-      min-height: 236px;
-      padding: clamp(22px, 4vw, 42px);
-      overflow: hidden;
-    }
-    .eyebrow {
-      margin: 0 0 12px;
-      color: var(--app-accent);
-      font-size: 13px;
-      font-weight: 900;
-      text-transform: uppercase;
-    }
-    h1 {
-      margin: 0 0 12px;
-      font-size: clamp(2.1rem, 6vw, 5.3rem);
-      line-height: 1;
-      letter-spacing: 0;
-    }
-    .status-text {
-      max-width: 720px;
-      margin: 0;
-      color: var(--app-muted);
-      font-size: clamp(1rem, 2vw, 1.18rem);
-    }
-    .hero-stat {
-      display: grid;
-      align-content: space-between;
-      padding: 20px;
-      background:
-        linear-gradient(145deg, rgba(255,255,255,.72), rgba(255,255,255,.36)),
-        var(--app-soft);
-    }
-    .stat-number {
-      color: var(--app-accent);
-      font-size: clamp(3rem, 7vw, 5.4rem);
-      line-height: .9;
-      font-weight: 900;
-    }
-    .stat-label {
-      margin: 8px 0 0;
-      color: var(--app-muted);
-      font-weight: 800;
-    }
     .book-view {
       display: grid;
       grid-template-columns: 330px minmax(0, 1fr);
       gap: 0;
-      overflow: hidden;
+      overflow: visible;
     }
     .book-side {
-      display: grid;
-      gap: 16px;
-      align-content: start;
-      padding: 24px;
+      min-height: 100%;
       color: #fff;
+      border-radius: var(--app-radius) 0 0 var(--app-radius);
       background:
         linear-gradient(160deg, color-mix(in srgb, var(--app-accent), #111 14%), var(--app-accent-2));
+    }
+    .book-side-inner {
+      position: sticky;
+      top: 50vh;
+      display: grid;
+      align-content: center;
+      justify-items: center;
+      gap: 16px;
+      max-height: calc(100vh - 96px);
+      padding: 24px;
+      text-align: center;
+      transform: translateY(-50%);
     }
     .book-mark {
       width: 58px;
@@ -249,7 +224,9 @@
     .book-meta {
       display: grid;
       gap: 8px;
+      width: 100%;
       margin-top: 8px;
+      text-align: left;
     }
     .meta-row {
       display: grid;
@@ -268,6 +245,7 @@
       gap: 18px;
       align-content: start;
       padding: 24px;
+      border-radius: 0 var(--app-radius) var(--app-radius) 0;
       background: var(--app-card);
     }
     .summary-panel,
@@ -377,12 +355,21 @@
       place-items: center;
     }
     @media (max-width: 920px) {
-      .hero,
       .book-view {
         grid-template-columns: 1fr;
       }
       .book-side {
         min-height: 260px;
+        border-radius: var(--app-radius) var(--app-radius) 0 0;
+      }
+      .book-side-inner {
+        position: static;
+        max-height: none;
+        min-height: 260px;
+        transform: none;
+      }
+      .book-main {
+        border-radius: 0 0 var(--app-radius) var(--app-radius);
       }
       .point-grid {
         grid-template-columns: 1fr;
@@ -396,20 +383,38 @@
       }
       .control-group,
       .book-control,
-      .search-control,
-      .pager-control {
-        grid-template-columns: 1fr;
-        min-width: min(100%, 280px);
+      .search-control {
+        width: 100%;
+        min-width: 0;
+      }
+      .control-group {
+        grid-template-columns: auto minmax(0, 1fr);
+      }
+      .book-control {
+        grid-template-columns: auto minmax(0, 1fr) auto auto auto;
+      }
+      .search-control {
+        grid-template-columns: auto minmax(0, 1fr) auto;
       }
       .book-shell {
         width: min(100% - 14px, 560px);
         padding-top: 10px;
       }
-      .hero-main,
-      .hero-stat,
-      .book-side,
+      .book-side-inner,
       .book-main {
         padding: 18px;
+      }
+    }
+    @media (max-width: 520px) {
+      .book-control {
+        grid-template-columns: minmax(0, 1fr) auto auto auto;
+      }
+      .book-control label,
+      .search-control label {
+        grid-column: 1 / -1;
+      }
+      .search-control {
+        grid-template-columns: minmax(0, 1fr) auto;
       }
     }
     @media print {
@@ -438,53 +443,33 @@
   <div id="dynamicBackground" class="dynamic-bg" aria-hidden="true"></div>
 
   <div class="top-controls">
-    <div class="control-group">
+    <div class="control-group fit-control">
       <label for="themeSelect">風格</label>
       <select id="themeSelect" aria-label="風格"></select>
     </div>
-    <div class="control-group">
+    <div class="control-group fit-control">
       <label for="bgSelect">背景</label>
       <select id="bgSelect" aria-label="背景"></select>
     </div>
-    <div class="control-group">
+    <div class="control-group fit-control">
       <label for="categorySelect">主題</label>
       <select id="categorySelect" aria-label="主題"></select>
-    </div>
-    <div class="control-group book-control">
-      <label for="bookSelect">書名</label>
-      <select id="bookSelect" aria-label="書名"></select>
-    </div>
-    <div class="control-group pager-control">
-      <label>換頁</label>
-      <button id="prevPageButton" class="control-button" type="button">上一頁</button>
-      <span id="pageInfo" class="page-info">第 1 / 1 頁</span>
-      <button id="nextPageButton" class="control-button" type="button">下一頁</button>
     </div>
     <div class="control-group search-control">
       <label for="searchInput">搜尋</label>
       <input id="searchInput" type="search" placeholder="書名或作者關鍵字" autocomplete="off">
       <button id="searchButton" class="control-button" type="button">搜尋</button>
-      <button id="clearSearchButton" class="control-button" type="button">清除</button>
     </div>
-    <a class="tool-link" href="modifyData.html">編輯資料</a>
+    <div class="control-group book-control">
+      <label for="bookSelect">書名</label>
+      <select id="bookSelect" aria-label="書名"></select>
+      <button id="prevPageButton" class="control-button page-button" type="button" aria-label="上一頁">‹</button>
+      <span id="pageInfo" class="page-info">1/1 頁</span>
+      <button id="nextPageButton" class="control-button page-button" type="button" aria-label="下一頁">›</button>
+    </div>
   </div>
 
   <main class="book-shell">
-    <section class="hero" aria-labelledby="pageTitle">
-      <div class="hero-main">
-        <p class="eyebrow">Johsok Book Reading</p>
-        <h1 id="pageTitle">讀書後重點整理</h1>
-        <p id="statusText" class="status-text">正在載入書籍資料。</p>
-      </div>
-      <aside class="hero-stat">
-        <div>
-          <div id="bookCount" class="stat-number">0</div>
-          <p class="stat-label">本整理中</p>
-        </div>
-        <p id="categoryStatus" class="status-text">資料索引初始化中</p>
-      </aside>
-    </section>
-
     <section id="bookView" class="empty-state loading" aria-live="polite">載入中</section>
   </main>
 
@@ -508,6 +493,8 @@
       };
 
       const els = {
+        themeSelect: document.getElementById("themeSelect"),
+        bgSelect: document.getElementById("bgSelect"),
         categorySelect: document.getElementById("categorySelect"),
         bookSelect: document.getElementById("bookSelect"),
         prevPageButton: document.getElementById("prevPageButton"),
@@ -515,7 +502,6 @@
         pageInfo: document.getElementById("pageInfo"),
         searchInput: document.getElementById("searchInput"),
         searchButton: document.getElementById("searchButton"),
-        clearSearchButton: document.getElementById("clearSearchButton"),
         bookView: document.getElementById("bookView"),
         statusText: document.getElementById("statusText"),
         categoryStatus: document.getElementById("categoryStatus"),
@@ -539,6 +525,7 @@
           els.categorySelect.value = firstCategory.id;
           await selectCategory(firstCategory.id, params.get("book"));
           bindEvents();
+          fitCompactControls();
         } catch (error) {
           renderError(error);
         } finally {
@@ -547,6 +534,10 @@
       }
 
       function bindEvents() {
+        [els.themeSelect, els.bgSelect, els.categorySelect].forEach(function (select) {
+          if (select) select.addEventListener("change", fitCompactControls);
+        });
+
         els.categorySelect.addEventListener("change", function () {
           state.mode = "category";
           state.searchQuery = "";
@@ -573,13 +564,6 @@
 
         els.searchButton.addEventListener("click", function () {
           searchBooks().catch(renderError);
-        });
-
-        els.clearSearchButton.addEventListener("click", function () {
-          state.mode = "category";
-          state.searchQuery = "";
-          els.searchInput.value = "";
-          selectCategory(els.categorySelect.value).catch(renderError);
         });
 
         els.searchInput.addEventListener("keydown", function (event) {
@@ -670,7 +654,7 @@
 
         const first = results[0];
         await selectBookOption(makeOptionValue(first.categoryId, first.id));
-        els.statusText.textContent = `搜尋「${state.searchQuery}」找到 ${results.length} 筆，已顯示第一筆。`;
+        setStatus(`搜尋「${state.searchQuery}」找到 ${results.length} 筆，已顯示第一筆。`);
         updateStats();
       }
 
@@ -691,6 +675,7 @@
         els.categorySelect.innerHTML = categories.map(function (category) {
           return `<option value="${escapeAttr(category.id)}">${escapeHtml(category.label)}</option>`;
         }).join("");
+        fitCompactControls();
       }
 
       function renderBookOptionsPage() {
@@ -708,7 +693,7 @@
         els.bookSelect.disabled = !pageItems.length;
         els.prevPageButton.disabled = state.bookPage <= 1 || totalPages <= 1;
         els.nextPageButton.disabled = state.bookPage >= totalPages || totalPages <= 1;
-        els.pageInfo.textContent = `第 ${state.bookPage} / ${totalPages} 頁（${Math.min(pageSize, total || pageSize)} 筆/頁）`;
+        els.pageInfo.textContent = `${state.bookPage}/${totalPages} 頁`;
       }
 
       function jumpToOption(categoryId, bookId) {
@@ -745,20 +730,22 @@
 
         document.title = `${book.title} - 讀書後重點整理`;
         if (state.mode !== "search") {
-          els.statusText.textContent = `${book.title}｜${book.author}`;
+          setStatus(`${book.title}｜${book.author}`);
         }
         els.bookView.className = "book-view";
         els.bookView.innerHTML = `
           <aside class="book-side">
-            <div class="book-mark" aria-hidden="true"></div>
-            <div>
-              <h2>${escapeHtml(book.title)}</h2>
-              <p>${escapeHtml(book.author)}</p>
-            </div>
-            <div class="book-meta">
-              ${metaRows.map(function (row) {
-                return `<div class="meta-row"><span>${escapeHtml(row[0])}</span><div>${sourceLink(row[0], row[1], book.sourceUrl)}</div></div>`;
-              }).join("")}
+            <div class="book-side-inner">
+              <div class="book-mark" aria-hidden="true"></div>
+              <div>
+                <h2>${escapeHtml(book.title)}</h2>
+                <p>${escapeHtml(book.author)}</p>
+              </div>
+              <div class="book-meta">
+                ${metaRows.map(function (row) {
+                  return `<div class="meta-row"><span>${escapeHtml(row[0])}</span><div>${sourceLink(row[0], row[1], book.sourceUrl)}</div></div>`;
+                }).join("")}
+              </div>
             </div>
           </aside>
           <div class="book-main">
@@ -801,15 +788,15 @@
       }
 
       function renderEmpty(message) {
-        els.statusText.textContent = message;
+        setStatus(message);
         els.bookView.className = "empty-state";
         els.bookView.textContent = message;
       }
 
       function renderError(error) {
         const message = error && error.message ? error.message : String(error);
-        els.statusText.textContent = "資料載入失敗。";
-        els.categoryStatus.textContent = "請用本機伺服器或 GitHub Pages 開啟";
+        setStatus("資料載入失敗。");
+        if (els.categoryStatus) els.categoryStatus.textContent = "請用本機伺服器或 GitHub Pages 開啟";
         els.bookView.className = "empty-state";
         els.bookView.textContent = message;
       }
@@ -817,12 +804,47 @@
       function updateStats() {
         const manifestCount = (state.manifest && state.manifest.totalBooks) || 0;
         const currentCount = state.categoryData ? asArray(state.categoryData.books).length : 0;
-        els.bookCount.textContent = manifestCount || currentCount;
+        if (els.bookCount) els.bookCount.textContent = manifestCount || currentCount;
         if (state.mode === "search") {
-          els.categoryStatus.textContent = `搜尋結果：${state.bookOptions.length} 筆`;
+          if (els.categoryStatus) els.categoryStatus.textContent = `搜尋結果：${state.bookOptions.length} 筆`;
         } else {
-          els.categoryStatus.textContent = state.category ? `${state.category.label}：${currentCount} 本` : "尚未選擇主題";
+          if (els.categoryStatus) els.categoryStatus.textContent = state.category ? `${state.category.label}：${currentCount} 本` : "尚未選擇主題";
         }
+      }
+
+      function setStatus(message) {
+        if (els.statusText) els.statusText.textContent = message;
+      }
+
+      function fitCompactControls() {
+        [els.themeSelect, els.bgSelect, els.categorySelect].forEach(fitSelectToSelection);
+      }
+
+      function fitSelectToSelection(select) {
+        if (!select || !select.options || !select.options.length) return;
+        const option = select.options[select.selectedIndex] || select.options[0];
+        const measurer = getSelectMeasurer(select);
+        measurer.textContent = option ? option.textContent : "";
+        const textWidth = Math.ceil(measurer.getBoundingClientRect().width);
+        const style = window.getComputedStyle(select);
+        const padding = parseFloat(style.paddingLeft) + parseFloat(style.paddingRight);
+        const border = parseFloat(style.borderLeftWidth) + parseFloat(style.borderRightWidth);
+        const width = Math.min(320, Math.max(84, textWidth + padding + border + 34));
+        select.style.width = `${width}px`;
+      }
+
+      function getSelectMeasurer(select) {
+        let measurer = document.getElementById("controlTextMeasure");
+        if (!measurer) {
+          measurer = document.createElement("span");
+          measurer.id = "controlTextMeasure";
+          measurer.className = "control-text-measure";
+          document.body.appendChild(measurer);
+        }
+        const style = window.getComputedStyle(select);
+        measurer.style.font = style.font;
+        measurer.style.letterSpacing = style.letterSpacing;
+        return measurer;
       }
 
       function updateScrollProgress() {
