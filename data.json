@@ -16981,9 +16981,3229 @@
         "from": "2000-06-01",
         "to": "2026-07-09"
       }
+    },
+    {
+      "id": "01-20260709-c968a8b86c",
+      "title": "Good to Great",
+      "author": "Jim Collins",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Good%20to%20Great/cat/all"
+    },
+    {
+      "id": "01-20260709-029eb31f57",
+      "title": "Built to Last",
+      "author": "Jim Collins and Jerry I. Porras",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Built%20to%20Last/cat/all"
+    },
+    {
+      "id": "01-20260709-09ffc3621a",
+      "title": "Great by Choice",
+      "author": "Jim Collins and Morten T. Hansen",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Great%20by%20Choice/cat/all"
+    },
+    {
+      "id": "01-20260709-9568a1d923",
+      "title": "How the Mighty Fall",
+      "author": "Jim Collins",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/How%20the%20Mighty%20Fall/cat/all"
+    },
+    {
+      "id": "01-20260709-b1f31f3289",
+      "title": "The Innovator's Dilemma",
+      "author": "Clayton M. Christensen",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Innovator%27s%20Dilemma/cat/all"
+    },
+    {
+      "id": "01-20260709-bf24be037e",
+      "title": "The Innovator's Solution",
+      "author": "Clayton M. Christensen and Michael E. Raynor",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Innovator%27s%20Solution/cat/all"
+    },
+    {
+      "id": "01-20260709-93383ec385",
+      "title": "Crossing the Chasm",
+      "author": "Geoffrey A. Moore",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Crossing%20the%20Chasm/cat/all"
+    },
+    {
+      "id": "01-20260709-777cea393e",
+      "title": "Zero to One",
+      "author": "Peter Thiel and Blake Masters",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Zero%20to%20One/cat/all"
+    },
+    {
+      "id": "01-20260709-413f552641",
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Lean%20Startup/cat/all"
+    },
+    {
+      "id": "01-20260709-bcd831706a",
+      "title": "Business Model Generation",
+      "author": "Alexander Osterwalder and Yves Pigneur",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Business%20Model%20Generation/cat/all"
+    },
+    {
+      "id": "01-20260709-c258e110a3",
+      "title": "Value Proposition Design",
+      "author": "Alexander Osterwalder, Yves Pigneur, Greg Bernarda and Alan Smith",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Value%20Proposition%20Design/cat/all"
+    },
+    {
+      "id": "01-20260709-8f23c40df5",
+      "title": "Lean Analytics",
+      "author": "Alistair Croll and Benjamin Yoskovitz",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Lean%20Analytics/cat/all"
+    },
+    {
+      "id": "01-20260709-7b250f220a",
+      "title": "The Startup Owner's Manual",
+      "author": "Steve Blank and Bob Dorf",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Startup%20Owner%27s%20Manual/cat/all"
+    },
+    {
+      "id": "01-20260709-2cdaf8f181",
+      "title": "The Hard Thing About Hard Things",
+      "author": "Ben Horowitz",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Hard%20Thing%20About%20Hard%20Things/cat/all"
+    },
+    {
+      "id": "01-20260709-bf711200ec",
+      "title": "The E-Myth Revisited",
+      "author": "Michael E. Gerber",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20E-Myth%20Revisited/cat/all"
+    },
+    {
+      "id": "01-20260709-c6d94fbca0",
+      "title": "Rework",
+      "author": "Jason Fried and David Heinemeier Hansson",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Rework/cat/all"
+    },
+    {
+      "id": "01-20260709-26a95ad7eb",
+      "title": "Remote",
+      "author": "Jason Fried and David Heinemeier Hansson",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Remote/cat/all"
+    },
+    {
+      "id": "01-20260709-e83be906fd",
+      "title": "It Doesn't Have to Be Crazy at Work",
+      "author": "Jason Fried and David Heinemeier Hansson",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/It%20Doesn%27t%20Have%20to%20Be%20Crazy%20at%20Work/cat/all"
+    },
+    {
+      "id": "01-20260709-52a3664225",
+      "title": "Measure What Matters",
+      "author": "John Doerr",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Measure%20What%20Matters/cat/all"
+    },
+    {
+      "id": "01-20260709-dd0709e5d6",
+      "title": "High Output Management",
+      "author": "Andrew S. Grove",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/High%20Output%20Management/cat/all"
+    },
+    {
+      "id": "01-20260709-9c5b8f03bb",
+      "title": "Only the Paranoid Survive",
+      "author": "Andrew S. Grove",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Only%20the%20Paranoid%20Survive/cat/all"
+    },
+    {
+      "id": "01-20260709-c85230ee48",
+      "title": "The First 90 Days",
+      "author": "Michael D. Watkins",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20First%2090%20Days/cat/all"
+    },
+    {
+      "id": "01-20260709-49ab9c8e0f",
+      "title": "The Effective Executive",
+      "author": "Peter F. Drucker",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Effective%20Executive/cat/all"
+    },
+    {
+      "id": "01-20260709-806b2be12d",
+      "title": "Managing Oneself",
+      "author": "Peter F. Drucker",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Managing%20Oneself/cat/all"
+    },
+    {
+      "id": "01-20260709-3dae180851",
+      "title": "The Personal MBA",
+      "author": "Josh Kaufman",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Personal%20MBA/cat/all"
+    },
+    {
+      "id": "01-20260709-2ed59bc32d",
+      "title": "Blue Ocean Strategy",
+      "author": "W. Chan Kim and Renee Mauborgne",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Blue%20Ocean%20Strategy/cat/all"
+    },
+    {
+      "id": "01-20260709-f88e295be3",
+      "title": "Playing to Win",
+      "author": "A.G. Lafley and Roger L. Martin",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Playing%20to%20Win/cat/all"
+    },
+    {
+      "id": "01-20260709-aa30238803",
+      "title": "Good Strategy Bad Strategy",
+      "author": "Richard Rumelt",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Good%20Strategy%20Bad%20Strategy/cat/all"
+    },
+    {
+      "id": "01-20260709-dea15c4ce6",
+      "title": "The Goal",
+      "author": "Eliyahu M. Goldratt",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Goal/cat/all"
+    },
+    {
+      "id": "01-20260709-01525ed2fe",
+      "title": "The Toyota Way",
+      "author": "Jeffrey K. Liker",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Toyota%20Way/cat/all"
+    },
+    {
+      "id": "01-20260709-a95ed9969e",
+      "title": "Competitive Strategy",
+      "author": "Michael E. Porter",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Competitive%20Strategy/cat/all"
+    },
+    {
+      "id": "01-20260709-11fff4cfff",
+      "title": "Competitive Advantage",
+      "author": "Michael E. Porter",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Competitive%20Advantage/cat/all"
+    },
+    {
+      "id": "01-20260709-d1dea39283",
+      "title": "Principles",
+      "author": "Ray Dalio",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Principles/cat/all"
+    },
+    {
+      "id": "01-20260709-cc2d215a89",
+      "title": "Principles for Dealing with the Changing World Order",
+      "author": "Ray Dalio",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Principles%20for%20Dealing%20with%20the%20Changing%20World%20Order/cat/all"
+    },
+    {
+      "id": "01-20260709-8742013f92",
+      "title": "The Intelligent Investor",
+      "author": "Benjamin Graham",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Intelligent%20Investor/cat/all"
+    },
+    {
+      "id": "01-20260709-8d30d5b7e1",
+      "title": "Common Stocks and Uncommon Profits",
+      "author": "Philip A. Fisher",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Common%20Stocks%20and%20Uncommon%20Profits/cat/all"
+    },
+    {
+      "id": "01-20260709-79beb3e93c",
+      "title": "One Up On Wall Street",
+      "author": "Peter Lynch",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/One%20Up%20On%20Wall%20Street/cat/all"
+    },
+    {
+      "id": "01-20260709-4cab4120e2",
+      "title": "Beating the Street",
+      "author": "Peter Lynch",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Beating%20the%20Street/cat/all"
+    },
+    {
+      "id": "01-20260709-3fd740d5dd",
+      "title": "The Little Book That Still Beats the Market",
+      "author": "Joel Greenblatt",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Little%20Book%20That%20Still%20Beats%20the%20Market/cat/all"
+    },
+    {
+      "id": "01-20260709-ecb98720f9",
+      "title": "A Random Walk Down Wall Street",
+      "author": "Burton G. Malkiel",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/A%20Random%20Walk%20Down%20Wall%20Street/cat/all"
+    },
+    {
+      "id": "01-20260709-fd2a67201e",
+      "title": "The Four Pillars of Investing",
+      "author": "William J. Bernstein",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Four%20Pillars%20of%20Investing/cat/all"
+    },
+    {
+      "id": "01-20260709-1598fa71ac",
+      "title": "The Simple Path to Wealth",
+      "author": "JL Collins",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Simple%20Path%20to%20Wealth/cat/all"
+    },
+    {
+      "id": "01-20260709-13cdb6cb52",
+      "title": "Your Money or Your Life",
+      "author": "Vicki Robin and Joe Dominguez",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Your%20Money%20or%20Your%20Life/cat/all"
+    },
+    {
+      "id": "01-20260709-65a9c5c7fa",
+      "title": "I Will Teach You to Be Rich",
+      "author": "Ramit Sethi",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/I%20Will%20Teach%20You%20to%20Be%20Rich/cat/all"
+    },
+    {
+      "id": "01-20260709-1f0b27de50",
+      "title": "Pre-Suasion",
+      "author": "Robert Cialdini",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Pre-Suasion/cat/all"
+    },
+    {
+      "id": "01-20260709-66ac346827",
+      "title": "Never Split the Difference",
+      "author": "Chris Voss and Tahl Raz",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Never%20Split%20the%20Difference/cat/all"
+    },
+    {
+      "id": "01-20260709-c1a23a7f91",
+      "title": "SPIN Selling",
+      "author": "Neil Rackham",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/SPIN%20Selling/cat/all"
+    },
+    {
+      "id": "01-20260709-4152b9de27",
+      "title": "To Sell Is Human",
+      "author": "Daniel H. Pink",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/To%20Sell%20Is%20Human/cat/all"
+    },
+    {
+      "id": "01-20260709-598ed78cef",
+      "title": "Contagious",
+      "author": "Jonah Berger",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Contagious/cat/all"
+    },
+    {
+      "id": "01-20260709-8fb07c6d8c",
+      "title": "Made to Stick",
+      "author": "Chip Heath and Dan Heath",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "博客來中文書搜尋：01_商業創業",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Made%20to%20Stick/cat/all"
+    },
+    {
+      "id": "02-20260709-b7ba398cf2",
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Thinking%2C%20Fast%20and%20Slow/cat/all"
+    },
+    {
+      "id": "02-20260709-030d267883",
+      "title": "Flow",
+      "author": "Mihaly Csikszentmihalyi",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Flow/cat/all"
+    },
+    {
+      "id": "02-20260709-c670d6d91b",
+      "title": "Mindset",
+      "author": "Carol S. Dweck",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Mindset/cat/all"
+    },
+    {
+      "id": "02-20260709-36012a4892",
+      "title": "Grit",
+      "author": "Angela Duckworth",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Grit/cat/all"
+    },
+    {
+      "id": "02-20260709-d1d1daa8b0",
+      "title": "Drive",
+      "author": "Daniel H. Pink",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Drive/cat/all"
+    },
+    {
+      "id": "02-20260709-6ef0567f43",
+      "title": "Stumbling on Happiness",
+      "author": "Daniel Gilbert",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Stumbling%20on%20Happiness/cat/all"
+    },
+    {
+      "id": "02-20260709-7504ef1c53",
+      "title": "The Happiness Hypothesis",
+      "author": "Jonathan Haidt",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Happiness%20Hypothesis/cat/all"
+    },
+    {
+      "id": "02-20260709-f94105a7e4",
+      "title": "The Righteous Mind",
+      "author": "Jonathan Haidt",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Righteous%20Mind/cat/all"
+    },
+    {
+      "id": "02-20260709-8cfd381b13",
+      "title": "The Coddling of the American Mind",
+      "author": "Greg Lukianoff and Jonathan Haidt",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Coddling%20of%20the%20American%20Mind/cat/all"
+    },
+    {
+      "id": "02-20260709-a9ed663b63",
+      "title": "The Power of Habit",
+      "author": "Charles Duhigg",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Power%20of%20Habit/cat/all"
+    },
+    {
+      "id": "02-20260709-fa9deefdae",
+      "title": "Tiny Habits",
+      "author": "BJ Fogg",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Tiny%20Habits/cat/all"
+    },
+    {
+      "id": "02-20260709-748a4ee4df",
+      "title": "The Willpower Instinct",
+      "author": "Kelly McGonigal",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Willpower%20Instinct/cat/all"
+    },
+    {
+      "id": "02-20260709-db1e7d6ffb",
+      "title": "Emotional Intelligence",
+      "author": "Daniel Goleman",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Emotional%20Intelligence/cat/all"
+    },
+    {
+      "id": "02-20260709-a812c3ddaf",
+      "title": "Social Intelligence",
+      "author": "Daniel Goleman",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Social%20Intelligence/cat/all"
+    },
+    {
+      "id": "02-20260709-1a009417c2",
+      "title": "Man's Search for Meaning",
+      "author": "Viktor E. Frankl",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Man%27s%20Search%20for%20Meaning/cat/all"
+    },
+    {
+      "id": "02-20260709-72c0ba4219",
+      "title": "The Road Less Traveled",
+      "author": "M. Scott Peck",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Road%20Less%20Traveled/cat/all"
+    },
+    {
+      "id": "02-20260709-ec61eb79fe",
+      "title": "The Untethered Soul",
+      "author": "Michael A. Singer",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Untethered%20Soul/cat/all"
+    },
+    {
+      "id": "02-20260709-e2da252662",
+      "title": "Maybe You Should Talk to Someone",
+      "author": "Lori Gottlieb",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Maybe%20You%20Should%20Talk%20to%20Someone/cat/all"
+    },
+    {
+      "id": "02-20260709-d0075610f9",
+      "title": "Daring Greatly",
+      "author": "Brene Brown",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Daring%20Greatly/cat/all"
+    },
+    {
+      "id": "02-20260709-44f1d2da67",
+      "title": "Rising Strong",
+      "author": "Brene Brown",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Rising%20Strong/cat/all"
+    },
+    {
+      "id": "02-20260709-fc0b0cbcc4",
+      "title": "Atlas of the Heart",
+      "author": "Brene Brown",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Atlas%20of%20the%20Heart/cat/all"
+    },
+    {
+      "id": "02-20260709-efe4818113",
+      "title": "The Gifts of Imperfection",
+      "author": "Brene Brown",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Gifts%20of%20Imperfection/cat/all"
+    },
+    {
+      "id": "02-20260709-644b09f1c4",
+      "title": "Self-Compassion",
+      "author": "Kristin Neff",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Self-Compassion/cat/all"
+    },
+    {
+      "id": "02-20260709-f2c0b58ee8",
+      "title": "Wherever You Go, There You Are",
+      "author": "Jon Kabat-Zinn",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Wherever%20You%20Go%2C%20There%20You%20Are/cat/all"
+    },
+    {
+      "id": "02-20260709-df82f4bf28",
+      "title": "Full Catastrophe Living",
+      "author": "Jon Kabat-Zinn",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Full%20Catastrophe%20Living/cat/all"
+    },
+    {
+      "id": "02-20260709-009d543319",
+      "title": "Radical Acceptance",
+      "author": "Tara Brach",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Radical%20Acceptance/cat/all"
+    },
+    {
+      "id": "02-20260709-7942cde9c0",
+      "title": "The Confidence Gap",
+      "author": "Russ Harris",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Confidence%20Gap/cat/all"
+    },
+    {
+      "id": "02-20260709-1498766d0f",
+      "title": "The Happiness Trap",
+      "author": "Russ Harris",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Happiness%20Trap/cat/all"
+    },
+    {
+      "id": "02-20260709-8071339f23",
+      "title": "Learned Optimism",
+      "author": "Martin E.P. Seligman",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Learned%20Optimism/cat/all"
+    },
+    {
+      "id": "02-20260709-73ad3b4759",
+      "title": "Authentic Happiness",
+      "author": "Martin E.P. Seligman",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Authentic%20Happiness/cat/all"
+    },
+    {
+      "id": "02-20260709-2529416d52",
+      "title": "Flourish",
+      "author": "Martin E.P. Seligman",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Flourish/cat/all"
+    },
+    {
+      "id": "02-20260709-3f749ff470",
+      "title": "The Courage to Be Disliked",
+      "author": "Ichiro Kishimi and Fumitake Koga",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Courage%20to%20Be%20Disliked/cat/all"
+    },
+    {
+      "id": "02-20260709-6d2d90baa9",
+      "title": "The Courage to Be Happy",
+      "author": "Ichiro Kishimi and Fumitake Koga",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Courage%20to%20Be%20Happy/cat/all"
+    },
+    {
+      "id": "02-20260709-e0b65783c0",
+      "title": "Ikigai",
+      "author": "Hector Garcia and Francesc Miralles",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Ikigai/cat/all"
+    },
+    {
+      "id": "02-20260709-89951cec0d",
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Subtle%20Art%20of%20Not%20Giving%20a%20F%2Ack/cat/all"
+    },
+    {
+      "id": "02-20260709-0e977f98ff",
+      "title": "Everything Is F*cked",
+      "author": "Mark Manson",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Everything%20Is%20F%2Acked/cat/all"
+    },
+    {
+      "id": "02-20260709-7ca7e8f125",
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Deep%20Work/cat/all"
+    },
+    {
+      "id": "02-20260709-3146287d7e",
+      "title": "Digital Minimalism",
+      "author": "Cal Newport",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Digital%20Minimalism/cat/all"
+    },
+    {
+      "id": "02-20260709-3a7e0eddbe",
+      "title": "Four Thousand Weeks",
+      "author": "Oliver Burkeman",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Four%20Thousand%20Weeks/cat/all"
+    },
+    {
+      "id": "02-20260709-44c2d518cb",
+      "title": "Essentialism",
+      "author": "Greg McKeown",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Essentialism/cat/all"
+    },
+    {
+      "id": "02-20260709-49875d7797",
+      "title": "Effortless",
+      "author": "Greg McKeown",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Effortless/cat/all"
+    },
+    {
+      "id": "02-20260709-8a1d37d12c",
+      "title": "The ONE Thing",
+      "author": "Gary Keller and Jay Papasan",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20ONE%20Thing/cat/all"
+    },
+    {
+      "id": "02-20260709-98feedf2f0",
+      "title": "Getting Things Done",
+      "author": "David Allen",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Getting%20Things%20Done/cat/all"
+    },
+    {
+      "id": "02-20260709-fd59b995ea",
+      "title": "Eat That Frog!",
+      "author": "Brian Tracy",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Eat%20That%20Frog%21/cat/all"
+    },
+    {
+      "id": "02-20260709-f30fa9dc9e",
+      "title": "Nonviolent Communication",
+      "author": "Marshall B. Rosenberg",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Nonviolent%20Communication/cat/all"
+    },
+    {
+      "id": "02-20260709-7278e99397",
+      "title": "Crucial Conversations",
+      "author": "Kerry Patterson, Joseph Grenny, Ron McMillan and Al Switzler",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Crucial%20Conversations/cat/all"
+    },
+    {
+      "id": "02-20260709-ac8cfad3a4",
+      "title": "Difficult Conversations",
+      "author": "Douglas Stone, Bruce Patton and Sheila Heen",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Difficult%20Conversations/cat/all"
+    },
+    {
+      "id": "02-20260709-a56a47aa7f",
+      "title": "Designing Your Life",
+      "author": "Bill Burnett and Dave Evans",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Designing%20Your%20Life/cat/all"
+    },
+    {
+      "id": "02-20260709-812ea12646",
+      "title": "The Art of Possibility",
+      "author": "Rosamund Stone Zander and Benjamin Zander",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Art%20of%20Possibility/cat/all"
+    },
+    {
+      "id": "02-20260709-048171e292",
+      "title": "The Practicing Mind",
+      "author": "Thomas M. Sterner",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "自我成長",
+        "情緒",
+        "習慣",
+        "人際"
+      ],
+      "sourceName": "博客來中文書搜尋：02_心理勵志",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Practicing%20Mind/cat/all"
+    },
+    {
+      "id": "03-20260709-5ce64d62e1",
+      "title": "The Universe in a Nutshell",
+      "author": "Stephen Hawking",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Universe%20in%20a%20Nutshell/cat/all"
+    },
+    {
+      "id": "03-20260709-3134ac621e",
+      "title": "The Grand Design",
+      "author": "Stephen Hawking and Leonard Mlodinow",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Grand%20Design/cat/all"
+    },
+    {
+      "id": "03-20260709-a56758b75d",
+      "title": "A Briefer History of Time",
+      "author": "Stephen Hawking and Leonard Mlodinow",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/A%20Briefer%20History%20of%20Time/cat/all"
+    },
+    {
+      "id": "03-20260709-91538c250e",
+      "title": "Cosmos",
+      "author": "Carl Sagan",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Cosmos/cat/all"
+    },
+    {
+      "id": "03-20260709-86ccda0115",
+      "title": "Pale Blue Dot",
+      "author": "Carl Sagan",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Pale%20Blue%20Dot/cat/all"
+    },
+    {
+      "id": "03-20260709-580c302121",
+      "title": "The Demon-Haunted World",
+      "author": "Carl Sagan",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Demon-Haunted%20World/cat/all"
+    },
+    {
+      "id": "03-20260709-adac1a3735",
+      "title": "The Selfish Gene",
+      "author": "Richard Dawkins",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Selfish%20Gene/cat/all"
+    },
+    {
+      "id": "03-20260709-2d951bf1d3",
+      "title": "The Blind Watchmaker",
+      "author": "Richard Dawkins",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Blind%20Watchmaker/cat/all"
+    },
+    {
+      "id": "03-20260709-0fe51dacfe",
+      "title": "The Greatest Show on Earth",
+      "author": "Richard Dawkins",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Greatest%20Show%20on%20Earth/cat/all"
+    },
+    {
+      "id": "03-20260709-cad53d611c",
+      "title": "The Ancestor's Tale",
+      "author": "Richard Dawkins",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Ancestor%27s%20Tale/cat/all"
+    },
+    {
+      "id": "03-20260709-9f5c93459d",
+      "title": "The Double Helix",
+      "author": "James D. Watson",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Double%20Helix/cat/all"
+    },
+    {
+      "id": "03-20260709-018d8e53b1",
+      "title": "The Gene",
+      "author": "Siddhartha Mukherjee",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Gene/cat/all"
+    },
+    {
+      "id": "03-20260709-4d6cfb00a7",
+      "title": "The Song of the Cell",
+      "author": "Siddhartha Mukherjee",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Song%20of%20the%20Cell/cat/all"
+    },
+    {
+      "id": "03-20260709-004dccf372",
+      "title": "The Vital Question",
+      "author": "Nick Lane",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Vital%20Question/cat/all"
+    },
+    {
+      "id": "03-20260709-96ec6a2e95",
+      "title": "Power, Sex, Suicide",
+      "author": "Nick Lane",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Power%2C%20Sex%2C%20Suicide/cat/all"
+    },
+    {
+      "id": "03-20260709-361e36f2fc",
+      "title": "Your Inner Fish",
+      "author": "Neil Shubin",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Your%20Inner%20Fish/cat/all"
+    },
+    {
+      "id": "03-20260709-4da051a428",
+      "title": "Why Evolution Is True",
+      "author": "Jerry A. Coyne",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Why%20Evolution%20Is%20True/cat/all"
+    },
+    {
+      "id": "03-20260709-22cc110534",
+      "title": "Wonderful Life",
+      "author": "Stephen Jay Gould",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Wonderful%20Life/cat/all"
+    },
+    {
+      "id": "03-20260709-7a6adf2e58",
+      "title": "The Sixth Extinction",
+      "author": "Elizabeth Kolbert",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Sixth%20Extinction/cat/all"
+    },
+    {
+      "id": "03-20260709-eec26fcec0",
+      "title": "Under a White Sky",
+      "author": "Elizabeth Kolbert",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Under%20a%20White%20Sky/cat/all"
+    },
+    {
+      "id": "03-20260709-c181d91d46",
+      "title": "Silent Spring",
+      "author": "Rachel Carson",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Silent%20Spring/cat/all"
+    },
+    {
+      "id": "03-20260709-b8ebc41546",
+      "title": "The Hidden Life of Trees",
+      "author": "Peter Wohlleben",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Hidden%20Life%20of%20Trees/cat/all"
+    },
+    {
+      "id": "03-20260709-8d0dcecdcc",
+      "title": "Entangled Life",
+      "author": "Merlin Sheldrake",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Entangled%20Life/cat/all"
+    },
+    {
+      "id": "03-20260709-1ac0a4709f",
+      "title": "Other Minds",
+      "author": "Peter Godfrey-Smith",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Other%20Minds/cat/all"
+    },
+    {
+      "id": "03-20260709-fea9884359",
+      "title": "An Immense World",
+      "author": "Ed Yong",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/An%20Immense%20World/cat/all"
+    },
+    {
+      "id": "03-20260709-f4c434808f",
+      "title": "I Contain Multitudes",
+      "author": "Ed Yong",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/I%20Contain%20Multitudes/cat/all"
+    },
+    {
+      "id": "03-20260709-f93fd3a787",
+      "title": "The Soul of an Octopus",
+      "author": "Sy Montgomery",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Soul%20of%20an%20Octopus/cat/all"
+    },
+    {
+      "id": "03-20260709-863e0d8606",
+      "title": "Behave",
+      "author": "Robert M. Sapolsky",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Behave/cat/all"
+    },
+    {
+      "id": "03-20260709-0ca0a435eb",
+      "title": "A Primate's Memoir",
+      "author": "Robert M. Sapolsky",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/A%20Primate%27s%20Memoir/cat/all"
+    },
+    {
+      "id": "03-20260709-f46bf81491",
+      "title": "Surely You're Joking, Mr. Feynman!",
+      "author": "Richard P. Feynman",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Surely%20You%27re%20Joking%2C%20Mr.%20Feynman%21/cat/all"
+    },
+    {
+      "id": "03-20260709-1bb0eaa077",
+      "title": "Six Easy Pieces",
+      "author": "Richard P. Feynman",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Six%20Easy%20Pieces/cat/all"
+    },
+    {
+      "id": "03-20260709-699486c1d6",
+      "title": "QED",
+      "author": "Richard P. Feynman",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/QED/cat/all"
+    },
+    {
+      "id": "03-20260709-a8ba6e5100",
+      "title": "What If?",
+      "author": "Randall Munroe",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/What%20If%3F/cat/all"
+    },
+    {
+      "id": "03-20260709-8480d60dd5",
+      "title": "How To",
+      "author": "Randall Munroe",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/How%20To/cat/all"
+    },
+    {
+      "id": "03-20260709-7dda5510f8",
+      "title": "Thing Explainer",
+      "author": "Randall Munroe",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Thing%20Explainer/cat/all"
+    },
+    {
+      "id": "03-20260709-c98167ecdf",
+      "title": "The Disappearing Spoon",
+      "author": "Sam Kean",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Disappearing%20Spoon/cat/all"
+    },
+    {
+      "id": "03-20260709-d71c78e676",
+      "title": "Caesar's Last Breath",
+      "author": "Sam Kean",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Caesar%27s%20Last%20Breath/cat/all"
+    },
+    {
+      "id": "03-20260709-7be0c04e7a",
+      "title": "The Elegant Universe",
+      "author": "Brian Greene",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Elegant%20Universe/cat/all"
+    },
+    {
+      "id": "03-20260709-1840e72dd7",
+      "title": "The Fabric of the Cosmos",
+      "author": "Brian Greene",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Fabric%20of%20the%20Cosmos/cat/all"
+    },
+    {
+      "id": "03-20260709-0a886aec3e",
+      "title": "The Hidden Reality",
+      "author": "Brian Greene",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Hidden%20Reality/cat/all"
+    },
+    {
+      "id": "03-20260709-602db97d57",
+      "title": "The Order of Time",
+      "author": "Carlo Rovelli",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Order%20of%20Time/cat/all"
+    },
+    {
+      "id": "03-20260709-289ccf3cd4",
+      "title": "Reality Is Not What It Seems",
+      "author": "Carlo Rovelli",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Reality%20Is%20Not%20What%20It%20Seems/cat/all"
+    },
+    {
+      "id": "03-20260709-fd6d24adf7",
+      "title": "Seven Brief Lessons on Physics",
+      "author": "Carlo Rovelli",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Seven%20Brief%20Lessons%20on%20Physics/cat/all"
+    },
+    {
+      "id": "03-20260709-99f6d64057",
+      "title": "The Information",
+      "author": "James Gleick",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Information/cat/all"
+    },
+    {
+      "id": "03-20260709-9841598406",
+      "title": "Chaos",
+      "author": "James Gleick",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Chaos/cat/all"
+    },
+    {
+      "id": "03-20260709-19a588c9f8",
+      "title": "Fermat's Last Theorem",
+      "author": "Simon Singh",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Fermat%27s%20Last%20Theorem/cat/all"
+    },
+    {
+      "id": "03-20260709-73894fb47d",
+      "title": "The Code Book",
+      "author": "Simon Singh",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Code%20Book/cat/all"
+    },
+    {
+      "id": "03-20260709-522d95be87",
+      "title": "Longitude",
+      "author": "Dava Sobel",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Longitude/cat/all"
+    },
+    {
+      "id": "03-20260709-9fcdda48f0",
+      "title": "Spillover",
+      "author": "David Quammen",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Spillover/cat/all"
+    },
+    {
+      "id": "03-20260709-fe161d511a",
+      "title": "The Hot Zone",
+      "author": "Richard Preston",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科普",
+        "自然科學",
+        "數學",
+        "宇宙",
+        "生命",
+        "歷史"
+      ],
+      "sourceName": "博客來中文書搜尋：03_自然科學",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Hot%20Zone/cat/all"
+    },
+    {
+      "id": "04-20260709-4cfb6f9142",
+      "title": "Outlive",
+      "author": "Peter Attia and Bill Gifford",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "疾病預防",
+        "照護",
+        "身心健康",
+        "營養"
+      ],
+      "sourceName": "博客來中文書搜尋：04_醫療保健",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Outlive/cat/all"
+    },
+    {
+      "id": "04-20260709-4e5722bfa1",
+      "title": "Lifespan",
+      "author": "David A. Sinclair and Matthew D. LaPlante",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "疾病預防",
+        "照護",
+        "身心健康",
+        "營養"
+      ],
+      "sourceName": "博客來中文書搜尋：04_醫療保健",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Lifespan/cat/all"
+    },
+    {
+      "id": "04-20260709-0ddaf0a7a7",
+      "title": "Why We Sleep",
+      "author": "Matthew Walker",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "疾病預防",
+        "照護",
+        "身心健康",
+        "營養"
+      ],
+      "sourceName": "博客來中文書搜尋：04_醫療保健",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Why%20We%20Sleep/cat/all"
+    },
+    {
+      "id": "04-20260709-08acb37aef",
+      "title": "Breath",
+      "author": "James Nestor",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "疾病預防",
+        "照護",
+        "身心健康",
+        "營養"
+      ],
+      "sourceName": "博客來中文書搜尋：04_醫療保健",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Breath/cat/all"
+    },
+    {
+      "id": "04-20260709-5f24db79b7",
+      "title": "The Obesity Code",
+      "author": "Jason Fung",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "疾病預防",
+        "照護",
+        "身心健康",
+        "營養"
+      ],
+      "sourceName": "博客來中文書搜尋：04_醫療保健",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Obesity%20Code/cat/all"
+    },
+    {
+      "id": "04-20260709-6b553972a9",
+      "title": "The Diabetes Code",
+      "author": "Jason Fung",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "疾病預防",
+        "照護",
+        "身心健康",
+        "營養"
+      ],
+      "sourceName": "博客來中文書搜尋：04_醫療保健",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Diabetes%20Code/cat/all"
+    },
+    {
+      "id": "04-20260709-e63bfcff53",
+      "title": "How Not to Die",
+      "author": "Michael Greger and Gene Stone",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "疾病預防",
+        "照護",
+        "身心健康",
+        "營養"
+      ],
+      "sourceName": "博客來中文書搜尋：04_醫療保健",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/How%20Not%20to%20Die/cat/all"
+    },
+    {
+      "id": "04-20260709-1a8702b232",
+      "title": "How Not to Diet",
+      "author": "Michael Greger",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "疾病預防",
+        "照護",
+        "身心健康",
+        "營養"
+      ],
+      "sourceName": "博客來中文書搜尋：04_醫療保健",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/How%20Not%20to%20Diet/cat/all"
+    },
+    {
+      "id": "04-20260709-109cea9821",
+      "title": "The Blue Zones",
+      "author": "Dan Buettner",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "疾病預防",
+        "照護",
+        "身心健康",
+        "營養"
+      ],
+      "sourceName": "博客來中文書搜尋：04_醫療保健",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Blue%20Zones/cat/all"
+    },
+    {
+      "id": "04-20260709-808399a383",
+      "title": "The Telomere Effect",
+      "author": "Elizabeth Blackburn and Elissa Epel",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "疾病預防",
+        "照護",
+        "身心健康",
+        "營養"
+      ],
+      "sourceName": "博客來中文書搜尋：04_醫療保健",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Telomere%20Effect/cat/all"
+    },
+    {
+      "id": "04-20260709-654b0d0232",
+      "title": "Being Mortal",
+      "author": "Atul Gawande",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "疾病預防",
+        "照護",
+        "身心健康",
+        "營養"
+      ],
+      "sourceName": "博客來中文書搜尋：04_醫療保健",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Being%20Mortal/cat/all"
+    },
+    {
+      "id": "04-20260709-92e8bf11db",
+      "title": "When Breath Becomes Air",
+      "author": "Paul Kalanithi",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "疾病預防",
+        "照護",
+        "身心健康",
+        "營養"
+      ],
+      "sourceName": "博客來中文書搜尋：04_醫療保健",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/When%20Breath%20Becomes%20Air/cat/all"
+    },
+    {
+      "id": "04-20260709-e86d311d6b",
+      "title": "The Checklist Manifesto",
+      "author": "Atul Gawande",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "疾病預防",
+        "照護",
+        "身心健康",
+        "營養"
+      ],
+      "sourceName": "博客來中文書搜尋：04_醫療保健",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Checklist%20Manifesto/cat/all"
+    },
+    {
+      "id": "04-20260709-94e3c42811",
+      "title": "Complications",
+      "author": "Atul Gawande",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "疾病預防",
+        "照護",
+        "身心健康",
+        "營養"
+      ],
+      "sourceName": "博客來中文書搜尋：04_醫療保健",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Complications/cat/all"
+    },
+    {
+      "id": "04-20260709-b9c8b4c6d8",
+      "title": "Better",
+      "author": "Atul Gawande",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "疾病預防",
+        "照護",
+        "身心健康",
+        "營養"
+      ],
+      "sourceName": "博客來中文書搜尋：04_醫療保健",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Better/cat/all"
+    },
+    {
+      "id": "04-20260709-a46bde5b0c",
+      "title": "The Emperor of All Maladies",
+      "author": "Siddhartha Mukherjee",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "疾病預防",
+        "照護",
+        "身心健康",
+        "營養"
+      ],
+      "sourceName": "博客來中文書搜尋：04_醫療保健",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Emperor%20of%20All%20Maladies/cat/all"
+    },
+    {
+      "id": "04-20260709-65aebd28cc",
+      "title": "The Body Keeps the Score",
+      "author": "Bessel van der Kolk",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "疾病預防",
+        "照護",
+        "身心健康",
+        "營養"
+      ],
+      "sourceName": "博客來中文書搜尋：04_醫療保健",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Body%20Keeps%20the%20Score/cat/all"
+    },
+    {
+      "id": "04-20260709-23555ea189",
+      "title": "In the Realm of Hungry Ghosts",
+      "author": "Gabor Mate",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "疾病預防",
+        "照護",
+        "身心健康",
+        "營養"
+      ],
+      "sourceName": "博客來中文書搜尋：04_醫療保健",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/In%20the%20Realm%20of%20Hungry%20Ghosts/cat/all"
+    },
+    {
+      "id": "04-20260709-f80181434b",
+      "title": "Dopamine Nation",
+      "author": "Anna Lembke",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "疾病預防",
+        "照護",
+        "身心健康",
+        "營養"
+      ],
+      "sourceName": "博客來中文書搜尋：04_醫療保健",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Dopamine%20Nation/cat/all"
+    },
+    {
+      "id": "04-20260709-ec26fd8ccf",
+      "title": "The Myth of Normal",
+      "author": "Gabor Mate and Daniel Mate",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "疾病預防",
+        "照護",
+        "身心健康",
+        "營養"
+      ],
+      "sourceName": "博客來中文書搜尋：04_醫療保健",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Myth%20of%20Normal/cat/all"
+    },
+    {
+      "id": "05-20260709-2a34dc4f94",
+      "title": "Salt, Fat, Acid, Heat",
+      "author": "Samin Nosrat",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "料理",
+        "養生",
+        "代謝"
+      ],
+      "sourceName": "博客來中文書搜尋：05_飲食養生",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Salt%2C%20Fat%2C%20Acid%2C%20Heat/cat/all"
+    },
+    {
+      "id": "05-20260709-b77a417379",
+      "title": "Food Rules",
+      "author": "Michael Pollan",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "料理",
+        "養生",
+        "代謝"
+      ],
+      "sourceName": "博客來中文書搜尋：05_飲食養生",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Food%20Rules/cat/all"
+    },
+    {
+      "id": "05-20260709-99196cc1b3",
+      "title": "In Defense of Food",
+      "author": "Michael Pollan",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "料理",
+        "養生",
+        "代謝"
+      ],
+      "sourceName": "博客來中文書搜尋：05_飲食養生",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/In%20Defense%20of%20Food/cat/all"
+    },
+    {
+      "id": "05-20260709-40d09eff19",
+      "title": "The Omnivore's Dilemma",
+      "author": "Michael Pollan",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "料理",
+        "養生",
+        "代謝"
+      ],
+      "sourceName": "博客來中文書搜尋：05_飲食養生",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Omnivore%27s%20Dilemma/cat/all"
+    },
+    {
+      "id": "05-20260709-ccd1f28f7b",
+      "title": "The Blue Zones Kitchen",
+      "author": "Dan Buettner",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "料理",
+        "養生",
+        "代謝"
+      ],
+      "sourceName": "博客來中文書搜尋：05_飲食養生",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Blue%20Zones%20Kitchen/cat/all"
+    },
+    {
+      "id": "05-20260709-d25375d29e",
+      "title": "The Plant Paradox",
+      "author": "Steven R. Gundry",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "料理",
+        "養生",
+        "代謝"
+      ],
+      "sourceName": "博客來中文書搜尋：05_飲食養生",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Plant%20Paradox/cat/all"
+    },
+    {
+      "id": "05-20260709-5bf62fcf3c",
+      "title": "The Whole30",
+      "author": "Melissa Hartwig Urban and Dallas Hartwig",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "料理",
+        "養生",
+        "代謝"
+      ],
+      "sourceName": "博客來中文書搜尋：05_飲食養生",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Whole30/cat/all"
+    },
+    {
+      "id": "05-20260709-fbac10e41e",
+      "title": "The Food Lab",
+      "author": "J. Kenji Lopez-Alt",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "料理",
+        "養生",
+        "代謝"
+      ],
+      "sourceName": "博客來中文書搜尋：05_飲食養生",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Food%20Lab/cat/all"
+    },
+    {
+      "id": "05-20260709-5bc072a3e5",
+      "title": "Cooked",
+      "author": "Michael Pollan",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "料理",
+        "養生",
+        "代謝"
+      ],
+      "sourceName": "博客來中文書搜尋：05_飲食養生",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Cooked/cat/all"
+    },
+    {
+      "id": "05-20260709-6d61c0173a",
+      "title": "The Dorito Effect",
+      "author": "Mark Schatzker",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "料理",
+        "養生",
+        "代謝"
+      ],
+      "sourceName": "博客來中文書搜尋：05_飲食養生",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Dorito%20Effect/cat/all"
+    },
+    {
+      "id": "06-20260709-caa22a16f9",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "AI",
+        "程式",
+        "資料",
+        "軟體工具",
+        "資訊科技"
+      ],
+      "sourceName": "博客來中文書搜尋：06_電腦資訊",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Clean%20Code/cat/all"
+    },
+    {
+      "id": "06-20260709-66569f263c",
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt and David Thomas",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "AI",
+        "程式",
+        "資料",
+        "軟體工具",
+        "資訊科技"
+      ],
+      "sourceName": "博客來中文書搜尋：06_電腦資訊",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Pragmatic%20Programmer/cat/all"
+    },
+    {
+      "id": "06-20260709-d8b6a4752e",
+      "title": "Design Patterns",
+      "author": "Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "AI",
+        "程式",
+        "資料",
+        "軟體工具",
+        "資訊科技"
+      ],
+      "sourceName": "博客來中文書搜尋：06_電腦資訊",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Design%20Patterns/cat/all"
+    },
+    {
+      "id": "06-20260709-bb61de0eb8",
+      "title": "Refactoring",
+      "author": "Martin Fowler",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "AI",
+        "程式",
+        "資料",
+        "軟體工具",
+        "資訊科技"
+      ],
+      "sourceName": "博客來中文書搜尋：06_電腦資訊",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Refactoring/cat/all"
+    },
+    {
+      "id": "06-20260709-ac6c44085f",
+      "title": "Code Complete",
+      "author": "Steve McConnell",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "AI",
+        "程式",
+        "資料",
+        "軟體工具",
+        "資訊科技"
+      ],
+      "sourceName": "博客來中文書搜尋：06_電腦資訊",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Code%20Complete/cat/all"
+    },
+    {
+      "id": "06-20260709-6c97b66a8a",
+      "title": "The Mythical Man-Month",
+      "author": "Frederick P. Brooks Jr.",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "AI",
+        "程式",
+        "資料",
+        "軟體工具",
+        "資訊科技"
+      ],
+      "sourceName": "博客來中文書搜尋：06_電腦資訊",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Mythical%20Man-Month/cat/all"
+    },
+    {
+      "id": "06-20260709-f4aaad4b1c",
+      "title": "Structure and Interpretation of Computer Programs",
+      "author": "Harold Abelson and Gerald Jay Sussman",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "AI",
+        "程式",
+        "資料",
+        "軟體工具",
+        "資訊科技"
+      ],
+      "sourceName": "博客來中文書搜尋：06_電腦資訊",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Structure%20and%20Interpretation%20of%20Computer%20Programs/cat/all"
+    },
+    {
+      "id": "06-20260709-0002822725",
+      "title": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "AI",
+        "程式",
+        "資料",
+        "軟體工具",
+        "資訊科技"
+      ],
+      "sourceName": "博客來中文書搜尋：06_電腦資訊",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Introduction%20to%20Algorithms/cat/all"
+    },
+    {
+      "id": "06-20260709-c29d9f35ac",
+      "title": "Designing Data-Intensive Applications",
+      "author": "Martin Kleppmann",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "AI",
+        "程式",
+        "資料",
+        "軟體工具",
+        "資訊科技"
+      ],
+      "sourceName": "博客來中文書搜尋：06_電腦資訊",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Designing%20Data-Intensive%20Applications/cat/all"
+    },
+    {
+      "id": "06-20260709-805ab2a1ca",
+      "title": "Computer Systems: A Programmer's Perspective",
+      "author": "Randal E. Bryant and David R. O'Hallaron",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "AI",
+        "程式",
+        "資料",
+        "軟體工具",
+        "資訊科技"
+      ],
+      "sourceName": "博客來中文書搜尋：06_電腦資訊",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Computer%20Systems%3A%20A%20Programmer%27s%20Perspective/cat/all"
+    },
+    {
+      "id": "07-20260709-bb16f993d7",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "文化",
+        "社會",
+        "生活",
+        "通識"
+      ],
+      "sourceName": "博客來中文書搜尋：07_其他",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Sapiens/cat/all"
+    },
+    {
+      "id": "07-20260709-d01fafcf16",
+      "title": "Homo Deus",
+      "author": "Yuval Noah Harari",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "文化",
+        "社會",
+        "生活",
+        "通識"
+      ],
+      "sourceName": "博客來中文書搜尋：07_其他",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Homo%20Deus/cat/all"
+    },
+    {
+      "id": "07-20260709-24cf5706fc",
+      "title": "21 Lessons for the 21st Century",
+      "author": "Yuval Noah Harari",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "文化",
+        "社會",
+        "生活",
+        "通識"
+      ],
+      "sourceName": "博客來中文書搜尋：07_其他",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/21%20Lessons%20for%20the%2021st%20Century/cat/all"
+    },
+    {
+      "id": "07-20260709-d549e6a219",
+      "title": "Guns, Germs, and Steel",
+      "author": "Jared Diamond",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "文化",
+        "社會",
+        "生活",
+        "通識"
+      ],
+      "sourceName": "博客來中文書搜尋：07_其他",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Guns%2C%20Germs%2C%20and%20Steel/cat/all"
+    },
+    {
+      "id": "07-20260709-0fdd37b17a",
+      "title": "Collapse",
+      "author": "Jared Diamond",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "文化",
+        "社會",
+        "生活",
+        "通識"
+      ],
+      "sourceName": "博客來中文書搜尋：07_其他",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Collapse/cat/all"
+    },
+    {
+      "id": "07-20260709-57e612705f",
+      "title": "The Silk Roads",
+      "author": "Peter Frankopan",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "文化",
+        "社會",
+        "生活",
+        "通識"
+      ],
+      "sourceName": "博客來中文書搜尋：07_其他",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Silk%20Roads/cat/all"
+    },
+    {
+      "id": "07-20260709-a38ca4981a",
+      "title": "The Lessons of History",
+      "author": "Will Durant and Ariel Durant",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "文化",
+        "社會",
+        "生活",
+        "通識"
+      ],
+      "sourceName": "博客來中文書搜尋：07_其他",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Lessons%20of%20History/cat/all"
+    },
+    {
+      "id": "07-20260709-ca0522f744",
+      "title": "A People's History of the United States",
+      "author": "Howard Zinn",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "文化",
+        "社會",
+        "生活",
+        "通識"
+      ],
+      "sourceName": "博客來中文書搜尋：07_其他",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/A%20People%27s%20History%20of%20the%20United%20States/cat/all"
+    },
+    {
+      "id": "07-20260709-9af873461d",
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "文化",
+        "社會",
+        "生活",
+        "通識"
+      ],
+      "sourceName": "博客來中文書搜尋：07_其他",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Art%20of%20War/cat/all"
+    },
+    {
+      "id": "07-20260709-f4647cf06a",
+      "title": "The Prince",
+      "author": "Niccolo Machiavelli",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "文化",
+        "社會",
+        "生活",
+        "通識"
+      ],
+      "sourceName": "博客來中文書搜尋：07_其他",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Prince/cat/all"
+    },
+    {
+      "id": "07-20260709-58028e8fde",
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "文化",
+        "社會",
+        "生活",
+        "通識"
+      ],
+      "sourceName": "博客來中文書搜尋：07_其他",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Meditations/cat/all"
+    },
+    {
+      "id": "07-20260709-2ae439f877",
+      "title": "Letters from a Stoic",
+      "author": "Seneca",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "文化",
+        "社會",
+        "生活",
+        "通識"
+      ],
+      "sourceName": "博客來中文書搜尋：07_其他",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Letters%20from%20a%20Stoic/cat/all"
+    },
+    {
+      "id": "07-20260709-30707f3762",
+      "title": "The Republic",
+      "author": "Plato",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "文化",
+        "社會",
+        "生活",
+        "通識"
+      ],
+      "sourceName": "博客來中文書搜尋：07_其他",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Republic/cat/all"
+    },
+    {
+      "id": "07-20260709-a37a3e2333",
+      "title": "The Hero with a Thousand Faces",
+      "author": "Joseph Campbell",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "文化",
+        "社會",
+        "生活",
+        "通識"
+      ],
+      "sourceName": "博客來中文書搜尋：07_其他",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Hero%20with%20a%20Thousand%20Faces/cat/all"
+    },
+    {
+      "id": "07-20260709-19b0a1af0d",
+      "title": "The Power of Myth",
+      "author": "Joseph Campbell and Bill Moyers",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "文化",
+        "社會",
+        "生活",
+        "通識"
+      ],
+      "sourceName": "博客來中文書搜尋：07_其他",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Power%20of%20Myth/cat/all"
+    },
+    {
+      "id": "07-20260709-db476c025b",
+      "title": "Orientalism",
+      "author": "Edward W. Said",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "文化",
+        "社會",
+        "生活",
+        "通識"
+      ],
+      "sourceName": "博客來中文書搜尋：07_其他",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/Orientalism/cat/all"
+    },
+    {
+      "id": "07-20260709-6819b3a6fd",
+      "title": "The Great Transformation",
+      "author": "Karl Polanyi",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "文化",
+        "社會",
+        "生活",
+        "通識"
+      ],
+      "sourceName": "博客來中文書搜尋：07_其他",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Great%20Transformation/cat/all"
+    },
+    {
+      "id": "07-20260709-6fa0e46560",
+      "title": "The WEIRDest People in the World",
+      "author": "Joseph Henrich",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "文化",
+        "社會",
+        "生活",
+        "通識"
+      ],
+      "sourceName": "博客來中文書搜尋：07_其他",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20WEIRDest%20People%20in%20the%20World/cat/all"
+    },
+    {
+      "id": "07-20260709-ae205c8879",
+      "title": "The Culture Map",
+      "author": "Erin Meyer",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "文化",
+        "社會",
+        "生活",
+        "通識"
+      ],
+      "sourceName": "博客來中文書搜尋：07_其他",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Culture%20Map/cat/all"
+    },
+    {
+      "id": "07-20260709-9ecec46482",
+      "title": "The Story of Art",
+      "author": "E. H. Gombrich",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "文化",
+        "社會",
+        "生活",
+        "通識"
+      ],
+      "sourceName": "博客來中文書搜尋：07_其他",
+      "sourceUrl": "https://search.books.com.tw/search/query/key/The%20Story%20of%20Art/cat/all"
     }
   ],
-  "totalBooks": 840,
+  "totalBooks": 1050,
   "searchDateRange": {
     "from": "2000-06-01",
     "to": "2026-07-09"
