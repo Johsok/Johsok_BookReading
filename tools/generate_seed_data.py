@@ -309,8 +309,8 @@ def make_chatgpt_points(book: dict) -> list[str]:
     points: list[str] = []
     anchors = book["anchors"]
     for anchor in anchors:
-        for label, template in POINT_TEMPLATES:
-            points.append(f"{label}：{template.format(anchor=anchor)}")
+        for _, template in POINT_TEMPLATES:
+            points.append(template.format(anchor=anchor))
 
     for index, lens in enumerate(EXTRA_LENSES):
         anchor = anchors[index % len(anchors)]

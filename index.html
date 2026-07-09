@@ -248,7 +248,6 @@
       border-radius: 0 var(--app-radius) var(--app-radius) 0;
       background: var(--app-card);
     }
-    .summary-panel,
     .highlight-panel {
       border: 1px solid var(--app-line);
       border-radius: var(--app-radius);
@@ -270,28 +269,6 @@
       flex: 1;
       height: 1px;
       background: var(--app-line);
-    }
-    .summary-panel p {
-      margin: 0;
-      color: var(--app-muted);
-    }
-    .tag-row {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-      margin-top: 14px;
-    }
-    .tag {
-      display: inline-flex;
-      align-items: center;
-      min-height: 28px;
-      padding: 4px 10px;
-      border: 1px solid var(--app-line);
-      border-radius: 999px;
-      background: var(--app-soft);
-      color: var(--app-ink);
-      font-size: 13px;
-      font-weight: 800;
     }
     .source-tabs {
       display: flex;
@@ -717,13 +694,9 @@
         const chatgpt = asArray(book.chatgptHighlights);
         const gemini = asArray(book.geminiHighlights);
         const points = state.highlightSource === "gemini" ? gemini : chatgpt;
-        const highlightTitle = state.highlightSource === "gemini" ? "Gemini重點" : "重點整理";
-        const tags = asArray(book.tags);
+        const highlightTitle = state.highlightSource === "gemini" ? "Gemini重點" : "GhatGPT重點";
         const metaRows = [
-          ["作者", book.author],
-          ["主題", (state.categoryData && state.categoryData.categoryLabel) || ""],
-          ["來源", book.sourceName || "手動整理"],
-          ["更新", book.updatedAt || ""]
+          ["作者", book.author]
         ].filter(function (row) { return row[1]; });
 
         document.title = `${book.title} - 讀書後重點整理`;
@@ -747,13 +720,6 @@
             </div>
           </aside>
           <div class="book-main">
-            <section class="summary-panel">
-              <h3 class="section-title">讀後摘要</h3>
-              <p>${escapeHtml(book.summary || "尚未填寫摘要。")}</p>
-              <div class="tag-row">${tags.map(function (tag) {
-                return `<span class="tag">${escapeHtml(tag)}</span>`;
-              }).join("")}</div>
-            </section>
             <section class="highlight-panel">
               <h3 class="section-title">${escapeHtml(highlightTitle)}</h3>
               <div class="source-tabs">

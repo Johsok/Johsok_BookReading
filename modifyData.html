@@ -567,8 +567,30 @@
           if (!Array.isArray(book.geminiHighlights)) {
             return { ok: false, message: `${book.title} 缺少 geminiHighlights 陣列。` };
           }
+          const chatgptInvalid = findInvalidHighlightPrefix(book.chatgptHighlights);
+          if (chatgptInvalid) {
+            return { ok: false, message: `${book.title} 的 chatgptHighlights ${chatgptInvalid}` };
+          }
+          const geminiInvalid = findInvalidHighlightPrefix(book.geminiHighlights);
+          if (geminiInvalid) {
+            return { ok: false, message: `${book.title} 的 geminiHighlights ${geminiInvalid}` };
+          }
         }
         return { ok: true, message: `驗證完成：${data.books.length} 本書。` };
+      }
+
+      function findInvalidHighlightPrefix(highlights) {
+        const shortLabelPattern = /^\d{2}、[^：]{1,12}：/;
+        for (let index = 0; index < highlights.length; index += 1) {
+          const text = String(highlights[index] ?? "");
+          if (text.includes("｜")) {
+            return `第 ${index + 1} 點含有「｜」綴字。`;
+          }
+          if (shortLabelPattern.test(text)) {
+            return `第 ${index + 1} 點使用短標籤加冒號。`;
+          }
+        }
+        return "";
       }
 
       function showError(error) {
