@@ -59,7 +59,12 @@
         "人生策略"
       ],
       "sourceName": "博客來商業理財暢銷榜",
-      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003"
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "既有資料未保留逐本來源日期；本次依指定日期區間補入 metadata：來源未提供明確日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
     },
     {
       "id": "poor-charlies-almanack",
@@ -73,7 +78,12 @@
         "商業判斷"
       ],
       "sourceName": "博客來商業理財暢銷榜",
-      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003"
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "既有資料未保留逐本來源日期；本次依指定日期區間補入 metadata：來源未提供明確日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
     },
     {
       "id": "atomic-habits",
@@ -87,7 +97,12 @@
         "成長"
       ],
       "sourceName": "博客來心理勵志暢銷榜",
-      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006"
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "既有資料未保留逐本來源日期；本次依指定日期區間補入 metadata：來源未提供明確日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
     },
     {
       "id": "i-may-be-wrong",
@@ -101,7 +116,12 @@
         "情緒"
       ],
       "sourceName": "博客來心理勵志暢銷榜",
-      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006"
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "既有資料未保留逐本來源日期；本次依指定日期區間補入 metadata：來源未提供明確日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
     },
     {
       "id": "brief-history-of-time",
@@ -115,7 +135,12 @@
         "黑洞"
       ],
       "sourceName": "科普暢銷經典",
-      "sourceUrl": "https://zh.wikipedia.org/wiki/%E6%99%82%E9%96%93%E7%B0%A1%E5%8F%B2"
+      "sourceUrl": "https://zh.wikipedia.org/wiki/%E6%99%82%E9%96%93%E7%B0%A1%E5%8F%B2",
+      "sourceDateNote": "既有資料未保留逐本來源日期；本次依指定日期區間補入 metadata：來源未提供明確日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
     },
     {
       "id": "rewire-neuroplasticity",
@@ -129,7 +154,12 @@
         "行為模式"
       ],
       "sourceName": "博客來中文書暢銷榜",
-      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/"
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/",
+      "sourceDateNote": "既有資料未保留逐本來源日期；本次依指定日期區間補入 metadata：來源未提供明確日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
     },
     {
       "id": "carb-cycling",
@@ -143,7 +173,12 @@
         "運動"
       ],
       "sourceName": "博客來醫療保健暢銷榜",
-      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/08/?loc=P_0002_009"
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/08/?loc=P_0002_009",
+      "sourceDateNote": "既有資料未保留逐本來源日期；本次依指定日期區間補入 metadata：來源未提供明確日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
     },
     {
       "id": "algorithm-python-visual",
@@ -157,7 +192,12 @@
         "程式設計"
       ],
       "sourceName": "博客來電腦資訊暢銷榜",
-      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/19/?loc=P_0002_021"
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/19/?loc=P_0002_021",
+      "sourceDateNote": "既有資料未保留逐本來源日期；本次依指定日期區間補入 metadata：來源未提供明確日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
     },
     {
       "id": "gemini-notebooklm-workflow",
@@ -171,7 +211,12 @@
         "多模態工作流"
       ],
       "sourceName": "博客來中文書暢銷榜",
-      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/"
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/",
+      "sourceDateNote": "既有資料未保留逐本來源日期；本次依指定日期區間補入 metadata：來源未提供明確日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
     },
     {
       "id": "young-taiwan-history",
@@ -185,7 +230,12 @@
         "通識"
       ],
       "sourceName": "博客來中文書暢銷榜",
-      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/"
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/",
+      "sourceDateNote": "既有資料未保留逐本來源日期；本次依指定日期區間補入 metadata：來源未提供明確日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
     },
     {
       "id": "taiwan-ai-future",
@@ -199,7 +249,12 @@
         "個人發展"
       ],
       "sourceName": "博客來商業理財新書榜／商品頁",
-      "sourceUrl": "https://www.books.com.tw/products/0011030708"
+      "sourceUrl": "https://www.books.com.tw/products/0011030708",
+      "sourceDateNote": "既有資料未保留逐本來源日期；本次依指定日期區間補入 metadata：來源未提供明確日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
     },
     {
       "id": "homebuyer-guide-sway",
@@ -213,7 +268,12 @@
         "驗屋"
       ],
       "sourceName": "博客來商業理財新書榜／商品頁",
-      "sourceUrl": "https://www.books.com.tw/products/0011034051"
+      "sourceUrl": "https://www.books.com.tw/products/0011034051",
+      "sourceDateNote": "既有資料未保留逐本來源日期；本次依指定日期區間補入 metadata：來源未提供明確日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
     },
     {
       "id": "why-nations-go-broke",
@@ -227,7 +287,12 @@
         "國際局勢"
       ],
       "sourceName": "博客來商業理財新書榜／商品頁",
-      "sourceUrl": "https://www.books.com.tw/products/0011032886"
+      "sourceUrl": "https://www.books.com.tw/products/0011032886",
+      "sourceDateNote": "既有資料未保留逐本來源日期；本次依指定日期區間補入 metadata：來源未提供明確日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
     },
     {
       "id": "taiwan-tech-wave-makers",
@@ -241,7 +306,12 @@
         "創新網絡"
       ],
       "sourceName": "博客來商業理財新書榜／商品頁",
-      "sourceUrl": "https://www.books.com.tw/products/0011035300"
+      "sourceUrl": "https://www.books.com.tw/products/0011035300",
+      "sourceDateNote": "既有資料未保留逐本來源日期；本次依指定日期區間補入 metadata：來源未提供明確日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
     },
     {
       "id": "adult-learning-solo-leveling",
@@ -255,7 +325,12 @@
         "行動策略"
       ],
       "sourceName": "博客來商業理財新書榜／商品頁",
-      "sourceUrl": "https://www.books.com.tw/products/0011032114"
+      "sourceUrl": "https://www.books.com.tw/products/0011032114",
+      "sourceDateNote": "既有資料未保留逐本來源日期；本次依指定日期區間補入 metadata：來源未提供明確日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
     },
     {
       "id": "middle-passage-hollis",
@@ -269,7 +344,12 @@
         "生命意義"
       ],
       "sourceName": "博客來心理勵志新書榜／商品頁",
-      "sourceUrl": "https://www.books.com.tw/products/0010990110"
+      "sourceUrl": "https://www.books.com.tw/products/0010990110",
+      "sourceDateNote": "既有資料未保留逐本來源日期；本次依指定日期區間補入 metadata：來源未提供明確日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
     },
     {
       "id": "non-reaction-practice",
@@ -283,7 +363,12 @@
         "自我覺察"
       ],
       "sourceName": "博客來心理勵志新書榜／商品頁",
-      "sourceUrl": "https://www.books.com.tw/products/0010989947"
+      "sourceUrl": "https://www.books.com.tw/products/0010989947",
+      "sourceDateNote": "既有資料未保留逐本來源日期；本次依指定日期區間補入 metadata：來源未提供明確日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
     },
     {
       "id": "not-want-die-end-pain",
@@ -297,7 +382,12 @@
         "危機支持"
       ],
       "sourceName": "博客來心理勵志新書榜／商品頁",
-      "sourceUrl": "https://www.books.com.tw/products/0010990059"
+      "sourceUrl": "https://www.books.com.tw/products/0010990059",
+      "sourceDateNote": "既有資料未保留逐本來源日期；本次依指定日期區間補入 metadata：來源未提供明確日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
     },
     {
       "id": "manage-energy-not-time",
@@ -311,7 +401,12 @@
         "專注"
       ],
       "sourceName": "博客來商業理財新書榜／商品頁（自我成長類，依內容歸心理勵志）",
-      "sourceUrl": "https://www.books.com.tw/products/0011033562"
+      "sourceUrl": "https://www.books.com.tw/products/0011033562",
+      "sourceDateNote": "既有資料未保留逐本來源日期；本次依指定日期區間補入 metadata：來源未提供明確日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
     },
     {
       "id": "reframe-thinking",
@@ -325,8 +420,3089 @@
         "內耗管理"
       ],
       "sourceName": "博客來商業理財新書榜／商品頁（自我成長類，依內容歸心理勵志）",
-      "sourceUrl": "https://www.books.com.tw/products/0011031674"
+      "sourceUrl": "https://www.books.com.tw/products/0011031674",
+      "sourceDateNote": "既有資料未保留逐本來源日期；本次依指定日期區間補入 metadata：來源未提供明確日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "lean-startup",
+      "title": "精實創業：用小實驗玩出大事業",
+      "author": "艾瑞克．萊斯",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "創業",
+        "MVP",
+        "精實管理",
+        "商業模式"
+      ],
+      "sourceName": "Wikipedia: Eric Ries selected publications",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Eric_Ries",
+      "sourceDateNote": "來源列示 The Lean Startup 於 2011 年出版；搜尋日期區間為 2000-06-01 至 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "zero-to-one",
+      "title": "從0到1：打開世界運作的未知祕密，在意想不到之處發現價值",
+      "author": "彼得．提爾、布雷克．馬斯特",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "創業",
+        "壟斷",
+        "科技創新",
+        "策略"
+      ],
+      "sourceName": "Wikipedia: 從0到1",
+      "sourceUrl": "https://zh.wikipedia.org/wiki/%E5%BE%9E0%E5%88%B01",
+      "sourceDateNote": "來源列示原書於 2014-09-16 發行；搜尋日期區間為 2000-06-01 至 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "principles-life-work",
+      "title": "原則：生活和工作",
+      "author": "雷．達里歐",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "管理",
+        "決策",
+        "投資",
+        "組織文化"
+      ],
+      "sourceName": "Wikipedia: Principles (book)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Principles_%28book%29",
+      "sourceDateNote": "來源列示原書出版日期為 2017-09-19；搜尋日期區間為 2000-06-01 至 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "courage-to-be-disliked",
+      "title": "被討厭的勇氣：自我啟發之父「阿德勒」的教導",
+      "author": "岸見一郎、古賀史健",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "阿德勒心理學",
+        "人際",
+        "自由",
+        "自我成長"
+      ],
+      "sourceName": "Wikipedia: 岸見一郎著作列表",
+      "sourceUrl": "https://zh.wikipedia.org/wiki/%E5%B2%B8%E8%A6%8B%E4%B8%80%E9%83%8E",
+      "sourceDateNote": "來源著作列表列示繁體中文譯本年份為 2014；搜尋日期區間為 2000-06-01 至 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "mindset-growth",
+      "title": "終身成長：重新定義成功的思維模式",
+      "author": "卡蘿．杜維克",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "成長型思維",
+        "學習",
+        "教育",
+        "心理學"
+      ],
+      "sourceName": "Wikipedia: Carol Dweck selected books",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Carol_Dweck",
+      "sourceDateNote": "來源 selected publications 列示 Mindset 於 2006 年出版；搜尋日期區間為 2000-06-01 至 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "grit",
+      "title": "恆毅力：人生成功的究極能力",
+      "author": "安琪拉．達克沃斯",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "毅力",
+        "熱情",
+        "長期目標",
+        "刻意練習"
+      ],
+      "sourceName": "Wikipedia: Angela Duckworth",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Angela_Duckworth",
+      "sourceDateNote": "來源列示 Grit: The Power of Passion and Perseverance 於 2016 年 5 月出版；搜尋日期區間為 2000-06-01 至 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "grand-design",
+      "title": "大設計",
+      "author": "史蒂芬．霍金、雷納德．穆拉德諾夫",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "宇宙學",
+        "物理",
+        "科學哲學",
+        "模型"
+      ],
+      "sourceName": "Wikipedia: 大設計",
+      "sourceUrl": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%A8%AD%E8%A8%88",
+      "sourceDateNote": "來源列示英文原書於 2010-09-07 出版，繁體中文版於 2011 年 3 月出版；搜尋日期區間為 2000-06-01 至 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "brief-answers-big-questions",
+      "title": "霍金大見解：留給世人的十個大哉問與解答",
+      "author": "史蒂芬．霍金",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "宇宙",
+        "AI",
+        "未來",
+        "科學思維"
+      ],
+      "sourceName": "Wikipedia: 霍金大見解",
+      "sourceUrl": "https://zh.wikipedia.org/wiki/%E9%9C%8D%E9%87%91%E5%A4%A7%E8%A6%8B%E8%A7%A3%EF%BC%9A%E7%95%99%E7%B5%A6%E4%B8%96%E4%BA%BA%E7%9A%84%E5%8D%81%E5%80%8B%E5%A4%A7%E5%93%89%E5%95%8F%E8%88%87%E8%A7%A3%E7%AD%94",
+      "sourceDateNote": "來源列示英文版於 2018-10-16 出版，繁體中文版於 2019-02-25 發行；搜尋日期區間為 2000-06-01 至 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "outlive",
+      "title": "超越百歲：長壽的科學與藝術",
+      "author": "彼得．阿提亞、比爾．吉福德",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "長壽",
+        "預防醫學",
+        "健康壽命",
+        "慢性病"
+      ],
+      "sourceName": "Wikipedia: Outlive",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Outlive%3A_The_Science_and_Art_of_Longevity",
+      "sourceDateNote": "來源列示本書於 2023 年 3 月出版，並列入 2023、2024 年暢銷榜；搜尋日期區間為 2000-06-01 至 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "glucose-revolution",
+      "title": "控糖革命",
+      "author": "潔西．殷喬斯佩",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "血糖",
+        "飲食順序",
+        "代謝",
+        "營養"
+      ],
+      "sourceName": "Wikipedia: Jessie Inchauspé bibliography",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Jessie_Inchausp%C3%A9",
+      "sourceDateNote": "來源列示 Glucose Revolution 於 2022-04-05 出版；搜尋日期區間為 2000-06-01 至 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "clean-code",
+      "title": "無瑕的程式碼：敏捷軟體開發技巧守則",
+      "author": "羅伯特．C．馬丁",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "程式設計",
+        "軟體工藝",
+        "重構",
+        "可維護性"
+      ],
+      "sourceName": "Wikipedia: Robert C. Martin publications",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Robert_C._Martin",
+      "sourceDateNote": "來源 publications 列示 Clean Code: A Handbook of Agile Software Craftsmanship 於 2009 年出版；搜尋日期區間為 2000-06-01 至 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "sapiens",
+      "title": "人類大歷史：從野獸到扮演上帝",
+      "author": "尤瓦爾．哈拉瑞",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "文明",
+        "演化",
+        "文化"
+      ],
+      "sourceName": "Wikipedia: 人類簡史",
+      "sourceUrl": "https://zh.wikipedia.org/wiki/%E4%BA%BA%E7%B1%BB%E7%AE%80%E5%8F%B2",
+      "sourceDateNote": "來源列示原書於 2011 年出版，中文譯本於 2014 年出版；搜尋日期區間為 2000-06-01 至 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "wealth-ladder-maggiulli",
+      "title": "財富階梯：（《持續買進》作者新作）資料科學家為你打造，適用人生各階段的致富策略",
+      "author": "尼克．馬朱利",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "理財",
+        "投資策略",
+        "財富階段",
+        "人生規劃"
+      ],
+      "sourceName": "博客來商業理財新書榜／商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011050390",
+      "sourceDateNote": "出版日期：2026-05-01；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "future-1000-days-ai-era",
+      "title": "未來1000天：你現在的努力，有多少會在AI時代失效？37 位實踐者寫給你的應對指南 (隨書珍藏〈1000天導航圖〉拉頁)",
+      "author": "羅振宇",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "AI趨勢",
+        "職涯策略",
+        "商業趨勢",
+        "能力轉型"
+      ],
+      "sourceName": "博客來商業理財新書榜／商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011052556",
+      "sourceDateNote": "出版日期：2026-06-23；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "top-sales-mindset-fan",
+      "title": "頂尖銷售的底層思維：破框思考、擴圈成交的超級業務力",
+      "author": "范永銀（范大／Nathan）",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "銷售",
+        "業務開發",
+        "溝通",
+        "成交策略"
+      ],
+      "sourceName": "博客來商業理財新書榜／商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011050255",
+      "sourceDateNote": "出版日期：2026-04-30；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "let-them-go-mel-robbins",
+      "title": "隨他們去：全球熱銷突破1000萬冊現象級巨作！改變千萬人命運的心理技巧【博客來獨家版．附內在覺醒影響力躍昇卡】",
+      "author": "梅爾．羅賓斯",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "放下控制",
+        "情緒自主",
+        "人際界線",
+        "自我負責"
+      ],
+      "sourceName": "博客來心理勵志新書榜／商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011055312",
+      "sourceDateNote": "出版日期：2026-07-03；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "high-functioning-survivor-chou",
+      "title": "高功能倖存者：如果不「有用」，我還值得被愛嗎？",
+      "author": "周慕姿",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "自我價值",
+        "創傷修復",
+        "心理諮商",
+        "內在照顧"
+      ],
+      "sourceName": "博客來心理勵志新書榜／商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011052184",
+      "sourceDateNote": "出版日期：2026-06-01；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "deeper-mindfulness-williams-penman",
+      "title": "更深的靜觀：正念8週靜心計畫創始人的全新感受調子課",
+      "author": "馬克．威廉斯, 丹尼．潘曼",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "正念",
+        "靜觀",
+        "情緒覺察",
+        "壓力調節"
+      ],
+      "sourceName": "博客來心理勵志新書榜／商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011052621",
+      "sourceDateNote": "出版日期：2026-05-29；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "beech-life-wohlleben",
+      "title": "山毛櫸生命誌：《樹的祕密生命》作者新作：這一次，聽樹自己說故事（博客來獨家-限量珍藏書籤版）",
+      "author": "彼得．渥雷本",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "植物學",
+        "森林生態",
+        "山毛櫸",
+        "自然觀察"
+      ],
+      "sourceName": "博客來自然科普新書榜／商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011055134",
+      "sourceDateNote": "出版日期：2026-07-01；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "music-of-primes-20th",
+      "title": "質數的音樂：數學史上最大謎題的追尋之旅（20週年紀念版）",
+      "author": "馬庫斯‧杜‧索托伊",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "數學",
+        "質數",
+        "黎曼猜想",
+        "數學史"
+      ],
+      "sourceName": "博客來自然科普新書榜／商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011052895",
+      "sourceDateNote": "出版日期：2026-06-06；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "doctor-broken-stroke-recovery",
+      "title": "醫生壞掉以後：急診醫師的中風自救處方，6個月重啟人生的高效復能日記",
+      "author": "鄭筆方",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "中風復健",
+        "急診醫師",
+        "復能",
+        "病後重建"
+      ],
+      "sourceName": "博客來醫療保健新書榜／商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011055747",
+      "sourceDateNote": "出版日期：2026-07-04；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "miracle-fruit-vegetable-juice",
+      "title": "神之蔬果汁：93道蔬果汁X 18種對症療法，無病先防、有病即調！",
+      "author": "瑞昇文化編輯部",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "蔬果汁",
+        "飲食養生",
+        "營養",
+        "食療"
+      ],
+      "sourceName": "博客來飲食新書榜／商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011049620",
+      "sourceDateNote": "出版日期：2026-04-20；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "claude-handbook-swm",
+      "title": "Claude 萬用手冊：Claude.ai | Desktop | Cowork | Code Mode | Design | Computer Use | Skills | Connectors | Plugins",
+      "author": "施威銘研究室",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "Claude",
+        "生成式AI",
+        "AI工作流",
+        "工具應用"
+      ],
+      "sourceName": "博客來電腦資訊新書榜／商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011053532",
+      "sourceDateNote": "出版日期：2026-06-11；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "tokyo-trial-bass",
+      "title": "東京大審：二戰審判與現代亞洲的誕生（三冊不分售）",
+      "author": "蓋瑞．巴斯",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "二戰",
+        "亞洲史",
+        "國際法"
+      ],
+      "sourceName": "博客來人文社科新書榜／商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011055414",
+      "sourceDateNote": "出版日期：2026-07-01；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-4b701a2f7857",
+      "title": "循環在有無之間：永豐一百年的永續智慧",
+      "author": "何壽川",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "永續",
+        "企業經營",
+        "組織傳承"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-523b996b5b4b",
+      "title": "蘋果在中國：美國科技巨頭如何造就中國製造霸權",
+      "author": "派翠克．麥奇",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "科技產業",
+        "供應鏈",
+        "全球化"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-4c4e96c8d0c1",
+      "title": "底層邏輯：看清這個世界的底牌",
+      "author": "劉潤",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "商業思維",
+        "決策",
+        "策略"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-2433ce8856a9",
+      "title": "長期買進：財金教授周冠男的42堂自制力投資課",
+      "author": "周冠男",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "理財",
+        "長期主義"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-575529ed30bb",
+      "title": "張忠謀自傳全集（上下冊）",
+      "author": "張忠謀",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "傳記",
+        "半導體",
+        "管理"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-148fb8d458a9",
+      "title": "台灣人工智慧實戰解方精選 50 (AI Solutions in Taiwan - Premium Selection 50)",
+      "author": "林筱玫,周芳妃,吳信輝,胡翔崴,胡筱薇,張凱鑫,許嘉裕,黃新鉗,謝右文,韓傳祥,台灣人工智慧協會（TAIA）",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "AI",
+        "企業應用",
+        "台灣產業"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-ac2954f7cf96",
+      "title": "持續買進：資料科學家的投資終極解答，存錢及致富的實證方法",
+      "author": "尼克．馬朱利",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "資料科學",
+        "財富累積"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-c13ac35c9d6c",
+      "title": "繼承經濟：是時候談談父母銀行了，千禧世代的獨立難題與社會價值重新排序",
+      "author": "伊麗莎•菲爾比",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "世代財富",
+        "經濟",
+        "社會趨勢"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-f8eaf993fce0",
+      "title": "阿甘投資法：不看盤、不選股、不挑買點也能穩穩賺",
+      "author": "闕又上",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "ETF",
+        "長期配置"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-9d3ec402d36d",
+      "title": "巨人思維：沒有捷徑，只有努力，從零開始的股市交易員",
+      "author": "巨人傑",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "交易",
+        "投資心理",
+        "成長"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-7d70084986c0",
+      "title": "航海王的富人學：富人蛋糕上的草莓，10堂重建財商思維的必修課",
+      "author": "美股航海王 傑克．史派羅",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "財商",
+        "美股",
+        "理財教育"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-d31faeb94965",
+      "title": "佛畏系統：洞察事物背後的規則，在不確定時代做出對的選擇",
+      "author": "萬維鋼",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "系統思考",
+        "不確定性",
+        "決策"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-e7a074e0ec74",
+      "title": "中國模式的終點：從科舉帝制到數位威權，揭露中國式治理制度的宿命",
+      "author": "黃亞生",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "制度",
+        "治理",
+        "經濟政治"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-7c08d4568d8a",
+      "title": "紀律長贏：揭開清大校務基金操盤人風險控管與穩定獲利的策略",
+      "author": "林哲群",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "風險控管",
+        "資產管理"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-9617c704d520",
+      "title": "財商：不費力才會贏〖作者親簽版〗",
+      "author": "吳淡如",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "財商",
+        "理財",
+        "金錢觀"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-b2ca13c82cb5",
+      "title": "主角模式：從「我得這樣」到「我可以選擇」，影響7500萬人的成長祕密",
+      "author": "樊登",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "選擇",
+        "成長"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-dd09fd6b1e22",
+      "title": "人生的五種財富：設計你的夢想人生，時間、社會、心理、身體、金錢財富都豐收",
+      "author": "薩希‧布魯姆",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "人生設計",
+        "財富",
+        "時間管理"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-df5fb2f79171",
+      "title": "致富心態：關於財富、貪婪與幸福的20堂理財課（暢銷增訂版）",
+      "author": "摩根‧豪瑟",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "投資心理",
+        "財富",
+        "行為金融"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-5c9f3eca3a81",
+      "title": "別把你的錢留到死：懂得花錢，是最好的投資——理想人生的9大財務思維",
+      "author": "比爾‧柏金斯",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "金錢規劃",
+        "人生策略",
+        "消費決策"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-86e411d509a2",
+      "title": "槓桿ETF投資法：用50正2輕鬆打敗0050＆0056，提早退休",
+      "author": "林政華（大仁）",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "ETF",
+        "退休"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-39a38c33752d",
+      "title": "財富自由心理學（限量附贈〖三步驟財富自由實戰計畫〗）",
+      "author": "蔡宇哲,郝旭烈",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "財富自由",
+        "心理學",
+        "理財行為"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-8967705e072f",
+      "title": "權力的48法則（博客來獨家典藏限量版）",
+      "author": "羅伯．葛林,約斯特．艾佛斯",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "權力",
+        "策略",
+        "人性"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-5107b11bf926",
+      "title": "自我升級第一原理",
+      "author": "麥可．傑維斯,凱文．雷克",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "學習",
+        "自我升級",
+        "績效"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-0c43e56c89aa",
+      "title": "卡片盒筆記：最高效思考筆記術，德國教授超強秘技，促進寫作、學習與思考，使你洞見源源不斷，成為專家",
+      "author": "申克‧艾倫斯",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "知識管理",
+        "筆記",
+        "思考"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-e22a992488a5",
+      "title": "周博教你高效閱讀做筆記：一本搞懂如何讀得快、記得牢、寫得順！",
+      "author": "周博（周柏均）",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "閱讀方法",
+        "筆記",
+        "學習效率"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-61d80fd2cd92",
+      "title": "你沒有學到的資產配置：巴菲特默默在做的事",
+      "author": "闕又上",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "資產配置",
+        "巴菲特"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-1d95787f0746",
+      "title": "啟動致富原力：富養自己的心態×習慣×工具×行動，打造人生選擇權的底氣",
+      "author": "Dr. Selena楊倩琳",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "致富",
+        "習慣",
+        "財務選擇"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-bd7d63d1322d",
+      "title": "2050科技與商業藍圖：未來學家凱文・凱利預言10000天後的世界",
+      "author": "凱文．凱利,吳晨",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "科技趨勢",
+        "商業未來",
+        "預測"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-3f1743085b8c",
+      "title": "5年內打造1億資產的逆襲方程式：普通上班族也能做到，無痛複製4大投資策略，突破薪水牢籠、資產放大100倍！",
+      "author": "kenmo（湘南投資讀書會）",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "投資策略",
+        "資產成長",
+        "上班族理財"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "01-4ab1e1156a78",
+      "title": "超級績效：金融怪傑交易之道",
+      "author": "Mark Minervini",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "投資",
+        "職涯",
+        "交易",
+        "投資策略",
+        "績效"
+      ],
+      "sourceName": "博客來商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/02/?loc=P_0002_003",
+      "sourceDateNote": "來源為博客來商業理財暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-8a2cbbcd66f1",
+      "title": "你願意，人生就會值得：蔡康永的情商課3",
+      "author": "蔡康永",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "情商",
+        "人生選擇"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-8a57a60665c2",
+      "title": "別對每件事都有反應〖2025限量暢銷特典版〗：淡泊一點也無妨，活出快意人生的99個禪練習！",
+      "author": "枡野俊明",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "情緒調節",
+        "禪修",
+        "放下"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-511e4390989f",
+      "title": "生命中最大的寶藏就是你自己Stand by Yourself",
+      "author": "曾寶儀",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "自我接納",
+        "人生",
+        "陪伴"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-d2061939758a",
+      "title": "笑中帶淚的老後日常套書：《銀髮川柳1～3》",
+      "author": "日本公益社團法人全國自費老人之家協會,POPLAR社",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "老後",
+        "幽默",
+        "生活心態"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-538ef5258fdb",
+      "title": "蛤蟆先生去看心理師（暢銷300萬冊！英國心理諮商經典，附《蛤蟆先生勇氣藏書卡》組）",
+      "author": "羅伯．狄保德",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "心理諮商",
+        "自我理解"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-d37217ac5537",
+      "title": "以貓貓之軀，讓宇宙完整",
+      "author": "四叉貓",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "生活觀察",
+        "自我表達",
+        "幽默"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-94c55c751dbe",
+      "title": "別對每件事都有反應2：不執著的練習",
+      "author": "枡野俊明",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "不執著",
+        "禪練習"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-19a2d1b6ba57",
+      "title": "你的人生，他們六個說了算！：決定你一生的六種物質",
+      "author": "大衛．JP．菲利浦斯",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "腦科學",
+        "行為"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-1102d6c4911c",
+      "title": "生命的溫暖戰歌（全新增訂版）：從抗癌到立法，在逆境中堅持希望的勇氣",
+      "author": "邱議瑩,林芝安,林唯莉,曾蘭淑",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "逆境",
+        "希望",
+        "生命故事"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-1023006da40b",
+      "title": "別對每件事都有反應：淡泊一點也無妨， 活出快意人生的99個禪練習！",
+      "author": "枡野俊明",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "淡泊",
+        "禪修",
+        "生活練習"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-5141bf6cf8d6",
+      "title": "想哭就哭吧，你不需要那麼懂事 + 隨身創作小冊 You create your own universe〖特別限定親簽組〗：The Kindness That Knows",
+      "author": "Peter Su",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "情緒釋放",
+        "自我安頓",
+        "溫柔"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-81cf379763a4",
+      "title": "在歲月裡淘金，一閃一閃亮晶晶（親簽版）",
+      "author": "沈春華",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "人生經驗",
+        "成熟",
+        "自我整理"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-08da87cdfc5c",
+      "title": "逆思維：華頓商學院最具影響力的教授，突破人生盲點的全局思考〖博客來獨家書封版〗",
+      "author": "亞當．格蘭特",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "思考",
+        "盲點",
+        "改變"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-68a2543fbc42",
+      "title": "蔡康永的情商課2：因為這是你的人生",
+      "author": "蔡康永",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "情商",
+        "自我選擇",
+        "關係"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-08efbbb755ce",
+      "title": "你的宇宙訂單已到貨！小魔女九粒的顯化養成指南〖1書＋1手帳〗",
+      "author": "九粒Jolie",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "顯化",
+        "願景",
+        "自我練習"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-dab390c7d873",
+      "title": "一本書終結你的拖延症〖漫畫版〗：透過「小行動」打開大腦的行動開關，懶人也能變身「行動派」的37個科學方法",
+      "author": "大平信孝",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "拖延",
+        "行動",
+        "習慣"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-8b098aad2af9",
+      "title": "人生沒有理所當然：〖限量親簽版〗沒有「應該要」，只有「你想要」！練就跳脫框架、突破自我設限的全方位思考方式",
+      "author": "歐陽立中",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "框架",
+        "自我設限",
+        "思考"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-e908d0f5ec0a",
+      "title": "隱性潛能：華頓商學院最具影響力教授，突破天賦極限的實證科學〖博客來獨家版．附人生領航指南書〗",
+      "author": "亞當．格蘭特",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "潛能",
+        "實證科學"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-002b8be5baf7",
+      "title": "善意溝通：怡慧老師的0負評暖心說話課〖博客來獨家版．附「善意習慣」21天實踐計畫書〗",
+      "author": "宋怡慧",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "溝通",
+        "善意",
+        "關係"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-70b883773709",
+      "title": "蔡康永的情商課：為你自己活一次",
+      "author": "蔡康永",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "情商",
+        "自我",
+        "人生"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-78530b1ceabe",
+      "title": "刻意練習：原創者全面解析，比天賦更關鍵的學習法",
+      "author": "安德斯‧艾瑞克森,羅伯特‧普爾",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "學習",
+        "練習",
+        "能力"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-483398456c18",
+      "title": "50歲後，隨心所欲的生活：捨棄、放手、不強求，這一次，你要為自己而活！〔隨書附「自在生活金句卡」〕",
+      "author": "枡野俊明",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "中年",
+        "放手",
+        "自在"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-16a4ad2a025f",
+      "title": "奇蹟產生器：心想事成的正念執行力",
+      "author": "唐玉書",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "正念",
+        "執行力",
+        "願景"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-7c9d9fa1cd2a",
+      "title": "先降噪，再聚焦：做自己的人生規劃師，建立「消除雜訊、激發潛能」的高效能原則。",
+      "author": "洪瀞",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "聚焦",
+        "人生規劃",
+        "效率"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-ab090393e77c",
+      "title": "隨時放得下的功課：心靈病房的18堂終極學分",
+      "author": "張明志",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "放下",
+        "心靈",
+        "生命課題"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-4120ee6a076e",
+      "title": "給我40歲的女兒：心理醫師媽媽走過中年之路的38個提醒",
+      "author": "韓星姬",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "中年",
+        "心理醫師",
+        "自我照顧"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-cc17f85f201f",
+      "title": "我，刀槍不入：從街頭魯蛇到海豹突擊隊，掌控心智、力抗萬難的奇蹟",
+      "author": "大衛・哥金斯",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "心智韌性",
+        "挑戰",
+        "自律"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-699c60c80968",
+      "title": "故事裡的心理學（上＋下，全套共兩冊）",
+      "author": "鐘穎",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "心理學",
+        "故事",
+        "自我理解"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-8720c3f97b42",
+      "title": "你也能學會的豐盛鍊金術：14天清除限制信念與金錢匱乏感，重啟你的豐盛之路",
+      "author": "葉妍伶(Renee)",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "限制信念",
+        "豐盛",
+        "自我練習"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "02-f8bdb614da34",
+      "title": "深刻認識一個人：發現自己與他人的非凡之處",
+      "author": "大衛．布魯克斯",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "情緒",
+        "成長",
+        "人際",
+        "理解他人",
+        "關係",
+        "自我認識"
+      ],
+      "sourceName": "博客來心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/07/?loc=P_0002_006",
+      "sourceDateNote": "來源為博客來心理勵志暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "03-b2797752e807",
+      "title": "溫度的正義：全球沸騰時代該如何消弭升溫所造成的各種不公？",
+      "author": "林子平",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "思維",
+        "知識",
+        "氣候",
+        "環境",
+        "正義"
+      ],
+      "sourceName": "博客來自然科普新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06/",
+      "sourceDateNote": "來源為博客來自然科普新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "03-0881b667543a",
+      "title": "飛機設計與運作原理：探討空氣動力學、引擎與機體結構、航電系統及安全性設計",
+      "author": "王皞天",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "思維",
+        "知識",
+        "工程",
+        "飛行",
+        "空氣動力學"
+      ],
+      "sourceName": "博客來自然科普新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06/",
+      "sourceDateNote": "來源為博客來自然科普新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "03-de389d3e68e3",
+      "title": "細胞之歌：探索醫學和新人類的未來",
+      "author": "辛達塔．穆克吉",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "思維",
+        "知識",
+        "細胞",
+        "生命科學",
+        "醫學史"
+      ],
+      "sourceName": "博客來自然科普新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06/",
+      "sourceDateNote": "來源為博客來自然科普新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "03-e3b51bfcbc99",
+      "title": "人類文明：生物機制如何塑造世界史",
+      "author": "達奈爾",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "思維",
+        "知識",
+        "生物",
+        "文明",
+        "世界史"
+      ],
+      "sourceName": "博客來自然科普新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06/",
+      "sourceDateNote": "來源為博客來自然科普新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "03-9ee60dbdfd86",
+      "title": "大自然就是要你胖！：揪出肥胖關鍵機制，逆轉代謝困境",
+      "author": "理查．強森",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "思維",
+        "知識",
+        "代謝",
+        "生理機制",
+        "肥胖"
+      ],
+      "sourceName": "博客來自然科普新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06/",
+      "sourceDateNote": "來源為博客來自然科普新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "03-f2c7af958321",
+      "title": "圖解生化學更新版：從分子層次化為生命奧援的體內工程",
+      "author": "生田哲",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "思維",
+        "知識",
+        "生化學",
+        "分子",
+        "生命科學"
+      ],
+      "sourceName": "博客來自然科普新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06/",
+      "sourceDateNote": "來源為博客來自然科普新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "03-a28a32a4319d",
+      "title": "當「腦控」走進元宇宙空間！從神經元到AI，前進思維的未來：突觸傳遞、運動控制、照相式記憶、腦機介面……由基礎神經科學至類腦智慧的跨越與創新",
+      "author": "閆天翼",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "思維",
+        "知識",
+        "神經科學",
+        "腦機介面",
+        "AI"
+      ],
+      "sourceName": "博客來自然科普新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06/",
+      "sourceDateNote": "來源為博客來自然科普新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "03-c3bab4efc20c",
+      "title": "從抽象理論，看數學中的具象思維：柯尼斯堡問題、莫比烏斯帶、魔術方塊解法、逆向推理思維……24個超具體的數學理論應用！",
+      "author": "張遠南",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "思維",
+        "知識",
+        "數學",
+        "推理",
+        "應用"
+      ],
+      "sourceName": "博客來自然科普新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06/",
+      "sourceDateNote": "來源為博客來自然科普新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "03-2cee09f91af1",
+      "title": "圖解馬達一本通：輕鬆掌握電機核心的馬達原理與構造",
+      "author": "森本雅之",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "思維",
+        "知識",
+        "電機",
+        "馬達",
+        "工程"
+      ],
+      "sourceName": "博客來自然科普新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06/",
+      "sourceDateNote": "來源為博客來自然科普新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "03-5a19e4724e3a",
+      "title": "大腦獵奇偵探社：狼人、截肢癖、多重人格到集體中邪，100個讓你洞察人性的不思議腦科學案例",
+      "author": "馬克．汀曼",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "思維",
+        "知識",
+        "腦科學",
+        "案例",
+        "人性"
+      ],
+      "sourceName": "博客來自然科普新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06/",
+      "sourceDateNote": "來源為博客來自然科普新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "03-8ce35887b8c3",
+      "title": "新物理學和宇宙學：科學家與達賴喇嘛關於現代物理學的人文意義的對話",
+      "author": "阿瑟•查恩茨",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "思維",
+        "知識",
+        "物理",
+        "宇宙學",
+        "科學思想"
+      ],
+      "sourceName": "博客來自然科普新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06/",
+      "sourceDateNote": "來源為博客來自然科普新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "03-683bae1f7554",
+      "title": "自然小遊俠套書：《小蟲大哉問》+《樹葉物語》",
+      "author": "陳睿,蘇洽帆,高圭弘",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "思維",
+        "知識",
+        "昆蟲",
+        "植物",
+        "自然觀察"
+      ],
+      "sourceName": "博客來自然科普新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06/",
+      "sourceDateNote": "來源為博客來自然科普新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "03-1a7609bb52ba",
+      "title": "跟著80種鳥環遊世界：從印度栗鳶到智利安地斯神鷹，探索不同地理環境中的鳥類自然生態",
+      "author": "麥克．昂溫",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "思維",
+        "知識",
+        "鳥類",
+        "生態",
+        "地理"
+      ],
+      "sourceName": "博客來自然科普新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06/",
+      "sourceDateNote": "來源為博客來自然科普新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "03-d365ae146dc8",
+      "title": "摩爾旅程：電晶體數目爆增的神奇魔力（二版）",
+      "author": "林茂雄",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "思維",
+        "知識",
+        "半導體",
+        "科技史",
+        "電晶體"
+      ],
+      "sourceName": "博客來自然科普新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06/",
+      "sourceDateNote": "來源為博客來自然科普新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "03-f3c8d675ea45",
+      "title": "時間的起源：史蒂芬．霍金的最終理論",
+      "author": "湯瑪仕．赫托",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "思維",
+        "知識",
+        "宇宙",
+        "時間",
+        "霍金"
+      ],
+      "sourceName": "博客來自然科普新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06/",
+      "sourceDateNote": "來源為博客來自然科普新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "03-a0af94a6282a",
+      "title": "小零件改變大世界：釘子、輪子、彈簧、磁鐵、鏡片、繩子、泵浦，七種細小發明如何成為現代文明的重要推手？",
+      "author": "羅瑪．艾葛拉瓦",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "思維",
+        "知識",
+        "工程",
+        "發明",
+        "文明"
+      ],
+      "sourceName": "博客來自然科普新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06/",
+      "sourceDateNote": "來源為博客來自然科普新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "03-c6cc54fef53d",
+      "title": "亂數中的秩序，機率學在日常中的角力：密碼破譯×抽籤順序×投擲骰子×布朗運動，從賭桌到實驗室，數學如何定義命運？",
+      "author": "張遠南",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "思維",
+        "知識",
+        "機率",
+        "數學",
+        "日常科學"
+      ],
+      "sourceName": "博客來自然科普新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06/",
+      "sourceDateNote": "來源為博客來自然科普新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "03-22c75d914b35",
+      "title": "宇宙科學史，從地心說開始向天空的探究！島宇宙理論×造父變星發現×無止盡永恆暴脹×微波背景輻射……帶你穿越宇宙時空的天文學！",
+      "author": "王爽",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "思維",
+        "知識",
+        "天文學",
+        "宇宙史",
+        "科學史"
+      ],
+      "sourceName": "博客來自然科普新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06/",
+      "sourceDateNote": "來源為博客來自然科普新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "03-6e4b563158b7",
+      "title": "黑洞‧白洞‧蟲洞：時間與空間的扭曲產生出神祕的「時空洞穴」 人人伽利略40",
+      "author": "日本Newton Press",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "思維",
+        "知識",
+        "黑洞",
+        "相對論",
+        "時空"
+      ],
+      "sourceName": "博客來自然科普新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06/",
+      "sourceDateNote": "來源為博客來自然科普新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "03-bf8bfda5344d",
+      "title": "翼想天開：抵抗重力的飛行設計與大自然演化",
+      "author": "理查．道金斯",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "思維",
+        "知識",
+        "演化",
+        "飛行",
+        "生物設計"
+      ],
+      "sourceName": "博客來自然科普新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06/",
+      "sourceDateNote": "來源為博客來自然科普新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "04-b1a57f26acc7",
+      "title": "明眸再現 眼底病變尖端治療法",
+      "author": "陳珊霓",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "健康",
+        "醫療",
+        "照護",
+        "預防",
+        "眼科",
+        "治療",
+        "視力保健"
+      ],
+      "sourceName": "博客來醫療保健暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/08/?loc=P_0002_009",
+      "sourceDateNote": "來源為博客來醫療保健暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "04-3b254236c3d0",
+      "title": "零基礎學中醫：第一本把氣血、五行、陰陽視覺化的基礎手冊，自己找病因、醫病順暢溝通、正確養生。",
+      "author": "馬可迅",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "健康",
+        "醫療",
+        "照護",
+        "預防",
+        "中醫",
+        "養生",
+        "身體理解"
+      ],
+      "sourceName": "博客來醫療保健暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/08/?loc=P_0002_009",
+      "sourceDateNote": "來源為博客來醫療保健暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "04-89ab82c1ea05",
+      "title": "通氣血，排文明毒：徹底清除體內氣滯、濕困、瘀阻與火旺，從小毛病到三高、心血管與免疫重症的中醫解方",
+      "author": "莊佳穎",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "健康",
+        "醫療",
+        "照護",
+        "預防",
+        "中醫",
+        "氣血",
+        "慢性病"
+      ],
+      "sourceName": "博客來醫療保健暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/08/?loc=P_0002_009",
+      "sourceDateNote": "來源為博客來醫療保健暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "04-dd30a0e625c9",
+      "title": "心轉，病自癒：五維一心的健康逆齡奇蹟",
+      "author": "蔡松彥",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "健康",
+        "醫療",
+        "照護",
+        "預防",
+        "身心健康",
+        "逆齡",
+        "自癒"
+      ],
+      "sourceName": "博客來醫療保健暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/08/?loc=P_0002_009",
+      "sourceDateNote": "來源為博客來醫療保健暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "04-a6a019e525f4",
+      "title": "讀懂身體的訊號：基因醫師教你逆轉健康危機",
+      "author": "張家銘",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "健康",
+        "醫療",
+        "照護",
+        "預防",
+        "基因",
+        "預防醫學",
+        "健康風險"
+      ],
+      "sourceName": "博客來醫療保健暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/08/?loc=P_0002_009",
+      "sourceDateNote": "來源為博客來醫療保健暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "04-6649dc86b4dc",
+      "title": "腎臟求救中：真希望40歲之前洪永祥醫師就告訴我這些事",
+      "author": "洪永祥",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "健康",
+        "醫療",
+        "照護",
+        "預防",
+        "腎臟",
+        "醫療保健"
+      ],
+      "sourceName": "博客來醫療保健暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/08/?loc=P_0002_009",
+      "sourceDateNote": "來源為博客來醫療保健暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "04-4b4a337518b3",
+      "title": "你可以不頭痛：頭痛權威王署君醫師 擁有正確知識，輕鬆控制你的頭痛",
+      "author": "王署君,林貞岑",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "健康",
+        "醫療",
+        "照護",
+        "預防",
+        "頭痛",
+        "神經科",
+        "症狀管理"
+      ],
+      "sourceName": "博客來醫療保健暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/08/?loc=P_0002_009",
+      "sourceDateNote": "來源為博客來醫療保健暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "04-75f1824a08c7",
+      "title": "腦能量：所有的精神疾病都是大腦的代謝疾病！粒線體失調如何導致憂鬱、焦慮、強迫症、ADHD和其他障礙，揭示飲食治療新契機，重獲心理韌性",
+      "author": "克里斯多福．帕爾默",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "健康",
+        "醫療",
+        "照護",
+        "預防",
+        "精神健康",
+        "代謝",
+        "粒線體"
+      ],
+      "sourceName": "博客來醫療保健暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/08/?loc=P_0002_009",
+      "sourceDateNote": "來源為博客來醫療保健暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "04-9461da95d5d0",
+      "title": "百萬爸媽都在問！陳映庄醫師的健康育兒全書",
+      "author": "陳映庄",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "健康",
+        "醫療",
+        "照護",
+        "預防",
+        "育兒",
+        "兒科",
+        "家庭健康"
+      ],
+      "sourceName": "博客來醫療保健暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/08/?loc=P_0002_009",
+      "sourceDateNote": "來源為博客來醫療保健暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "04-46af440022f4",
+      "title": "藥師沒告訴你的50件事：你不可不知的居家用藥常識",
+      "author": "洪正憲",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "健康",
+        "醫療",
+        "照護",
+        "預防",
+        "用藥",
+        "藥師",
+        "居家健康"
+      ],
+      "sourceName": "博客來醫療保健暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/08/?loc=P_0002_009",
+      "sourceDateNote": "來源為博客來醫療保健暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "05-f9cf006ac76a",
+      "title": "四季戚風蛋糕專門書（博客來獨家親簽版）：柔軟綿密蛋糕 X 四季更迭花草，結合戚風蛋糕與鮮奶油裝飾，探索四季獨特風味",
+      "author": "呂昇達,Daisy",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "養生",
+        "生活",
+        "烘焙",
+        "甜點",
+        "四季食材"
+      ],
+      "sourceName": "博客來飲食新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_09/",
+      "sourceDateNote": "來源為博客來飲食新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "05-bccbd1ed0299",
+      "title": "夢想糖果店",
+      "author": "姚吱滋",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "養生",
+        "生活",
+        "甜點",
+        "糖果",
+        "食譜"
+      ],
+      "sourceName": "博客來飲食新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_09/",
+      "sourceDateNote": "來源為博客來飲食新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "05-2a8f66fd8cab",
+      "title": "食養應如是：健康挑戰21實踐版",
+      "author": "胡財賓,黃美樺,賴向榮,歐于菁",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "養生",
+        "生活",
+        "食養",
+        "健康飲食",
+        "實踐"
+      ],
+      "sourceName": "博客來飲食新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_09/",
+      "sourceDateNote": "來源為博客來飲食新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "05-6fb180a73ca7",
+      "title": "人氣甜點工作室Her×Her的美味食譜：餅乾、常溫蛋糕和鮮奶油蛋糕，經典食譜分享不藏私，做出每天都想吃的好味道",
+      "author": "Vanessa Liu",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "養生",
+        "生活",
+        "甜點",
+        "餅乾",
+        "蛋糕"
+      ],
+      "sourceName": "博客來飲食新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_09/",
+      "sourceDateNote": "來源為博客來飲食新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "05-3039d27e65ed",
+      "title": "天堂秘廚2：私廚79道秘笈，美味與健康的完美平衡",
+      "author": "普橘島",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "養生",
+        "生活",
+        "食譜",
+        "健康",
+        "私廚"
+      ],
+      "sourceName": "博客來飲食新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_09/",
+      "sourceDateNote": "來源為博客來飲食新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "05-f7add731826b",
+      "title": "四時茶詠，茶味初見：人與茶，與天地相感，與日月相應，飲茶如何融入四時之序？",
+      "author": "靜清和",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "養生",
+        "生活",
+        "茶",
+        "飲食文化",
+        "四時養生"
+      ],
+      "sourceName": "博客來飲食新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_09/",
+      "sourceDateNote": "來源為博客來飲食新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "05-4eb4b8d4e193",
+      "title": "茗香千載，飲茶小史：煎茶、點茶、瀹泡、壺泡……從上古煮飲到工夫茶的傳承與演化",
+      "author": "靜清和",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "養生",
+        "生活",
+        "茶史",
+        "飲茶",
+        "文化"
+      ],
+      "sourceName": "博客來飲食新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_09/",
+      "sourceDateNote": "來源為博客來飲食新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "05-3f6068b8ada2",
+      "title": "烏龍茶的世界：全方位茶職人45年心血結晶，從種茶、製茶、飲茶，告訴你烏龍茶風味的秘密",
+      "author": "陳煥堂,林世偉",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "養生",
+        "生活",
+        "烏龍茶",
+        "茶職人",
+        "風味"
+      ],
+      "sourceName": "博客來飲食新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_09/",
+      "sourceDateNote": "來源為博客來飲食新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "05-4e4c17e60f90",
+      "title": "舌尖上的香料史：走過5000年，主宰政治、貿易、飲食的風味",
+      "author": "伊恩・安德森",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "養生",
+        "生活",
+        "香料",
+        "飲食史",
+        "風味"
+      ],
+      "sourceName": "博客來飲食新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_09/",
+      "sourceDateNote": "來源為博客來飲食新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "05-1edf81252c5b",
+      "title": "蔬食．舒食：營養且豐盛的200道美味素食",
+      "author": "漢竹",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "養生",
+        "生活",
+        "蔬食",
+        "素食"
+      ],
+      "sourceName": "博客來飲食新書暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_09/",
+      "sourceDateNote": "來源為博客來飲食新書暢銷榜；頁面未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "06-e8da6bc9f1ba",
+      "title": "ChatGPT 4 Omni領軍 - Copilot、Claude、Gemini、36組GPT ...全面探索生成式AI的無限可能",
+      "author": "洪錦魁",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦",
+        "AI",
+        "工具",
+        "自動化",
+        "生成式AI",
+        "ChatGPT",
+        "工作流"
+      ],
+      "sourceName": "博客來電腦資訊暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/19/?loc=P_0002_021",
+      "sourceDateNote": "來源為博客來電腦資訊暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "06-48286a350425",
+      "title": "超有料！職場第一實用的 AI 工作術：用對工具讓生產力全面進化！",
+      "author": "施威銘研究室",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦",
+        "AI",
+        "工具",
+        "自動化",
+        "AI工具",
+        "生產力",
+        "職場"
+      ],
+      "sourceName": "博客來電腦資訊暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/19/?loc=P_0002_021",
+      "sourceDateNote": "來源為博客來電腦資訊暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "06-e436f4acdb85",
+      "title": "ChatGPT × Excel 自動化工作聖經：AI 生成公式、數據詮釋、統計報表",
+      "author": "吳承穎（樂咖老師）",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦",
+        "AI",
+        "工具",
+        "自動化",
+        "Excel",
+        "ChatGPT"
+      ],
+      "sourceName": "博客來電腦資訊暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/19/?loc=P_0002_021",
+      "sourceDateNote": "來源為博客來電腦資訊暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "06-b698424c30c2",
+      "title": "AI 人工智慧最新浪潮：停不下來的列車",
+      "author": "孫大千",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦",
+        "AI",
+        "工具",
+        "自動化",
+        "AI趨勢",
+        "人工智慧",
+        "科技"
+      ],
+      "sourceName": "博客來電腦資訊暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/19/?loc=P_0002_021",
+      "sourceDateNote": "來源為博客來電腦資訊暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "06-4fb90b2d74fa",
+      "title": "軟體工程",
+      "author": "李允中",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦",
+        "AI",
+        "工具",
+        "自動化",
+        "軟體工程",
+        "開發流程",
+        "系統設計"
+      ],
+      "sourceName": "博客來電腦資訊暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/19/?loc=P_0002_021",
+      "sourceDateNote": "來源為博客來電腦資訊暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "06-83fdd0ac4018",
+      "title": "AI 自動化流程超 Easy：不寫程式 No code 也能聰明幹大事",
+      "author": "施威銘研究室",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦",
+        "AI",
+        "工具",
+        "自動化",
+        "No code"
+      ],
+      "sourceName": "博客來電腦資訊暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/19/?loc=P_0002_021",
+      "sourceDateNote": "來源為博客來電腦資訊暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "06-e949b6284515",
+      "title": "無料AI：ChatGPT+Gemini+Claude+Copilot+Coze+PlaygroundAI+Ideogram+Stylar+Faceswapper+Suno+Stable Audio+D-ID+Runway+Sora+Gamma-「文字、繪圖、動漫、視覺、音樂、影片、簡報」創意無限（二版）",
+      "author": "洪錦魁",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦",
+        "AI",
+        "工具",
+        "自動化",
+        "AI工具",
+        "多模態",
+        "創作"
+      ],
+      "sourceName": "博客來電腦資訊暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/19/?loc=P_0002_021",
+      "sourceDateNote": "來源為博客來電腦資訊暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "06-197aeae5a45e",
+      "title": "最強職場助攻！ChatGPT + AI 高效工作術(附：打造3大AI助理GPT影音教學 )",
+      "author": "鄧君如,文淵閣工作室",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦",
+        "AI",
+        "工具",
+        "自動化",
+        "ChatGPT",
+        "職場效率",
+        "AI助理"
+      ],
+      "sourceName": "博客來電腦資訊暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/19/?loc=P_0002_021",
+      "sourceDateNote": "來源為博客來電腦資訊暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "06-9d34242e0d92",
+      "title": "ChatGPT 4 Omni 萬用手冊 2024 夏季號：GPT-4o/GPT-4o mini、GPTs、DALL-E 3、Copilot、Gemini、Claude 3.5",
+      "author": "蔡宜坦,施威銘研究室",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦",
+        "AI",
+        "工具",
+        "自動化",
+        "GPT-4o",
+        "AI工具",
+        "手冊"
+      ],
+      "sourceName": "博客來電腦資訊暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/19/?loc=P_0002_021",
+      "sourceDateNote": "來源為博客來電腦資訊暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "06-74cd088a9462",
+      "title": "剛剛好的 Canva 設計教本：AI 工具 × 社群行銷 × 商業協作 × 課堂應用 × 印刷輸出，用最短的時間做出最有效的設計",
+      "author": "施威銘研究室,張宣婕(Annie)",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦",
+        "AI",
+        "工具",
+        "自動化",
+        "Canva",
+        "設計工具",
+        "AI應用"
+      ],
+      "sourceName": "博客來電腦資訊暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/19/?loc=P_0002_021",
+      "sourceDateNote": "來源為博客來電腦資訊暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "07-2dbf62b4238d",
+      "title": "失控的焦慮世代：手機餵養的世代，如何面對心理疾病的瘟疫",
+      "author": "強納森．海德特",
+      "categoryId": "07_other",
+      "tags": [
+        "文化",
+        "歷史",
+        "社會",
+        "通識",
+        "社會觀察",
+        "科技文化",
+        "世代"
+      ],
+      "sourceName": "博客來人文史地暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/04/?loc=P_0002_005",
+      "sourceDateNote": "來源為博客來人文史地暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "07-de56b2b2ade7",
+      "title": "壓力下的優雅：喚醒以人為本的台灣經濟",
+      "author": "洪財隆",
+      "categoryId": "07_other",
+      "tags": [
+        "文化",
+        "歷史",
+        "社會",
+        "通識",
+        "台灣",
+        "經濟"
+      ],
+      "sourceName": "博客來人文史地暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/04/?loc=P_0002_005",
+      "sourceDateNote": "來源為博客來人文史地暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "07-7893d0e164dd",
+      "title": "我在億萬豪宅當保母：一個底層女孩在頂層社會的窺奇與學習",
+      "author": "史蒂芬妮‧基瑟",
+      "categoryId": "07_other",
+      "tags": [
+        "文化",
+        "歷史",
+        "社會",
+        "通識",
+        "回憶錄",
+        "階級",
+        "社會觀察"
+      ],
+      "sourceName": "博客來人文史地暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/04/?loc=P_0002_005",
+      "sourceDateNote": "來源為博客來人文史地暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "07-abdf342a0b0e",
+      "title": "制度基因：中國制度與極權主義制度的起源（平裝版）",
+      "author": "許成鋼",
+      "categoryId": "07_other",
+      "tags": [
+        "文化",
+        "歷史",
+        "社會",
+        "通識",
+        "制度",
+        "政治"
+      ],
+      "sourceName": "博客來人文史地暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/04/?loc=P_0002_005",
+      "sourceDateNote": "來源為博客來人文史地暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "07-f25419b37bce",
+      "title": "錢先花光，還是命先沒了？：長照4個90歲老人的我，將如何面對老後生活？",
+      "author": "小梶沙羅",
+      "categoryId": "07_other",
+      "tags": [
+        "文化",
+        "歷史",
+        "社會",
+        "通識",
+        "長照",
+        "老後",
+        "生活議題"
+      ],
+      "sourceName": "博客來人文史地暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/04/?loc=P_0002_005",
+      "sourceDateNote": "來源為博客來人文史地暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "07-94e363b49053",
+      "title": "手術室裡的小綠人： 麻醉後、恢復前，我們在忙什麼？這裡需要讀心與高速換檯，一個只有自己人的工作日常。",
+      "author": "手術室小綠人Apple",
+      "categoryId": "07_other",
+      "tags": [
+        "文化",
+        "歷史",
+        "社會",
+        "通識",
+        "職場紀實",
+        "醫療現場",
+        "工作日常"
+      ],
+      "sourceName": "博客來人文史地暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/04/?loc=P_0002_005",
+      "sourceDateNote": "來源為博客來人文史地暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "07-a6ac3cdb8a31",
+      "title": "傅佩榮講易經：詳解易經六十四卦（全二冊）",
+      "author": "傅佩榮",
+      "categoryId": "07_other",
+      "tags": [
+        "文化",
+        "歷史",
+        "社會",
+        "通識",
+        "易經",
+        "哲學",
+        "傳統文化"
+      ],
+      "sourceName": "博客來人文史地暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/04/?loc=P_0002_005",
+      "sourceDateNote": "來源為博客來人文史地暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "07-daf8cccfa60a",
+      "title": "溫特斯：作戰‧領導‧同袍，一位傘兵指揮官的戰場回憶",
+      "author": "理察‧溫特斯,柯爾‧C‧金西德",
+      "categoryId": "07_other",
+      "tags": [
+        "文化",
+        "歷史",
+        "社會",
+        "通識",
+        "戰史",
+        "回憶錄",
+        "領導"
+      ],
+      "sourceName": "博客來人文史地暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/04/?loc=P_0002_005",
+      "sourceDateNote": "來源為博客來人文史地暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "07-d2e865d1ac93",
+      "title": "如果歷史是一群喵(14)：明末清初篇〖萌貓漫畫學歷史〗",
+      "author": "肥志",
+      "categoryId": "07_other",
+      "tags": [
+        "文化",
+        "歷史",
+        "社會",
+        "通識",
+        "漫畫",
+        "明清"
+      ],
+      "sourceName": "博客來人文史地暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/04/?loc=P_0002_005",
+      "sourceDateNote": "來源為博客來人文史地暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
+    },
+    {
+      "id": "07-0569970fc62f",
+      "title": "鍍金的鳥籠：中國的科技、發展與國家資本主義",
+      "author": "雷雅雯",
+      "categoryId": "07_other",
+      "tags": [
+        "文化",
+        "歷史",
+        "社會",
+        "通識",
+        "中國",
+        "科技政策",
+        "國家資本主義"
+      ],
+      "sourceName": "博客來人文史地暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/web/sys_saletopb/books/04/?loc=P_0002_005",
+      "sourceDateNote": "來源為博客來人文史地暢銷榜；榜單頁未提供逐本明確出版日期；擷取日期：2026-07-09；搜尋日期區間：2000-06-01 到 2026-07-09。",
+      "searchDateRange": {
+        "from": "2000-06-01",
+        "to": "2026-07-09"
+      }
     }
   ],
-  "totalBooks": 20
+  "totalBooks": 164
 }
