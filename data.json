@@ -438,13 +438,27 @@
                                ],
                       "sourceName":  "博客來自然科普暢銷榜 TOP 10",
                       "sourceUrl":  "https://www.books.com.tw/products/0011052407?loc=P_0003_010"
+                  },
+                  {
+                      "id":  "01_business_startup-20260710-01",
+                      "title":  "波段的紀律：我在海龜操盤手訓練、法人交易現場學到的進場、加碼、退場紀律，守住紀律獲利至少50％",
+                      "author":  "雷老闆",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "商業",
+                                   "投資",
+                                   "交易",
+                                   "理財"
+                               ],
+                      "sourceName":  "博客來商業理財暢銷榜 TOP 12",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011000702?loc=P_0003_012"
                   }
               ],
-    "totalBooks":  28,
+    "totalBooks":  29,
     "searchDateRange":  {
                             "from":  "2000-06-01",
-                            "to":  "2026-07-09"
+                            "to":  "2026-07-10"
                         },
     "generatedFrom":  "FindBook_Skill.md web ChatGPT/Gemini completed items only",
-    "generatedAt":  "2026-07-10T00:00:00+08:00"
+    "generatedAt":  "2026-07-10T02:03:30+08:00"
 }

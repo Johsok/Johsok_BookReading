@@ -52,9 +52,9 @@
 1. 先將所有待整理新書建立成工作佇列，每個工作至少包含：書名、作者、分類、來源資訊、`searchDateRange`。
 2. ChatGPT 與 Gemini 各自使用獨立 worker pool，不互相等待；同一本書可同時啟動 ChatGPT 重點與 Gemini 重點整理。
 3. 每次執行前先確認當下 ChatGPT 與 Gemini 可穩定處理的多工上限，分別記為 `chatgptMaxWorkers` 與 `geminiMaxWorkers`。
-4. 多工上限以實際服務、帳號、Chrome 操作穩定性與速率限制為準；不得繞過服務限制、建立額外帳號或用會觸發封鎖的方式提高併發。
-5. 若無法事先確認上限，從 1 個 worker 開始，逐步增加到 2、3、4...；一旦出現限流、回覆品質下降、分頁/對話切換錯亂或操作不穩，就回退到上一個穩定值。
-6. ChatGPT worker 數不得超過 `chatgptMaxWorkers`；Gemini worker 數不得超過 `geminiMaxWorkers`，且 Gemini worker 是同一個 Gemini 網頁內的新聊天窗/新對話，不是額外 Chrome 分頁。
+4. 多工上限以實際服務、帳號、瀏覽器分頁、MCP 操作穩定性與速率限制為準；不得繞過服務限制、建立額外帳號或用會觸發封鎖的方式提高併發。
+5. 若無法事先確認上限，從 1 個 worker 開始，逐步增加到 2、3、4...；一旦出現限流、回覆品質下降、分頁錯亂或操作不穩，就回退到上一個穩定值。
+6. ChatGPT worker 數不得超過 `chatgptMaxWorkers`；Gemini worker 數不得超過 `geminiMaxWorkers`。
 7. 每個 worker 一次只處理一本書的一種來源重點，完成並驗證 100 點後才領取下一個工作。
 8. 必須用「書名 + 作者 + 來源模型」追蹤每個工作，避免 ChatGPT 與 Gemini 結果寫入錯誤書籍。
 9. 若某個 worker 失敗，將該工作標記為待重試，不得阻塞其他 worker 繼續處理。
@@ -83,15 +83,13 @@
 
 ## Gemini 重點
 1. 必須操作使用者 Chrome 裡已登入的 Gemini 網頁版，不得使用 Codex 本身回答、Gemini API、其他瀏覽器、其他網頁外掛或本地模板替代 Gemini 網頁版輸出。
-2. 進入 Chrome 的單一 Gemini 頁面，並啟用 Gemini 最高階 pro 的 model；多工時不得開啟多個 Gemini 分頁，需依 `geminiMaxWorkers` 在同一個 Gemini 網頁中開新聊天窗/新對話。
+2. 進入 Chrome 的 Gemini 頁面，並啟用 Gemini 最高階 pro 的 model；多工時依 `geminiMaxWorkers` 開啟可穩定操作的獨立 Chrome 分頁或對話。
 3. Gemini 輸入框必須 Key 入該書的固定關鍵字：`書名、作者、標題格式為，01、02、....100，請輸出書籍 100 個重點整理「依照網頁版風格整理」`，其中 `書名` 與 `作者` 要替換成實際書名與作者。
-4. Gemini 多工流程為：先在目前聊天窗送出第一本書並記錄「書名 + 作者 + 對話識別」；接著使用 Gemini 的新聊天窗/新對話功能送出下一本書；重複直到達到 `geminiMaxWorkers` 或待處理工作耗盡。
-5. 不同 Gemini 工作必須在同一個 Chrome 分頁內切換對話追蹤，不得用多分頁模擬多工；每本書仍需保留獨立提示、獨立對話與獨立結果暫存。
-6. 取得 Chrome Gemini 網頁版回覆後，檢查是否剛好 100 點。
-7. 若不足、超過或編號錯誤，必須在 Chrome Gemini 網頁版同一對話要求補齊、刪減或重排到剛好 100 點。
-8. 將 Chrome Gemini 網頁版最後驗收通過的結果寫回 `index.html` 會讀取的相關 JSON 中，存入該書的 `geminiHighlights`，並將 `geminiStatus` 設為 `complete`。
-9. 寫入 JSON 時只保留 `01、` 到 `100、` 的重點行；前言、結語、Markdown 標題、清單說明、模型自述或其他多餘文字一律不得寫入。
-10. 確認同一本書同時保留 `chatgptHighlights` 與 `geminiHighlights`，讓 `index.html` 可以同時顯示 ChatGPT 和 Gemini 的重點整理。
+4. 取得 Chrome Gemini 網頁版回覆後，檢查是否剛好 100 點。
+5. 若不足、超過或編號錯誤，必須在 Chrome Gemini 網頁版同一對話要求補齊、刪減或重排到剛好 100 點。
+6. 將 Chrome Gemini 網頁版最後驗收通過的結果寫回 `index.html` 會讀取的相關 JSON 中，存入該書的 `geminiHighlights`，並將 `geminiStatus` 設為 `complete`。
+7. 寫入 JSON 時只保留 `01、` 到 `100、` 的重點行；前言、結語、Markdown 標題、清單說明、模型自述或其他多餘文字一律不得寫入。
+8. 確認同一本書同時保留 `chatgptHighlights` 與 `geminiHighlights`，讓 `index.html` 可以同時顯示 ChatGPT 和 Gemini 的重點整理。
 
 ## 重點格式驗收
 
@@ -136,14 +134,15 @@
 
 ## 驗證
 
-1. 不需另開server做測試，盡快下載資訊存至相關的json中，所有 JSON 必須能被 JSON parser 讀取。
+1. 所有 JSON 必須能被 JSON parser 讀取。
 2. `data.json` 中的書籍索引不得重複同一組「書名 + 作者」。
 3. 每本新書的 ChatGPT 及 Gemini 的重點需為 100 點。
-4. `geminiStatus: complete` 只能用於已確認來自網頁版 Gemini 的內容。
+4. `chatgptStatus: complete` 只能用於已確認來自網頁版 ChatGPT 的內容；`geminiStatus: complete` 只能用於已確認來自網頁版 Gemini 的內容。
 5. 抽查每本書的第 1、50、100 點，必須和對應網頁版最後回覆一致。
 6. 若 ChatGPT 或 Gemini 已補齊，補齊後的重點也需為 100 點，且必須來自同一個網頁版服務。
-7. 開啟 `index.html` 後，主題下拉選單能顯示新書，書名下拉選單能切換資料。
-8. 不可有亂碼文字。
+7. 新書來源必須保留日期區間與來源日期說明。
+8. 開啟 `index.html` 後，主題下拉選單能顯示新書，書名下拉選單能切換資料。
+9. 不可有亂碼文字。
 
 
 ## push到Github
