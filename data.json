@@ -5108,13 +5108,423 @@
       ],
       "sourceName": "博客來中文書商品頁（心理勵志／人際溝通）",
       "sourceUrl": "https://www.books.com.tw/products/0010998290"
+    },
+    {
+      "id": "03_natural_science-20260710-71",
+      "title": "萬物之隙：從無人問津到走入科學核心，黑洞如何成為我們理解宇宙和自身存在的鑰匙？",
+      "author": "馬庫斯．卓恩",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "黑洞",
+        "天體物理",
+        "廣義相對論",
+        "宇宙學"
+      ],
+      "sourceName": "博客來中文書商品頁（自然科普／物理與天文）",
+      "sourceUrl": "https://www.books.com.tw/products/0011045489"
+    },
+    {
+      "id": "03_natural_science-20260710-72",
+      "title": "宇宙大解構：從大霹靂到黑洞，窺見宇宙的誕生、演化與未來",
+      "author": "劉俊初",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "宇宙學",
+        "大霹靂",
+        "星系演化",
+        "宇宙未來"
+      ],
+      "sourceName": "博客來中文書商品頁（自然科普／物理與天文）",
+      "sourceUrl": "https://www.books.com.tw/products/0011036619"
+    },
+    {
+      "id": "03_natural_science-20260710-73",
+      "title": "太空，原來如此：最好懂的宇宙史與天文知識小百科",
+      "author": "帕維爾・加布茲迪爾",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "天文學",
+        "太陽系",
+        "太空探索",
+        "宇宙入門"
+      ],
+      "sourceName": "博客來中文書商品頁（自然科普／物理與天文）",
+      "sourceUrl": "https://www.books.com.tw/products/0011029238"
+    },
+    {
+      "id": "03_natural_science-20260710-74",
+      "title": "最強IT・科學超圖解：AI、半導體、核分裂、量子力學、太空電梯……創造我們世界與未來的180個物理必修課",
+      "author": "鈴木裕太, 池末翔太 監修",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "物理學",
+        "量子力學",
+        "相對論",
+        "科技應用"
+      ],
+      "sourceName": "博客來中文書商品頁（自然科普／物理與天文）",
+      "sourceUrl": "https://www.books.com.tw/products/0011021614"
+    },
+    {
+      "id": "03_natural_science-20260710-75",
+      "title": "奇妙量子世界：人人都能看懂的量子科學漫畫",
+      "author": "墨子沙龍",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "量子力學",
+        "量子糾纏",
+        "科學漫畫",
+        "物理科普"
+      ],
+      "sourceName": "博客來中文書商品頁（自然科普／物理與天文）",
+      "sourceUrl": "https://www.books.com.tw/products/0011014863"
+    },
+    {
+      "id": "03_natural_science-20260710-76",
+      "title": "天文觀測超圖解：日月篇",
+      "author": "李德生",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "天文觀測",
+        "太陽",
+        "月球",
+        "望遠鏡"
+      ],
+      "sourceName": "博客來中文書商品頁（自然科普／物理與天文）",
+      "sourceUrl": "https://www.books.com.tw/products/0011010584"
+    },
+    {
+      "id": "03_natural_science-20260710-77",
+      "title": "〖牛津通識課31〗黑洞：扭曲時空之地",
+      "author": "凱薩琳‧布倫戴爾",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "黑洞",
+        "時空",
+        "天體物理",
+        "熱力學"
+      ],
+      "sourceName": "博客來中文書商品頁（自然科普／物理與天文）",
+      "sourceUrl": "https://www.books.com.tw/products/0011002426"
+    },
+    {
+      "id": "03_natural_science-20260710-78",
+      "title": "多重宇宙、平行世界是可能的嗎？：一本理科小白也會邊看邊笑的量子力學入門",
+      "author": "傑瑞米‧哈里斯",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "量子力學",
+        "多世界詮釋",
+        "量子測量",
+        "物理哲學"
+      ],
+      "sourceName": "博客來中文書商品頁（自然科普／物理與天文）",
+      "sourceUrl": "https://www.books.com.tw/products/0011001860"
+    },
+    {
+      "id": "03_natural_science-20260710-79",
+      "title": "超簡單量子力學：探索量子物理的起源，從普朗克常數到薛丁格方程式，奠定古典物理的基石",
+      "author": "高鵬",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "量子力學",
+        "量子技術",
+        "量子糾纏",
+        "量子計算"
+      ],
+      "sourceName": "博客來中文書商品頁（自然科普／物理與天文）",
+      "sourceUrl": "https://www.books.com.tw/products/0010997754"
+    },
+    {
+      "id": "03_natural_science-20260710-80",
+      "title": "時間的起源：史蒂芬．霍金的最終理論",
+      "author": "湯瑪仕．赫托",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "宇宙學",
+        "時間起源",
+        "史蒂芬霍金",
+        "大霹靂"
+      ],
+      "sourceName": "博客來中文書商品頁（自然科普／物理與天文）",
+      "sourceUrl": "https://www.books.com.tw/products/0010992596"
+    },
+    {
+      "id": "03_natural_science-20260710-81",
+      "title": "圖解生物學：探索從細胞到生命的奧祕",
+      "author": "Kevin Chen 著",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "生物學",
+        "細胞",
+        "遺傳",
+        "演化"
+      ],
+      "sourceName": "博客來中文書商品頁（自然科普／生物學）",
+      "sourceUrl": "https://www.books.com.tw/products/0011045330"
+    },
+    {
+      "id": "03_natural_science-20260710-82",
+      "title": "有趣到睡不著的演化：沒有你我也無法生存？",
+      "author": "長谷川英祐",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "演化",
+        "共生",
+        "遺傳",
+        "社會性昆蟲"
+      ],
+      "sourceName": "博客來中文書商品頁（自然科普／演化遺傳）",
+      "sourceUrl": "https://www.books.com.tw/products/0011017605"
+    },
+    {
+      "id": "03_natural_science-20260710-83",
+      "title": "人類存在的意義：一個生物學家對生命的思索",
+      "author": "愛德華．威爾森",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "演化生物學",
+        "社會生物學",
+        "人類起源",
+        "生物多樣性"
+      ],
+      "sourceName": "博客來中文書商品頁（自然科普／演化遺傳）",
+      "sourceUrl": "https://www.books.com.tw/products/0011018237"
+    },
+    {
+      "id": "03_natural_science-20260710-84",
+      "title": "當動物拳腳相向時：動物為何而戰？從生物學看衝突、排擠、搶奪與強制交配如何形塑動物行為",
+      "author": "羅伊克．博拉許",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "動物行為",
+        "生態學",
+        "衝突",
+        "演化策略"
+      ],
+      "sourceName": "博客來中文書商品頁（自然科普／動物行為）",
+      "sourceUrl": "https://www.books.com.tw/products/0011023882"
+    },
+    {
+      "id": "03_natural_science-20260710-85",
+      "title": "聆聽虎鯨之聲：鯨豚研究奠基者的追鯨紀實",
+      "author": "艾利希‧霍伊特",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "虎鯨",
+        "動物行為",
+        "海洋生態",
+        "保育"
+      ],
+      "sourceName": "博客來中文書商品頁（自然科普／動物行為）",
+      "sourceUrl": "https://www.books.com.tw/products/0011036861"
+    },
+    {
+      "id": "03_natural_science-20260710-86",
+      "title": "潮汐國度：生命的繁衍密語",
+      "author": "劉毅, 尉鵬",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "潮間帶",
+        "繁殖策略",
+        "適應演化",
+        "海洋生態"
+      ],
+      "sourceName": "博客來中文書商品頁（自然科普／海洋生態）",
+      "sourceUrl": "https://www.books.com.tw/products/0011035937"
+    },
+    {
+      "id": "03_natural_science-20260710-87",
+      "title": "旅行在樹梢：七棵樹的故事，與一個生態學家的二十年樹冠層研究筆記",
+      "author": "藍永翔",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "樹冠層",
+        "森林生態",
+        "巨木",
+        "氣候變遷"
+      ],
+      "sourceName": "博客來中文書商品頁（自然科普／森林生態）",
+      "sourceUrl": "https://www.books.com.tw/products/0011019204"
+    },
+    {
+      "id": "03_natural_science-20260710-88",
+      "title": "風中舞者：老鷹四季的飛行圖譜",
+      "author": "陳世一, 張雯玲",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "黑鳶",
+        "鳥類生態",
+        "自然觀察",
+        "保育"
+      ],
+      "sourceName": "博客來中文書商品頁（自然科普／鳥類生態）",
+      "sourceUrl": "https://www.books.com.tw/products/0011040675"
+    },
+    {
+      "id": "03_natural_science-20260710-89",
+      "title": "臺灣海洋生態科普百分百",
+      "author": "海洋保育署",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "海洋生態",
+        "臺灣海洋",
+        "生物多樣性",
+        "環境教育"
+      ],
+      "sourceName": "博客來中文書商品頁（政府出版品／海洋生態）",
+      "sourceUrl": "https://www.books.com.tw/products/0011022797"
+    },
+    {
+      "id": "03_natural_science-20260710-90",
+      "title": "馬祖海域小小漂浮客: 隱形的英雄及守護者",
+      "author": "張桂祥, 沈康寧, 謝泓諺, 蔣國平, 林芸琪作; 張至維主編",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "浮游生物",
+        "海洋食物網",
+        "馬祖",
+        "海洋保育"
+      ],
+      "sourceName": "博客來中文書商品頁（政府出版品／海洋生態）",
+      "sourceUrl": "https://www.books.com.tw/products/0011044013"
+    },
+    {
+      "id": "03_natural_science-20260710-91",
+      "title": "驚天動地的地球科學大百科：讀懂災害知識，成為環境小公民",
+      "author": "羅賓・雅各布斯",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "地球科學",
+        "天然災害",
+        "防災"
+      ],
+      "sourceName": "博客來中文書商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0010985943"
+    },
+    {
+      "id": "03_natural_science-20260710-92",
+      "title": "地熱臺灣：潛力",
+      "author": "張煥金",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "地熱",
+        "臺灣地質",
+        "再生能源"
+      ],
+      "sourceName": "博客來中文書商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011007218"
+    },
+    {
+      "id": "03_natural_science-20260710-93",
+      "title": "地球不碳氣：氣候變遷、減碳和我們的未來",
+      "author": "黛比‧利維",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "氣候變遷",
+        "減碳",
+        "碳循環"
+      ],
+      "sourceName": "博客來中文書商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011015272"
+    },
+    {
+      "id": "03_natural_science-20260710-94",
+      "title": "一看就懂的天氣圖鑑（SDGs）",
+      "author": "稻葉茂勝",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "氣象",
+        "氣候",
+        "SDGs"
+      ],
+      "sourceName": "博客來中文書商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011026515"
+    },
+    {
+      "id": "03_natural_science-20260710-95",
+      "title": "國家地理終極氣象百科(新版)：史上最完整的天氣知識參考書",
+      "author": "史蒂芬妮・華倫・德里默",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "氣象學",
+        "極端天氣",
+        "氣候變遷"
+      ],
+      "sourceName": "博客來中文書商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0010987188"
+    },
+    {
+      "id": "03_natural_science-20260710-96",
+      "title": "最廣泛實用的數學課：探索公理與定義，一手掌握數學知識",
+      "author": "古賀真輝",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "數學",
+        "公理",
+        "數學概論"
+      ],
+      "sourceName": "博客來中文書商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011006444"
+    },
+    {
+      "id": "03_natural_science-20260710-97",
+      "title": "學數學，從「笨問題」開始：為什麼1+1=2？「1」為何不是質數？理解數學的邏輯思維，重拾探索數學的樂趣",
+      "author": "鄭樂雋",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "數學思維",
+        "邏輯",
+        "問題探索"
+      ],
+      "sourceName": "博客來中文書商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011004384"
+    },
+    {
+      "id": "03_natural_science-20260710-98",
+      "title": "數學通識講義：搞懂人生最強思考工具，升級判斷與解決問題的能力",
+      "author": "吳軍",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "數學通識",
+        "理性思考",
+        "問題解決"
+      ],
+      "sourceName": "博客來中文書商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011018807"
+    },
+    {
+      "id": "03_natural_science-20260710-99",
+      "title": "DK改變世界的數學圖鑑：我們的文明生活，都是這樣算出來的！（從根本奠定數學能力的圖解書）",
+      "author": "英國DK編輯部",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "數學史",
+        "生活數學",
+        "圖解科普"
+      ],
+      "sourceName": "博客來中文書商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0010987674"
+    },
+    {
+      "id": "03_natural_science-20260710-100",
+      "title": "化學簡史，從陶瓷到石墨烯：青黴素發明、制定元素週期表、核磁共振、碳14定年法……科學是如何從火藥走到量子新能源？",
+      "author": "侯純明",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "化學史",
+        "材料科學",
+        "科技文明"
+      ],
+      "sourceName": "博客來中文書商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011013439"
     }
   ],
-  "totalBooks": 361,
+  "totalBooks": 391,
   "searchDateRange": {
     "from": "2000-06-01",
     "to": "2026-07-10"
   },
-  "generatedFrom": "FindBook_Skill.md reservation checkpoint",
-  "generatedAt": "2026-07-11T00:19:32+08:00"
+  "generatedFrom": "FindBook_Skill.md: 391 complete items and 0 pending Codex candidates",
+  "generatedAt": "2026-07-11T02:45:50+08:00"
 }
