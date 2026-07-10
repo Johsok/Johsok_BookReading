@@ -82,15 +82,15 @@ def validate_highlights(book: dict, errors: list[str]) -> None:
         return
     if status != "complete":
         return
-    if len(lines) not in (100, 200):
-        errors.append(f"{book.get('id')} Codex 完成狀態卻不是舊版 100 點或新版 200 點")
+    if len(lines) not in (100, 150, 200):
+        errors.append(f"{book.get('id')} Codex 完成狀態卻不是相容的 100、150 或 200 點")
         return
-    if len(lines) == 200:
+    if len(lines) in (150, 200):
         if book.get("highlightsSource") != "codex":
             errors.append(f"{book.get('id')} 新版 Codex 重點的 highlightsSource 必須是 codex")
         if not book.get("highlightsCapturedAt"):
             errors.append(f"{book.get('id')} 新版 Codex 重點缺少 highlightsCapturedAt")
-    number_width = 3 if len(lines) == 200 else 2
+    number_width = 3 if len(lines) in (150, 200) else 2
     short_colon_lines = []
     for index, line in enumerate(lines, 1):
         expected = f"{index:0{number_width}d}、"
@@ -211,6 +211,12 @@ def run_validate(args: argparse.Namespace) -> int:
                 errors.append(f"{book.get('id')} 起始日期不符")
             if args.to_date and date_range.get("to") != args.to_date:
                 errors.append(f"{book.get('id')} 結束日期不符")
+    if expected is not None:
+        for book in new_books:
+            if book.get("chatgptStatus") != "complete":
+                errors.append(f"{book.get('id')} 本次新增書籍的 Codex 重點尚未完成")
+            elif len(book.get("chatgptHighlights") or []) != 150:
+                errors.append(f"{book.get('id')} 本次新增書籍的 Codex 重點必須剛好 150 點")
 
     for category in categories:
         books = category.get("books", [])
