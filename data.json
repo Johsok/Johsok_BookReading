@@ -1,4 +1,4 @@
-﻿{
+{
     "version":  "2026-07-10",
     "title":  "讀書後重點整理",
     "recommendedStorage":  "data.json 僅存索引；分類 JSON 存書籍重點；超過 1000 本時改為每本一個 JSON 並由 data.json 指向檔案路徑。",
@@ -454,32 +454,32 @@
                       "sourceUrl":  "https://www.books.com.tw/products/0011000702?loc=P_0003_012"
                   },
                   {
-                      "id": "01_business_startup-20260710-02",
-                      "title": "致富心態（全球暢銷千萬增訂版）：關於財富、貪婪與幸福的20堂理財課",
-                      "author": "摩根．豪瑟",
-                      "categoryId": "01_business_startup",
-                      "tags": [
-                          "理財心理",
-                          "投資行為",
-                          "財務自由",
-                          "風險管理"
-                      ],
-                      "sourceName": "博客來商業理財暢銷榜 TOP 13",
-                      "sourceUrl": "https://www.books.com.tw/products/0011043967?loc=P_0003_013"
+                      "id":  "01_business_startup-20260710-02",
+                      "title":  "致富心態（全球暢銷千萬增訂版）：關於財富、貪婪與幸福的20堂理財課",
+                      "author":  "摩根．豪瑟",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "理財心理",
+                                   "投資行為",
+                                   "財務自由",
+                                   "風險管理"
+                               ],
+                      "sourceName":  "博客來商業理財暢銷榜 TOP 13",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011043967?loc=P_0003_013"
                   },
                   {
-                      "id": "01_business_startup-20260710-03",
-                      "title": "窮查理的普通常識（紀念典藏版）：巴菲特50年智慧合夥人查理．蒙格的人生哲學",
-                      "author": "查理．蒙格",
-                      "categoryId": "01_business_startup",
-                      "tags": [
-                          "投資哲學",
-                          "多元思維模型",
-                          "決策心理",
-                          "價值投資"
-                      ],
-                      "sourceName": "博客來商業理財暢銷榜 TOP 14",
-                      "sourceUrl": "https://www.books.com.tw/products/0010987407?loc=P_0003_014"
+                      "id":  "01_business_startup-20260710-03",
+                      "title":  "窮查理的普通常識（紀念典藏版）：巴菲特50年智慧合夥人查理．蒙格的人生哲學",
+                      "author":  "查理．蒙格",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "投資哲學",
+                                   "多元思維模型",
+                                   "決策心理",
+                                   "價值投資"
+                               ],
+                      "sourceName":  "博客來商業理財暢銷榜 TOP 14",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010987407?loc=P_0003_014"
                   },
                   {
                       "id":  "01_business_startup-20260710-04",
@@ -496,151 +496,1789 @@
                       "sourceUrl":  "https://www.books.com.tw/products/0011052900?loc=P_0003_015"
                   },
                   {
-                      "id": "01_business_startup-20260710-32",
-                      "title": "一人公司：為什麼小而美是未來企業發展的趨勢",
-                      "author": "保羅．賈維斯",
-                      "categoryId": "01_business_startup",
-                      "tags": [
-                          "一人公司",
-                          "小型企業",
-                          "永續經營",
-                          "自主工作"
-                      ],
-                      "sourceName": "博客來中文書商品頁",
-                      "sourceUrl": "https://www.books.com.tw/products/0010825335"
+                      "id":  "01_business_startup-20260710-32",
+                      "title":  "一人公司：為什麼小而美是未來企業發展的趨勢",
+                      "author":  "保羅．賈維斯",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "一人公司",
+                                   "小型企業",
+                                   "永續經營",
+                                   "自主工作"
+                               ],
+                      "sourceName":  "博客來中文書商品頁",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010825335"
                   },
                   {
-                      "id": "01_business_startup-20260710-33",
-                      "title": "一個週末！打造千萬事業：七次創業都成功，創造財富破億！超簡單公式教會你找到需求×設計方案×持續成長，將收益最大化",
-                      "author": "諾亞．凱根, 塔爾．拉茲",
-                      "categoryId": "01_business_startup",
-                      "tags": [
-                          "創業驗證",
-                          "市場需求",
-                          "首筆銷售",
-                          "事業成長"
-                      ],
-                      "sourceName": "博客來中文書商品頁",
-                      "sourceUrl": "https://www.books.com.tw/products/0011006623"
+                      "id":  "01_business_startup-20260710-33",
+                      "title":  "一個週末！打造千萬事業：七次創業都成功，創造財富破億！超簡單公式教會你找到需求×設計方案×持續成長，將收益最大化",
+                      "author":  "諾亞．凱根, 塔爾．拉茲",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "創業驗證",
+                                   "市場需求",
+                                   "首筆銷售",
+                                   "事業成長"
+                               ],
+                      "sourceName":  "博客來中文書商品頁",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011006623"
                   },
                   {
-                      "id": "01_business_startup-20260710-34",
-                      "title": "可複製的領導力：300萬付費會員推崇，樊登的九堂商業課",
-                      "author": "樊登",
-                      "categoryId": "01_business_startup",
-                      "tags": [
-                          "領導工具",
-                          "目標管理",
-                          "團隊溝通",
-                          "員工培育"
-                      ],
-                      "sourceName": "博客來中文書商品頁",
-                      "sourceUrl": "https://www.books.com.tw/products/0010805719"
+                      "id":  "01_business_startup-20260710-34",
+                      "title":  "可複製的領導力：300萬付費會員推崇，樊登的九堂商業課",
+                      "author":  "樊登",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "領導工具",
+                                   "目標管理",
+                                   "團隊溝通",
+                                   "員工培育"
+                               ],
+                      "sourceName":  "博客來中文書商品頁",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010805719"
                   },
                   {
-                      "id": "01_business_startup-20260710-35",
-                      "title": "從A到A+：企業從優秀到卓越的奧祕（暢銷新裝版）",
-                      "author": "詹姆．柯林斯",
-                      "categoryId": "01_business_startup",
-                      "tags": [
-                          "卓越企業",
-                          "第五級領導",
-                          "刺蝟原則",
-                          "飛輪效應"
-                      ],
-                      "sourceName": "博客來中文書商品頁",
-                      "sourceUrl": "https://www.books.com.tw/products/0010845587"
+                      "id":  "01_business_startup-20260710-35",
+                      "title":  "從A到A+：企業從優秀到卓越的奧祕（暢銷新裝版）",
+                      "author":  "詹姆．柯林斯",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "卓越企業",
+                                   "第五級領導",
+                                   "刺蝟原則",
+                                   "飛輪效應"
+                               ],
+                      "sourceName":  "博客來中文書商品頁",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010845587"
                   },
                   {
-                      "id": "01_business_startup-20260710-36",
-                      "title": "僕人I：修道院的領導啟示錄",
-                      "author": "詹姆士．杭特",
-                      "categoryId": "01_business_startup",
-                      "tags": [
-                          "僕人式領導",
-                          "權威",
-                          "服務",
-                          "團隊信任"
-                      ],
-                      "sourceName": "博客來中文書商品頁",
-                      "sourceUrl": "https://www.books.com.tw/products/0011010367"
+                      "id":  "01_business_startup-20260710-36",
+                      "title":  "僕人I：修道院的領導啟示錄",
+                      "author":  "詹姆士．杭特",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "僕人式領導",
+                                   "權威",
+                                   "服務",
+                                   "團隊信任"
+                               ],
+                      "sourceName":  "博客來中文書商品頁",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011010367"
                   },
                   {
-                      "id": "01_business_startup-20260710-37",
-                      "title": "思辨賽局〖修訂版〗：看穿局勢、創造優勢的策略智慧",
-                      "author": "阿維納什．迪克西特, 貝利．奈勒波夫",
-                      "categoryId": "01_business_startup",
-                      "tags": [
-                          "賽局理論",
-                          "策略決策",
-                          "競爭合作",
-                          "談判"
-                      ],
-                      "sourceName": "博客來中文書商品頁",
-                      "sourceUrl": "https://www.books.com.tw/products/0010992048"
+                      "id":  "01_business_startup-20260710-37",
+                      "title":  "思辨賽局〖修訂版〗：看穿局勢、創造優勢的策略智慧",
+                      "author":  "阿維納什．迪克西特, 貝利．奈勒波夫",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "賽局理論",
+                                   "策略決策",
+                                   "競爭合作",
+                                   "談判"
+                               ],
+                      "sourceName":  "博客來中文書商品頁",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010992048"
                   },
                   {
-                      "id": "01_business_startup-20260710-38",
-                      "title": "先問，為什麼？：顛覆慣性思考的黃金圈理論，啟動你的感召領導力（新增訂版）",
-                      "author": "賽門‧西奈克",
-                      "categoryId": "01_business_startup",
-                      "tags": [
-                          "黃金圈",
-                          "品牌使命",
-                          "感召領導",
-                          "組織溝通"
-                      ],
-                      "sourceName": "博客來中文書商品頁",
-                      "sourceUrl": "https://www.books.com.tw/products/0010926506"
+                      "id":  "01_business_startup-20260710-38",
+                      "title":  "先問，為什麼？：顛覆慣性思考的黃金圈理論，啟動你的感召領導力（新增訂版）",
+                      "author":  "賽門‧西奈克",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "黃金圈",
+                                   "品牌使命",
+                                   "感召領導",
+                                   "組織溝通"
+                               ],
+                      "sourceName":  "博客來中文書商品頁",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010926506"
                   },
                   {
-                      "id": "01_business_startup-20260710-39",
-                      "title": "執行力的修練（增訂更新版）：達成極重要目標，與成功有約的4個紀律",
-                      "author": "麥切斯尼, 柯維, 霍林, 泰利, 華克",
-                      "categoryId": "01_business_startup",
-                      "tags": [
-                          "4DX",
-                          "極重要目標",
-                          "領先指標",
-                          "當責節奏"
-                      ],
-                      "sourceName": "博客來中文書商品頁",
-                      "sourceUrl": "https://www.books.com.tw/products/0010951069"
+                      "id":  "01_business_startup-20260710-39",
+                      "title":  "執行力的修練（增訂更新版）：達成極重要目標，與成功有約的4個紀律",
+                      "author":  "麥切斯尼, 柯維, 霍林, 泰利, 華克",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "4DX",
+                                   "極重要目標",
+                                   "領先指標",
+                                   "當責節奏"
+                               ],
+                      "sourceName":  "博客來中文書商品頁",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010951069"
                   },
                   {
-                      "id": "01_business_startup-20260710-40",
-                      "title": "葛洛夫給經理人的第一課：從煮蛋、賣咖啡的早餐店談高效能管理之道（暢銷新裝版）（3版）",
-                      "author": "安德魯．葛洛夫",
-                      "categoryId": "01_business_startup",
-                      "tags": [
-                          "高產出管理",
-                          "管理槓桿",
-                          "流程設計",
-                          "績效管理"
-                      ],
-                      "sourceName": "博客來中文書商品頁",
-                      "sourceUrl": "https://www.books.com.tw/products/0010816790"
+                      "id":  "01_business_startup-20260710-40",
+                      "title":  "葛洛夫給經理人的第一課：從煮蛋、賣咖啡的早餐店談高效能管理之道（暢銷新裝版）（3版）",
+                      "author":  "安德魯．葛洛夫",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "高產出管理",
+                                   "管理槓桿",
+                                   "流程設計",
+                                   "績效管理"
+                               ],
+                      "sourceName":  "博客來中文書商品頁",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010816790"
                   },
                   {
-                      "id": "01_business_startup-20260710-41",
-                      "title": "OKR：做最重要的事",
-                      "author": "約翰‧杜爾",
-                      "categoryId": "01_business_startup",
-                      "tags": [
-                          "OKR",
-                          "目標與關鍵成果",
-                          "組織對齊",
-                          "績效追蹤"
-                      ],
-                      "sourceName": "博客來中文書商品頁",
-                      "sourceUrl": "https://www.books.com.tw/products/0010813170"
+                      "id":  "01_business_startup-20260710-41",
+                      "title":  "OKR：做最重要的事",
+                      "author":  "約翰‧杜爾",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "OKR",
+                                   "目標與關鍵成果",
+                                   "組織對齊",
+                                   "績效追蹤"
+                               ],
+                      "sourceName":  "博客來中文書商品頁",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010813170"
+                  },
+                  {
+                      "id":  "01_business_startup-20260710-42",
+                      "title":  "複利效應：6步驟引爆收入、生活和各項成就倍數成長（二版）",
+                      "author":  "戴倫．哈迪",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "複利效應",
+                                   "習慣養成",
+                                   "目標追蹤",
+                                   "持續行動"
+                               ],
+                      "sourceName":  "博客來中文書商品頁",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011021038"
+                  },
+                  {
+                      "id":  "01_business_startup-20260710-43",
+                      "title":  "有錢人想的和你不一樣",
+                      "author":  "T. Harv Eker",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "金錢藍圖",
+                                   "財富思維",
+                                   "理財行動",
+                                   "自我覺察"
+                               ],
+                      "sourceName":  "博客來中文書商品頁",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010316121"
+                  },
+                  {
+                      "id":  "01_business_startup-20260710-44",
+                      "title":  "獲利優先：大道至簡的現金管理系統",
+                      "author":  "麥可．米卡洛維茲",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "獲利優先",
+                                   "現金管理",
+                                   "帳戶分配",
+                                   "小企業財務"
+                               ],
+                      "sourceName":  "博客來中文書商品頁",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010976595"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-11",
+                      "title":  "你可以習慣不在意：不內耗、不執著、不迷惘的62個心態重整練習",
+                      "author":  "枡野俊明",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "不內耗",
+                                   "禪練習",
+                                   "情緒整理",
+                                   "人際界線"
+                               ],
+                      "sourceName":  "博客來中文書商品頁",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011019188"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-12",
+                      "title":  "也許你該找人聊聊：一個諮商心理師與她的心理師，以及我們的生活（二版）",
+                      "author":  "蘿蕊・葛利布",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "心理治療",
+                                   "自我敘事",
+                                   "關係修復",
+                                   "生命轉變"
+                               ],
+                      "sourceName":  "博客來中文書商品頁",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010963696"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-13",
+                      "title":  "情緒勒索〔全球暢銷20年經典〕：遇到利用恐懼、責任與罪惡感控制你的人，該怎麼辦？",
+                      "author":  "蘇珊‧佛沃, 唐娜‧費瑟",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "情緒勒索",
+                                   "FOG",
+                                   "人際界線",
+                                   "溝通練習"
+                               ],
+                      "sourceName":  "博客來中文書商品頁",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010762199"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-09",
+                      "title":  "別鬧了，費曼先生：科學頑童的故事",
+                      "author":  "理查．費曼",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "費曼",
+                                   "科學精神",
+                                   "好奇心",
+                                   "物理學家傳記"
+                               ],
+                      "sourceName":  "博客來中文書商品頁",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010788565"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-10",
+                      "title":  "生命的躍升：40 億年演化史上最重要的10 大關鍵",
+                      "author":  "尼克‧連恩",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "演化",
+                                   "生命起源",
+                                   "DNA",
+                                   "複雜生命"
+                               ],
+                      "sourceName":  "博客來中文書商品頁",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010893290"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-11",
+                      "title":  "打造幸福腦〖金融時報年度最佳科普書〗：大腦如何操控身體與心理健康，讓我們成為現在的樣子？",
+                      "author":  "卡蜜拉．諾德",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "神經科學",
+                                   "心理健康",
+                                   "大腦可塑性",
+                                   "治療反應"
+                               ],
+                      "sourceName":  "博客來中文書商品頁",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011009108"
+                  },
+                  {
+                      "id":  "04_healthcare-20260710-01",
+                      "title":  "超預期壽命Ⅰ+Ⅱ：如何有效預防、延緩、逆轉慢性病及衰老，長壽的科學與藝術，重塑你的每一天(兩冊不分售)",
+                      "author":  "彼得．阿提亞, 比爾．吉福德",
+                      "categoryId":  "04_healthcare",
+                      "tags":  [
+                                   "健康壽命",
+                                   "醫學3.0",
+                                   "慢性病預防",
+                                   "長壽策略"
+                               ],
+                      "sourceName":  "博客來中文書商品頁",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011001532"
+                  },
+                  {
+                      "id":  "05_food_wellness-20260710-01",
+                      "title":  "80/20健康擇食指南，減吃超加工食品：外食或自煮，正餐、飲料、零食、甜點這樣選，四週找回營養與美味的黃金比例",
+                      "author":  "妮可拉・拉登・瑞恩",
+                      "categoryId":  "05_food_wellness",
+                      "tags":  [
+                                   "超加工食品",
+                                   "80/20擇食",
+                                   "營養標示",
+                                   "飲食計畫"
+                               ],
+                      "sourceName":  "博客來中文書商品頁",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011019606"
+                  },
+                  {
+                      "id":  "06_computer_info-20260710-01",
+                      "title":  "AI 2041：預見10個未來新世界",
+                      "author":  "李開復, 陳楸帆",
+                      "categoryId":  "06_computer_info",
+                      "tags":  [
+                                   "人工智慧",
+                                   "未來科技",
+                                   "科幻情境",
+                                   "AI治理"
+                               ],
+                      "sourceName":  "博客來中文書商品頁",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010961699"
+                  },
+                  {
+                      "id":  "07_other-20260710-01",
+                      "title":  "槍炮、病菌與鋼鐵：人類社會的命運‧25週年暢銷紀念版",
+                      "author":  "賈德‧戴蒙",
+                      "categoryId":  "07_other",
+                      "tags":  [
+                                   "人類文明",
+                                   "地理環境",
+                                   "農業起源",
+                                   "歷史不平等"
+                               ],
+                      "sourceName":  "博客來中文書商品頁",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010829817"
+                  },
+                  {
+                      "id":  "01_business_startup-20260710-45",
+                      "title":  "富媽媽窮媽媽：陳重銘寫給不想一輩子窮忙的你，10個觀念從領薪水到領千萬股利",
+                      "author":  "陳重銘",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "投資",
+                                   "ETF",
+                                   "現金流",
+                                   "財務自由"
+                               ],
+                      "sourceName":  "博客來商業理財暢銷榜 TOP 2",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011027571?loc=P_0003_002"
+                  },
+                  {
+                      "id":  "01_business_startup-20260710-46",
+                      "title":  "職場人的生成式AI工作法：《哈佛商業評論》提升生產力、團隊創意和決策品質的35堂課",
+                      "author":  "艾麗莎．法瑞, 賈布里．羅薩尼",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "職場",
+                                   "生成式AI",
+                                   "管理",
+                                   "生產力"
+                               ],
+                      "sourceName":  "博客來商業理財暢銷榜 TOP 3",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011026682?loc=P_0003_003"
+                  },
+                  {
+                      "id":  "01_business_startup-20260710-47",
+                      "title":  "遊戲化實戰全書：遊戲化大師教你把工作、教學、健身、行銷、產品設計……變遊戲，愈好玩就愈有吸引力！",
+                      "author":  "Yu-kai Chou(周郁凱)",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "遊戲化",
+                                   "產品設計",
+                                   "行銷",
+                                   "行為動機"
+                               ],
+                      "sourceName":  "博客來商業理財暢銷榜 TOP 7",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010753821?loc=P_0003_007"
+                  },
+                  {
+                      "id":  "01_business_startup-20260710-48",
+                      "title":  "普通主管才是最強主管：百萬領導者齊聲推薦！第一天當主管就上手的43個帶人常識，用簡單原則打造最強團隊（暢銷40年經典之作，管理者必讀之書）",
+                      "author":  "洛倫．貝爾克, 吉姆．麥考密克, 加里．托普奇克",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "管理",
+                                   "領導",
+                                   "團隊",
+                                   "主管實務"
+                               ],
+                      "sourceName":  "博客來商業理財暢銷榜 TOP 9",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011029421?loc=P_0003_009"
+                  },
+                  {
+                      "id":  "01_business_startup-20260710-49",
+                      "title":  "持續買進：資料科學家的投資終極解答，存錢及致富的實證方法",
+                      "author":  "尼克．馬朱利",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "投資",
+                                   "長期買進",
+                                   "資產配置",
+                                   "理財"
+                               ],
+                      "sourceName":  "博客來商業理財暢銷榜 TOP 10",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010957881?loc=P_0003_010"
+                  },
+                  {
+                      "id":  "01_business_startup-20260710-50",
+                      "title":  "造光者〖博客來獨家書封版〗：晶片戰爭中最神秘的關鍵企業，微影巨人ASML制霸未來科技賽局的崛起之路",
+                      "author":  "馬克・海因克",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "企業史",
+                                   "半導體",
+                                   "科技策略",
+                                   "供應鏈"
+                               ],
+                      "sourceName":  "博客來商業理財暢銷榜 TOP 11",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011029922?loc=P_0003_011"
+                  },
+                  {
+                      "id":  "01_business_startup-20260710-51",
+                      "title":  "我那有錢的高中同學：擁抱致富思維，成為富一代",
+                      "author":  "宋熙九",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "財富思維",
+                                   "資產配置",
+                                   "理財",
+                                   "長期投資"
+                               ],
+                      "sourceName":  "博客來商業理財暢銷榜 TOP 12",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011027530?loc=P_0003_012"
+                  },
+                  {
+                      "id":  "01_business_startup-20260710-52",
+                      "title":  "台灣AI大未來：解析最新的AI趨勢、台灣情勢、企業布局與個人發展",
+                      "author":  "簡立峰（Chien Lee-feng）, 蕭玉品",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "AI趨勢",
+                                   "企業轉型",
+                                   "台灣產業",
+                                   "職涯"
+                               ],
+                      "sourceName":  "博客來商業理財暢銷榜 TOP 13",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011030708?loc=P_0003_013"
+                  },
+                  {
+                      "id":  "01_business_startup-20260710-53",
+                      "title":  "巴菲特財報學（新修版）〖博客來獨家燙金書衣〗：跟股神學投資，用會計知識解析價值投資法",
+                      "author":  "史迪格．博德森, 普雷斯頓．皮許",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "財報分析",
+                                   "價值投資",
+                                   "會計",
+                                   "選股"
+                               ],
+                      "sourceName":  "博客來商業理財暢銷榜 TOP 19",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011019494?loc=P_0003_019"
+                  },
+                  {
+                      "id":  "01_business_startup-20260710-54",
+                      "title":  "富必有方：聊齋志異裡的商業思考",
+                      "author":  "林峰丕",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "商業思考",
+                                   "人性洞察",
+                                   "理財",
+                                   "風險辨識"
+                               ],
+                      "sourceName":  "博客來商業理財暢銷榜 TOP 20",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011028603?loc=P_0003_020"
+                  },
+                  {
+                      "id":  "01_business_startup-20260710-55",
+                      "title":  "執行長學習手記：觀察、提問、行動，吸收別人的經驗加速自己的成長，不斷擴展能力圈",
+                      "author":  "大衛．諾瓦克, 拉里．畢夏普",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "領導",
+                                   "終身學習",
+                                   "提問",
+                                   "行動"
+                               ],
+                      "sourceName":  "博客來商業理財暢銷榜 TOP 22",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011020283?loc=P_0003_022"
+                  },
+                  {
+                      "id":  "01_business_startup-20260710-56",
+                      "title":  "漫步華爾街（50週年增訂版）：超越股市漲跌的成功投資策略",
+                      "author":  "墨基爾",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "指數投資",
+                                   "市場效率",
+                                   "資產配置",
+                                   "長期投資"
+                               ],
+                      "sourceName":  "博客來商業理財暢銷榜 TOP 25",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010955845?loc=P_0003_025"
+                  },
+                  {
+                      "id":  "01_business_startup-20260710-57",
+                      "title":  "最強配息型ETF全攻略：穩收息、不蝕本！一次學會自組月月配， 打造月領10萬、持續獲利的現金流收入",
+                      "author":  "郭俊宏",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "ETF",
+                                   "配息",
+                                   "現金流",
+                                   "資產配置"
+                               ],
+                      "sourceName":  "博客來商業理財暢銷榜 TOP 26",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010987428?loc=P_0003_026"
+                  },
+                  {
+                      "id":  "01_business_startup-20260710-58",
+                      "title":  "活用技術分析寶典：飆股上校朱家泓40年實戰精華 從K線、均線到交易高手的養成祕笈 (上、下冊)",
+                      "author":  "朱家泓",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "技術分析",
+                                   "K線",
+                                   "均線",
+                                   "交易紀律"
+                               ],
+                      "sourceName":  "博客來商業理財暢銷榜 TOP 28",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011004039?loc=P_0003_028"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-14",
+                      "title":  "與人為善的幸福哲學：吳家德的豐盛人生心法",
+                      "author":  "吳家德",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "利他哲學",
+                                   "人際關係",
+                                   "生命價值",
+                                   "自我成長"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 1",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011018477"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-15",
+                      "title":  "世界盡頭的咖啡館：這一生，我為何而存在？（全球每19秒售出1本！療癒千萬人的暢銷經典，定位人生的神奇之書）",
+                      "author":  "約翰‧史崔勒基",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "人生目的",
+                                   "自我探索",
+                                   "生命選擇",
+                                   "寓言"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 2",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011014199"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-16",
+                      "title":  "別對每件事都有反應〖2025限量暢銷特典版〗：淡泊一點也無妨，活出快意人生的99個禪練習！",
+                      "author":  "枡野俊明",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "禪練習",
+                                   "情緒調節",
+                                   "不內耗",
+                                   "生活智慧"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 5",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011008307"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-17",
+                      "title":  "長女病：我們不是天生愛扛責任，台灣跨世代女兒的故事",
+                      "author":  "張慧慈（小花媽）",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "原生家庭",
+                                   "長女角色",
+                                   "照顧壓力",
+                                   "女性成長"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 6",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011017053"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-18",
+                      "title":  "機智的靈性生活，成為想要的自己：靈媒媽媽的心靈解答書7",
+                      "author":  "Ruowen Huang",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "自我覺察",
+                                   "靈性成長",
+                                   "內在力量",
+                                   "人生選擇"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 8",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011018107"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-19",
+                      "title":  "你的人生，他們六個說了算！：決定你一生的六種物質",
+                      "author":  "大衛．JP．菲利浦斯",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "腦內物質",
+                                   "情緒管理",
+                                   "行為習慣",
+                                   "幸福感"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 9",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011009311"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-20",
+                      "title":  "心靈時刻：亞隆與22位來訪者的一期一會〖博客來獨家書封版〗（首刷限定：歐文亞隆父子印簽及給台灣讀者的一段話）",
+                      "author":  "歐文‧亞隆,班傑明‧亞隆",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "心理治療",
+                                   "存在焦慮",
+                                   "治療關係",
+                                   "生命故事"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 10",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011019721"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-21",
+                      "title":  "從低谷突破：40年精神科權威史塔茲的療癒之道",
+                      "author":  "菲爾．史塔茲",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "低谷復原",
+                                   "負面聲音",
+                                   "心理工具",
+                                   "行動改變"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 12",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011016348"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-22",
+                      "title":  "人生就是一次次的得到與放下",
+                      "author":  "黃大米",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "人生取捨",
+                                   "失落調適",
+                                   "自我接納",
+                                   "成長散文"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 14",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011015062"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-23",
+                      "title":  "你願意，人生就會值得：蔡康永的情商課3",
+                      "author":  "蔡康永",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "情緒智慧",
+                                   "自我選擇",
+                                   "人際界線",
+                                   "人生價值"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 15",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010995752"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-24",
+                      "title":  "中道〖贈品限量版〗：未來的靈性道路",
+                      "author":  "楊定一",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "中道實踐",
+                                   "靈性覺察",
+                                   "內在平靜",
+                                   "生命觀"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 16",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011015335"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-25",
+                      "title":  "情緒，是為了讓你看見自己：靈媒媽媽的心靈解答書6",
+                      "author":  "Ruowen Huang",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "情緒覺察",
+                                   "內在需求",
+                                   "自我療癒",
+                                   "靈性成長"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 17",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011007932"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-26",
+                      "title":  "回到自己的內心，每天讀點斯多噶：放下不在自己控制範圍內的事物，先安頓好自己的心，才能把人生過好",
+                      "author":  "萊恩‧霍利得,史提芬‧漢賽蒙",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "斯多噶哲學",
+                                   "控制二分",
+                                   "每日練習",
+                                   "內在安定"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 18",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010784805"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-27",
+                      "title":  "別對每件事都有反應2：不執著的練習",
+                      "author":  "枡野俊明",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "不執著",
+                                   "禪生活",
+                                   "情緒安定",
+                                   "人際減壓"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 19",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011011868"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-28",
+                      "title":  "卡住你的不是懶惰，是情緒：跟著韓國最強心理研究團隊找到自己的拖延分類圖，和你的恐懼與焦慮和解，每一件事都能順利完成！",
+                      "author":  "李東龜,孫何林,金書瑛,李娜熙,吳玹周",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "拖延心理",
+                                   "焦慮",
+                                   "恐懼",
+                                   "行動策略"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 20",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011015878"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-29",
+                      "title":  "非暴力溝通：愛的語言(全新修訂版)",
+                      "author":  "馬歇爾．盧森堡",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "非暴力溝通",
+                                   "同理傾聽",
+                                   "需求表達",
+                                   "衝突修復"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 22",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010831754"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-30",
+                      "title":  "中年之路：穿越幽暗，迎向完整的內在鍊金之旅",
+                      "author":  "詹姆斯．霍利斯",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "中年轉化",
+                                   "榮格心理學",
+                                   "個體化",
+                                   "生命意義"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 23",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010990110"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-31",
+                      "title":  "下班後，人生才開始：上班決定薪水，下班決定人生！〖限量親簽版〗（隨書贈送貓臉表情貼紙+IG風格PVC透卡）",
+                      "author":  "張安安",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "下班生活",
+                                   "自我實現",
+                                   "時間運用",
+                                   "人生設計"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 25",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011020216"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-32",
+                      "title":  "貓是最好的人生教練：掌握貓特質，讓你活得自信、自由、自在",
+                      "author":  "史蒂芬．嘉涅",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "自信",
+                                   "自由生活",
+                                   "自我照顧",
+                                   "貓式哲學"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 26",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011014596"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-33",
+                      "title":  "MBTI 我，和我的愛情說明書：看見你與自己，和伴侶的關係〖限量親簽〗",
+                      "author":  "雪力（夏瑄澧）",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "MBTI",
+                                   "親密關係",
+                                   "自我理解",
+                                   "伴侶溝通"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 27",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011019150"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-34",
+                      "title":  "走人少的路：連加恩的非典型旅程〖作者親簽〗",
+                      "author":  "連加恩",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "人生選擇",
+                                   "勇氣",
+                                   "服務精神",
+                                   "信仰成長"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 28",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011019625"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-35",
+                      "title":  "我想跟你好好說話：賴佩霞的六堂「非暴力溝通」入門課",
+                      "author":  "賴佩霞",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "溝通練習",
+                                   "同理心",
+                                   "情緒表達",
+                                   "關係修復"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 29",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010853918"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-36",
+                      "title":  "你可以找自己聊聊：踏上自我探索之旅",
+                      "author":  "萬力豪",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "自我探索",
+                                   "生命意義",
+                                   "誠實",
+                                   "信仰反思"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 30",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011019615"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-37",
+                      "title":  "善用天賦：追尋自我，花漾人生持續綻放〖作者親簽版〗",
+                      "author":  "李明川",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "天賦探索",
+                                   "自我定位",
+                                   "斜槓人生",
+                                   "行動勇氣"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 31",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011018676"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-38",
+                      "title":  "不否定的練習：比讚美、肯定更有效的人際關係法則",
+                      "author":  "林健太郎",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "不否定溝通",
+                                   "心理安全感",
+                                   "傾聽",
+                                   "人際關係"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 32",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011001415"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-39",
+                      "title":  "深深愛上愛妮島：一本關於勇氣、選擇與自由的人生故事（中西兩翻雙書封設計）",
+                      "author":  "Sylvia Wu",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "勇氣",
+                                   "自由選擇",
+                                   "異地生活",
+                                   "人生轉向"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 33",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011020591"
+                  },
+                  {
+                      "id":  "02_psychology_growth-20260710-40",
+                      "title":  "生前整理：壯世代更自在、更無憂的幸福旅程",
+                      "author":  "娜娜子（張娜）",
+                      "categoryId":  "02_psychology_growth",
+                      "tags":  [
+                                   "生前整理",
+                                   "熟齡生活",
+                                   "心靈療癒",
+                                   "家庭溝通"
+                               ],
+                      "sourceName":  "博客來心理勵志暢銷榜 TOP 34",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011019880"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-12",
+                      "title":  "台灣苔蘚微觀誌：從零開始的賞苔之旅，帶你一起走進迷你森林！物種辨識 × 探蘚路線 × 養苔攻略",
+                      "author":  "徐子耘",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "苔蘚植物",
+                                   "物種辨識",
+                                   "生態觀察",
+                                   "自然攝影"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 5",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010994689"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-13",
+                      "title":  "有機化學天堂秘笈I+II(套書)",
+                      "author":  "克萊因",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "有機化學",
+                                   "反應機構",
+                                   "有機合成",
+                                   "化學教育"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 7",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010783829"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-14",
+                      "title":  "國高中生必備！真希望自然科學這樣教（暢銷修訂版）〖套書〗",
+                      "author":  "阿里．塞澤, 庫爾特．貝克, 海倫．皮契爾, 肯．阿什韋爾",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "物理",
+                                   "化學",
+                                   "生物",
+                                   "人體科學"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 8",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010999573"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-15",
+                      "title":  "面積迷宮 Vol.1～6套書：玩轉數理腦，＋－x÷邏輯解謎",
+                      "author":  "村上綾一, 稲葉直貴",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "數學謎題",
+                                   "面積計算",
+                                   "空間思考",
+                                   "邏輯推理"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 9",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010902218"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-16",
+                      "title":  "海蛞蝓圖鑑",
+                      "author":  "小野篤司, 加藤昌一",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "海洋生物",
+                                   "海蛞蝓",
+                                   "物種分類",
+                                   "生態攝影"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 10",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011011117"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-17",
+                      "title":  "儀式的科學：深入儀式運作的身體和心理機制",
+                      "author":  "迪米崔•席加拉塔斯",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "人類行為",
+                                   "演化心理",
+                                   "神經機制",
+                                   "文化科學"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 12",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010987659"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-18",
+                      "title":  "真希望國中數學這樣教：暢銷20萬冊！6天搞懂3年數學關鍵原理，跟著東大教授學，解題力大提升！",
+                      "author":  "西成活裕",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "國中數學",
+                                   "方程式",
+                                   "函數",
+                                   "幾何"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 14",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010847958"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-19",
+                      "title":  "毒藥的滋味：11種致命分子與使用它們的凶手",
+                      "author":  "尼爾．布萊伯瑞",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "毒理學",
+                                   "生物化學",
+                                   "法醫科學",
+                                   "致命分子"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 15",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010995838"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-20",
+                      "title":  "星際效應：電影幕後的科學事實、推測與想像〖諾貝爾物理學獎得主寫給大家的天文學通識課〗（二版）",
+                      "author":  "基普．索恩",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "天文物理",
+                                   "黑洞",
+                                   "廣義相對論",
+                                   "重力波"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 16",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010932184"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-21",
+                      "title":  "數學公式圖鑑：利用圖像思考，提升理解效率！考試拿高分",
+                      "author":  "阿基頓敦",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "數學公式",
+                                   "幾何",
+                                   "微積分",
+                                   "圖像學習"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 17",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011012354"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-22",
+                      "title":  "時間的秩序：用最尖端物理學，顛覆常識與直覺，探索時間的本質",
+                      "author":  "卡羅．羅維理",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "時間物理",
+                                   "量子重力",
+                                   "相對論",
+                                   "熱力學"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 18",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010900363"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-23",
+                      "title":  "圖解悖論大百科：鍛練邏輯思考的50則悖論‧人人伽利略15",
+                      "author":  "日本Newton Press",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "悖論",
+                                   "邏輯思考",
+                                   "數學",
+                                   "物理"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 20",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010865571"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-24",
+                      "title":  "傷獸之島：我當野生動物獸醫師的日子",
+                      "author":  "綦孟柔",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "野生動物",
+                                   "保育醫學",
+                                   "動物救傷",
+                                   "生態倫理"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 22",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011007596"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-25",
+                      "title":  "凝態物理：從半導體、磁浮列車到量子電腦，看穿隱藏在現代科技背後的混沌、秩序與魔法",
+                      "author":  "菲利克斯‧福立克",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "凝態物理",
+                                   "半導體",
+                                   "超導體",
+                                   "量子電腦"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 28",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011001649"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-26",
+                      "title":  "共享自然，珍愛世界：適用全年齡層的自然覺察活動",
+                      "author":  "約瑟夫‧柯內爾",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "自然教育",
+                                   "生態體驗",
+                                   "環境覺察",
+                                   "心流學習"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 29",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010742092"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-27",
+                      "title":  "命定：沒有自由意志的科學",
+                      "author":  "羅伯．薩波斯基",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "神經科學",
+                                   "行為生物學",
+                                   "基因環境",
+                                   "自由意志"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 31",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011006605"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-28",
+                      "title":  "數學謎題 進階篇：能解答就是天才！燒腦數學謎題 少年伽利略10",
+                      "author":  "日本Newton Press",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "數學謎題",
+                                   "邏輯推理",
+                                   "數感",
+                                   "問題解決"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 33",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010895479"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-29",
+                      "title":  "真希望基礎生物這樣教〖暢銷修訂版〗：國高中生必備！看圖學生物，從細胞、遺傳學、物競天擇到生物學，建立生物素養一本就夠！",
+                      "author":  "海倫．皮契爾",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "細胞生物學",
+                                   "遺傳學",
+                                   "演化",
+                                   "生態系"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 34",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010998214"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-30",
+                      "title":  "我家附近的鳥鄰居：超搞笑又認真的鳥類圖鑑，觀察鳥兒們令人意想不到的日常",
+                      "author":  "阿鏘",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "鳥類圖鑑",
+                                   "動物行為",
+                                   "城市生態",
+                                   "賞鳥"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 37",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010995688"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-31",
+                      "title":  "真希望基礎化學這樣教〖暢銷修訂版〗：國高中生必備！看圖學化學，從原子、化學鍵、元素週期表到熱力學，建立化學素養一本就夠！",
+                      "author":  "阿里．塞澤",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "基礎化學",
+                                   "原子結構",
+                                   "化學鍵",
+                                   "熱力學"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 39",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010998210"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-32",
+                      "title":  "海洋在哭：一位教授的潛水淨海行動",
+                      "author":  "陳徵蔚",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "海洋保育",
+                                   "海洋污染",
+                                   "永續漁業",
+                                   "潛水淨海"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 40",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011013087"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-33",
+                      "title":  "忍不住想解的數學題：熱銷突破13萬本！慶應大學佐藤雅彥研究室的「數學素養題」，快速貫穿邏輯概念與應用，提升解題的跳躍思考力！",
+                      "author":  "佐藤雅彦, 大島遼, 廣瀬隼也",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "數學素養",
+                                   "邏輯推理",
+                                   "生活數學",
+                                   "解題策略"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 42",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010972222"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-34",
+                      "title":  "為何龍蝦不會變老，水母會逆齡，人類卻無法？：24個自然界中青春、衰老與生命期限的科學奧祕",
+                      "author":  "尼可拉斯•潘柏格",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "老化科學",
+                                   "分子生物學",
+                                   "長壽物種",
+                                   "演化"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 44",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011009096"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-35",
+                      "title":  "真希望高中數學這樣教：系列暢銷20萬冊！跟著東大教授的解題祕訣，6天掌握高中數學關鍵",
+                      "author":  "西成活裕, 鄉和貴",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "高中數學",
+                                   "代數",
+                                   "向量",
+                                   "微積分"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 47",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010907721"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-36",
+                      "title":  "138億年大宇宙：全盤了解宇宙的天體與歷史 人人伽利略27",
+                      "author":  "日本Newton Press",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "宇宙學",
+                                   "天文學",
+                                   "星系演化",
+                                   "宇宙歷史"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 58",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010893469"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-37",
+                      "title":  "失控的演化群像：合作、攻防、惡意與自私基因，從物種怪奇案例看見天擇的限制與多樣性",
+                      "author":  "安迪．道布森",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "演化生物學",
+                                   "自然選擇",
+                                   "生物多樣性",
+                                   "適應限制"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 61",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011015254"
+                  },
+                  {
+                      "id":  "03_natural_science-20260710-38",
+                      "title":  "萬物的終結：宇宙毀滅的5種方式",
+                      "author":  "凱蒂•麥克",
+                      "categoryId":  "03_natural_science",
+                      "tags":  [
+                                   "宇宙學",
+                                   "暗能量",
+                                   "熱寂",
+                                   "真空衰變"
+                               ],
+                      "sourceName":  "博客來自然科普暢銷榜 TOP 65",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011015142"
+                  },
+                  {
+                      "id":  "04_healthcare-20260710-02",
+                      "title":  "醫願：讓醫療回到理解與陪伴",
+                      "author":  "葉曙慶",
+                      "categoryId":  "04_healthcare",
+                      "tags":  [
+                                   "醫療人文",
+                                   "醫病溝通",
+                                   "陪伴",
+                                   "照護"
+                               ],
+                      "sourceName":  "博客來醫療保健暢銷榜 TOP 1",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011052196?loc=P_0003_001"
+                  },
+                  {
+                      "id":  "04_healthcare-20260710-03",
+                      "title":  "淬鍊成光──馬光35年的堅持與突破之路",
+                      "author":  "蔡舒湉",
+                      "categoryId":  "04_healthcare",
+                      "tags":  [
+                                   "中醫",
+                                   "醫療管理",
+                                   "品牌經營",
+                                   "傳承"
+                               ],
+                      "sourceName":  "博客來醫療保健暢銷榜 TOP 2",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011052589?loc=P_0003_002"
+                  },
+                  {
+                      "id":  "04_healthcare-20260710-04",
+                      "title":  "不值班，我就在檳榔攤：一位外科醫師對人生的回望",
+                      "author":  "林建華",
+                      "categoryId":  "04_healthcare",
+                      "tags":  [
+                                   "外科醫療",
+                                   "醫師生命",
+                                   "醫病關係",
+                                   "反思"
+                               ],
+                      "sourceName":  "博客來醫療保健暢銷榜 TOP 3",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011051989?loc=P_0003_003"
+                  },
+                  {
+                      "id":  "04_healthcare-20260710-05",
+                      "title":  "在宅善終——從醫療轉向、法律保障到居家照護；陪你看懂身體告別信號，第一本不留遺憾的安心行動指南",
+                      "author":  "楊婉萍",
+                      "categoryId":  "04_healthcare",
+                      "tags":  [
+                                   "在宅醫療",
+                                   "善終",
+                                   "居家照護",
+                                   "法律保障"
+                               ],
+                      "sourceName":  "博客來醫療保健暢銷榜 TOP 4",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011054827?loc=P_0003_004"
+                  },
+                  {
+                      "id":  "04_healthcare-20260710-06",
+                      "title":  "平衡免疫，終結慢性發炎：功能醫學名醫帶你重新理解過敏、自體免疫與慢性發炎，校準健康防護力",
+                      "author":  "劉博仁",
+                      "categoryId":  "04_healthcare",
+                      "tags":  [
+                                   "免疫",
+                                   "慢性發炎",
+                                   "過敏",
+                                   "功能醫學"
+                               ],
+                      "sourceName":  "博客來醫療保健暢銷榜 TOP 5",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011047193?loc=P_0003_005"
+                  },
+                  {
+                      "id":  "04_healthcare-20260710-07",
+                      "title":  "心轉，病自癒：五維一心的健康逆齡奇蹟",
+                      "author":  "蔡松彥",
+                      "categoryId":  "04_healthcare",
+                      "tags":  [
+                                   "身心醫學",
+                                   "逆齡",
+                                   "生活調整",
+                                   "自我療癒"
+                               ],
+                      "sourceName":  "博客來醫療保健暢銷榜 TOP 6",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010932369?loc=P_0003_006"
+                  },
+                  {
+                      "id":  "04_healthcare-20260710-08",
+                      "title":  "醫生壞掉以後：急診醫師的中風自救處方，6個月重啟人生的高效復能日記",
+                      "author":  "鄭筆方",
+                      "categoryId":  "04_healthcare",
+                      "tags":  [
+                                   "中風復健",
+                                   "急診醫學",
+                                   "復能",
+                                   "生命重建"
+                               ],
+                      "sourceName":  "博客來醫療保健暢銷榜 TOP 8",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011055747?loc=P_0003_008"
+                  },
+                  {
+                      "id":  "04_healthcare-20260710-09",
+                      "title":  "激素平衡瘦身課：啟動代謝重建，瘦得健康持久",
+                      "author":  "許書華",
+                      "categoryId":  "04_healthcare",
+                      "tags":  [
+                                   "荷爾蒙",
+                                   "代謝",
+                                   "健康減重",
+                                   "生活習慣"
+                               ],
+                      "sourceName":  "博客來醫療保健暢銷榜 TOP 10",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011052394?loc=P_0003_010"
+                  },
+                  {
+                      "id":  "04_healthcare-20260710-10",
+                      "title":  "逆轉胰島素阻抗 21天重啟健康代謝：精準控糖、有效減重、降低發炎，找回年輕活力與修復力！",
+                      "author":  "呂美寶",
+                      "categoryId":  "04_healthcare",
+                      "tags":  [
+                                   "胰島素阻抗",
+                                   "代謝健康",
+                                   "控糖",
+                                   "生活型態"
+                               ],
+                      "sourceName":  "博客來醫療保健暢銷榜 TOP 1",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011029794"
+                  },
+                  {
+                      "id":  "05_food_wellness-20260710-02",
+                      "title":  "萬能絞肉料理活用術：萬能絞肉×百搭變化！從下飯配菜到常備即食料理包應用，快速變化三餐的家常料理提案",
+                      "author":  "楊欣崇",
+                      "categoryId":  "05_food_wellness",
+                      "tags":  [
+                                   "絞肉料理",
+                                   "家常菜",
+                                   "備餐",
+                                   "食材活用"
+                               ],
+                      "sourceName":  "博客來飲食暢銷榜 TOP 3",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011054180?loc=P_0003_003"
+                  },
+                  {
+                      "id":  "05_food_wellness-20260710-03",
+                      "title":  "超常備12食材  一日三餐沒煩惱：傳授省時又省錢的訣竅，最適合忙碌的人！",
+                      "author":  "武藏裕子",
+                      "categoryId":  "05_food_wellness",
+                      "tags":  [
+                                   "常備食材",
+                                   "省時料理",
+                                   "三餐規劃",
+                                   "節省"
+                               ],
+                      "sourceName":  "博客來飲食暢銷榜 TOP 6",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011028250?loc=P_0003_006"
+                  },
+                  {
+                      "id":  "05_food_wellness-20260710-04",
+                      "title":  "蔬食日常無國界：煮出中式、日韓、南洋、歐美經典料理，美味多變吃不膩，打開純素新世界！",
+                      "author":  "林聖智",
+                      "categoryId":  "05_food_wellness",
+                      "tags":  [
+                                   "純素料理",
+                                   "異國料理",
+                                   "蔬食",
+                                   "飲食多樣性"
+                               ],
+                      "sourceName":  "博客來飲食暢銷榜 TOP 7",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011038660?loc=P_0003_007"
+                  },
+                  {
+                      "id":  "05_food_wellness-20260710-05",
+                      "title":  "了解原理就不會失敗！麵包入門必修課",
+                      "author":  "K.K.Baker",
+                      "categoryId":  "05_food_wellness",
+                      "tags":  [
+                                   "麵包烘焙",
+                                   "發酵",
+                                   "基礎技法",
+                                   "失敗排除"
+                               ],
+                      "sourceName":  "博客來飲食暢銷榜 TOP 8",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010930119?loc=P_0003_008"
+                  },
+                  {
+                      "id":  "05_food_wellness-20260710-06",
+                      "title":  "西川功晃「麵包的技術與感性」素材的發想與創新，8種麵團62種變化，人氣名店Ça marche精省的製程規劃、實戰策略",
+                      "author":  "西川功晃",
+                      "categoryId":  "05_food_wellness",
+                      "tags":  [
+                                   "麵包工藝",
+                                   "麵團",
+                                   "素材創新",
+                                   "製程規劃"
+                               ],
+                      "sourceName":  "博客來飲食暢銷榜 TOP 9",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011053445?loc=P_0003_009"
+                  },
+                  {
+                      "id":  "05_food_wellness-20260710-07",
+                      "title":  "一甲子米食技藝大全：圖解步驟╳營養美味╳節慶典故，國寶名師完整傳承不敗配方",
+                      "author":  "劉妙華",
+                      "categoryId":  "05_food_wellness",
+                      "tags":  [
+                                   "米食",
+                                   "傳統技藝",
+                                   "節慶飲食",
+                                   "營養"
+                               ],
+                      "sourceName":  "博客來飲食暢銷榜 TOP 10",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011054529?loc=P_0003_010"
+                  },
+                  {
+                      "id":  "05_food_wellness-20260710-08",
+                      "title":  "順著24節氣，吃出臺灣好味：什麼時節吃什麼，最得時？就吃這一道道被時光浸潤過的臺灣美味——錯過了，就得再等一年。",
+                      "author":  "柯永輝",
+                      "categoryId":  "05_food_wellness",
+                      "tags":  [
+                                   "節氣飲食",
+                                   "臺灣味",
+                                   "在地食材",
+                                   "飲食文化"
+                               ],
+                      "sourceName":  "博客來飲食暢銷榜 TOP 11",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011044346?loc=P_0003_011"
+                  },
+                  {
+                      "id":  "05_food_wellness-20260710-09",
+                      "title":  "簡單的萬能配菜：永遠受用！全部都美味！絕對會讓你再添一碗飯",
+                      "author":  "倉橋利江",
+                      "categoryId":  "05_food_wellness",
+                      "tags":  [
+                                   "配菜",
+                                   "家常料理",
+                                   "備餐",
+                                   "快速上桌"
+                               ],
+                      "sourceName":  "博客來飲食暢銷榜 TOP 12",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011050933?loc=P_0003_012"
+                  },
+                  {
+                      "id":  "05_food_wellness-20260710-10",
+                      "title":  "美味的萬能副菜：家裡做的口味最棒了！",
+                      "author":  "倉橋利江",
+                      "categoryId":  "05_food_wellness",
+                      "tags":  [
+                                   "副菜",
+                                   "家常味",
+                                   "料理變化",
+                                   "日常飲食"
+                               ],
+                      "sourceName":  "博客來飲食暢銷榜 TOP 13",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011051983?loc=P_0003_013"
+                  },
+                  {
+                      "id":  "06_computer_info-20260710-02",
+                      "title":  "Claude 萬用手冊：Claude.ai | Desktop | Cowork | Code Mode | Design | Computer Use | Skills | Connectors | Plugins",
+                      "author":  "施威銘研究室",
+                      "categoryId":  "06_computer_info",
+                      "tags":  [
+                                   "Claude",
+                                   "AI助理",
+                                   "Computer Use",
+                                   "工作流"
+                               ],
+                      "sourceName":  "博客來電腦資訊暢銷榜 TOP 1",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011053532?loc=P_0003_001"
+                  },
+                  {
+                      "id":  "06_computer_info-20260710-03",
+                      "title":  "最強！Google AI 工作術：以 Gemini 3 為核心，串聯 NotebookLM 與滿滿 AI 工具, 搞定資料分析、簡報製作、 教育訓練等日常工作",
+                      "author":  "蔡宜坦, 施威銘研究室",
+                      "categoryId":  "06_computer_info",
+                      "tags":  [
+                                   "Google AI",
+                                   "Gemini",
+                                   "NotebookLM",
+                                   "自動化"
+                               ],
+                      "sourceName":  "博客來電腦資訊暢銷榜 TOP 2",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011044612?loc=P_0003_002"
+                  },
+                  {
+                      "id":  "06_computer_info-20260710-04",
+                      "title":  "AI智慧生活術-打造你的AI生活作業系統",
+                      "author":  "洪錦魁",
+                      "categoryId":  "06_computer_info",
+                      "tags":  [
+                                   "AI生活",
+                                   "個人系統",
+                                   "智慧工具",
+                                   "效率"
+                               ],
+                      "sourceName":  "博客來電腦資訊暢銷榜 TOP 3",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011051234?loc=P_0003_003"
+                  },
+                  {
+                      "id":  "06_computer_info-20260710-05",
+                      "title":  "工作學習生活一手包辦 - Claude Cowork 31 個超好用範例實作",
+                      "author":  "胡嘉璽",
+                      "categoryId":  "06_computer_info",
+                      "tags":  [
+                                   "Claude Cowork",
+                                   "AI協作",
+                                   "工作流",
+                                   "實作"
+                               ],
+                      "sourceName":  "博客來電腦資訊暢銷榜 TOP 4",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011054101?loc=P_0003_004"
+                  },
+                  {
+                      "id":  "06_computer_info-20260710-06",
+                      "title":  "Google AI 創作術: 靈感 x 圖像 x 設計 x 音樂 x 影片的工作流",
+                      "author":  "洪錦魁",
+                      "categoryId":  "06_computer_info",
+                      "tags":  [
+                                   "生成式AI",
+                                   "多媒體創作",
+                                   "設計",
+                                   "內容工作流"
+                               ],
+                      "sourceName":  "博客來電腦資訊暢銷榜 TOP 5",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011052742?loc=P_0003_005"
+                  },
+                  {
+                      "id":  "06_computer_info-20260710-07",
+                      "title":  "iPAS - AI應用規劃師初級應鑑指南(人工智慧基礎概論、生成式AI應用與規劃)含AIE國際認證：AIAP人工智慧應用規劃師(Specialist Level) - 最新版(第二版) - 附贈MOSME",
+                      "author":  "高煥堂",
+                      "categoryId":  "06_computer_info",
+                      "tags":  [
+                                   "AI應用規劃師",
+                                   "人工智慧",
+                                   "生成式AI",
+                                   "證照"
+                               ],
+                      "sourceName":  "博客來電腦資訊暢銷榜 TOP 6",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011036065?loc=P_0003_006"
+                  },
+                  {
+                      "id":  "06_computer_info-20260710-08",
+                      "title":  "老師這樣用AI就對了：明天上課就能用的教案教材、測驗評量AI工作流",
+                      "author":  "李承翰",
+                      "categoryId":  "06_computer_info",
+                      "tags":  [
+                                   "AI教育",
+                                   "教案",
+                                   "評量",
+                                   "教師工作流"
+                               ],
+                      "sourceName":  "博客來電腦資訊暢銷榜 TOP 7",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011054526?loc=P_0003_007"
+                  },
+                  {
+                      "id":  "06_computer_info-20260710-09",
+                      "title":  "Claude Code Vibe Coding 開發手冊 第 2 版",
+                      "author":  "施威銘研究室",
+                      "categoryId":  "06_computer_info",
+                      "tags":  [
+                                   "Claude Code",
+                                   "Vibe Coding",
+                                   "軟體開發",
+                                   "AI程式設計"
+                               ],
+                      "sourceName":  "博客來電腦資訊暢銷榜 TOP 8",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011054378?loc=P_0003_008"
+                  },
+                  {
+                      "id":  "06_computer_info-20260710-10",
+                      "title":  "Gemini 投資理財全攻略：小資族看過來！完全零門檻的 AI 智慧選股×財報分析×資金管理",
+                      "author":  "施威銘研究室",
+                      "categoryId":  "06_computer_info",
+                      "tags":  [
+                                   "AI投資",
+                                   "財報分析",
+                                   "選股",
+                                   "資金管理"
+                               ],
+                      "sourceName":  "博客來電腦資訊暢銷榜 TOP 10",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011055845?loc=P_0003_010"
+                  },
+                  {
+                      "id":  "07_other-20260710-02",
+                      "title":  "律師帶你看校園大小事2：老師必知的33個法律問題",
+                      "author":  "Kitty Mao 毛律師",
+                      "categoryId":  "07_other",
+                      "tags":  [
+                                   "校園法律",
+                                   "教師權益",
+                                   "教育政策",
+                                   "法律素養"
+                               ],
+                      "sourceName":  "博客來人文社科暢銷榜 TOP 1",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011052631?loc=P_0003_001"
+                  },
+                  {
+                      "id":  "07_other-20260710-03",
+                      "title":  "請允許我們身後財產自主：當親情不再可靠， 如何把財富留給真正值得的人",
+                      "author":  "高愛倫",
+                      "categoryId":  "07_other",
+                      "tags":  [
+                                   "遺產規劃",
+                                   "財產自主",
+                                   "信託",
+                                   "法律"
+                               ],
+                      "sourceName":  "博客來人文社科暢銷榜 TOP 2",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011056126?loc=P_0003_002"
+                  },
+                  {
+                      "id":  "07_other-20260710-04",
+                      "title":  "律師帶你看校園大小事： 老師和家長必知的44個霸凌防制和性平觀念指南",
+                      "author":  "Kitty Mao 毛律師",
+                      "categoryId":  "07_other",
+                      "tags":  [
+                                   "校園霸凌",
+                                   "性別平等",
+                                   "教育法律",
+                                   "親師溝通"
+                               ],
+                      "sourceName":  "博客來人文社科暢銷榜 TOP 3",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011026018?loc=P_0003_003"
+                  },
+                  {
+                      "id":  "07_other-20260710-05",
+                      "title":  "法槌下的仁慈：最暖法官如何用慈悲、尊重與理解扭轉人生",
+                      "author":  "法蘭克．卡普里歐法官",
+                      "categoryId":  "07_other",
+                      "tags":  [
+                                   "司法",
+                                   "慈悲",
+                                   "尊重",
+                                   "人生故事"
+                               ],
+                      "sourceName":  "博客來人文社科暢銷榜 TOP 5",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011050244?loc=P_0003_005"
+                  },
+                  {
+                      "id":  "07_other-20260710-06",
+                      "title":  "自由的兩種概念：二十世紀最重要的自由論辯，自由為何既能解放人，也能奴役人",
+                      "author":  "以撒．柏林",
+                      "categoryId":  "07_other",
+                      "tags":  [
+                                   "自由主義",
+                                   "政治哲學",
+                                   "消極自由",
+                                   "積極自由"
+                               ],
+                      "sourceName":  "博客來人文社科暢銷榜 TOP 6",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011052511?loc=P_0003_006"
+                  },
+                  {
+                      "id":  "07_other-20260710-07",
+                      "title":  "東京大審：二戰審判與現代亞洲的誕生【限量書盒版】",
+                      "author":  "蓋瑞．巴斯",
+                      "categoryId":  "07_other",
+                      "tags":  [
+                                   "東京大審",
+                                   "二戰",
+                                   "國際法",
+                                   "現代亞洲"
+                               ],
+                      "sourceName":  "博客來人文社科暢銷榜 TOP 7",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011055415?loc=P_0003_007"
+                  },
+                  {
+                      "id":  "07_other-20260710-08",
+                      "title":  "克里姆林宮的餐桌",
+                      "author":  "維特多．沙博爾夫斯基",
+                      "categoryId":  "07_other",
+                      "tags":  [
+                                   "蘇聯史",
+                                   "飲食文化",
+                                   "政治權力",
+                                   "報導文學"
+                               ],
+                      "sourceName":  "博客來人文社科暢銷榜 TOP 9",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010948137?loc=P_0003_009"
+                  },
+                  {
+                      "id":  "07_other-20260710-09",
+                      "title":  "區判：品味與美學的知識漫畫",
+                      "author":  "皮耶‧布赫迪厄, 蒂法恩‧里維埃",
+                      "categoryId":  "07_other",
+                      "tags":  [
+                                   "布赫迪厄",
+                                   "品味",
+                                   "階級",
+                                   "美學"
+                               ],
+                      "sourceName":  "博客來人文社科暢銷榜 TOP 10",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011009285?loc=P_0003_010"
+                  },
+                  {
+                      "id":  "07_other-20260710-10",
+                      "title":  "一日一國家，世界地圖全解讀：每天1分鐘，掌握全球212國！地理位置×歷史脈絡×國際情勢，培養國際觀最佳入門書",
+                      "author":  "井田仁康",
+                      "categoryId":  "07_other",
+                      "tags":  [
+                                   "世界地理",
+                                   "國際情勢",
+                                   "歷史",
+                                   "國際觀"
+                               ],
+                      "sourceName":  "博客來人文社科暢銷榜 TOP 14",
+                      "sourceUrl":  "https://www.books.com.tw/products/0010995109?loc=P_0003_014"
                   }
               ],
-    "totalBooks":  42,
+    "totalBooks":  159,
     "searchDateRange":  {
                             "from":  "2000-06-01",
                             "to":  "2026-07-10"
                         },
-    "generatedFrom":  "FindBook_Skill.md: 42 complete items and 0 pending verification candidates",
-    "generatedAt":  "2026-07-10T12:31:44.8988396+08:00"
+    "generatedFrom":  "FindBook_Skill.md Codex-only 30/30/30/10/10/10/10 batch complete: complete=159 pending=0",
+    "generatedAt":  "2026-07-10T15:24:43+08:00"
 }

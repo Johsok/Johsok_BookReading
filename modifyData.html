@@ -287,6 +287,18 @@
         <label for="fileSelect">檔案</label>
         <select id="fileSelect"></select>
       </div>
+      <div class="field">
+        <label for="bookSortSelect">書籍排序</label>
+        <select id="bookSortSelect">
+          <option value="title:asc">書名（升冪）</option>
+          <option value="title:desc">書名（降冪）</option>
+          <option value="author:asc">作者（升冪）</option>
+          <option value="author:desc">作者（降冪）</option>
+          <option value="id:asc">ID（升冪）</option>
+          <option value="id:desc">ID（降冪）</option>
+        </select>
+      </div>
+      <button id="sortBooksButton" class="button" type="button">套用排序</button>
       <button id="loadButton" class="button" type="button">讀取</button>
       <button id="openLocalButton" class="button" type="button">選擇本機檔</button>
       <button id="formatButton" class="button" type="button">格式化</button>
@@ -308,7 +320,7 @@
 
     <section class="editor-shell">
       <aside class="book-list">
-        <h2>書籍</h2>
+        <h2>書籍（目前順序）</h2>
         <div id="bookList"></div>
       </aside>
       <section class="json-panel">
@@ -341,6 +353,8 @@
 
       const els = {
         fileSelect: document.getElementById("fileSelect"),
+        bookSortSelect: document.getElementById("bookSortSelect"),
+        sortBooksButton: document.getElementById("sortBooksButton"),
         loadButton: document.getElementById("loadButton"),
         openLocalButton: document.getElementById("openLocalButton"),
         formatButton: document.getElementById("formatButton"),
@@ -379,6 +393,7 @@
           loadSelectedFile().catch(showError);
         });
         els.openLocalButton.addEventListener("click", openLocalFile);
+        els.sortBooksButton.addEventListener("click", sortBooks);
         els.formatButton.addEventListener("click", formatEditor);
         els.validateButton.addEventListener("click", validateEditor);
         els.saveButton.addEventListener("click", saveEditor);
@@ -447,10 +462,10 @@
           els.bookList.innerHTML = `<p class="status-line">此檔案沒有 books 陣列。</p>`;
           return;
         }
-        els.bookList.innerHTML = books.map(function (book) {
+        els.bookList.innerHTML = books.map(function (book, index) {
           return `
             <button class="book-button" type="button" data-book-id="${escapeAttr(book.id)}" aria-pressed="${book.id === state.selectedBookId}">
-              ${escapeHtml(book.title || book.id)}
+              ${index + 1}. ${escapeHtml(book.title || book.id)}
               <small>${escapeHtml(book.author || "")}</small>
             </button>
           `;
@@ -481,6 +496,30 @@
         state.currentData = data;
         renderBookList(data);
         setStatus("格式化完成。", "ok");
+      }
+
+      function sortBooks() {
+        const data = parseEditorJson();
+        if (!Array.isArray(data.books)) {
+          setStatus("目前 JSON 沒有可排序的 books 陣列。", "bad");
+          return;
+        }
+
+        const [key, direction] = els.bookSortSelect.value.split(":");
+        const collator = new Intl.Collator("zh-Hant", { numeric: true, sensitivity: "base" });
+        data.books.sort(function (left, right) {
+          const leftValue = left && left[key] != null ? left[key] : "";
+          const rightValue = right && right[key] != null ? right[key] : "";
+          const result = collator.compare(String(leftValue), String(rightValue));
+          return direction === "desc" ? -result : result;
+        });
+
+        els.jsonEditor.value = JSON.stringify(data, null, 2);
+        state.currentData = data;
+        renderBookList(data);
+        els.editorMeta.textContent = "已修改";
+        const selectedLabel = els.bookSortSelect.options[els.bookSortSelect.selectedIndex].textContent;
+        setStatus(`已依${selectedLabel}重排 ${data.books.length} 本書；請按「儲存」或「下載」保留結果。`, "ok");
       }
 
       function validateEditor() {
@@ -564,23 +603,16 @@
           if (!Array.isArray(book.chatgptHighlights)) {
             return { ok: false, message: `${book.title} 缺少 chatgptHighlights 陣列。` };
           }
-          if (!Array.isArray(book.geminiHighlights)) {
-            return { ok: false, message: `${book.title} 缺少 geminiHighlights 陣列。` };
-          }
           const chatgptInvalid = findInvalidHighlightPrefix(book.chatgptHighlights);
           if (chatgptInvalid) {
             return { ok: false, message: `${book.title} 的 chatgptHighlights ${chatgptInvalid}` };
-          }
-          const geminiInvalid = findInvalidHighlightPrefix(book.geminiHighlights);
-          if (geminiInvalid) {
-            return { ok: false, message: `${book.title} 的 geminiHighlights ${geminiInvalid}` };
           }
         }
         return { ok: true, message: `驗證完成：${data.books.length} 本書。` };
       }
 
       function findInvalidHighlightPrefix(highlights) {
-        const shortLabelPattern = /^\d{2}、[^：]{1,12}：/;
+        const shortLabelPattern = /^\d{2,3}、[^：]{1,12}：/;
         for (let index = 0; index < highlights.length; index += 1) {
           const text = String(highlights[index] ?? "");
           if (text.includes("｜")) {

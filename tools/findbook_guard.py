@@ -19,11 +19,7 @@ CATEGORY_FILES = (
     "06_computer_info.json",
     "07_other.json",
 )
-NUMBER_RE = re.compile(r"^(?:0[1-9]|[1-9][0-9]|100)、")
-ALLOWED_HIGHLIGHTS_SOURCES = {
-    "web_chatgpt_and_web_gemini",
-    "codex_and_web_gemini",
-}
+NUMBER_RE = re.compile(r"^\d{2,3}、")
 PRIVATE_RE = re.compile(r"[\ue000-\uf8ff\ufffd]")
 PROMO_BRACKET_RE = re.compile(r"【[^】]*】|\[[^\]]*\]")
 PROMO_WORD_RE = re.compile(
@@ -78,32 +74,38 @@ def read_head_ids(root: Path, filename: str) -> set[str] | None:
     return {book["id"] for book in parsed.get("books", [])}
 
 
-def validate_highlights(book: dict, model: str, errors: list[str]) -> None:
-    status = book.get(f"{model}Status")
-    lines = book.get(f"{model}Highlights")
+def validate_highlights(book: dict, errors: list[str]) -> None:
+    status = book.get("chatgptStatus")
+    lines = book.get("chatgptHighlights")
     if not isinstance(lines, list):
-        errors.append(f"{book.get('id')} {model}Highlights 不是陣列")
+        errors.append(f"{book.get('id')} chatgptHighlights 不是陣列")
         return
     if status != "complete":
         return
-    if len(lines) != 100:
-        errors.append(f"{book.get('id')} {model} 完成狀態卻不是 100 點")
+    if len(lines) not in (100, 200):
+        errors.append(f"{book.get('id')} Codex 完成狀態卻不是舊版 100 點或新版 200 點")
         return
+    if len(lines) == 200:
+        if book.get("highlightsSource") != "codex":
+            errors.append(f"{book.get('id')} 新版 Codex 重點的 highlightsSource 必須是 codex")
+        if not book.get("highlightsCapturedAt"):
+            errors.append(f"{book.get('id')} 新版 Codex 重點缺少 highlightsCapturedAt")
+    number_width = 3 if len(lines) == 200 else 2
     short_colon_lines = []
     for index, line in enumerate(lines, 1):
-        expected = f"{index:02d}、"
+        expected = f"{index:0{number_width}d}、"
         if not isinstance(line, str) or not line.startswith(expected):
-            errors.append(f"{book.get('id')} {model} 第 {index} 點編號錯誤")
+            errors.append(f"{book.get('id')} Codex 第 {index} 點編號錯誤")
             continue
         if "\n" in line or "\r" in line or "｜" in line:
-            errors.append(f"{book.get('id')} {model} 第 {index} 點含禁用格式")
+            errors.append(f"{book.get('id')} Codex 第 {index} 點含禁用格式")
         body = NUMBER_RE.sub("", line, count=1)
         match = re.match(r"^([^：:]{1,12})[：:]", body)
         if match and not match.group(1).endswith(NATURAL_COLON_SUFFIXES):
             short_colon_lines.append(index)
     if len(short_colon_lines) >= 3:
         errors.append(
-            f"{book.get('id')} {model} 有 {len(short_colon_lines)} 點疑似短標籤加冒號"
+            f"{book.get('id')} Codex 有 {len(short_colon_lines)} 點疑似短標籤加冒號"
         )
 
 
@@ -178,13 +180,7 @@ def run_validate(args: argparse.Namespace) -> int:
             errors.append(f"{book.get('id')} 缺少 searchDateRange")
         if not book.get("sourceDateNote") or not book.get("sourceUrl"):
             errors.append(f"{book.get('id')} 缺少來源日期說明或網址")
-        validate_highlights(book, "chatgpt", errors)
-        validate_highlights(book, "gemini", errors)
-        if book.get("chatgptStatus") == "complete" and book.get("geminiStatus") == "complete":
-            if book.get("highlightsSource") not in ALLOWED_HIGHLIGHTS_SOURCES:
-                errors.append(f"{book.get('id')} 完成狀態的 highlightsSource 錯誤")
-            if not book.get("highlightsCapturedAt"):
-                errors.append(f"{book.get('id')} 完成狀態缺少 highlightsCapturedAt")
+        validate_highlights(book, errors)
         if "套書" in title or re.search(r"共[兩二三四五六七八九十\d]+冊", title):
             warnings.append(f"{book.get('id')} 是套書，需人工檢查是否重疊單冊")
 
@@ -228,14 +224,11 @@ def run_validate(args: argparse.Namespace) -> int:
     if template_summaries:
         warnings.append(f"仍有 {len(template_summaries)} 本使用流程模板 summary")
 
-    complete = sum(
-        book.get("chatgptStatus") == "complete" and book.get("geminiStatus") == "complete"
-        for book in detail_books
-    )
+    complete = sum(book.get("chatgptStatus") == "complete" for book in detail_books)
     pending = len(detail_books) - complete
     generated_from = str(manifest.get("generatedFrom", ""))
     if generated_from and (str(complete) not in generated_from or str(pending) not in generated_from):
-        errors.append("data.json generatedFrom 的完成／待處理數量已過期")
+        warnings.append("data.json generatedFrom 仍是舊版完成／待處理統計")
 
     counts = [len(category.get("books", [])) for category in categories]
     print(f"分類總數：{'/'.join(map(str, counts))}")
@@ -260,10 +253,8 @@ def run_queue(args: argparse.Namespace) -> int:
     rows = []
     for category in categories:
         for book in category.get("books", []):
-            if book.get("chatgptStatus") == "pending_web_verification":
-                rows.append((category.get("categoryId"), "ChatGPT", book))
-            if book.get("geminiStatus") == "pending_web_verification":
-                rows.append((category.get("categoryId"), "Gemini", book))
+            if book.get("chatgptStatus") != "complete":
+                rows.append((category.get("categoryId"), "Codex", book))
     if args.limit is not None:
         rows = rows[: args.limit]
     for category_id, model, book in rows:
