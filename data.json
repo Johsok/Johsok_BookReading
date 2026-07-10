@@ -452,13 +452,195 @@
                                ],
                       "sourceName":  "博客來商業理財暢銷榜 TOP 12",
                       "sourceUrl":  "https://www.books.com.tw/products/0011000702?loc=P_0003_012"
+                  },
+                  {
+                      "id": "01_business_startup-20260710-02",
+                      "title": "致富心態（全球暢銷千萬增訂版）：關於財富、貪婪與幸福的20堂理財課",
+                      "author": "摩根．豪瑟",
+                      "categoryId": "01_business_startup",
+                      "tags": [
+                          "理財心理",
+                          "投資行為",
+                          "財務自由",
+                          "風險管理"
+                      ],
+                      "sourceName": "博客來商業理財暢銷榜 TOP 13",
+                      "sourceUrl": "https://www.books.com.tw/products/0011043967?loc=P_0003_013"
+                  },
+                  {
+                      "id": "01_business_startup-20260710-03",
+                      "title": "窮查理的普通常識（紀念典藏版）：巴菲特50年智慧合夥人查理．蒙格的人生哲學",
+                      "author": "查理．蒙格",
+                      "categoryId": "01_business_startup",
+                      "tags": [
+                          "投資哲學",
+                          "多元思維模型",
+                          "決策心理",
+                          "價值投資"
+                      ],
+                      "sourceName": "博客來商業理財暢銷榜 TOP 14",
+                      "sourceUrl": "https://www.books.com.tw/products/0010987407?loc=P_0003_014"
+                  },
+                  {
+                      "id":  "01_business_startup-20260710-04",
+                      "title":  "B2B超業進化：AI時代的顧問式銷售與價值共創思維（6套實戰方法 × 10大成交心法 × 5項行動指引）",
+                      "author":  "吳承漢",
+                      "categoryId":  "01_business_startup",
+                      "tags":  [
+                                   "商業",
+                                   "創業",
+                                   "投資",
+                                   "理財"
+                               ],
+                      "sourceName":  "博客來商業理財暢銷榜 TOP 15",
+                      "sourceUrl":  "https://www.books.com.tw/products/0011052900?loc=P_0003_015"
+                  },
+                  {
+                      "id": "01_business_startup-20260710-32",
+                      "title": "一人公司：為什麼小而美是未來企業發展的趨勢",
+                      "author": "保羅．賈維斯",
+                      "categoryId": "01_business_startup",
+                      "tags": [
+                          "一人公司",
+                          "小型企業",
+                          "永續經營",
+                          "自主工作"
+                      ],
+                      "sourceName": "博客來中文書商品頁",
+                      "sourceUrl": "https://www.books.com.tw/products/0010825335"
+                  },
+                  {
+                      "id": "01_business_startup-20260710-33",
+                      "title": "一個週末！打造千萬事業：七次創業都成功，創造財富破億！超簡單公式教會你找到需求×設計方案×持續成長，將收益最大化",
+                      "author": "諾亞．凱根, 塔爾．拉茲",
+                      "categoryId": "01_business_startup",
+                      "tags": [
+                          "創業驗證",
+                          "市場需求",
+                          "首筆銷售",
+                          "事業成長"
+                      ],
+                      "sourceName": "博客來中文書商品頁",
+                      "sourceUrl": "https://www.books.com.tw/products/0011006623"
+                  },
+                  {
+                      "id": "01_business_startup-20260710-34",
+                      "title": "可複製的領導力：300萬付費會員推崇，樊登的九堂商業課",
+                      "author": "樊登",
+                      "categoryId": "01_business_startup",
+                      "tags": [
+                          "領導工具",
+                          "目標管理",
+                          "團隊溝通",
+                          "員工培育"
+                      ],
+                      "sourceName": "博客來中文書商品頁",
+                      "sourceUrl": "https://www.books.com.tw/products/0010805719"
+                  },
+                  {
+                      "id": "01_business_startup-20260710-35",
+                      "title": "從A到A+：企業從優秀到卓越的奧祕（暢銷新裝版）",
+                      "author": "詹姆．柯林斯",
+                      "categoryId": "01_business_startup",
+                      "tags": [
+                          "卓越企業",
+                          "第五級領導",
+                          "刺蝟原則",
+                          "飛輪效應"
+                      ],
+                      "sourceName": "博客來中文書商品頁",
+                      "sourceUrl": "https://www.books.com.tw/products/0010845587"
+                  },
+                  {
+                      "id": "01_business_startup-20260710-36",
+                      "title": "僕人I：修道院的領導啟示錄",
+                      "author": "詹姆士．杭特",
+                      "categoryId": "01_business_startup",
+                      "tags": [
+                          "僕人式領導",
+                          "權威",
+                          "服務",
+                          "團隊信任"
+                      ],
+                      "sourceName": "博客來中文書商品頁",
+                      "sourceUrl": "https://www.books.com.tw/products/0011010367"
+                  },
+                  {
+                      "id": "01_business_startup-20260710-37",
+                      "title": "思辨賽局〖修訂版〗：看穿局勢、創造優勢的策略智慧",
+                      "author": "阿維納什．迪克西特, 貝利．奈勒波夫",
+                      "categoryId": "01_business_startup",
+                      "tags": [
+                          "賽局理論",
+                          "策略決策",
+                          "競爭合作",
+                          "談判"
+                      ],
+                      "sourceName": "博客來中文書商品頁",
+                      "sourceUrl": "https://www.books.com.tw/products/0010992048"
+                  },
+                  {
+                      "id": "01_business_startup-20260710-38",
+                      "title": "先問，為什麼？：顛覆慣性思考的黃金圈理論，啟動你的感召領導力（新增訂版）",
+                      "author": "賽門‧西奈克",
+                      "categoryId": "01_business_startup",
+                      "tags": [
+                          "黃金圈",
+                          "品牌使命",
+                          "感召領導",
+                          "組織溝通"
+                      ],
+                      "sourceName": "博客來中文書商品頁",
+                      "sourceUrl": "https://www.books.com.tw/products/0010926506"
+                  },
+                  {
+                      "id": "01_business_startup-20260710-39",
+                      "title": "執行力的修練（增訂更新版）：達成極重要目標，與成功有約的4個紀律",
+                      "author": "麥切斯尼, 柯維, 霍林, 泰利, 華克",
+                      "categoryId": "01_business_startup",
+                      "tags": [
+                          "4DX",
+                          "極重要目標",
+                          "領先指標",
+                          "當責節奏"
+                      ],
+                      "sourceName": "博客來中文書商品頁",
+                      "sourceUrl": "https://www.books.com.tw/products/0010951069"
+                  },
+                  {
+                      "id": "01_business_startup-20260710-40",
+                      "title": "葛洛夫給經理人的第一課：從煮蛋、賣咖啡的早餐店談高效能管理之道（暢銷新裝版）（3版）",
+                      "author": "安德魯．葛洛夫",
+                      "categoryId": "01_business_startup",
+                      "tags": [
+                          "高產出管理",
+                          "管理槓桿",
+                          "流程設計",
+                          "績效管理"
+                      ],
+                      "sourceName": "博客來中文書商品頁",
+                      "sourceUrl": "https://www.books.com.tw/products/0010816790"
+                  },
+                  {
+                      "id": "01_business_startup-20260710-41",
+                      "title": "OKR：做最重要的事",
+                      "author": "約翰‧杜爾",
+                      "categoryId": "01_business_startup",
+                      "tags": [
+                          "OKR",
+                          "目標與關鍵成果",
+                          "組織對齊",
+                          "績效追蹤"
+                      ],
+                      "sourceName": "博客來中文書商品頁",
+                      "sourceUrl": "https://www.books.com.tw/products/0010813170"
                   }
               ],
-    "totalBooks":  29,
+    "totalBooks":  42,
     "searchDateRange":  {
                             "from":  "2000-06-01",
                             "to":  "2026-07-10"
                         },
-    "generatedFrom":  "FindBook_Skill.md web ChatGPT/Gemini completed items only",
-    "generatedAt":  "2026-07-10T02:03:30+08:00"
+    "generatedFrom":  "FindBook_Skill.md: 42 complete items and 0 pending verification candidates",
+    "generatedAt":  "2026-07-10T12:31:44.8988396+08:00"
 }
