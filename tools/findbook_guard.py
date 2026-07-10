@@ -55,9 +55,9 @@ def parse_expected(value: str | None) -> list[int] | None:
     return values
 
 
-def read_head_ids(root: Path, filename: str) -> set[str] | None:
+def read_baseline_ids(root: Path, filename: str, baseline_ref: str) -> set[str] | None:
     result = subprocess.run(
-        ["git", "show", f"HEAD:{filename}"],
+        ["git", "show", f"{baseline_ref}:{filename}"],
         cwd=root,
         capture_output=True,
         text=True,
@@ -195,11 +195,17 @@ def run_validate(args: argparse.Namespace) -> int:
     new_books: list[dict] = []
     deltas = []
     for index, (filename, category) in enumerate(zip(CATEGORY_FILES, categories)):
-        head_ids = read_head_ids(root, filename)
-        if head_ids is None:
-            warnings.append(f"無法讀取 HEAD:{filename}，略過新增配額檢查")
+        baseline_ids = read_baseline_ids(root, filename, args.baseline_ref)
+        if baseline_ids is None:
+            warnings.append(
+                f"無法讀取 {args.baseline_ref}:{filename}，略過新增配額檢查"
+            )
             continue
-        additions = [book for book in category.get("books", []) if book.get("id") not in head_ids]
+        additions = [
+            book
+            for book in category.get("books", [])
+            if book.get("id") not in baseline_ids
+        ]
         new_books.extend(additions)
         deltas.append(len(additions))
         if expected is not None and len(additions) != expected[index]:
@@ -239,7 +245,7 @@ def run_validate(args: argparse.Namespace) -> int:
     counts = [len(category.get("books", [])) for category in categories]
     print(f"分類總數：{'/'.join(map(str, counts))}")
     if deltas:
-        print(f"相對 HEAD 新增：{'/'.join(map(str, deltas))}")
+        print(f"相對 {args.baseline_ref} 新增：{'/'.join(map(str, deltas))}")
     print(f"全庫：{len(detail_books)} 本；complete={complete}；pending={pending}")
     for warning in sorted(set(warnings)):
         print(f"WARN {warning}")
@@ -275,6 +281,7 @@ def build_parser() -> argparse.ArgumentParser:
     subparsers = parser.add_subparsers(dest="command", required=True)
     validate = subparsers.add_parser("validate")
     validate.add_argument("--expected-new")
+    validate.add_argument("--baseline-ref", default="HEAD")
     validate.add_argument("--from-date")
     validate.add_argument("--to-date")
     validate.set_defaults(func=run_validate)
