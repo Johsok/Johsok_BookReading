@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Python 程式設計：AI與資料科學應用（三版）",
+    "author": "劉立民",
+    "sourceName": "博客來商品頁",
+    "sourceUrl": "https://www.books.com.tw/products/0010999445",
+    "sourceDateNote": "博客來商品頁列出版日期 2025-01-01；核實日 2026-07-11；符合搜尋區間 2000-06-01 至 2026-07-11。",
+    "tags": ["電腦資訊", "Python", "資料科學", "人工智慧"],
+    "summary": "從 Python 基礎語法、控制結構、函數與容器出發，加入 AI 協作、提示、除錯與測試案例，再以影像、文字、迴歸、分類、地理資料及語音等專題實作。"
+  },
+  {
+    "title": "AI應用程式開發 第二版｜活用ChatGPT與LLM技術開發實作",
+    "author": "Olivier Caelen, Marie-Alice Blete",
+    "sourceName": "旗標科技官方商品頁",
+    "sourceUrl": "https://www.gotop.com.tw/books/bookdetails.aspx?bn=A792&types=a",
+    "sourceDateNote": "旗標科技官方商品頁列出版日 2025-04-01；核實日 2026-07-11；符合搜尋區間 2000-06-01 至 2026-07-11。",
+    "tags": ["電腦資訊", "生成式AI", "LLM", "應用程式開發"],
+    "summary": "以 Python 與大型語言模型 API 為核心，解釋模型能力、提示設計及開發流程，並用文本生成、問答和智慧助理等案例示範如何建構、測試與改進 AI 應用。"
+  }
+]

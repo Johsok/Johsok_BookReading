@@ -7129,13 +7129,853 @@
       ],
       "sourceName": "博客來人文社科商品頁",
       "sourceUrl": "https://www.books.com.tw/products/0011055408"
+    },
+    {
+      "id": "01_business_startup-20260711-34",
+      "title": "華爾街最長勝的投資家族：富過三代的價值投資傳奇，戴維斯王朝的致富之道",
+      "author": "約翰．羅斯柴爾德（John Rothchild，1945~2019）",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "價值投資",
+        "長期投資",
+        "戴維斯雙擊",
+        "家族財富"
+      ],
+      "sourceName": "博客來中文書商品頁（商業理財／投資理財）",
+      "sourceUrl": "https://www.books.com.tw/products/0011043535"
+    },
+    {
+      "id": "01_business_startup-20260711-35",
+      "title": "紀律長贏：揭開清大校務基金操盤人風險控管與穩定獲利的策略",
+      "author": "林哲群",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "風險控管",
+        "法人投資",
+        "資產配置",
+        "投資紀律"
+      ],
+      "sourceName": "博客來中文書商品頁（商業理財／投資理財）",
+      "sourceUrl": "https://www.books.com.tw/products/0011042966"
+    },
+    {
+      "id": "01_business_startup-20260711-36",
+      "title": "百倍成長股投資法：利用顛覆型企業放大長期報酬",
+      "author": "大衛．加德納",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "成長股",
+        "顛覆創新",
+        "長期持有",
+        "投資組合"
+      ],
+      "sourceName": "博客來中文書商品頁（商業理財／投資理財）",
+      "sourceUrl": "https://www.books.com.tw/products/0011043030"
+    },
+    {
+      "id": "01_business_startup-20260711-37",
+      "title": "一個身心科醫師的交易告白：從慘賠上億到獲利110％的股市人性啟示錄",
+      "author": "朴鐘錫",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "投資心理",
+        "交易紀律",
+        "風險管理",
+        "情緒管理"
+      ],
+      "sourceName": "博客來中文書商品頁（商業理財／投資理財）",
+      "sourceUrl": "https://www.books.com.tw/products/0011043534"
+    },
+    {
+      "id": "01_business_startup-20260711-38",
+      "title": "投資的奧義：財經界兩位頂尖思想家，寫給普通投資人的實用理財指南〖10周年紀念版〗",
+      "author": "柏頓．墨基爾, 查爾斯．艾利斯",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "指數投資",
+        "資產配置",
+        "成本控制",
+        "長期理財"
+      ],
+      "sourceName": "博客來中文書商品頁（商業理財／投資理財）",
+      "sourceUrl": "https://www.books.com.tw/products/0011042714"
+    },
+    {
+      "id": "01_business_startup-20260711-39",
+      "title": "當你沒有新鮮的肝── 不當主管你會更累： 怕累、怕煩、不想扛責？35年資歷的人資主管分享，為何你在45歲前，該逼自己當個清、濁二刀流主管！",
+      "author": "鳥谷陽一",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "職涯管理",
+        "主管養成",
+        "領導力",
+        "人力資源"
+      ],
+      "sourceName": "博客來中文書商品頁（商業理財／管理與領導）",
+      "sourceUrl": "https://www.books.com.tw/products/0011019231"
+    },
+    {
+      "id": "01_business_startup-20260711-40",
+      "title": "打造低流動、高績效團隊，從「心理安全感」做起：Google亞太區人才組織開發負責人寫給亞洲職場的關鍵留才思維與行動",
+      "author": "彼優特・菲利克斯・吉瓦奇",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "心理安全感",
+        "人才留任",
+        "團隊績效",
+        "組織文化"
+      ],
+      "sourceName": "博客來中文書商品頁（商業理財／管理與領導）",
+      "sourceUrl": "https://www.books.com.tw/products/0011019044"
+    },
+    {
+      "id": "01_business_startup-20260711-41",
+      "title": "帶心不帶累的跨世代主管學：打造高績效、能當責的超級團隊， 讓新人心服口服、老鳥對你推心置腹",
+      "author": "李河泉",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "跨世代管理",
+        "Z世代",
+        "溝通",
+        "留才"
+      ],
+      "sourceName": "博客來中文書商品頁（商業理財／管理與領導）",
+      "sourceUrl": "https://www.books.com.tw/products/0011017125"
+    },
+    {
+      "id": "01_business_startup-20260711-42",
+      "title": "百年基業：組織永續經營的12個好習慣",
+      "author": "艾利克斯．希爾",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "永續經營",
+        "組織文化",
+        "領導傳承",
+        "長期績效"
+      ],
+      "sourceName": "博客來中文書商品頁（商業理財／管理與領導）",
+      "sourceUrl": "https://www.books.com.tw/products/0011016213"
+    },
+    {
+      "id": "01_business_startup-20260711-43",
+      "title": "文案寫作上手的第一本書： 170個文案必備技巧，無論是社群貼文、廣告宣傳還是企劃提案，都能讓你的文案精準命中客群需求",
+      "author": "湯姆．奧爾布萊頓",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "文案寫作",
+        "品牌傳播",
+        "廣告",
+        "內容行銷"
+      ],
+      "sourceName": "博客來中文書商品頁（商業理財／行銷／廣告／業務）",
+      "sourceUrl": "https://www.books.com.tw/products/0011018105"
+    },
+    {
+      "id": "01_business_startup-20260711-44",
+      "title": "投資人生：運用投資思維，放大你的人生報酬",
+      "author": "蔣豐蔚",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "投資思維",
+        "人生決策",
+        "創業",
+        "長期價值"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／商業／經營管理）",
+      "sourceUrl": "https://www.taaze.tw/products/11101091521.html"
+    },
+    {
+      "id": "01_business_startup-20260711-45",
+      "title": "讓錢喜歡你的財富整理術：小印的23個理財練習，陪你走出金錢焦慮，實現夢想x財務自主",
+      "author": "整理鍊金術師小印",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "財務整理",
+        "金錢焦慮",
+        "財務自主",
+        "理財練習"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／商業／投資理財）",
+      "sourceUrl": "https://www.taaze.tw/products/11101084160.html"
+    },
+    {
+      "id": "01_business_startup-20260711-46",
+      "title": "財商：不費力才會贏",
+      "author": "吳淡如",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "財商",
+        "理財習慣",
+        "資產配置",
+        "財務自由"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／商業／投資理財）",
+      "sourceUrl": "https://www.taaze.tw/products/11101081395.html"
+    },
+    {
+      "id": "01_business_startup-20260711-47",
+      "title": "比財富自由更重要的事：從 5 億歸零，到出發再戰，教你如何設計自己的財富",
+      "author": "朱彥奎",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "財富設計",
+        "投資風險",
+        "逆境重建",
+        "長期主義"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／商業／投資理財）",
+      "sourceUrl": "https://www.taaze.tw/products/11101088124.html"
+    },
+    {
+      "id": "01_business_startup-20260711-48",
+      "title": "職業交易人的養成練習本：實戰測驗與解析手冊",
+      "author": "亞歷山大．艾爾德博士",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "交易心理",
+        "風險管理",
+        "交易策略",
+        "實戰測驗"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／商業／投資理財）",
+      "sourceUrl": "https://www.taaze.tw/products/11101087757.html"
+    },
+    {
+      "id": "01_business_startup-20260711-49",
+      "title": "大淘汰時代創造獲利筆記",
+      "author": "長谷川和廣",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "企業獲利",
+        "營運改善",
+        "財務管理",
+        "經營策略"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／商業／經營管理）",
+      "sourceUrl": "https://www.taaze.tw/products/11101089086.html"
+    },
+    {
+      "id": "01_business_startup-20260711-50",
+      "title": "有光，就有路：永光集團創辦人陳定川的七堂人生智慧課",
+      "author": "蔡孟庭",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "企業傳記",
+        "創業",
+        "企業文化",
+        "世代傳承"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／商業／企業與企業家）",
+      "sourceUrl": "https://www.taaze.tw/products/11101088100.html"
+    },
+    {
+      "id": "01_business_startup-20260711-51",
+      "title": "聚焦Palantir：〖最全面的商業模式與技術護城河解析〗從軍工神祕獨角獸到AI軟體霸主，帕蘭泰爾Palantir如何用AI顛覆五角大廈與華爾街，重塑全球權力與商業格局",
+      "author": "安有錫",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "Palantir",
+        "商業模式",
+        "AI產業",
+        "技術護城河"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／商業／經營管理）",
+      "sourceUrl": "https://www.taaze.tw/products/11101087693.html"
+    },
+    {
+      "id": "01_business_startup-20260711-52",
+      "title": "逆向交易者：投資大師們奉若聖經的交易經典",
+      "author": "G．C．塞爾登",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "逆向投資",
+        "市場心理",
+        "交易紀律",
+        "群眾行為"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／商業／投資理財）",
+      "sourceUrl": "https://www.taaze.tw/products/11101090978.html"
+    },
+    {
+      "id": "01_business_startup-20260711-53",
+      "title": "股市常勝道",
+      "author": "平民股勝",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "股票投資",
+        "基本分析",
+        "技術分析",
+        "趨勢交易"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／商業／投資理財）",
+      "sourceUrl": "https://www.taaze.tw/products/11101091846.html"
+    },
+    {
+      "id": "01_business_startup-20260711-54",
+      "title": "好策略．壞策略",
+      "author": "魯梅特",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "策略",
+        "經營管理",
+        "問題診斷",
+        "決策"
+      ],
+      "sourceName": "天下文化官方書頁",
+      "sourceUrl": "https://bookzone.cwgv.com.tw/books/BCB498A"
+    },
+    {
+      "id": "01_business_startup-20260711-55",
+      "title": "藍海策略增訂版",
+      "author": "金偉燦、莫伯尼",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "策略",
+        "價值創新",
+        "市場開創",
+        "競爭"
+      ],
+      "sourceName": "天下文化官方書頁",
+      "sourceUrl": "https://bookzone.cwgv.com.tw/book/BCB551B"
+    },
+    {
+      "id": "01_business_startup-20260711-56",
+      "title": "沒有對手的競爭",
+      "author": "格林沃德、康恩",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "策略",
+        "競爭優勢",
+        "進入障礙",
+        "賽局"
+      ],
+      "sourceName": "天下文化官方書頁",
+      "sourceUrl": "https://bookzone.cwgv.com.tw/book/BCB374"
+    },
+    {
+      "id": "01_business_startup-20260711-57",
+      "title": "競爭策略",
+      "author": "麥可．波特",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "策略",
+        "五力分析",
+        "產業分析",
+        "競爭"
+      ],
+      "sourceName": "天下文化官方書頁",
+      "sourceUrl": "https://bookzone.cwgv.com.tw/book/BCB170B"
+    },
+    {
+      "id": "01_business_startup-20260711-58",
+      "title": "最後吃，才是真領導（增訂版）：創造跨世代溝通合作的零內鬨團隊",
+      "author": "賽門．西奈克",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "領導",
+        "團隊",
+        "組織文化",
+        "跨世代管理"
+      ],
+      "sourceName": "天下雜誌出版官方書頁",
+      "sourceUrl": "https://books.cw.com.tw/book/174"
+    },
+    {
+      "id": "01_business_startup-20260711-59",
+      "title": "第五項修練（全新修訂版）：學習型組織的藝術與實務",
+      "author": "彼得．聖吉",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "領導",
+        "系統思考",
+        "組織學習",
+        "團隊"
+      ],
+      "sourceName": "天下文化官方書頁",
+      "sourceUrl": "https://bookzone.cwgv.com.tw/books/BCB646A"
+    },
+    {
+      "id": "01_business_startup-20260711-60",
+      "title": "克服團隊領導的5大障礙（全新修訂白金暢銷版）：洞悉人性、解決衝突的白金法則",
+      "author": "派屈克・蘭奇歐尼",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "領導",
+        "團隊",
+        "衝突管理",
+        "組織變革"
+      ],
+      "sourceName": "天下雜誌出版官方書頁",
+      "sourceUrl": "https://books.cw.com.tw/book/977"
+    },
+    {
+      "id": "01_business_startup-20260711-61",
+      "title": "從0到1（經典印簽版）：打開世界運作的未知祕密，在意想不到之處發現價值",
+      "author": "彼得．提爾、布雷克．馬斯特",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "創業",
+        "創新",
+        "新創策略",
+        "商業模式"
+      ],
+      "sourceName": "天下雜誌出版官方書頁",
+      "sourceUrl": "https://books.cw.com.tw/book/1003"
+    },
+    {
+      "id": "01_business_startup-20260711-62",
+      "title": "精實創業：用小實驗玩出大事業（2017書衣新版）",
+      "author": "艾瑞克‧萊斯",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "創業",
+        "精實創業",
+        "產品驗證",
+        "創新"
+      ],
+      "sourceName": "博客來商品頁（出版社資料）",
+      "sourceUrl": "https://www.books.com.tw/products/0010768288"
+    },
+    {
+      "id": "01_business_startup-20260711-63",
+      "title": "極簡創業家：找出新創極簡之道",
+      "author": "薩希爾•拉文賈",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "創業",
+        "小型企業",
+        "社群",
+        "精實經營"
+      ],
+      "sourceName": "博客來商品頁（出版社資料）",
+      "sourceUrl": "https://www.books.com.tw/products/0010950180"
+    },
+    {
+      "id": "02_psychology_growth-20260711-34",
+      "title": "心態致勝：全新成功心理學",
+      "author": "卡蘿．杜維克",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "自我成長",
+        "成長心態",
+        "學習",
+        "心理學"
+      ],
+      "sourceName": "博客來商品頁（出版社資料）",
+      "sourceUrl": "https://www.books.com.tw/products/0010838441"
+    },
+    {
+      "id": "02_psychology_growth-20260711-35",
+      "title": "恆毅力：人生成功的究極能力〖暢銷新訂版〗",
+      "author": "安琪拉‧達克沃斯",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "自我成長",
+        "恆毅力",
+        "熱情",
+        "毅力"
+      ],
+      "sourceName": "博客來商品頁（出版社資料）",
+      "sourceUrl": "https://www.books.com.tw/products/0010867931"
+    },
+    {
+      "id": "02_psychology_growth-20260711-36",
+      "title": "為什麼我們這樣生活，那樣工作？",
+      "author": "查爾斯．杜希格",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "習慣",
+        "行為改變",
+        "生活管理",
+        "組織行為"
+      ],
+      "sourceName": "博客來商品頁（出版社資料）",
+      "sourceUrl": "https://www.books.com.tw/products/0010560033"
+    },
+    {
+      "id": "02_psychology_growth-20260711-37",
+      "title": "設計你的小習慣：史丹佛大學行為設計實驗室精研，全球瘋IG背後的行為設計學家教你慣性動作養成的技術",
+      "author": "BJ．福格",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "習慣",
+        "行為設計",
+        "微小改變",
+        "自我成長"
+      ],
+      "sourceName": "博客來商品頁（出版社資料）",
+      "sourceUrl": "https://www.books.com.tw/products/0010887677"
+    },
+    {
+      "id": "02_psychology_growth-20260711-38",
+      "title": "快思慢想（新版）",
+      "author": "康納曼",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理學",
+        "認知偏誤",
+        "決策",
+        "思考"
+      ],
+      "sourceName": "博客來商品頁（出版社資料）",
+      "sourceUrl": "https://www.books.com.tw/products/0010962486"
+    },
+    {
+      "id": "02_psychology_growth-20260711-39",
+      "title": "誰說人是理性的！：消費高手與行銷達人都要懂的行為經濟學",
+      "author": "丹‧艾瑞利",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理學",
+        "行為經濟學",
+        "非理性",
+        "決策"
+      ],
+      "sourceName": "博客來商品頁（出版社資料）",
+      "sourceUrl": "https://www.books.com.tw/products/0010788078"
+    },
+    {
+      "id": "02_psychology_growth-20260711-40",
+      "title": "好人總是自以為是：政治與宗教如何將我們四分五裂（長銷經典紀念版）(二版)",
+      "author": "強納森．海德特",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理學",
+        "道德心理",
+        "政治心理",
+        "同理"
+      ],
+      "sourceName": "博客來商品頁（出版社資料）",
+      "sourceUrl": "https://www.books.com.tw/products/0010920165"
+    },
+    {
+      "id": "02_psychology_growth-20260711-41",
+      "title": "情緒跟你以為的不一樣（暢銷改版）──科學證據揭露喜怒哀樂如何生成",
+      "author": "麗莎．費德曼．巴瑞特博士",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "情緒",
+        "神經科學",
+        "心理學",
+        "大腦"
+      ],
+      "sourceName": "博客來商品頁（出版社資料）",
+      "sourceUrl": "https://www.books.com.tw/products/0011019049"
+    },
+    {
+      "id": "02_psychology_growth-20260711-42",
+      "title": "讓感受自由：2000所學校都在上的耶魯大學情緒素養課，學會解讀與表達情緒，開啟被忽略的最大潛能！",
+      "author": "馬克．布雷克特",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "情緒",
+        "情緒素養",
+        "自我調節",
+        "人際關係"
+      ],
+      "sourceName": "博客來商品頁（出版社資料）",
+      "sourceUrl": "https://www.books.com.tw/products/0010934026"
+    },
+    {
+      "id": "02_psychology_growth-20260711-43",
+      "title": "美好人生：史上最長期的哈佛跨世代幸福研究，解答影響一生最重要的關鍵",
+      "author": "羅伯特．沃丁格, 馬克．修茲",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "關係",
+        "幸福",
+        "人生發展",
+        "心理學"
+      ],
+      "sourceName": "博客來商品頁（出版社資料）",
+      "sourceUrl": "https://www.books.com.tw/products/0010960497"
+    },
+    {
+      "id": "02_psychology_growth-20260711-44",
+      "title": "設限，才有好關係：不築牆也不揮霍善良，斷絕累到厭世的偽關係",
+      "author": "內達拉．格洛弗．塔瓦布",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "關係",
+        "界線",
+        "自我照顧",
+        "溝通"
+      ],
+      "sourceName": "博客來商品頁（出版社資料）",
+      "sourceUrl": "https://www.books.com.tw/products/0010913552"
+    },
+    {
+      "id": "02_psychology_growth-20260711-45",
+      "title": "讓愛情長久的八場約會〖暢銷雋永版〗：21世紀最受信賴的婚姻權威高特曼夫妻，陪你和另一半有效溝通",
+      "author": "約翰．高特曼, 茱莉．高特曼, 道格．亞伯蘭斯, 瑞秋．亞伯蘭斯",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "關係",
+        "伴侶",
+        "溝通",
+        "親密關係"
+      ],
+      "sourceName": "博客來商品頁（出版社資料）",
+      "sourceUrl": "https://www.books.com.tw/products/0011003329"
+    },
+    {
+      "id": "02_psychology_growth-20260711-46",
+      "title": "快樂是一種陷阱",
+      "author": "羅斯．哈里斯",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "情緒",
+        "接納承諾療法",
+        "正念",
+        "價值行動"
+      ],
+      "sourceName": "博客來商品頁（出版社資料）",
+      "sourceUrl": "https://www.books.com.tw/products/0010437690"
+    },
+    {
+      "id": "02_psychology_growth-20260711-47",
+      "title": "人生4千個禮拜：時間不是用來掌控的，直面「生命的有限」，打造游刃有餘的時間運用觀",
+      "author": "奧利佛‧柏克曼",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "自我成長",
+        "時間觀",
+        "有限性",
+        "人生選擇"
+      ],
+      "sourceName": "博客來商品頁（出版社資料）",
+      "sourceUrl": "https://www.books.com.tw/products/0010914255"
+    },
+    {
+      "id": "02_psychology_growth-20260711-48",
+      "title": "刻意練習：原創者全面解析，比天賦更關鍵的學習法",
+      "author": "安德斯‧艾瑞克森, 羅伯特‧普爾",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "自我成長",
+        "學習",
+        "專業能力",
+        "心理表徵"
+      ],
+      "sourceName": "博客來商品頁（出版社資料）",
+      "sourceUrl": "https://www.books.com.tw/products/0010752714"
+    },
+    {
+      "id": "02_psychology_growth-20260711-49",
+      "title": "誰在操縱你的選擇：為什麼我選的常常不是我要的？",
+      "author": "希娜．艾恩嘉",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理學",
+        "選擇",
+        "決策",
+        "文化"
+      ],
+      "sourceName": "博客來商品頁（出版社資料）",
+      "sourceUrl": "https://www.books.com.tw/products/0010492667"
+    },
+    {
+      "id": "02_psychology_growth-20260711-50",
+      "title": "脆弱的力量〖在台發行十二周年紀念典藏版〗",
+      "author": "布芮尼．布朗",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "自我成長",
+        "脆弱",
+        "勇氣",
+        "連結"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁",
+      "sourceUrl": "https://ebook.taaze.tw/do/mobile/single.aspx?pid=11101054233"
+    },
+    {
+      "id": "02_psychology_growth-20260711-51",
+      "title": "依附：辨識出自己的依附風格，了解自己需要的是什麼，與他人建立更美好的關係",
+      "author": "阿米爾．樂維, 瑞秋．赫勒",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理學",
+        "依附理論",
+        "親密關係",
+        "溝通"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁",
+      "sourceUrl": "https://www.taaze.tw/products/11100853820.html"
+    },
+    {
+      "id": "02_psychology_growth-20260711-52",
+      "title": "原始智慧：AI無法取代的四種人類天賦",
+      "author": "安格斯．弗萊契",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理學",
+        "直覺",
+        "想像力",
+        "人類智慧"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁",
+      "sourceUrl": "https://www.taaze.tw/products/11101092525.html"
+    },
+    {
+      "id": "02_psychology_growth-20260711-53",
+      "title": "修練當下的力量",
+      "author": "艾克哈特‧托勒",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "自我成長",
+        "正念",
+        "當下",
+        "覺察"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁",
+      "sourceUrl": "https://www.taaze.tw/products/11100019841.html"
+    },
+    {
+      "id": "02_psychology_growth-20260711-54",
+      "title": "適度依賴：懂得示弱，學會從信任出發的勇敢",
+      "author": "羅勃．伯恩斯坦博士, 瑪麗．朗古蘭博士",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理學",
+        "依賴",
+        "信任",
+        "人際關係"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁",
+      "sourceUrl": "https://www.taaze.tw/products/11100884731.html"
+    },
+    {
+      "id": "02_psychology_growth-20260711-55",
+      "title": "真實的快樂",
+      "author": "馬汀．塞利格曼",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "正向心理學",
+        "幸福",
+        "優勢",
+        "人生意義"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁",
+      "sourceUrl": "https://www.taaze.tw/products/11100002073.html"
+    },
+    {
+      "id": "02_psychology_growth-20260711-56",
+      "title": "心流：高手都在研究的最優體驗心理學（繁體中文唯一全譯本，三版）",
+      "author": "米哈里．契克森米哈伊",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理學",
+        "心流",
+        "專注",
+        "幸福"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁",
+      "sourceUrl": "https://www.taaze.tw/products/11101085372.html"
+    },
+    {
+      "id": "02_psychology_growth-20260711-57",
+      "title": "邁向圓滿：掌握幸福的科學方法&練習計畫",
+      "author": "馬汀．塞利格曼",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "正向心理學",
+        "幸福",
+        "韌性",
+        "PERMA"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁",
+      "sourceUrl": "https://www.taaze.tw/products/11100612613.html"
+    },
+    {
+      "id": "02_psychology_growth-20260711-58",
+      "title": "自我慈悲：終結內耗、重建心理韌性與內在穩定的溫柔力量",
+      "author": "克莉絲汀．聶夫",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "自我慈悲",
+        "心理韌性",
+        "正念",
+        "情緒調節"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁",
+      "sourceUrl": "https://www.taaze.tw/products/11101084973.html"
+    },
+    {
+      "id": "02_psychology_growth-20260711-59",
+      "title": "學會有力量的愛，才抓得住幸福：從懂得篩選，到實踐五種愛的語言，建立穩定健康的親密關係",
+      "author": "卡斯圖里．馬漢塔",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "親密關係",
+        "界線",
+        "溝通",
+        "愛的語言"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁",
+      "sourceUrl": "https://www.taaze.tw/products/11101068158.html"
+    },
+    {
+      "id": "02_psychology_growth-20260711-60",
+      "title": "依戀效應：為什麼我們總在愛中受傷，在人際關係中受挫？",
+      "author": "皮特．羅文海姆",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "依戀理論",
+        "人際關係",
+        "親密關係",
+        "自我理解"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁",
+      "sourceUrl": "https://www.taaze.tw/products/11100890872.html"
+    },
+    {
+      "id": "02_psychology_growth-20260711-61",
+      "title": "父母不能選擇，但人生可以：走出家庭的傷，從認識自己的依附關係開始",
+      "author": "高橋和巳",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "家庭創傷",
+        "依附關係",
+        "心理發展",
+        "自我成長"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁",
+      "sourceUrl": "https://www.taaze.tw/products/11101046210.html"
+    },
+    {
+      "id": "02_psychology_growth-20260711-62",
+      "title": "自我實現心理學，改變生命層次的五大關鍵：三性合一、自我界限、關係本質、目標牽引……從焦慮到覺醒，理清自我關係，真正認識並愛上自己",
+      "author": "趙育嫻",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理學",
+        "自我實現",
+        "自我界限",
+        "人際關係"
+      ],
+      "sourceName": "博客來商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011003640"
+    },
+    {
+      "id": "02_psychology_growth-20260711-63",
+      "title": "自療書：人生最重要的事，就是完成自己的成長",
+      "author": "楊依靜",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "自我成長",
+        "自我療癒",
+        "生命智慧"
+      ],
+      "sourceName": "博客來商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0010974728"
     }
   ],
-  "totalBooks": 509,
+  "totalBooks": 569,
   "searchDateRange": {
     "from": "2000-06-01",
     "to": "2026-07-11"
   },
-  "generatedFrom": "FindBook_Skill.md: 509 complete items and 0 pending Codex candidates",
-  "generatedAt": "2026-07-11T08:18:48+08:00"
+  "generatedFrom": "FindBook_Skill.md reservation checkpoint",
+  "generatedAt": "2026-07-11T10:17:03+08:00"
 }
