@@ -45,11 +45,12 @@
       position: fixed;
       top: env(safe-area-inset-top, 0);
       left: 0;
-      z-index: 30;
+      z-index: 9999;
       width: 0%;
       height: 4px;
-      background: linear-gradient(90deg, var(--app-accent), var(--app-accent-2), var(--app-accent-3));
-      box-shadow: 0 0 16px rgba(155, 91, 37, .45);
+      background: linear-gradient(90deg, #00f5ff, #0bbcd6, #00ff88);
+      box-shadow: 0 0 10px rgba(0, 255, 200, .8);
+      transition: width .1s linear;
       pointer-events: none;
     }
     .dynamic-bg {
@@ -698,7 +699,7 @@
           </aside>
           <div class="book-main">
             <section class="highlight-panel">
-              <h3 class="section-title">Codex重點整理</h3>
+              <h3 class="section-title">ChatGPT 重點整理</h3>
               ${points.length ? `<div class="point-grid">${points.map(function (point) {
                 return renderPoint(point);
               }).join("")}</div>` : `<div class="pending">此書尚未產出重點整理。</div>`}

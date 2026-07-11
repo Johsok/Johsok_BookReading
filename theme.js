@@ -849,6 +849,50 @@ body[data-theme="noir"] select option,
 body[data-theme="coffee"] select option {
   color: #111;
 }
+body[data-theme] .book-view {
+  grid-template-columns: 330px minmax(0, 1fr);
+}
+body[data-theme] .book-side {
+  order: 0;
+  grid-column: 1;
+  grid-row: 1;
+  min-width: 0;
+  min-height: 100%;
+  border-radius: var(--app-radius) 0 0 var(--app-radius);
+}
+body[data-theme] .book-side-inner {
+  position: sticky;
+  top: 50vh;
+  grid-template-columns: 1fr;
+  align-items: normal;
+  align-content: center;
+  justify-items: center;
+  min-height: 0;
+  max-height: calc(100vh - 96px);
+  padding: 24px;
+  text-align: center;
+  transform: translateY(-50%);
+}
+body[data-theme] .book-side-inner > div:nth-child(2) {
+  display: block;
+}
+body[data-theme] .book-side h2,
+body[data-theme] .book-side p {
+  max-height: none;
+  writing-mode: horizontal-tb;
+}
+body[data-theme] .book-meta {
+  grid-column: auto;
+  width: 100%;
+}
+body[data-theme] .book-main {
+  order: 0;
+  grid-column: 2;
+  grid-row: 1;
+  min-width: 0;
+  margin-top: 0;
+  border-radius: 0 var(--app-radius) var(--app-radius) 0;
+}
 @media (max-width: 920px) {
   body[data-theme] .book-view {
     grid-template-columns: 1fr;
@@ -856,6 +900,8 @@ body[data-theme="coffee"] select option {
   }
   body[data-theme] .book-side {
     order: 1;
+    grid-column: 1;
+    grid-row: 1;
     min-height: 230px;
     border-radius: var(--app-radius) var(--app-radius) 0 0;
   }
@@ -881,6 +927,8 @@ body[data-theme="coffee"] select option {
   }
   body[data-theme] .book-main {
     order: 2;
+    grid-column: 1;
+    grid-row: 2;
     margin-top: 0;
     border-radius: 0 0 var(--app-radius) var(--app-radius);
   }
