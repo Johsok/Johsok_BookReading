@@ -7969,13 +7969,657 @@
       ],
       "sourceName": "博客來商品頁",
       "sourceUrl": "https://www.books.com.tw/products/0010974728"
+    },
+    {
+      "id": "03_natural_science-20260711-33",
+      "title": "史上最好懂！量子物理史話：上帝擲骰子嗎？（修訂版）",
+      "author": "曹天元",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "量子物理",
+        "物理學史",
+        "不確定性原理",
+        "科學思想"
+      ],
+      "sourceName": "TAAZE 讀冊生活書籍頁（中文書／科學／物理學）",
+      "sourceUrl": "https://www.taaze.tw/usedList.html?oid=11101083534"
+    },
+    {
+      "id": "03_natural_science-20260711-34",
+      "title": "太陽能量史，從觀測儀器到地球環境變化︰輻射強度、大氣作用、天氣變化、能量平衡……解析太陽在地球系統中的角色",
+      "author": "查爾斯．格里利．艾博特",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "太陽輻射",
+        "天文觀測",
+        "地球氣候",
+        "能量平衡"
+      ],
+      "sourceName": "TAAZE 讀冊生活書籍頁（中文書／科學／天文地球）",
+      "sourceUrl": "https://www.taaze.tw/usedList.html?oid=11101087886"
+    },
+    {
+      "id": "03_natural_science-20260711-35",
+      "title": "觀念天文學（上＋下）",
+      "author": "泰森、史特勞斯、戈特",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "天體物理",
+        "太陽系",
+        "恆星演化",
+        "宇宙學"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／科學／天文地球）",
+      "sourceUrl": "https://www.taaze.tw/products/11101059397.html"
+    },
+    {
+      "id": "03_natural_science-20260711-36",
+      "title": "國家地理全新終極觀星指南",
+      "author": "安德魯．法澤卡斯",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "觀星",
+        "星座",
+        "天文觀測",
+        "星空攝影"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／科學／天文地球）",
+      "sourceUrl": "https://www.taaze.tw/products/11101059868.html"
+    },
+    {
+      "id": "03_natural_science-20260711-37",
+      "title": "基礎雷射物理（第2版）",
+      "author": "倪澤恩",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "雷射物理",
+        "光輻射",
+        "光學共振腔",
+        "半導體雷射"
+      ],
+      "sourceName": "TAAZE 讀冊生活書籍頁（中文書／科學／物理學）",
+      "sourceUrl": "https://www.taaze.tw/usedList.html?oid=11101092758"
+    },
+    {
+      "id": "03_natural_science-20260711-38",
+      "title": "野火：揭開氣候災難的序幕",
+      "author": "約翰．維揚",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "野火",
+        "氣候變遷",
+        "極端天氣",
+        "災害科學"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／科學／天文地球）",
+      "sourceUrl": "https://www.taaze.tw/products/11101085048.html"
+    },
+    {
+      "id": "03_natural_science-20260711-39",
+      "title": "為什麼有些街道走起來特別涼？：國際熱舒適專家帶你踏查台灣，尋找城市降溫的可能",
+      "author": "林子平",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "都市熱島",
+        "熱舒適",
+        "氣候調適",
+        "城市設計"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／科學／自然科學）",
+      "sourceUrl": "https://www.taaze.tw/products/11101088634.html"
+    },
+    {
+      "id": "03_natural_science-20260711-40",
+      "title": "地球進行曲〖紐約時報暢銷書、歐美各大年度好書獎〗：看岩石、水、空氣如何召喚地球的呼吸，解讀46億年來地球自我調節、修復的蓋婭密碼",
+      "author": "費里斯・賈布爾",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "地球系統科學",
+        "蓋婭假說",
+        "生物地球化學",
+        "地球生命史"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／科學／天文地球）",
+      "sourceUrl": "https://www.taaze.tw/products/11101088418.html"
+    },
+    {
+      "id": "03_natural_science-20260711-41",
+      "title": "大地五億年：土壤如何決定生命興衰與文明命運",
+      "author": "藤井一至",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "土壤學",
+        "地球生命史",
+        "微生物",
+        "文明環境"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／科學／天文地球）",
+      "sourceUrl": "https://www.taaze.tw/products/11101081796.html"
+    },
+    {
+      "id": "03_natural_science-20260711-42",
+      "title": "地球之路：人類、氣候與文明的未竟故事",
+      "author": "彼德．梵科潘",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "氣候史",
+        "人類文明",
+        "環境變遷",
+        "地球史"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／科學／天文地球）",
+      "sourceUrl": "https://www.taaze.tw/products/11101071118.html"
+    },
+    {
+      "id": "03_natural_science-20260711-43",
+      "title": "失落的三億年：史詩般的地質年代發現之旅",
+      "author": "尼克‧戴維森",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "地質學史",
+        "地層年代",
+        "寒武紀",
+        "奧陶紀"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／科學／天文地球）",
+      "sourceUrl": "https://www.taaze.tw/products/11101055129.html"
+    },
+    {
+      "id": "03_natural_science-20260711-44",
+      "title": "地球的關鍵守護者：第一本生物多樣性的自然知識繪本",
+      "author": "沙倫．威斯默",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "生物多樣性",
+        "關鍵物種",
+        "生態系",
+        "野生動物保育"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁（生物多樣性科普）",
+      "sourceUrl": "https://www.taaze.tw/products/11101085573.html"
+    },
+    {
+      "id": "03_natural_science-20260711-45",
+      "title": "老樹的故事：從宗教、科學、歷史看古老植物與人類的關係",
+      "author": "傑瑞德．法莫",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "古樹",
+        "植物學史",
+        "森林生態",
+        "環境文化"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／科學／自然科學）",
+      "sourceUrl": "https://www.taaze.tw/products/11101064815.html"
+    },
+    {
+      "id": "03_natural_science-20260711-46",
+      "title": "複雜之美：連結、意識和存在的科學",
+      "author": "尼爾．泰斯",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "複雜系統",
+        "演化",
+        "意識",
+        "生命網絡"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／科學／自然科學）",
+      "sourceUrl": "https://www.taaze.tw/products/11101071625.html"
+    },
+    {
+      "id": "03_natural_science-20260711-47",
+      "title": "海獸學者解剖鯨魚的日常生活：收到擱淺通報馬上出動！海洋哺乳類的死亡教給我們的事",
+      "author": "田島木綿子",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "鯨豚",
+        "海洋哺乳類",
+        "比較解剖",
+        "海洋污染"
+      ],
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／科學／自然科學）",
+      "sourceUrl": "https://www.taaze.tw/products/11101062698.html"
+    },
+    {
+      "id": "03_natural_science-20260711-48",
+      "title": "科學素養：看清問題的本質、分辨真假，學會用科學思考和學習",
+      "author": "池內了",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "科學方法",
+        "科學史",
+        "科學素養"
+      ],
+      "sourceName": "城邦出版集團官方商品頁（經濟新潮社）",
+      "sourceUrl": "https://www.cite.com.tw/book?id=101894"
+    },
+    {
+      "id": "03_natural_science-20260711-49",
+      "title": "戰勝科展Ⅱ：化學實驗的第一本書",
+      "author": "林明宏",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "化學",
+        "科學實驗",
+        "科展",
+        "自然科學"
+      ],
+      "sourceName": "城邦出版集團官方商品頁（貓頭鷹出版社）",
+      "sourceUrl": "https://www.cite.com.tw/book?id=19588"
+    },
+    {
+      "id": "03_natural_science-20260711-50",
+      "title": "為何信任科學：科學的歷史、哲學、政治與社會學觀點",
+      "author": "娜歐蜜．歐蕾斯柯斯",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學史",
+        "科學哲學",
+        "科學社會學",
+        "科學信任"
+      ],
+      "sourceName": "城邦出版集團官方商品頁（貓頭鷹出版社）",
+      "sourceUrl": "https://www.cite.com.tw/book?id=99399"
+    },
+    {
+      "id": "03_natural_science-20260711-51",
+      "title": "尋找北極森林線：融化的冰河、凍土與地球最後的森林",
+      "author": "班．勞倫斯",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "氣候變遷",
+        "森林生態",
+        "北極",
+        "地球科學"
+      ],
+      "sourceName": "城邦出版集團官方商品頁（行路）",
+      "sourceUrl": "https://www.cite.com.tw/book?id=103155"
+    },
+    {
+      "id": "03_natural_science-20260711-52",
+      "title": "那些活了很久很久的樹：從種子到古樹，探索自然界長壽之謎的朝聖之旅",
+      "author": "安東尼．弗瑞德里克",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "樹木",
+        "森林生態",
+        "樹齡學",
+        "自然史"
+      ],
+      "sourceName": "城邦出版集團官方商品頁（行路）",
+      "sourceUrl": "https://www.cite.com.tw/book?id=102339"
+    },
+    {
+      "id": "03_natural_science-20260711-53",
+      "title": "達爾文陷阱：人類該如何擺脫自掘墳墓的命運？",
+      "author": "羅恩",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "演化",
+        "合作",
+        "永續",
+        "風險"
+      ],
+      "sourceName": "天下文化官方商品頁",
+      "sourceUrl": "https://bookzone.cwgv.com.tw/book/BCS243"
+    },
+    {
+      "id": "03_natural_science-20260711-54",
+      "title": "夏娃：女性身體如何推動兩億年的人類演化",
+      "author": "薄翰儂",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "演化生物學",
+        "女性身體",
+        "人類學",
+        "生理學"
+      ],
+      "sourceName": "天下文化官方商品頁",
+      "sourceUrl": "https://bookzone.cwgv.com.tw/book/BCS245"
+    },
+    {
+      "id": "03_natural_science-20260711-55",
+      "title": "為什麼E=mc2？看懂相對論的第一本書",
+      "author": "考克斯, 福肖",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "物理學",
+        "相對論",
+        "質能關係",
+        "時空"
+      ],
+      "sourceName": "城邦出版集團官方商品頁（貓頭鷹出版社）",
+      "sourceUrl": "https://www.cite.com.tw/book?id=102797"
+    },
+    {
+      "id": "03_natural_science-20260711-56",
+      "title": "現象 —— 自然的詩學 : 從花粉到彗星，124幅解析宇宙奧祕的科學圖景",
+      "author": "卡蜜兒．朱鄒",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "宇宙",
+        "生態",
+        "科學圖解"
+      ],
+      "sourceName": "城邦出版集團官方商品頁（麥浩斯）",
+      "sourceUrl": "https://www.cite.com.tw/book?id=106696"
+    },
+    {
+      "id": "03_natural_science-20260711-57",
+      "title": "探索時間之謎：從天文曆法、牛頓力學到愛因斯坦相對論",
+      "author": "佛克",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "時間",
+        "天文學",
+        "相對論",
+        "物理學"
+      ],
+      "sourceName": "城邦出版集團官方商品頁（貓頭鷹出版社）",
+      "sourceUrl": "https://www.cite.com.tw/book?id=104456"
+    },
+    {
+      "id": "03_natural_science-20260711-58",
+      "title": "海洋天才派對：從磷蝦到抹香鯨，從蓄電發光到長命萬歲，改寫地球命運的物種超進化〖附贈插畫雙書籤！博學雙棲說書人領航，探索生命極限的奇妙旅程〗",
+      "author": "畢勒．弗宏思瓦",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "海洋生物",
+        "演化",
+        "生物力學",
+        "海洋生態"
+      ],
+      "sourceName": "城邦出版集團官方商品頁（積木文化）",
+      "sourceUrl": "https://www.cite.com.tw/book?id=106332"
+    },
+    {
+      "id": "03_natural_science-20260711-59",
+      "title": "古生物學家在幹嘛",
+      "author": "蔡政修",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "古生物學",
+        "化石",
+        "演化",
+        "地質學"
+      ],
+      "sourceName": "城邦出版集團官方商品頁（麥田）",
+      "sourceUrl": "https://www.cite.com.tw/book?id=106351"
+    },
+    {
+      "id": "03_natural_science-20260711-60",
+      "title": "無限可能的卵：從生命起源到人類誕生，與生命共同演化的卵",
+      "author": "朱爾斯．霍華",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "演化生物學",
+        "胚胎",
+        "繁殖",
+        "動物學"
+      ],
+      "sourceName": "城邦出版集團官方商品頁（貓頭鷹出版社）",
+      "sourceUrl": "https://www.cite.com.tw/book?id=105066"
+    },
+    {
+      "id": "03_natural_science-20260711-61",
+      "title": "與眾不同的大腦：為什麼我們能理解科學和藝術？電腦與AI會影響大腦的演化嗎？",
+      "author": "葛詹尼加",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "神經科學",
+        "認知",
+        "大腦演化",
+        "人工智慧"
+      ],
+      "sourceName": "城邦出版集團官方商品頁（貓頭鷹出版社）",
+      "sourceUrl": "https://www.cite.com.tw/book?id=103770"
+    },
+    {
+      "id": "03_natural_science-20260711-62",
+      "title": "第一本黴菌全書：微觀黴菌世界",
+      "author": "YCM優克美科技暨黴菌研究中心, 謝宜珊（撰文整理）, 蔡任圃（共同撰文）",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "黴菌",
+        "微生物",
+        "生物學",
+        "科學實驗"
+      ],
+      "sourceName": "城邦出版集團官方商品頁（商業周刊）",
+      "sourceUrl": "https://www.cite.com.tw/book?id=104933"
+    },
+    {
+      "id": "04_healthcare-20260711-04",
+      "title": "流行病學",
+      "author": "陳為堅, 李玉春, 陳保中, 邱弘毅, 郭柏秀（編）",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療保健",
+        "流行病學",
+        "公共衛生",
+        "研究方法"
+      ],
+      "sourceName": "博客來商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0010997878"
+    },
+    {
+      "id": "04_healthcare-20260711-05",
+      "title": "面對人性 務實健保改革：臺灣人民應該認識的全民健保",
+      "author": "李伯璋, 李樹人",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療保健",
+        "全民健保",
+        "醫療政策",
+        "公共衛生"
+      ],
+      "sourceName": "博客來商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011001014"
+    },
+    {
+      "id": "05_food_wellness-20260711-04",
+      "title": "吞嚥照護食：給有吞嚥及咀嚼問題者的日常食譜",
+      "author": "張海靜",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食養生",
+        "吞嚥照護",
+        "高齡飲食",
+        "食譜"
+      ],
+      "sourceName": "博客來商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011037547"
+    },
+    {
+      "id": "05_food_wellness-20260711-05",
+      "title": "吃出青春抗老力，健康儲值從餐桌開始！：三位營養專家的科學抗老新提案，器官導向×系統拆解×實作食譜，教你從餐桌累積健康資本，延續青春活力！",
+      "author": "吳映蓉, 翁德志, 李芷薇",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食養生",
+        "營養學",
+        "健康老化",
+        "食譜"
+      ],
+      "sourceName": "博客來商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011016792"
+    },
+    {
+      "id": "06_computer_info-20260711-04",
+      "title": "Python 程式設計：AI與資料科學應用（三版）",
+      "author": "劉立民",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦資訊",
+        "Python",
+        "資料科學",
+        "人工智慧"
+      ],
+      "sourceName": "博客來商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0010999445"
+    },
+    {
+      "id": "06_computer_info-20260711-05",
+      "title": "AI應用程式開發 第二版｜活用ChatGPT與LLM技術開發實作",
+      "author": "Olivier Caelen, Marie-Alice Blete",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦資訊",
+        "生成式AI",
+        "LLM",
+        "應用程式開發"
+      ],
+      "sourceName": "旗標科技官方商品頁",
+      "sourceUrl": "https://www.gotop.com.tw/books/bookdetails.aspx?bn=A792&types=a"
+    },
+    {
+      "id": "07_other-20260711-12",
+      "title": "正義：一場思辨之旅〖桑德爾指定授權，10周年全新譯本，收錄台灣版獨家序言〗",
+      "author": "邁可‧桑德爾",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "政治哲學",
+        "正義",
+        "公共倫理"
+      ],
+      "sourceName": "博客來商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0010797196"
+    },
+    {
+      "id": "07_other-20260711-13",
+      "title": "21世紀的21堂課（增訂版）",
+      "author": "哈拉瑞",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "全球議題",
+        "科技社會",
+        "公共思辨"
+      ],
+      "sourceName": "天下文化官方商品頁",
+      "sourceUrl": "https://bookzone.cwgv.com.tw/book/BCS230"
+    },
+    {
+      "id": "07_other-20260711-14",
+      "title": "極權主義的起源（三冊不分售）",
+      "author": "漢娜．鄂蘭",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "政治哲學",
+        "極權主義",
+        "現代史"
+      ],
+      "sourceName": "博客來商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0010939490"
+    },
+    {
+      "id": "07_other-20260711-15",
+      "title": "想像的共同體：民族主義的起源與散布（經典新版）",
+      "author": "班納迪克．安德森",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "民族主義",
+        "歷史社會學",
+        "印刷文化"
+      ],
+      "sourceName": "博客來商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011020340"
+    },
+    {
+      "id": "07_other-20260711-16",
+      "title": "帝國為什麼會衰敗：條條死路通羅馬，關於西方政治社會的再思考",
+      "author": "彼得．希瑟, 約翰．拉普利",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "帝國史",
+        "政治社會",
+        "比較歷史"
+      ],
+      "sourceName": "博客來商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011017542"
+    },
+    {
+      "id": "07_other-20260711-17",
+      "title": "大國政治的悲劇",
+      "author": "約翰•米爾斯海默",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "國際關係",
+        "現實主義",
+        "大國競爭"
+      ],
+      "sourceName": "博客來商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0010903918"
+    },
+    {
+      "id": "07_other-20260711-18",
+      "title": "娛樂至死：追求表象、歡笑和激情的媒體時代（2016增修版）",
+      "author": "波茲曼",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "媒體研究",
+        "公共論述",
+        "文化批判"
+      ],
+      "sourceName": "博客來商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0010717522"
+    },
+    {
+      "id": "07_other-20260711-19",
+      "title": "平凡的邪惡：艾希曼耶路撒冷大審紀實",
+      "author": "漢娜．鄂蘭",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "歷史",
+        "倫理",
+        "政治責任"
+      ],
+      "sourceName": "博客來商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0010594637"
+    },
+    {
+      "id": "07_other-20260711-20",
+      "title": "東方主義（2023年版）",
+      "author": "愛德華．薩依德",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "後殖民研究",
+        "文化批判",
+        "知識權力"
+      ],
+      "sourceName": "博客來商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0010949907"
+    },
+    {
+      "id": "07_other-20260711-21",
+      "title": "論自由",
+      "author": "約翰．斯圖爾特．彌爾",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "自由主義",
+        "政治哲學",
+        "思想言論"
+      ],
+      "sourceName": "博客來商品頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011017479"
     }
   ],
-  "totalBooks": 569,
+  "totalBooks": 615,
   "searchDateRange": {
     "from": "2000-06-01",
     "to": "2026-07-11"
   },
-  "generatedFrom": "FindBook_Skill.md reservation checkpoint",
-  "generatedAt": "2026-07-11T10:17:03+08:00"
+  "generatedFrom": "FindBook_Skill.md Codex-only 30/30/30/2/2/2/10 batch complete: complete=615 pending=0",
+  "generatedAt": "2026-07-11T14:16:07+08:00"
 }

@@ -19,6 +19,16 @@
 - `06_computer_info.json`：電腦資訊書籍重點。
 - `07_other.json`：其他書籍重點。
 - `FindBook_Skill.md`：下次找新書與整理重點的 SOP。
+- `Find_eBooks.pyw`：獨立的免費電子書搜尋與下載工具，不修改網站書籍 JSON。
+
+## Find_eBooks.pyw
+
+1. 提供 Windows Tkinter GUI，可輸入主題、開始／結束日期、需要本數與下載資料夾；日期優先使用月曆選單，無法安裝日期元件時改用內建年／月／日下拉選單。
+2. 只使用官方公開介面搜尋 OAPEN、Open Library／Internet Archive、Project Gutenberg、中文維基文庫與中文維基教科書，不繞過登入、借閱限制或 DRM。
+3. 日期意義依來源標示：OAPEN 為出版日期、Open Library 為作品首版年、Gutenberg 為電子版上架日、維基來源優先採 Wikidata 原作日期；只有年份時以整年區間比對。
+4. 搜尋平台可平行處理；下載使用 `ThreadPoolExecutor`，同時下載數可由使用者選擇，並另以每站限流、重試及 `Retry-After` 保護來源服務。
+5. Python 3.9 以上即可執行；首次啟動會嘗試自動安裝 `tkcalendar`，安裝失敗不影響核心功能。
+6. 下載僅接受 EPUB、PDF、TXT，使用官方網域白名單、500 MB 上限、`.part` 暫存、格式／大小／MD5 驗證及原子替換，最後輸出 UTF-8 CSV 報告。
 
 ## index.html UI
 
