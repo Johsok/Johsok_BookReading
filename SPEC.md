@@ -63,7 +63,7 @@
 ```json
 {
   "categories": [
-    { "id": "01_business_startup", "label": "01_商業創業", "file": "01_business_startup.json" }
+    { "id": "01_business_startup", "label": "01_商業理財", "file": "01_business_startup.json" }
   ],
   "books": [
     { "id": "book-id", "title": "書名", "author": "作者", "categoryId": "01_business_startup" }
