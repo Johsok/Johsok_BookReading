@@ -1,0 +1,30 @@
+[
+  {
+    "title": "AIGC互動設計實戰課：產品場景觀察×Midjourney生圖操作×介面視覺整合……建立從設計判斷到成稿製作的AIGC工作流程",
+    "author": "吳應達,趙子軒,劉少清",
+    "sourceName": "PChome 24h購物商品頁",
+    "sourceUrl": "https://24h.pchome.com.tw/books/prod/DJBP43-A900K6ZDP",
+    "sourceDateNote": "PChome商品頁出版日期：2026-07-08；擷取日期：2026-07-13",
+    "tags": [
+      "AIGC",
+      "互動設計",
+      "Midjourney",
+      "介面設計"
+    ],
+    "summary": "從產品場景觀察、風格拆解與提示操作開始，將Midjourney素材經篩選、後製和驗收整合進介面成稿。"
+  },
+  {
+    "title": "生成式 AI 專案實踐指南：從模型挑選、上線、RAG 技術到 AI Agent 整合",
+    "author": "劉育維",
+    "sourceName": "博客來中文書商品頁－電腦資訊",
+    "sourceUrl": "https://www.books.com.tw/products/0011019629",
+    "sourceDateNote": "博客來商品頁出版日期：2025-05-14；擷取日期：2026-07-13",
+    "tags": [
+      "生成式AI",
+      "RAG",
+      "AI Agent",
+      "LLMOps"
+    ],
+    "summary": "以系統建構者視角整理模型選擇、部署、檢索增強生成、代理整合、評估與正式上線維運。"
+  }
+]

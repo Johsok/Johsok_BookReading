@@ -294,5 +294,123 @@ def main() -> None:
     findbook_writer.write_json_atomic(ROOT / "data.json", manifest)
 
 
+FRESH_DRAFTS = [
+    ("01_business_startup.json", ROOT / "tools" / ".findbook_draft_01_fresh_20260713.json", 30),
+    ("02_psychology_growth.json", ROOT / "tools" / ".findbook_draft_02_fresh_20260713.json", 30),
+    ("03_natural_science.json", ROOT / "tools" / ".findbook_draft_03_07_fresh_20260713.json", 10),
+    ("04_healthcare.json", ROOT / "tools" / ".findbook_draft_03_07_fresh_20260713.json", 2),
+    ("05_food_wellness.json", ROOT / "tools" / ".findbook_draft_03_07_fresh_20260713.json", 2),
+    ("06_computer_info.json", ROOT / "tools" / ".findbook_draft_03_07_fresh_20260713.json", 2),
+    ("07_other.json", ROOT / "tools" / ".findbook_draft_03_07_fresh_20260713.json", 2),
+]
+
+
+def draft_rows(draft_path: Path, category_file: str) -> list[dict]:
+    payload = findbook_writer.read_json(draft_path)
+    if not isinstance(payload, list):
+        raise ValueError(f"{draft_path.name} 必須是 JSON 陣列")
+    if draft_path.name.startswith(".findbook_draft_03_07"):
+        return [row for row in payload if row.get("categoryFile") == category_file]
+    return payload
+
+
+def ingest_category(category_file: str, draft_path: Path, quota: int) -> list[str]:
+    rows = draft_rows(draft_path, category_file)
+    if len(rows) != quota:
+        raise ValueError(f"{category_file} 草稿數 {len(rows)}，預期 {quota}")
+
+    keys = [findbook_writer.normalized_key(row.get("title", ""), row.get("author", "")) for row in rows]
+    if len(keys) != len(set(keys)):
+        raise ValueError(f"{category_file} 草稿內有重複書名作者")
+    for row in rows:
+        findbook_writer.validate_highlights(row.get("title", "draft"), row.get("highlights"))
+
+    category = findbook_writer.read_json(ROOT / category_file)
+    manifest = findbook_writer.read_json(ROOT / "data.json")
+    category_by_key = {
+        findbook_writer.normalized_key(book.get("title", ""), book.get("author", "")): book
+        for book in category.get("books", [])
+    }
+    manifest_keys = {
+        findbook_writer.normalized_key(book.get("title", ""), book.get("author", ""))
+        for book in manifest.get("books", [])
+    }
+    missing = []
+    for row, key in zip(rows, keys):
+        if key in category_by_key:
+            continue
+        if key in manifest_keys:
+            raise ValueError(f"{row['title']} 已存在其他分類")
+        missing.append({
+            field: row[field]
+            for field in ("title", "author", "sourceName", "sourceUrl", "sourceDateNote", "tags", "summary")
+        })
+
+    candidate_path = ROOT / "tools" / f".findbook_candidates_{category_file[:2]}_fresh_20260713.json"
+    findbook_writer.write_json_atomic(candidate_path, missing)
+    if missing:
+        findbook_writer.reserve(Namespace(
+            root=ROOT,
+            category_file=category_file,
+            candidates=candidate_path,
+            limit=len(missing),
+            from_date=FROM_DATE,
+            to_date=TO_DATE,
+        ))
+
+    category = findbook_writer.read_json(ROOT / category_file)
+    category_by_key = {
+        findbook_writer.normalized_key(book.get("title", ""), book.get("author", "")): book
+        for book in category.get("books", [])
+    }
+    results = []
+    ids = []
+    for row, key in zip(rows, keys):
+        book = category_by_key.get(key)
+        if book is None:
+            raise RuntimeError(f"{row['title']} reservation 後找不到分類骨架")
+        ids.append(book["id"])
+        try:
+            saved = findbook_writer.validate_highlights(book["id"], book.get("chatgptHighlights"))
+        except ValueError:
+            saved = []
+        if book.get("chatgptStatus") == "complete" and saved == row["highlights"]:
+            continue
+        results.append({"id": book["id"], "highlights": row["highlights"]})
+
+    result_path = ROOT / "tools" / f".findbook_results_{category_file[:2]}_fresh_20260713.json"
+    findbook_writer.write_json_atomic(result_path, results)
+    if results:
+        findbook_writer.complete(Namespace(root=ROOT, category_file=category_file, results=result_path))
+    print(f"category-complete\t{category_file}\t{len(ids)}")
+    return ids
+
+
+def ingest_fresh_main() -> None:
+    all_ids = []
+    for category_file, draft_path, quota in FRESH_DRAFTS:
+        all_ids.extend(ingest_category(category_file, draft_path, quota))
+
+    manifest = findbook_writer.read_json(ROOT / "data.json")
+    pending = 0
+    complete = 0
+    for category_file, _, _ in FRESH_DRAFTS:
+        category = findbook_writer.read_json(ROOT / category_file)
+        for book in category.get("books", []):
+            if book.get("chatgptStatus") == "complete":
+                complete += 1
+            else:
+                pending += 1
+    manifest["totalBooks"] = len(manifest.get("books", []))
+    manifest["searchDateRange"] = {"from": FROM_DATE, "to": TO_DATE}
+    manifest["generatedAt"] = findbook_writer.now_iso()
+    manifest["generatedFrom"] = (
+        "FindBook_Skill.md fresh Codex-only 30/30/10/2/2/2/2 batch complete: "
+        f"complete={complete} pending={pending}"
+    )
+    findbook_writer.write_json_atomic(ROOT / "data.json", manifest)
+    print(f"fresh-batch-complete\tbooks={len(all_ids)}\ttotal={manifest['totalBooks']}")
+
+
 if __name__ == "__main__":
-    main()
+    ingest_fresh_main()

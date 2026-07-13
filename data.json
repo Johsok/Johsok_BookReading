@@ -10719,13 +10719,1105 @@
       ],
       "sourceName": "博客來中文書新書－其他",
       "sourceUrl": "https://www.books.com.tw/products/0011056854"
+    },
+    {
+      "id": "01_business_startup-20260713-31",
+      "title": "企業估值投資：華爾街頂尖智庫的估值心法，看透企業體質好壞，正確買進",
+      "author": "亞斯華斯．達摩德仁",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "企業估值",
+        "價值投資",
+        "生命週期",
+        "財務分析"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011029580"
+    },
+    {
+      "id": "01_business_startup-20260713-32",
+      "title": "香港退休理財攻略（修訂版）",
+      "author": "梁子俊",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "退休理財",
+        "香港",
+        "強積金",
+        "現金流"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011030780"
+    },
+    {
+      "id": "01_business_startup-20260713-33",
+      "title": "沒有競爭對手的利基市場聖經：不打價格戰、不接代工、毛利低於三成不做，找出大企業不想插手的市場，紅海變藍海最佳實務。",
+      "author": "熊谷亮二",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "利基市場",
+        "中小企業",
+        "高毛利",
+        "差異化"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011029167"
+    },
+    {
+      "id": "01_business_startup-20260713-34",
+      "title": "上班必學的100分回話：成熟工作者都在用，合理的躲過加班、應酬和超出範圍的工作，還能替印象加分。",
+      "author": "諏内Emi",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "職場溝通",
+        "回話技巧",
+        "界線",
+        "商務禮儀"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011029196"
+    },
+    {
+      "id": "01_business_startup-20260713-35",
+      "title": "我用死薪水輕鬆理財賺千萬：16歲就能懂、26歲就置產的投資祕訣",
+      "author": "安德魯．哈藍",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "薪資理財",
+        "指數投資",
+        "資產配置",
+        "複利"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011029208"
+    },
+    {
+      "id": "01_business_startup-20260713-36",
+      "title": "流量密碼：【流量致富時代】引爆巨大流量的20個贏利思維，在任何平台都有效!【暢銷紀念版】",
+      "author": "羅素．布朗森",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "數位行銷",
+        "流量",
+        "銷售漏斗",
+        "顧客旅程"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011029791"
+    },
+    {
+      "id": "01_business_startup-20260713-37",
+      "title": "人生不是經濟學教的那樣：這世界不是讓你選的，是逼你選的",
+      "author": "梁夢萍",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "行為經濟學",
+        "選擇架構",
+        "制度",
+        "消費決策"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011029850"
+    },
+    {
+      "id": "01_business_startup-20260713-38",
+      "title": "當貨幣不再中立：從霸權穩定到貨幣崩解的最後一哩",
+      "author": "趙劭甫",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "貨幣體系",
+        "國際金融",
+        "霸權",
+        "金融風險"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011030116"
+    },
+    {
+      "id": "01_business_startup-20260713-39",
+      "title": "與奧客過招!破解難纏顧客的心理與應對術：企業與員工都該懂的顧客行為心理學",
+      "author": "溫亞凡",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "顧客心理",
+        "客訴",
+        "服務管理",
+        "員工保護"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011030122"
+    },
+    {
+      "id": "01_business_startup-20260713-40",
+      "title": "企業傳承與交接班實務：從心態調整、股權規劃到家族辦公室，增進兩代和諧，實現企業永續的百年大計",
+      "author": "曾國棟、李知昂、黃文鴻",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "企業傳承",
+        "交接班",
+        "股權規劃",
+        "家族治理"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011029563"
+    },
+    {
+      "id": "01_business_startup-20260713-41",
+      "title": "關鍵思考力：《致富心態》作者摩根．豪瑟高度盛讚!亞馬遜突破12,000則書評——獨立出版界的傳奇之書",
+      "author": "達瑞斯．佛魯",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "關鍵思考",
+        "專注",
+        "決策",
+        "生產力"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011029295"
+    },
+    {
+      "id": "01_business_startup-20260713-42",
+      "title": "用一本書詳解量價操作法，讓我股票賺3倍：200張K線圖看透主力和法人，在低價買進的軌跡!",
+      "author": "楊金",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "量價分析",
+        "K線",
+        "技術分析",
+        "風險管理"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011028585"
+    },
+    {
+      "id": "01_business_startup-20260713-43",
+      "title": "私域流量：讓客戶從認識你、相信你、喜歡你、最後協助你",
+      "author": "翁梓揚",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "私域流量",
+        "社群經營",
+        "顧客關係",
+        "內容行銷"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011028729"
+    },
+    {
+      "id": "01_business_startup-20260713-44",
+      "title": "經濟預測革命：從混沌理論到大數據的決策新科學",
+      "author": "多伊恩．法默",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "經濟預測",
+        "複雜系統",
+        "大數據",
+        "決策科學"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011029216"
+    },
+    {
+      "id": "01_business_startup-20260713-45",
+      "title": "說服資本，吸引投資人的「心動賣點」!選案思維×產業趨勢×創業迷思……從投資人視角解讀市場價值，創業破局最應該了解的十大看點!",
+      "author": "孫郡",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "創業募資",
+        "投資人",
+        "商業模式",
+        "市場價值"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011029516"
+    },
+    {
+      "id": "01_business_startup-20260713-46",
+      "title": "創局：從揉麵糰的學徒到烘焙銷售王，打造永恆的爆品、可複製的創業致勝秘訣",
+      "author": "劉俊男",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "烘焙創業",
+        "爆品",
+        "品牌經營",
+        "通路行銷"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011028334"
+    },
+    {
+      "id": "01_business_startup-20260713-47",
+      "title": "簡單致富實踐版：財務自由教父解說，90位FIRE先行者實證，一種強大、易做、低成本、低風險，親測成功的理財策略",
+      "author": "吉姆．柯林斯",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "FIRE",
+        "財務自由",
+        "指數投資",
+        "生活設計"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011029083"
+    },
+    {
+      "id": "01_business_startup-20260713-48",
+      "title": "簡煉營銷：一台電腦，由零起步，年收千萬的網上營銷方程式",
+      "author": "Nic Leung",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "網路行銷",
+        "個人創業",
+        "內容變現",
+        "銷售系統"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011030670"
+    },
+    {
+      "id": "01_business_startup-20260713-49",
+      "title": "AI融合策略：工業巨頭如何擁抱人工智慧、即時數據，華麗轉型成為未來智慧工業",
+      "author": "文卡．文卡查曼、維傑．高文達拉簡",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "工業AI",
+        "數位轉型",
+        "即時數據",
+        "智慧製造"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011028327"
+    },
+    {
+      "id": "01_business_startup-20260713-50",
+      "title": "情感經濟：當思考交給AI，情感就留給人類吧!",
+      "author": "羅蘭．T．拉斯特、黃明蕙",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "情感經濟",
+        "服務業",
+        "AI協作",
+        "顧客體驗"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011028751"
+    },
+    {
+      "id": "01_business_startup-20260713-51",
+      "title": "金融怪傑賴瑞．海特的順勢交易原則",
+      "author": "賴瑞．海特",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "順勢交易",
+        "風險管理",
+        "系統交易",
+        "金融怪傑"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011028753"
+    },
+    {
+      "id": "01_business_startup-20260713-52",
+      "title": "不怕老後沒錢花：從有錢定期定額開始，把握基本退休現金流，讓普通人打造未來靠山的小資理財法",
+      "author": "阿婆姐姐",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "小資理財",
+        "定期定額",
+        "退休現金流",
+        "長期投資"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011028770"
+    },
+    {
+      "id": "01_business_startup-20260713-53",
+      "title": "為投資人賺錢的CEO長怎樣?",
+      "author": "威廉．索恩戴克",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "CEO",
+        "資本配置",
+        "股東價值",
+        "企業管理"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011028777"
+    },
+    {
+      "id": "01_business_startup-20260713-54",
+      "title": "孫子兵法與現代管理：企業戰場上的致勝策略",
+      "author": "林遠謀",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "孫子兵法",
+        "競爭策略",
+        "領導",
+        "決策"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011028813"
+    },
+    {
+      "id": "01_business_startup-20260713-55",
+      "title": "進優取代退休：觀念突破 行動指南",
+      "author": "謝家駒",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "退休轉型",
+        "高齡職涯",
+        "終身學習",
+        "社會貢獻"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011028816"
+    },
+    {
+      "id": "01_business_startup-20260713-56",
+      "title": "13歲就能懂的經濟學超圖解：零基礎也OK!129個經濟關鍵詞一看就懂",
+      "author": "花岡幸子",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "經濟學入門",
+        "圖解",
+        "青少年",
+        "財經素養"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011028749"
+    },
+    {
+      "id": "01_business_startup-20260713-57",
+      "title": "訂閱變現：打造10萬潛在客戶，讓會員價值飆3倍!揭開高轉換率、高續訂率的祕密",
+      "author": "史都．麥克拉倫",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "訂閱制",
+        "會員經營",
+        "續訂率",
+        "顧客終身價值"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011028323"
+    },
+    {
+      "id": "01_business_startup-20260713-58",
+      "title": "決勝細節力：多做1%，為企業增加30%效益",
+      "author": "游晉豪",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "細節管理",
+        "顧客體驗",
+        "營運改善",
+        "服務設計"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011028332"
+    },
+    {
+      "id": "01_business_startup-20260713-59",
+      "title": "全球遊牧：克服跨文化差異的11堂商務溝通",
+      "author": "凱爾・赫加提",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "跨文化溝通",
+        "全球商務",
+        "遠距團隊",
+        "國際管理"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011027072"
+    },
+    {
+      "id": "01_business_startup-20260713-60",
+      "title": "用漫畫讀懂，麥肯錫的超強問題解決術：從今天開始，就能運用世界最高水準的思考技術!",
+      "author": "大嶋祥譽",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "問題解決",
+        "麥肯錫",
+        "邏輯思考",
+        "漫畫商管"
+      ],
+      "sourceName": "博客來中文書新書商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011026481"
+    },
+    {
+      "id": "02_psychology_growth-20260713-31",
+      "title": "被誤解的懶惰：害怕一停下來就會輸給別人？一個社會心理學家戳破「你不夠努力」的謊言",
+      "author": "戴文．普萊斯",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "懶惰迷思",
+        "生產力文化",
+        "身心障礙",
+        "自我接納"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011026373"
+    },
+    {
+      "id": "02_psychology_growth-20260713-32",
+      "title": "剛剛好的焦慮：焦慮可以保護你，你也可以善用焦慮",
+      "author": "馬丁．布魯內",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "焦慮",
+        "認知行為治療",
+        "睡眠",
+        "呼吸調節"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011025344"
+    },
+    {
+      "id": "02_psychology_growth-20260713-33",
+      "title": "給容易不安的你：科學實證的36種解憂處方",
+      "author": "莊司英彥",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "不安",
+        "腦腸軸",
+        "睡眠",
+        "實證練習"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011024748"
+    },
+    {
+      "id": "02_psychology_growth-20260713-34",
+      "title": "正念自律：在讓人分心的時代，專注於長期目標，連結內在力量提升自我實現，活出生命的意義",
+      "author": "喬瓦尼．迪恩斯特曼",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "正念",
+        "自律",
+        "專注",
+        "長期目標"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011024410"
+    },
+    {
+      "id": "02_psychology_growth-20260713-35",
+      "title": "情緒使用說明書，理解才是修復的第一步：看見情緒×理解壓力×重建穩定……從反覆焦慮與疲憊中脫身，建立有韌性的內在支持系統",
+      "author": "杜若蘅",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "情緒識讀",
+        "壓力",
+        "韌性",
+        "內在支持"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011024709"
+    },
+    {
+      "id": "02_psychology_growth-20260713-36",
+      "title": "允許一切發生的人最好命：命好，只有一個祕訣：精神不受力，保持能量活下去。破解十大內耗場景、運用不受力工具，平常心看世事，鈍感力過生活。",
+      "author": "何聖君",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "內耗",
+        "鈍感力",
+        "平常心",
+        "能量管理"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011023327"
+    },
+    {
+      "id": "02_psychology_growth-20260713-37",
+      "title": "好人≠耗人：從內耗中抽身的東大情緒整理",
+      "author": "東大CARPE DIEM、西岡壹誠",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "情緒整理",
+        "好人壓力",
+        "自我懷疑",
+        "行動"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011024454"
+    },
+    {
+      "id": "02_psychology_growth-20260713-38",
+      "title": "反內耗情緒調適力",
+      "author": "婷玉、王愛雅、鄭伊秦、陳依湘",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "內耗",
+        "情緒調適",
+        "焦慮",
+        "自我懷疑"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011024587"
+    },
+    {
+      "id": "02_psychology_growth-20260713-39",
+      "title": "心理效能，看見情緒的語言：破解自己與他人的行為公式，讓情緒、溝通、選擇都更有效",
+      "author": "陳佑晨",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理效能",
+        "行為模式",
+        "溝通",
+        "選擇"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011023972"
+    },
+    {
+      "id": "02_psychology_growth-20260713-40",
+      "title": "存在的勇氣：會害怕也沒關係！其實，你可以比想像的更勇敢",
+      "author": "保羅．田立克",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "存在主義",
+        "勇氣",
+        "焦慮",
+        "自我肯定"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011019145"
+    },
+    {
+      "id": "02_psychology_growth-20260713-41",
+      "title": "我的心，需要一點轉機：哈佛醫師的日常「心理危機」處方箋",
+      "author": "內田舞",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理危機",
+        "後設認知",
+        "情緒調節",
+        "日常處方"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011017841"
+    },
+    {
+      "id": "02_psychology_growth-20260713-42",
+      "title": "解構情緒操控：重新奪回人生主導權",
+      "author": "文嶠",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "情緒操控",
+        "界線",
+        "自主權",
+        "關係修復"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011017080"
+    },
+    {
+      "id": "02_psychology_growth-20260713-43",
+      "title": "當我們需要安慰：法國精神科醫師寫給這個世代的愛之語",
+      "author": "克里斯多夫．安德烈",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "安慰",
+        "陪伴",
+        "脆弱",
+        "同理"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011017506"
+    },
+    {
+      "id": "02_psychology_growth-20260713-44",
+      "title": "你很好，只是你不知道：擺脫人生內耗的「不在意」情緒練習",
+      "author": "Poche",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "自我價值",
+        "不在意練習",
+        "內耗",
+        "自我接納"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011017153"
+    },
+    {
+      "id": "02_psychology_growth-20260713-45",
+      "title": "遠離！傷人傷己的情緒風暴：3步驟！修復「關係裂痕」，覺察「內在自我」，暖心醫師的情緒管理SOP，讓你活出自己喜歡的樣子",
+      "author": "水島廣子",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "情緒風暴",
+        "關係修復",
+        "自我覺察",
+        "負面情緒"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011016844"
+    },
+    {
+      "id": "02_psychology_growth-20260713-46",
+      "title": "如何停止不開心",
+      "author": "安德莉亞．歐文",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "慣性思維",
+        "內耗",
+        "行動改變",
+        "自我誠實"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011016484"
+    },
+    {
+      "id": "02_psychology_growth-20260713-47",
+      "title": "波動的力量：掌握幸福與成功的祕訣",
+      "author": "齋藤一人",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心態",
+        "內在狀態",
+        "幸福",
+        "行動能量"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011016415"
+    },
+    {
+      "id": "02_psychology_growth-20260713-48",
+      "title": "你的問題不是問題：轉化困境為力量的薩提爾對話模式",
+      "author": "李崇義",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "薩提爾模式",
+        "冰山理論",
+        "對話",
+        "自我價值"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011016296"
+    },
+    {
+      "id": "02_psychology_growth-20260713-49",
+      "title": "你愛自己的方式，定義了別人愛你的樣子：相知相愛是關係幸福的起點，心理諮詢師帶你脫離不健康的相處模式，找回愛自己與愛他人的能力",
+      "author": "叢非從",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "自愛",
+        "親密關係",
+        "依附",
+        "界線"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011016050"
+    },
+    {
+      "id": "02_psychology_growth-20260713-50",
+      "title": "不上班咖啡館〖首刷限量版：作者印刷簽名扉頁〗",
+      "author": "古典",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "職涯探索",
+        "工作意義",
+        "人生選擇",
+        "轉型"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011013381"
+    },
+    {
+      "id": "02_psychology_growth-20260713-51",
+      "title": "暗角心理學：我們真的能夠自由掌控自己的意念、情緒、行為嗎？",
+      "author": "馮銀英",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "無意識",
+        "認知偏誤",
+        "群體心理",
+        "情緒反應"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011013873"
+    },
+    {
+      "id": "02_psychology_growth-20260713-52",
+      "title": "人生沒有理所當然：沒有「應該要」，只有「你想要」！練就跳脫框架、突破自我設限的全方位思考方式",
+      "author": "歐陽立中",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "自我設限",
+        "人生選擇",
+        "思考框架",
+        "夢想實踐"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011012683"
+    },
+    {
+      "id": "02_psychology_growth-20260713-53",
+      "title": "懷舊的力量：從存在心理學的視角，探索被塵封已久的生命潛能",
+      "author": "克雷．勞特雷奇",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "懷舊",
+        "存在心理學",
+        "歸屬感",
+        "生命意義"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011011037"
+    },
+    {
+      "id": "02_psychology_growth-20260713-54",
+      "title": "金牌思維：解鎖高成就者的致勝思維與特質",
+      "author": "露絲．高緹安",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "高成就",
+        "毅力",
+        "內在動機",
+        "人際網絡"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011011486"
+    },
+    {
+      "id": "02_psychology_growth-20260713-55",
+      "title": "單親無懼：打開人生新宇宙的離婚幸福學",
+      "author": "詹牧澄",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "單親",
+        "離婚復原",
+        "自我接納",
+        "親子關係"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011012054"
+    },
+    {
+      "id": "02_psychology_growth-20260713-56",
+      "title": "微情緒心理學，從「表象破綻」看穿善意謊言：站立方向、眼皮跳動、十指摩擦、視線飄移，人體不自覺的反射動作，55%暴露真實想法！",
+      "author": "金文",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "微情緒",
+        "非語言訊號",
+        "觀察",
+        "人際理解"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011007696"
+    },
+    {
+      "id": "02_psychology_growth-20260713-57",
+      "title": "不再內耗的自我對話：讓90%的焦慮、糾結、不安全感都消失的自我對話練習",
+      "author": "約瑟夫．盧恰尼",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "自我對話",
+        "焦慮",
+        "反芻",
+        "不安全感"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011006791"
+    },
+    {
+      "id": "02_psychology_growth-20260713-58",
+      "title": "〖漫畫圖解〗厭世貓的自救情緒指南：又emo了怎麼辦？幫你快速自我覺察、避免失控、不再內耗的情商管理術",
+      "author": "董如峰",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "情緒急救",
+        "自我覺察",
+        "關係危機",
+        "漫畫心理"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011006653"
+    },
+    {
+      "id": "02_psychology_growth-20260713-59",
+      "title": "當我不愛自己時：正念，讓你重拾力量，找回自己",
+      "author": "吳錫昌、胡文郁",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "正念",
+        "自我慈悲",
+        "照顧者疲勞",
+        "自我接納"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011004933"
+    },
+    {
+      "id": "02_psychology_growth-20260713-60",
+      "title": "正念解憂的佛貓：喚醒「內觀療癒」力量，不受困於壓力、煩惱與迷惘的無止循環，領悟平靜智慧的練習",
+      "author": "朗諾德．史威普、龍悠",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "正念",
+        "內觀",
+        "壓力",
+        "放下執著"
+      ],
+      "sourceName": "博客來心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011005614"
+    },
+    {
+      "id": "03_natural_science-20260713-11",
+      "title": "自然新解",
+      "author": "（澳）蒂姆·洛",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然保育",
+        "都市生態",
+        "外來種",
+        "適應性管理"
+      ],
+      "sourceName": "博客來簡體中文書商品頁－自然科普",
+      "sourceUrl": "https://www.books.com.tw/products/CN14799752"
+    },
+    {
+      "id": "03_natural_science-20260713-12",
+      "title": "智慧湧現 不完備的對稱：AI時代的關鍵能力：現在改變過去的重塑力",
+      "author": "林文欣",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "複雜系統",
+        "不完備",
+        "人工智慧",
+        "科學哲學"
+      ],
+      "sourceName": "博客來中文書商品頁－自然科普",
+      "sourceUrl": "https://www.books.com.tw/products/0011019220"
+    },
+    {
+      "id": "03_natural_science-20260713-13",
+      "title": "能言善道的沙丁魚：來自海洋國度的奧妙故事",
+      "author": "畢勒．弗宏思瓦",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "海洋生物",
+        "魚類行為",
+        "水下聲音",
+        "海洋保育"
+      ],
+      "sourceName": "博客來中文書商品頁－自然科普",
+      "sourceUrl": "https://www.books.com.tw/products/0010986167"
+    },
+    {
+      "id": "03_natural_science-20260713-14",
+      "title": "如果這樣，怎麼辦？：最簡單的日常提問，最浮誇的科學解方",
+      "author": "蘭德爾．門羅",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "物理估算",
+        "科學漫畫",
+        "工程",
+        "費米問題"
+      ],
+      "sourceName": "博客來中文書商品頁－自然科普",
+      "sourceUrl": "https://www.books.com.tw/products/0011043330"
+    },
+    {
+      "id": "03_natural_science-20260713-15",
+      "title": "混沌：不測風雲的背後",
+      "author": "葛雷易克",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "混沌理論",
+        "非線性",
+        "碎形",
+        "可預測性"
+      ],
+      "sourceName": "博客來中文書商品頁－自然科普",
+      "sourceUrl": "https://www.books.com.tw/products/0010706006"
+    },
+    {
+      "id": "03_natural_science-20260713-16",
+      "title": "動手做科學探究：輕鬆運用生活中的材料，培養提問、設計實驗、邏輯思辨與表達能力（新版）",
+      "author": "蔡任圃",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學方法",
+        "實驗設計",
+        "資料分析",
+        "探究教學"
+      ],
+      "sourceName": "博客來中文書商品頁－自然科普",
+      "sourceUrl": "https://www.books.com.tw/products/0011039948"
+    },
+    {
+      "id": "03_natural_science-20260713-17",
+      "title": "萬物的名字：博物學之父布豐與林奈的頂尖對決，一場影響日後三百年生物學發展的競賽【普立茲傳記類獎】",
+      "author": "傑森．羅伯茲",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "博物學",
+        "生物分類",
+        "林奈",
+        "布豐"
+      ],
+      "sourceName": "博客來中文書商品頁－自然科普",
+      "sourceUrl": "https://www.books.com.tw/products/0011024143"
+    },
+    {
+      "id": "03_natural_science-20260713-18",
+      "title": "生命的催化劑RNA：諾貝爾化學獎得主破解生命最深沉謎題的探索之旅",
+      "author": "湯瑪斯．切克博士",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "RNA",
+        "核酶",
+        "mRNA疫苗",
+        "基因編輯"
+      ],
+      "sourceName": "博客來中文書商品頁－自然科普",
+      "sourceUrl": "https://www.books.com.tw/products/0011021263"
+    },
+    {
+      "id": "03_natural_science-20260713-19",
+      "title": "欸，那個獸醫",
+      "author": "曾達元",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "獸醫",
+        "經濟動物",
+        "動物福利",
+        "生命書寫"
+      ],
+      "sourceName": "博客來中文書商品頁－自然科普",
+      "sourceUrl": "https://www.books.com.tw/products/0011042670"
+    },
+    {
+      "id": "03_natural_science-20260713-20",
+      "title": "生命之源：能量、演化與複雜生命的起源",
+      "author": "尼克‧連恩",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "生命起源",
+        "能量",
+        "粒線體",
+        "演化"
+      ],
+      "sourceName": "博客來中文書商品頁－自然科普",
+      "sourceUrl": "https://www.books.com.tw/products/0010730616"
+    },
+    {
+      "id": "04_healthcare-20260713-03",
+      "title": "珍奇櫃：怪異、醫學與死亡之物",
+      "author": "茱麗葉．卡茲",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫學史",
+        "博物館",
+        "死亡學",
+        "醫療倫理"
+      ],
+      "sourceName": "博客來中文書新書－醫療保健",
+      "sourceUrl": "https://www.books.com.tw/products/0011056850"
+    },
+    {
+      "id": "04_healthcare-20260713-04",
+      "title": "中醫望診養生大全：從面色、舌象到手診，一次學會食療╳穴位╳體質調養，照顧全家人的健康法",
+      "author": "楊力",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "中醫",
+        "望診",
+        "食療",
+        "穴位按摩"
+      ],
+      "sourceName": "博客來中文書商品頁－醫療保健",
+      "sourceUrl": "https://www.books.com.tw/products/0011045499"
+    },
+    {
+      "id": "05_food_wellness-20260713-03",
+      "title": "無過敏的烘焙聖經：專為蛋、奶、麩質過敏人打造的美味食譜與轉換祕訣",
+      "author": "卡塔琳娜．瑟梅莉",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "無麩質",
+        "無蛋烘焙",
+        "無乳烘焙",
+        "食物過敏"
+      ],
+      "sourceName": "博客來中文書商品頁－飲食",
+      "sourceUrl": "https://www.books.com.tw/products/0011038243"
+    },
+    {
+      "id": "05_food_wellness-20260713-04",
+      "title": "零攪拌的酵種旅程：艾力克徐教你酵種使用 烤出南法經典傳統麵包",
+      "author": "艾力克‧徐",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "酵種",
+        "麵包",
+        "波蘭種",
+        "魯邦種"
+      ],
+      "sourceName": "博客來中文書商品頁－飲食",
+      "sourceUrl": "https://www.books.com.tw/products/0011040684"
+    },
+    {
+      "id": "06_computer_info-20260713-03",
+      "title": "AIGC互動設計實戰課：產品場景觀察×Midjourney生圖操作×介面視覺整合……建立從設計判斷到成稿製作的AIGC工作流程",
+      "author": "吳應達,趙子軒,劉少清",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "AIGC",
+        "互動設計",
+        "Midjourney",
+        "介面設計"
+      ],
+      "sourceName": "PChome 24h購物商品頁",
+      "sourceUrl": "https://24h.pchome.com.tw/books/prod/DJBP43-A900K6ZDP"
+    },
+    {
+      "id": "06_computer_info-20260713-04",
+      "title": "生成式 AI 專案實踐指南：從模型挑選、上線、RAG 技術到 AI Agent 整合",
+      "author": "劉育維",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "生成式AI",
+        "RAG",
+        "AI Agent",
+        "LLMOps"
+      ],
+      "sourceName": "博客來中文書商品頁－電腦資訊",
+      "sourceUrl": "https://www.books.com.tw/products/0011019629"
+    },
+    {
+      "id": "07_other-20260713-03",
+      "title": "中國歷史文化新論",
+      "author": "鄭德華",
+      "categoryId": "07_other",
+      "tags": [
+        "中國史",
+        "文化史",
+        "區域史",
+        "華人移民"
+      ],
+      "sourceName": "博客來中文書商品頁－人文社科",
+      "sourceUrl": "https://www.books.com.tw/products/0011006307"
+    },
+    {
+      "id": "07_other-20260713-04",
+      "title": "流動的文化饗宴：世界城市捷運風景【台北捷運30年紀念版】",
+      "author": "楊子葆",
+      "categoryId": "07_other",
+      "tags": [
+        "捷運",
+        "城市文化",
+        "都市計畫",
+        "公共藝術"
+      ],
+      "sourceName": "博客來中文書商品頁－人文社科",
+      "sourceUrl": "https://www.books.com.tw/products/0011045558"
     }
   ],
-  "totalBooks": 771,
+  "totalBooks": 849,
   "searchDateRange": {
     "from": "2000-06-01",
     "to": "2026-07-13"
   },
-  "generatedFrom": "FindBook_Skill.md Codex-only 30/30/10/2/2/2/2 batch complete: complete=771 pending=0",
-  "generatedAt": "2026-07-13T11:08:36+08:00"
+  "generatedFrom": "FindBook_Skill.md fresh Codex-only 30/30/10/2/2/2/2 batch complete: complete=849 pending=0",
+  "generatedAt": "2026-07-13T12:11:14+08:00"
 }
