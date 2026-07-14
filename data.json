@@ -11811,13 +11811,1105 @@
       ],
       "sourceName": "博客來中文書商品頁－人文社科",
       "sourceUrl": "https://www.books.com.tw/products/0011045558"
+    },
+    {
+      "id": "01_business_startup-20260714-01",
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "企業傳記",
+        "創新管理",
+        "科技產業"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL16085155W"
+    },
+    {
+      "id": "01_business_startup-20260714-02",
+      "title": "The 4-Hour Workweek",
+      "author": "Timothy Ferriss",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "工作設計",
+        "時間管理",
+        "創業"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL3353439W"
+    },
+    {
+      "id": "01_business_startup-20260714-03",
+      "title": "Shoe Dog",
+      "author": "Phil Knight",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "創業歷程",
+        "品牌經營",
+        "運動產業"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL17825802W"
+    },
+    {
+      "id": "01_business_startup-20260714-04",
+      "title": "Stock Investing for Dummies",
+      "author": "Paul Mladjenovic",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "股票投資",
+        "風險管理",
+        "基本分析"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL278197W"
+    },
+    {
+      "id": "01_business_startup-20260714-05",
+      "title": "Corporate Finance",
+      "author": "Jonathan B. Berk、Peter DeMarzo",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "公司理財",
+        "資本預算",
+        "企業估值"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL5890331W"
+    },
+    {
+      "id": "01_business_startup-20260714-06",
+      "title": "Business Essentials",
+      "author": "Ronald J. Ebert",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "企業管理",
+        "商業基礎",
+        "組織營運"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL18574407W"
+    },
+    {
+      "id": "01_business_startup-20260714-07",
+      "title": "Bad Blood",
+      "author": "John Carreyrou",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "企業治理",
+        "調查報導",
+        "創業倫理"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL17892614W"
+    },
+    {
+      "id": "01_business_startup-20260714-08",
+      "title": "Research Methods for Business",
+      "author": "Uma Sekaran",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "商業研究",
+        "資料分析",
+        "決策方法"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL20045731W"
+    },
+    {
+      "id": "01_business_startup-20260714-09",
+      "title": "Venture Deals",
+      "author": "Brad Feld",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "創業投資",
+        "融資談判",
+        "風險資本"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL16134369W"
+    },
+    {
+      "id": "01_business_startup-20260714-10",
+      "title": "Bullshit Jobs",
+      "author": "David Graeber",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "工作文化",
+        "組織設計",
+        "職場意義"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL20153626W"
+    },
+    {
+      "id": "01_business_startup-20260714-11",
+      "title": "Crucial Conversations",
+      "author": "Kerry Patterson、Joseph Grenny、Ron McMillan、Al Switzler",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "關鍵對話",
+        "職場溝通",
+        "衝突管理"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL282391W"
+    },
+    {
+      "id": "01_business_startup-20260714-12",
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "深度工作",
+        "注意力管理",
+        "知識生產"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL17713267W"
+    },
+    {
+      "id": "01_business_startup-20260714-13",
+      "title": "Start with Why",
+      "author": "Simon Sinek",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "領導",
+        "品牌定位",
+        "使命"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL13806374W"
+    },
+    {
+      "id": "01_business_startup-20260714-14",
+      "title": "Four Thousand Weeks",
+      "author": "Oliver Burkeman",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "時間管理",
+        "生產力",
+        "人生選擇"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL22355777W"
+    },
+    {
+      "id": "01_business_startup-20260714-15",
+      "title": "The Phoenix Project",
+      "author": "Gene Kim、Kevin Behr、George Spafford",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "DevOps",
+        "流程改善",
+        "營運管理"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL16806686W"
+    },
+    {
+      "id": "01_business_startup-20260714-16",
+      "title": "Improve Your Communication Skills",
+      "author": "Alan Barker",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "商務溝通",
+        "表達",
+        "協作"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL15184542W"
+    },
+    {
+      "id": "01_business_startup-20260714-17",
+      "title": "Drive",
+      "author": "Daniel H. Pink",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "動機",
+        "人才管理",
+        "組織行為"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL15016965W"
+    },
+    {
+      "id": "01_business_startup-20260714-18",
+      "title": "Rework",
+      "author": "Jason Fried、David Heinemeier Hansson",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "創業",
+        "精實營運",
+        "工作方法"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL15168112W"
+    },
+    {
+      "id": "01_business_startup-20260714-19",
+      "title": "Secrets of the Millionaire Mind",
+      "author": "T. Harv Eker",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "金錢觀",
+        "財務習慣",
+        "理財"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL275915W"
+    },
+    {
+      "id": "01_business_startup-20260714-20",
+      "title": "Zero to One",
+      "author": "Peter A. Thiel、Blake Masters",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "創新",
+        "創業策略",
+        "競爭優勢"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL17078706W"
+    },
+    {
+      "id": "01_business_startup-20260714-21",
+      "title": "I Will Teach You to Be Rich",
+      "author": "Ramit Sethi",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "個人理財",
+        "自動化儲蓄",
+        "資產配置"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL8982032W"
+    },
+    {
+      "id": "01_business_startup-20260714-22",
+      "title": "The Obstacle Is the Way",
+      "author": "Ryan Holiday",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "決策",
+        "韌性",
+        "行動策略"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL19977665W"
+    },
+    {
+      "id": "01_business_startup-20260714-23",
+      "title": "Storytelling with Data",
+      "author": "Cole Nussbaumer Knaflic",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "資料視覺化",
+        "商務簡報",
+        "決策溝通"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL17659741W"
+    },
+    {
+      "id": "01_business_startup-20260714-24",
+      "title": "The Compound Effect",
+      "author": "Darren Hardy",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "複利",
+        "習慣",
+        "績效改善"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL16118274W"
+    },
+    {
+      "id": "01_business_startup-20260714-25",
+      "title": "The Personal MBA",
+      "author": "Josh Kaufman",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "商業教育",
+        "價值創造",
+        "企業營運"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL15473892W"
+    },
+    {
+      "id": "01_business_startup-20260714-26",
+      "title": "$100M Offers",
+      "author": "Alex Hormozi",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "產品設計",
+        "定價",
+        "銷售"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL25037516W"
+    },
+    {
+      "id": "01_business_startup-20260714-27",
+      "title": "Everybody Writes",
+      "author": "Ann Handley",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "內容行銷",
+        "商業寫作",
+        "品牌溝通"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL19337438W"
+    },
+    {
+      "id": "01_business_startup-20260714-28",
+      "title": "Never Split the Difference",
+      "author": "Chris Voss、Tahl Raz",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "談判",
+        "溝通",
+        "決策"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL18819818W"
+    },
+    {
+      "id": "01_business_startup-20260714-29",
+      "title": "Talk Like TED",
+      "author": "Carmine Gallo",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "簡報",
+        "說服",
+        "故事表達"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL17076301W"
+    },
+    {
+      "id": "01_business_startup-20260714-30",
+      "title": "The Dip",
+      "author": "Seth Godin",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "策略取捨",
+        "職涯",
+        "專注"
+      ],
+      "sourceName": "Open Library 商業理財書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL2329204W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-01",
+      "title": "12 Rules for Life",
+      "author": "Jordan B. Peterson",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "人生秩序",
+        "責任",
+        "自我成長"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL17837119W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-02",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "習慣",
+        "行為改變",
+        "自我成長"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL17930368W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-03",
+      "title": "Outliers",
+      "author": "Malcolm Gladwell",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "成功心理",
+        "環境",
+        "機會"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL5749847W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-04",
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "金錢心理",
+        "風險",
+        "行為偏誤"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL21640039W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-05",
+      "title": "Psychology",
+      "author": "Dennis Coon、John O. Mitterer",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "心理學",
+        "認知",
+        "行為"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL90590W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-06",
+      "title": "Think Like a Monk",
+      "author": "Jay Shetty",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "正念",
+        "價值觀",
+        "內在平靜"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL21237606W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-07",
+      "title": "The Art of Seduction",
+      "author": "Robert Greene、Joost Elffers",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "人際心理",
+        "影響力",
+        "關係"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL1968364W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-08",
+      "title": "The Power of Habit",
+      "author": "Charles Duhigg",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "習慣迴路",
+        "行為改變",
+        "意志力"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL16015154W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-09",
+      "title": "The Secret",
+      "author": "Rhonda Byrne",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "信念",
+        "目標",
+        "正向思考"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL15839737W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-10",
+      "title": "The 5 AM Club",
+      "author": "Robin S. Sharma",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "晨間習慣",
+        "自律",
+        "生產力"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL19665926W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-11",
+      "title": "Mindset",
+      "author": "Carol S. Dweck",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "成長心態",
+        "學習",
+        "韌性"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL2003465W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-12",
+      "title": "Grit",
+      "author": "Angela Duckworth",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "毅力",
+        "長期目標",
+        "動機"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL17361140W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-13",
+      "title": "Quiet",
+      "author": "Susan Cain",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "內向",
+        "人格",
+        "社會互動"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL16484595W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-14",
+      "title": "Surrounded by Idiots",
+      "author": "Thomas Erikson",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "人格差異",
+        "溝通",
+        "人際關係"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL20806514W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-15",
+      "title": "The Art of Thinking Clearly",
+      "author": "Rolf Dobelli",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "認知偏誤",
+        "判斷",
+        "理性思考"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL17940461W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-16",
+      "title": "Reasons to Stay Alive",
+      "author": "Matt Haig",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "憂鬱",
+        "復原",
+        "生命意義"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL20020049W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-17",
+      "title": "The Laws of Human Nature",
+      "author": "Robert Greene",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "人性",
+        "情緒",
+        "社會行為"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL19761410W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-18",
+      "title": "The Happiness Advantage",
+      "author": "Shawn Achor",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "幸福",
+        "正向心理",
+        "工作表現"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL15674042W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-19",
+      "title": "Ego Is the Enemy",
+      "author": "Ryan Holiday",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "自我覺察",
+        "謙遜",
+        "成長"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL20033244W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-20",
+      "title": "No More Mr. Nice Guy",
+      "author": "Robert A. Glover",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "界線",
+        "自我認同",
+        "關係"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL8502474W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-21",
+      "title": "Goodbye, Things",
+      "author": "Fumio Sasaki",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "極簡生活",
+        "依附",
+        "自我整理"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL17801065W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-22",
+      "title": "The Art of Reading Minds",
+      "author": "Henrik Fexeus",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "非語言溝通",
+        "同理",
+        "人際互動"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL21337984W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-23",
+      "title": "Indistractable",
+      "author": "Nir Eyal",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "注意力",
+        "分心",
+        "行為設計"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL20464319W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-24",
+      "title": "Breaking the Habit of Being Yourself",
+      "author": "Joe Dispenza",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "自我改變",
+        "習慣",
+        "覺察"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL16215950W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-25",
+      "title": "Good Vibes, Good Life",
+      "author": "Vex King",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "自我關懷",
+        "正向生活",
+        "成長"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL20884418W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-26",
+      "title": "101 Essays That Will Change the Way You Think",
+      "author": "Brianna Wiest",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "思考方式",
+        "自我覺察",
+        "人生選擇"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL23746568W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-27",
+      "title": "Attached",
+      "author": "Amir Levine",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "依附理論",
+        "親密關係",
+        "安全感"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL16929630W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-28",
+      "title": "Feeling Great",
+      "author": "David D. Burns",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "認知行為",
+        "情緒",
+        "心理健康"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL21831919W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-29",
+      "title": "The Body Keeps the Score",
+      "author": "Bessel van der Kolk",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "創傷",
+        "身心連結",
+        "復原"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL18147687W"
+    },
+    {
+      "id": "02_psychology_growth-20260714-30",
+      "title": "Taking Charge of Adult ADHD",
+      "author": "Russell Barkley",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "成人注意力",
+        "執行功能",
+        "自我管理"
+      ],
+      "sourceName": "Open Library 心理勵志書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL15576176W"
+    },
+    {
+      "id": "03_natural_science-20260714-01",
+      "title": "A Short History of Nearly Everything",
+      "author": "Bill Bryson",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "科學史",
+        "宇宙",
+        "地球生命"
+      ],
+      "sourceName": "Open Library 自然科學書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL74128W"
+    },
+    {
+      "id": "03_natural_science-20260714-02",
+      "title": "A Briefer History of Time",
+      "author": "Stephen Hawking、Leonard Mlodinow",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "宇宙學",
+        "時間",
+        "物理"
+      ],
+      "sourceName": "Open Library 自然科學書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL1892618W"
+    },
+    {
+      "id": "03_natural_science-20260714-03",
+      "title": "The Theory of Everything",
+      "author": "Stephen Hawking",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "宇宙學",
+        "重力",
+        "時空"
+      ],
+      "sourceName": "Open Library 自然科學書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL1892616W"
+    },
+    {
+      "id": "03_natural_science-20260714-04",
+      "title": "The Road to Reality",
+      "author": "Roger Penrose",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "數學物理",
+        "時空",
+        "量子理論"
+      ],
+      "sourceName": "Open Library 自然科學書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL3474173W"
+    },
+    {
+      "id": "03_natural_science-20260714-05",
+      "title": "The Hidden Reality",
+      "author": "Brian Greene",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "多重宇宙",
+        "理論物理",
+        "宇宙學"
+      ],
+      "sourceName": "Open Library 自然科學書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL15663797W"
+    },
+    {
+      "id": "03_natural_science-20260714-06",
+      "title": "Helgoland",
+      "author": "Carlo Rovelli",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "量子力學",
+        "關係詮釋",
+        "物理哲學"
+      ],
+      "sourceName": "Open Library 自然科學書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL24513723W"
+    },
+    {
+      "id": "03_natural_science-20260714-07",
+      "title": "The Greatest Show on Earth",
+      "author": "Richard Dawkins",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "演化",
+        "自然選擇",
+        "生物證據"
+      ],
+      "sourceName": "Open Library 自然科學書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL1966487W"
+    },
+    {
+      "id": "03_natural_science-20260714-08",
+      "title": "The Fabric of the Cosmos",
+      "author": "Brian Greene",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "空間",
+        "時間",
+        "宇宙結構"
+      ],
+      "sourceName": "Open Library 自然科學書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL1909291W"
+    },
+    {
+      "id": "03_natural_science-20260714-09",
+      "title": "The End of Everything",
+      "author": "Katie Mack",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "宇宙終局",
+        "天文學",
+        "物理"
+      ],
+      "sourceName": "Open Library 自然科學書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL21181790W"
+    },
+    {
+      "id": "03_natural_science-20260714-10",
+      "title": "The Sixth Extinction",
+      "author": "Elizabeth Kolbert",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "生物多樣性",
+        "滅絕",
+        "環境科學"
+      ],
+      "sourceName": "Open Library 自然科學書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL16820830W"
+    },
+    {
+      "id": "04_healthcare-20260714-01",
+      "title": "This Is Going to Hurt",
+      "author": "Adam Kay",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療保健",
+        "醫療現場",
+        "醫師生活",
+        "醫療制度"
+      ],
+      "sourceName": "Open Library 醫療保健書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL19752167W"
+    },
+    {
+      "id": "04_healthcare-20260714-02",
+      "title": "The Immortal Life of Henrietta Lacks",
+      "author": "Rebecca Skloot",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療保健",
+        "醫學研究",
+        "細胞",
+        "醫療倫理"
+      ],
+      "sourceName": "Open Library 醫療保健書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL13850788W"
+    },
+    {
+      "id": "05_food_wellness-20260714-01",
+      "title": "Salt, Fat, Acid, Heat",
+      "author": "Samin Nosrat",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食養生",
+        "烹飪原理",
+        "調味",
+        "火候"
+      ],
+      "sourceName": "Open Library 飲食養生書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL18147901W"
+    },
+    {
+      "id": "05_food_wellness-20260714-02",
+      "title": "The Food Lab",
+      "author": "J. Kenji López-Alt",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食養生",
+        "料理科學",
+        "實驗",
+        "家庭烹飪"
+      ],
+      "sourceName": "Open Library 飲食養生書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL18146664W"
+    },
+    {
+      "id": "06_computer_info-20260714-01",
+      "title": "Automate the Boring Stuff with Python",
+      "author": "Al Sweigart",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦資訊",
+        "Python",
+        "自動化",
+        "程式設計"
+      ],
+      "sourceName": "Open Library 電腦資訊書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL17192141W"
+    },
+    {
+      "id": "06_computer_info-20260714-02",
+      "title": "Clean Architecture",
+      "author": "Robert C. Martin",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦資訊",
+        "軟體架構",
+        "程式設計",
+        "系統設計"
+      ],
+      "sourceName": "Open Library 電腦資訊書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL19809141W"
+    },
+    {
+      "id": "07_other-20260714-01",
+      "title": "The Silk Roads",
+      "author": "Peter Frankopan",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "世界史",
+        "絲路",
+        "文明交流"
+      ],
+      "sourceName": "Open Library 其他書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL19666939W"
+    },
+    {
+      "id": "07_other-20260714-02",
+      "title": "The Dawn of Everything",
+      "author": "David Graeber、David Wengrow",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "人類史",
+        "考古學",
+        "社會制度"
+      ],
+      "sourceName": "Open Library 其他書目（人工複核）",
+      "sourceUrl": "https://openlibrary.org/works/OL24663287W"
     }
   ],
-  "totalBooks": 849,
+  "totalBooks": 927,
   "searchDateRange": {
     "from": "2000-06-01",
-    "to": "2026-07-13"
+    "to": "2026-07-14"
   },
-  "generatedFrom": "FindBook_Skill.md fresh Codex-only 30/30/10/2/2/2/2 batch complete: complete=849 pending=0",
-  "generatedAt": "2026-07-13T12:11:14+08:00"
+  "generatedFrom": "FindBook_Skill.md fresh Codex-only 30/30/10/2/2/2/2 batch complete: complete=927 pending=0",
+  "generatedAt": "2026-07-14T12:02:08+08:00"
 }

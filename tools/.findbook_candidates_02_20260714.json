@@ -1,0 +1,422 @@
+[
+  {
+    "title": "12 Rules for Life",
+    "author": "Jordan B. Peterson",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17837119W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2015；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "人生秩序",
+      "責任",
+      "自我成長"
+    ],
+    "summary": "本書由Jordan B. Peterson撰寫，依 Open Library 書目與人工分類聚焦人生秩序、責任、自我成長，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17930368W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "習慣",
+      "行為改變",
+      "自我成長"
+    ],
+    "summary": "本書由James Clear撰寫，依 Open Library 書目與人工分類聚焦習慣、行為改變、自我成長，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Outliers",
+    "author": "Malcolm Gladwell",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL5749847W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "成功心理",
+      "環境",
+      "機會"
+    ],
+    "summary": "本書由Malcolm Gladwell撰寫，依 Open Library 書目與人工分類聚焦成功心理、環境、機會，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL21640039W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2020；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "金錢心理",
+      "風險",
+      "行為偏誤"
+    ],
+    "summary": "本書由Morgan Housel撰寫，依 Open Library 書目與人工分類聚焦金錢心理、風險、行為偏誤，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Psychology",
+    "author": "Dennis Coon、John O. Mitterer",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL90590W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2001；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "心理學",
+      "認知",
+      "行為"
+    ],
+    "summary": "本書由Dennis Coon、John O. Mitterer撰寫，依 Open Library 書目與人工分類聚焦心理學、認知、行為，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Think Like a Monk",
+    "author": "Jay Shetty",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL21237606W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2020；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正念",
+      "價值觀",
+      "內在平靜"
+    ],
+    "summary": "本書由Jay Shetty撰寫，依 Open Library 書目與人工分類聚焦正念、價值觀、內在平靜，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "The Art of Seduction",
+    "author": "Robert Greene、Joost Elffers",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL1968364W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2001；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "人際心理",
+      "影響力",
+      "關係"
+    ],
+    "summary": "本書由Robert Greene、Joost Elffers撰寫，依 Open Library 書目與人工分類聚焦人際心理、影響力、關係，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL16015154W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "習慣迴路",
+      "行為改變",
+      "意志力"
+    ],
+    "summary": "本書由Charles Duhigg撰寫，依 Open Library 書目與人工分類聚焦習慣迴路、行為改變、意志力，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "The Secret",
+    "author": "Rhonda Byrne",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL15839737W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2006；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "信念",
+      "目標",
+      "正向思考"
+    ],
+    "summary": "本書由Rhonda Byrne撰寫，依 Open Library 書目與人工分類聚焦信念、目標、正向思考，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "The 5 AM Club",
+    "author": "Robin S. Sharma",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL19665926W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2018；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "晨間習慣",
+      "自律",
+      "生產力"
+    ],
+    "summary": "本書由Robin S. Sharma撰寫，依 Open Library 書目與人工分類聚焦晨間習慣、自律、生產力，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Mindset",
+    "author": "Carol S. Dweck",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL2003465W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2006；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "成長心態",
+      "學習",
+      "韌性"
+    ],
+    "summary": "本書由Carol S. Dweck撰寫，依 Open Library 書目與人工分類聚焦成長心態、學習、韌性，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Grit",
+    "author": "Angela Duckworth",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17361140W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "毅力",
+      "長期目標",
+      "動機"
+    ],
+    "summary": "本書由Angela Duckworth撰寫，依 Open Library 書目與人工分類聚焦毅力、長期目標、動機，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Quiet",
+    "author": "Susan Cain",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL16484595W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "內向",
+      "人格",
+      "社會互動"
+    ],
+    "summary": "本書由Susan Cain撰寫，依 Open Library 書目與人工分類聚焦內向、人格、社會互動，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Surrounded by Idiots",
+    "author": "Thomas Erikson",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20806514W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "人格差異",
+      "溝通",
+      "人際關係"
+    ],
+    "summary": "本書由Thomas Erikson撰寫，依 Open Library 書目與人工分類聚焦人格差異、溝通、人際關係，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "The Art of Thinking Clearly",
+    "author": "Rolf Dobelli",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17940461W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2013；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "認知偏誤",
+      "判斷",
+      "理性思考"
+    ],
+    "summary": "本書由Rolf Dobelli撰寫，依 Open Library 書目與人工分類聚焦認知偏誤、判斷、理性思考，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Reasons to Stay Alive",
+    "author": "Matt Haig",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20020049W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2015；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "憂鬱",
+      "復原",
+      "生命意義"
+    ],
+    "summary": "本書由Matt Haig撰寫，依 Open Library 書目與人工分類聚焦憂鬱、復原、生命意義，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "The Laws of Human Nature",
+    "author": "Robert Greene",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL19761410W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2018；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "人性",
+      "情緒",
+      "社會行為"
+    ],
+    "summary": "本書由Robert Greene撰寫，依 Open Library 書目與人工分類聚焦人性、情緒、社會行為，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "The Happiness Advantage",
+    "author": "Shawn Achor",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL15674042W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2010；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "幸福",
+      "正向心理",
+      "工作表現"
+    ],
+    "summary": "本書由Shawn Achor撰寫，依 Open Library 書目與人工分類聚焦幸福、正向心理、工作表現，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Ego Is the Enemy",
+    "author": "Ryan Holiday",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20033244W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "自我覺察",
+      "謙遜",
+      "成長"
+    ],
+    "summary": "本書由Ryan Holiday撰寫，依 Open Library 書目與人工分類聚焦自我覺察、謙遜、成長，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "No More Mr. Nice Guy",
+    "author": "Robert A. Glover",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL8502474W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2001；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "界線",
+      "自我認同",
+      "關係"
+    ],
+    "summary": "本書由Robert A. Glover撰寫，依 Open Library 書目與人工分類聚焦界線、自我認同、關係，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Goodbye, Things",
+    "author": "Fumio Sasaki",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17801065W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2013；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "極簡生活",
+      "依附",
+      "自我整理"
+    ],
+    "summary": "本書由Fumio Sasaki撰寫，依 Open Library 書目與人工分類聚焦極簡生活、依附、自我整理，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "The Art of Reading Minds",
+    "author": "Henrik Fexeus",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL21337984W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2019；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "非語言溝通",
+      "同理",
+      "人際互動"
+    ],
+    "summary": "本書由Henrik Fexeus撰寫，依 Open Library 書目與人工分類聚焦非語言溝通、同理、人際互動，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Indistractable",
+    "author": "Nir Eyal",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20464319W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2019；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "注意力",
+      "分心",
+      "行為設計"
+    ],
+    "summary": "本書由Nir Eyal撰寫，依 Open Library 書目與人工分類聚焦注意力、分心、行為設計，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Breaking the Habit of Being Yourself",
+    "author": "Joe Dispenza",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL16215950W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "自我改變",
+      "習慣",
+      "覺察"
+    ],
+    "summary": "本書由Joe Dispenza撰寫，依 Open Library 書目與人工分類聚焦自我改變、習慣、覺察，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Good Vibes, Good Life",
+    "author": "Vex King",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20884418W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2015；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "自我關懷",
+      "正向生活",
+      "成長"
+    ],
+    "summary": "本書由Vex King撰寫，依 Open Library 書目與人工分類聚焦自我關懷、正向生活、成長，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "101 Essays That Will Change the Way You Think",
+    "author": "Brianna Wiest",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL23746568W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2018；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "思考方式",
+      "自我覺察",
+      "人生選擇"
+    ],
+    "summary": "本書由Brianna Wiest撰寫，依 Open Library 書目與人工分類聚焦思考方式、自我覺察、人生選擇，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Attached",
+    "author": "Amir Levine",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL16929630W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2010；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "依附理論",
+      "親密關係",
+      "安全感"
+    ],
+    "summary": "本書由Amir Levine撰寫，依 Open Library 書目與人工分類聚焦依附理論、親密關係、安全感，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Feeling Great",
+    "author": "David D. Burns",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL21831919W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2020；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "認知行為",
+      "情緒",
+      "心理健康"
+    ],
+    "summary": "本書由David D. Burns撰寫，依 Open Library 書目與人工分類聚焦認知行為、情緒、心理健康，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "The Body Keeps the Score",
+    "author": "Bessel van der Kolk",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL18147687W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "創傷",
+      "身心連結",
+      "復原"
+    ],
+    "summary": "本書由Bessel van der Kolk撰寫，依 Open Library 書目與人工分類聚焦創傷、身心連結、復原，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Taking Charge of Adult ADHD",
+    "author": "Russell Barkley",
+    "sourceName": "Open Library 心理勵志書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL15576176W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2010；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "成人注意力",
+      "執行功能",
+      "自我管理"
+    ],
+    "summary": "本書由Russell Barkley撰寫，依 Open Library 書目與人工分類聚焦成人注意力、執行功能、自我管理，重點整理涵蓋核心概念、適用條件與實際應用。"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Automate the Boring Stuff with Python",
+    "author": "Al Sweigart",
+    "sourceName": "Open Library 電腦資訊書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17192141W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2015；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "Python",
+      "自動化",
+      "程式設計"
+    ],
+    "summary": "本書由Al Sweigart撰寫，依 Open Library 書目與人工分類聚焦Python、自動化、程式設計，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Clean Architecture",
+    "author": "Robert C. Martin",
+    "sourceName": "Open Library 電腦資訊書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL19809141W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2017；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "軟體架構",
+      "程式設計",
+      "系統設計"
+    ],
+    "summary": "本書由Robert C. Martin撰寫，依 Open Library 書目與人工分類聚焦軟體架構、程式設計、系統設計，重點整理涵蓋核心概念、適用條件與實際應用。"
+  }
+]

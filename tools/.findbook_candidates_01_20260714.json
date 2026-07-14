@@ -1,0 +1,422 @@
+[
+  {
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL16085155W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2011；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "企業傳記",
+      "創新管理",
+      "科技產業"
+    ],
+    "summary": "本書由Walter Isaacson撰寫，依 Open Library 書目與人工分類聚焦企業傳記、創新管理、科技產業，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "The 4-Hour Workweek",
+    "author": "Timothy Ferriss",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL3353439W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2006；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "工作設計",
+      "時間管理",
+      "創業"
+    ],
+    "summary": "本書由Timothy Ferriss撰寫，依 Open Library 書目與人工分類聚焦工作設計、時間管理、創業，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Shoe Dog",
+    "author": "Phil Knight",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17825802W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "創業歷程",
+      "品牌經營",
+      "運動產業"
+    ],
+    "summary": "本書由Phil Knight撰寫，依 Open Library 書目與人工分類聚焦創業歷程、品牌經營、運動產業，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Stock Investing for Dummies",
+    "author": "Paul Mladjenovic",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL278197W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2002；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "股票投資",
+      "風險管理",
+      "基本分析"
+    ],
+    "summary": "本書由Paul Mladjenovic撰寫，依 Open Library 書目與人工分類聚焦股票投資、風險管理、基本分析，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Corporate Finance",
+    "author": "Jonathan B. Berk、Peter DeMarzo",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL5890331W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2006；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "公司理財",
+      "資本預算",
+      "企業估值"
+    ],
+    "summary": "本書由Jonathan B. Berk、Peter DeMarzo撰寫，依 Open Library 書目與人工分類聚焦公司理財、資本預算、企業估值，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Business Essentials",
+    "author": "Ronald J. Ebert",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL18574407W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2002；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "企業管理",
+      "商業基礎",
+      "組織營運"
+    ],
+    "summary": "本書由Ronald J. Ebert撰寫，依 Open Library 書目與人工分類聚焦企業管理、商業基礎、組織營運，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Bad Blood",
+    "author": "John Carreyrou",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17892614W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2018；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "企業治理",
+      "調查報導",
+      "創業倫理"
+    ],
+    "summary": "本書由John Carreyrou撰寫，依 Open Library 書目與人工分類聚焦企業治理、調查報導、創業倫理，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Research Methods for Business",
+    "author": "Uma Sekaran",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20045731W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2003；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "商業研究",
+      "資料分析",
+      "決策方法"
+    ],
+    "summary": "本書由Uma Sekaran撰寫，依 Open Library 書目與人工分類聚焦商業研究、資料分析、決策方法，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Venture Deals",
+    "author": "Brad Feld",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL16134369W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2011；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "創業投資",
+      "融資談判",
+      "風險資本"
+    ],
+    "summary": "本書由Brad Feld撰寫，依 Open Library 書目與人工分類聚焦創業投資、融資談判、風險資本，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Bullshit Jobs",
+    "author": "David Graeber",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20153626W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2018；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "工作文化",
+      "組織設計",
+      "職場意義"
+    ],
+    "summary": "本書由David Graeber撰寫，依 Open Library 書目與人工分類聚焦工作文化、組織設計、職場意義，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Crucial Conversations",
+    "author": "Kerry Patterson、Joseph Grenny、Ron McMillan、Al Switzler",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL282391W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2001；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "關鍵對話",
+      "職場溝通",
+      "衝突管理"
+    ],
+    "summary": "本書由Kerry Patterson、Joseph Grenny、Ron McMillan、Al Switzler撰寫，依 Open Library 書目與人工分類聚焦關鍵對話、職場溝通、衝突管理，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17713267W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "深度工作",
+      "注意力管理",
+      "知識生產"
+    ],
+    "summary": "本書由Cal Newport撰寫，依 Open Library 書目與人工分類聚焦深度工作、注意力管理、知識生產，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Start with Why",
+    "author": "Simon Sinek",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL13806374W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "領導",
+      "品牌定位",
+      "使命"
+    ],
+    "summary": "本書由Simon Sinek撰寫，依 Open Library 書目與人工分類聚焦領導、品牌定位、使命，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Four Thousand Weeks",
+    "author": "Oliver Burkeman",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL22355777W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2021；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "時間管理",
+      "生產力",
+      "人生選擇"
+    ],
+    "summary": "本書由Oliver Burkeman撰寫，依 Open Library 書目與人工分類聚焦時間管理、生產力、人生選擇，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "The Phoenix Project",
+    "author": "Gene Kim、Kevin Behr、George Spafford",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL16806686W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2013；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "DevOps",
+      "流程改善",
+      "營運管理"
+    ],
+    "summary": "本書由Gene Kim、Kevin Behr、George Spafford撰寫，依 Open Library 書目與人工分類聚焦DevOps、流程改善、營運管理，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Improve Your Communication Skills",
+    "author": "Alan Barker",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL15184542W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2010；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "商務溝通",
+      "表達",
+      "協作"
+    ],
+    "summary": "本書由Alan Barker撰寫，依 Open Library 書目與人工分類聚焦商務溝通、表達、協作，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Drive",
+    "author": "Daniel H. Pink",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL15016965W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "動機",
+      "人才管理",
+      "組織行為"
+    ],
+    "summary": "本書由Daniel H. Pink撰寫，依 Open Library 書目與人工分類聚焦動機、人才管理、組織行為，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Rework",
+    "author": "Jason Fried、David Heinemeier Hansson",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL15168112W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2010；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "創業",
+      "精實營運",
+      "工作方法"
+    ],
+    "summary": "本書由Jason Fried、David Heinemeier Hansson撰寫，依 Open Library 書目與人工分類聚焦創業、精實營運、工作方法，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Secrets of the Millionaire Mind",
+    "author": "T. Harv Eker",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL275915W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2005；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "金錢觀",
+      "財務習慣",
+      "理財"
+    ],
+    "summary": "本書由T. Harv Eker撰寫，依 Open Library 書目與人工分類聚焦金錢觀、財務習慣、理財，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Zero to One",
+    "author": "Peter A. Thiel、Blake Masters",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17078706W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "創新",
+      "創業策略",
+      "競爭優勢"
+    ],
+    "summary": "本書由Peter A. Thiel、Blake Masters撰寫，依 Open Library 書目與人工分類聚焦創新、創業策略、競爭優勢，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "I Will Teach You to Be Rich",
+    "author": "Ramit Sethi",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL8982032W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "個人理財",
+      "自動化儲蓄",
+      "資產配置"
+    ],
+    "summary": "本書由Ramit Sethi撰寫，依 Open Library 書目與人工分類聚焦個人理財、自動化儲蓄、資產配置，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "The Obstacle Is the Way",
+    "author": "Ryan Holiday",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL19977665W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2013；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "決策",
+      "韌性",
+      "行動策略"
+    ],
+    "summary": "本書由Ryan Holiday撰寫，依 Open Library 書目與人工分類聚焦決策、韌性、行動策略，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Storytelling with Data",
+    "author": "Cole Nussbaumer Knaflic",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17659741W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2015；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "資料視覺化",
+      "商務簡報",
+      "決策溝通"
+    ],
+    "summary": "本書由Cole Nussbaumer Knaflic撰寫，依 Open Library 書目與人工分類聚焦資料視覺化、商務簡報、決策溝通，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "The Compound Effect",
+    "author": "Darren Hardy",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL16118274W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2010；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "複利",
+      "習慣",
+      "績效改善"
+    ],
+    "summary": "本書由Darren Hardy撰寫，依 Open Library 書目與人工分類聚焦複利、習慣、績效改善，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "The Personal MBA",
+    "author": "Josh Kaufman",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL15473892W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2010；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "商業教育",
+      "價值創造",
+      "企業營運"
+    ],
+    "summary": "本書由Josh Kaufman撰寫，依 Open Library 書目與人工分類聚焦商業教育、價值創造、企業營運，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "$100M Offers",
+    "author": "Alex Hormozi",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL25037516W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2021；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "產品設計",
+      "定價",
+      "銷售"
+    ],
+    "summary": "本書由Alex Hormozi撰寫，依 Open Library 書目與人工分類聚焦產品設計、定價、銷售，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Everybody Writes",
+    "author": "Ann Handley",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL19337438W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "內容行銷",
+      "商業寫作",
+      "品牌溝通"
+    ],
+    "summary": "本書由Ann Handley撰寫，依 Open Library 書目與人工分類聚焦內容行銷、商業寫作、品牌溝通，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Never Split the Difference",
+    "author": "Chris Voss、Tahl Raz",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL18819818W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "談判",
+      "溝通",
+      "決策"
+    ],
+    "summary": "本書由Chris Voss、Tahl Raz撰寫，依 Open Library 書目與人工分類聚焦談判、溝通、決策，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "Talk Like TED",
+    "author": "Carmine Gallo",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17076301W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "簡報",
+      "說服",
+      "故事表達"
+    ],
+    "summary": "本書由Carmine Gallo撰寫，依 Open Library 書目與人工分類聚焦簡報、說服、故事表達，重點整理涵蓋核心概念、適用條件與實際應用。"
+  },
+  {
+    "title": "The Dip",
+    "author": "Seth Godin",
+    "sourceName": "Open Library 商業理財書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL2329204W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2007；擷取日期 2026-07-14，落在 2000-06-01 至 2026-07-14 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "策略取捨",
+      "職涯",
+      "專注"
+    ],
+    "summary": "本書由Seth Godin撰寫，依 Open Library 書目與人工分類聚焦策略取捨、職涯、專注，重點整理涵蓋核心概念、適用條件與實際應用。"
+  }
+]
