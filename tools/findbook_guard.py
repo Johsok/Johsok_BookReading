@@ -10,14 +10,14 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 
-CATEGORY_FILES = (
-    "01_business_startup.json",
-    "02_psychology_growth.json",
-    "03_natural_science.json",
-    "04_healthcare.json",
-    "05_food_wellness.json",
-    "06_computer_info.json",
-    "07_other.json",
+CATEGORY_IDS = (
+    "01_business_startup",
+    "02_psychology_growth",
+    "03_natural_science",
+    "04_healthcare",
+    "05_food_wellness",
+    "06_computer_info",
+    "07_other",
 )
 NUMBER_RE = re.compile(r"^\d{2,3}、")
 PRIVATE_RE = re.compile(r"[\ue000-\uf8ff\ufffd]")
@@ -50,7 +50,7 @@ def parse_expected(value: str | None) -> list[int] | None:
     if value is None:
         return None
     values = [int(item.strip()) for item in value.split(",")]
-    if len(values) != len(CATEGORY_FILES):
+    if len(values) != len(CATEGORY_IDS):
         raise argparse.ArgumentTypeError("--expected-new 必須提供 7 個逗號分隔數字")
     return values
 
@@ -110,18 +110,32 @@ def validate_highlights(book: dict, errors: list[str]) -> None:
 
 
 def load_catalog(root: Path) -> tuple[list[dict], dict[str, dict], dict]:
-    categories = []
+    manifest = read_json(root / "data.json")
+    categories = [
+        {"categoryId": category_id, "books": []}
+        for category_id in CATEGORY_IDS
+    ]
+    category_map = {category["categoryId"]: category for category in categories}
     details = {}
-    for filename in CATEGORY_FILES:
-        category = read_json(root / filename)
-        categories.append(category)
-        category_id = category.get("categoryId")
-        for book in category.get("books", []):
-            copy = dict(book)
-            copy["_categoryId"] = category_id
-            copy["_filename"] = filename
-            details[copy.get("id")] = copy
-    return categories, details, read_json(root / "data.json")
+    for item in manifest.get("books", []):
+        book_id = str(item.get("id", ""))
+        category_id = str(item.get("categoryId", ""))
+        relative_file = str(item.get("file", ""))
+        if category_id not in category_map:
+            raise ValueError(f"{book_id} 使用未知主題：{category_id}")
+        if not relative_file:
+            raise ValueError(f"{book_id} 的 data.json 索引缺少 file")
+        detail_path = (root / relative_file).resolve()
+        try:
+            detail_path.relative_to(root)
+        except ValueError as exc:
+            raise ValueError(f"{book_id} 的 file 超出專案目錄") from exc
+        detail = read_json(detail_path)
+        copy = dict(detail)
+        copy["_filename"] = relative_file
+        details[book_id] = copy
+        category_map[category_id]["books"].append(copy)
+    return categories, details, manifest
 
 
 def run_validate(args: argparse.Namespace) -> int:
@@ -130,19 +144,20 @@ def run_validate(args: argparse.Namespace) -> int:
     warnings: list[str] = []
     try:
         categories, details, manifest = load_catalog(root)
-    except (OSError, json.JSONDecodeError) as exc:
+    except (OSError, ValueError, json.JSONDecodeError) as exc:
         print(f"ERROR JSON 解析失敗：{exc}")
         return 1
 
     detail_books = list(details.values())
     if len(details) != sum(len(category.get("books", [])) for category in categories):
-        errors.append("分類檔含重複 ID")
+        errors.append("單書索引含重複 ID")
     if manifest.get("totalBooks") != len(manifest.get("books", [])):
         errors.append("data.json totalBooks 與 books 數量不一致")
     if len(manifest.get("books", [])) != len(detail_books):
-        errors.append("data.json 與分類檔總數不一致")
+        errors.append("data.json 與單書檔總數不一致")
 
     manifest_ids = set()
+    indexed_files = set()
     for item in manifest.get("books", []):
         book_id = item.get("id")
         if book_id in manifest_ids:
@@ -152,10 +167,14 @@ def run_validate(args: argparse.Namespace) -> int:
         if detail is None:
             errors.append(f"data.json 找不到分類明細：{book_id}")
             continue
+        expected_file = f"Books/{item.get('categoryId')}/{book_id}.json"
+        if item.get("file") != expected_file:
+            errors.append(f"{book_id} file 路徑應為 {expected_file}")
+        indexed_files.add(str(item.get("file", "")))
         checks = (
             ("title", item.get("title"), detail.get("title")),
             ("author", item.get("author"), detail.get("author")),
-            ("categoryId", item.get("categoryId"), detail.get("_categoryId")),
+            ("categoryId", item.get("categoryId"), detail.get("categoryId")),
             ("tags", item.get("tags"), detail.get("tags")),
             ("sourceName", item.get("sourceName"), detail.get("sourceName")),
             ("sourceUrl", item.get("sourceUrl"), detail.get("sourceUrl")),
@@ -163,6 +182,15 @@ def run_validate(args: argparse.Namespace) -> int:
         for field, left, right in checks:
             if left != right:
                 errors.append(f"{book_id} manifest/detail {field} 不一致")
+
+    actual_files = {
+        path.relative_to(root).as_posix()
+        for path in (root / "Books").glob("**/*.json")
+    }
+    for relative_file in sorted(actual_files - indexed_files):
+        errors.append(f"Books 含未被 data.json 索引的單書檔：{relative_file}")
+    for relative_file in sorted(indexed_files - actual_files):
+        errors.append(f"data.json 指向不存在的單書檔：{relative_file}")
 
     keys: dict[str, list[str]] = defaultdict(list)
     semantic_keys: dict[tuple[str, str], list[str]] = defaultdict(list)
@@ -194,17 +222,14 @@ def run_validate(args: argparse.Namespace) -> int:
     expected = parse_expected(args.expected_new)
     new_books: list[dict] = []
     deltas = []
-    for index, (filename, category) in enumerate(zip(CATEGORY_FILES, categories)):
-        baseline_ids = read_baseline_ids(root, filename, args.baseline_ref)
-        if baseline_ids is None:
-            warnings.append(
-                f"無法讀取 {args.baseline_ref}:{filename}，略過新增配額檢查"
-            )
-            continue
+    baseline_ids = read_baseline_ids(root, "data.json", args.baseline_ref)
+    if baseline_ids is None:
+        warnings.append(f"無法讀取 {args.baseline_ref}:data.json，略過新增配額檢查")
+    for index, category in enumerate(categories):
         additions = [
             book
             for book in category.get("books", [])
-            if book.get("id") not in baseline_ids
+            if baseline_ids is not None and book.get("id") not in baseline_ids
         ]
         new_books.extend(additions)
         deltas.append(len(additions))
@@ -259,7 +284,7 @@ def run_queue(args: argparse.Namespace) -> int:
     root = Path(args.root).resolve()
     try:
         categories, _, _ = load_catalog(root)
-    except (OSError, json.JSONDecodeError) as exc:
+    except (OSError, ValueError, json.JSONDecodeError) as exc:
         print(f"ERROR JSON 解析失敗：{exc}")
         return 1
     rows = []

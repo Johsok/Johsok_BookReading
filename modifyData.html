@@ -405,8 +405,11 @@
 
       function populateFileSelect() {
         const options = [{ label: "data.json", file: "data.json" }].concat(
-          (state.manifest.categories || []).map(function (category) {
-            return { label: category.label, file: category.file };
+          (state.manifest.books || []).map(function (book) {
+            return {
+              label: `${categoryLabel(book.categoryId)}｜${book.title}`,
+              file: book.file
+            };
           })
         );
         els.fileSelect.innerHTML = options.map(function (item) {
@@ -417,14 +420,22 @@
 
       async function loadSelectedFile() {
         state.currentFile = els.fileSelect.value || "data.json";
-        const data = await loadJson(state.currentFile);
+        const data = await loadJson(versionedUrl(state.currentFile));
         setEditorData(data, state.currentFile, "已從網站檔案載入");
       }
 
       async function loadJson(url) {
-        const response = await fetch(url, { cache: "no-store" });
+        const response = await fetch(url, { cache: "default" });
         if (!response.ok) throw new Error(`${url} 載入失敗：${response.status}`);
         return response.json();
+      }
+
+      function versionedUrl(url) {
+        const version = state.manifest && state.manifest.generatedAt;
+        if (!version || url === manifestUrl) return url;
+        const result = new URL(url, window.location.href);
+        result.searchParams.set("v", version);
+        return result.href;
       }
 
       async function openLocalFile() {
@@ -456,7 +467,7 @@
       }
 
       function renderBookList(data) {
-        const books = Array.isArray(data.books) ? data.books : [];
+        const books = Array.isArray(data.books) ? data.books : (data.id ? [data] : []);
         els.bookCount.textContent = books.length;
         if (!books.length) {
           els.bookList.innerHTML = `<p class="status-line">此檔案沒有 books 陣列。</p>`;
@@ -464,7 +475,7 @@
         }
         els.bookList.innerHTML = books.map(function (book, index) {
           return `
-            <button class="book-button" type="button" data-book-id="${escapeAttr(book.id)}" aria-pressed="${book.id === state.selectedBookId}">
+            <button class="book-button" type="button" data-book-id="${escapeAttr(book.id)}" data-book-file="${escapeAttr(book.file || "")}" aria-pressed="${book.id === state.selectedBookId}">
               ${index + 1}. ${escapeHtml(book.title || book.id)}
               <small>${escapeHtml(book.author || "")}</small>
             </button>
@@ -473,6 +484,13 @@
         els.bookList.querySelectorAll(".book-button").forEach(function (button) {
           button.addEventListener("click", function () {
             state.selectedBookId = button.dataset.bookId || "";
+            if (button.dataset.bookFile) {
+              state.currentFile = button.dataset.bookFile;
+              state.currentHandle = null;
+              els.fileSelect.value = state.currentFile;
+              loadSelectedFile().catch(showError);
+              return;
+            }
             renderBookList(parseEditorJson());
             focusBookInEditor(state.selectedBookId);
           });
@@ -500,8 +518,8 @@
 
       function sortBooks() {
         const data = parseEditorJson();
-        if (!Array.isArray(data.books)) {
-          setStatus("目前 JSON 沒有可排序的 books 陣列。", "bad");
+        if (!Array.isArray(data.categories) || !Array.isArray(data.books)) {
+          setStatus("只有 data.json 索引可以排序。", "bad");
           return;
         }
 
@@ -550,7 +568,7 @@
 
         if (window.showSaveFilePicker) {
           const handle = await window.showSaveFilePicker({
-            suggestedName: state.currentFile,
+            suggestedName: fileNameOnly(state.currentFile),
             types: [{ description: "JSON", accept: { "application/json": [".json"] } }]
           });
           const writable = await handle.createWritable();
@@ -562,13 +580,13 @@
           return;
         }
 
-        downloadText(content, state.currentFile);
+        downloadText(content, fileNameOnly(state.currentFile));
         setStatus("已下載 JSON。", "ok");
       }
 
       function downloadEditor() {
         const data = parseEditorJson();
-        downloadText(JSON.stringify(data, null, 2) + "\n", state.currentFile);
+        downloadText(JSON.stringify(data, null, 2) + "\n", fileNameOnly(state.currentFile));
         setStatus("已下載 JSON。", "ok");
       }
 
@@ -593,22 +611,35 @@
         if (state.currentFile === "data.json" || Array.isArray(data.categories)) {
           if (!Array.isArray(data.categories)) return { ok: false, message: "data.json 缺少 categories 陣列。" };
           if (!Array.isArray(data.books)) return { ok: false, message: "data.json 缺少 books 陣列。" };
+          for (const book of data.books) {
+            if (!book.id || !book.title || !book.author || !book.categoryId || !book.file) {
+              return { ok: false, message: "每筆索引都需要 id、title、author、categoryId、file。" };
+            }
+          }
           return { ok: true, message: `驗證完成：${data.categories.length} 個主題，${data.books.length} 本索引。` };
         }
-        if (!Array.isArray(data.books)) return { ok: false, message: "分類 JSON 缺少 books 陣列。" };
-        for (const book of data.books) {
-          if (!book.id || !book.title || !book.author) {
-            return { ok: false, message: "每本書都需要 id、title、author。" };
-          }
-          if (!Array.isArray(book.chatgptHighlights)) {
-            return { ok: false, message: `${book.title} 缺少 chatgptHighlights 陣列。` };
-          }
-          const chatgptInvalid = findInvalidHighlightPrefix(book.chatgptHighlights);
-          if (chatgptInvalid) {
-            return { ok: false, message: `${book.title} 的 chatgptHighlights ${chatgptInvalid}` };
-          }
+        if (!data.id || !data.title || !data.author || !data.categoryId) {
+          return { ok: false, message: "單書 JSON 需要 id、title、author、categoryId。" };
         }
-        return { ok: true, message: `驗證完成：${data.books.length} 本書。` };
+        if (!Array.isArray(data.chatgptHighlights)) {
+          return { ok: false, message: `${data.title} 缺少 chatgptHighlights 陣列。` };
+        }
+        const chatgptInvalid = findInvalidHighlightPrefix(data.chatgptHighlights);
+        if (chatgptInvalid) {
+          return { ok: false, message: `${data.title} 的 chatgptHighlights ${chatgptInvalid}` };
+        }
+        return { ok: true, message: `驗證完成：${data.title}。` };
+      }
+
+      function categoryLabel(categoryId) {
+        const category = (state.manifest.categories || []).find(function (item) {
+          return item.id === categoryId;
+        });
+        return category ? category.label : categoryId;
+      }
+
+      function fileNameOnly(path) {
+        return String(path || "data.json").split(/[\\/]/).pop() || "data.json";
       }
 
       function findInvalidHighlightPrefix(highlights) {

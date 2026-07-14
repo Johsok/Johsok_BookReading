@@ -22,6 +22,7 @@ def read_json(path: Path) -> dict | list:
 
 
 def write_json_atomic(path: Path, payload: dict | list) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
     text = json.dumps(payload, ensure_ascii=False, indent=2) + "\n"
     handle = tempfile.NamedTemporaryFile(
         mode="w",
@@ -78,6 +79,10 @@ def candidate_payload(candidate: dict, book_id: str, from_date: str, to_date: st
     }
 
 
+def book_relative_path(category_id: str, book_id: str) -> str:
+    return f"Books/{category_id}/{book_id}.json"
+
+
 def manifest_payload(book: dict, category_id: str) -> dict:
     return {
         "id": book["id"],
@@ -87,7 +92,19 @@ def manifest_payload(book: dict, category_id: str) -> dict:
         "tags": book["tags"],
         "sourceName": book["sourceName"],
         "sourceUrl": book["sourceUrl"],
+        "file": book_relative_path(category_id, book["id"]),
     }
+
+
+def resolve_category_id(args: argparse.Namespace, manifest: dict) -> str:
+    category_id = str(getattr(args, "category_id", "") or "").strip()
+    legacy_file = str(getattr(args, "category_file", "") or "").strip()
+    if not category_id and legacy_file:
+        category_id = Path(legacy_file).stem
+    valid_ids = {str(item.get("id", "")) for item in manifest.get("categories", [])}
+    if category_id not in valid_ids:
+        raise ValueError(f"未知主題 categoryId：{category_id or '(空白)'}")
+    return category_id
 
 
 def allocate_id(category_id: str, to_date: str, ids: set[str]) -> str:
@@ -112,7 +129,6 @@ def update_manifest_metadata(manifest: dict, from_date: str, to_date: str) -> No
 
 def reserve(args: argparse.Namespace) -> int:
     root = Path(args.root).resolve()
-    category_path = root / args.category_file
     manifest_path = root / "data.json"
     candidates = read_json(Path(args.candidates).resolve())
     if not isinstance(candidates, list):
@@ -123,11 +139,8 @@ def reserve(args: argparse.Namespace) -> int:
     for candidate in candidates:
         if len(committed) >= args.limit:
             break
-        category = read_json(category_path)
         manifest = read_json(manifest_path)
-        category_id = str(category.get("categoryId", ""))
-        if not category_id:
-            raise ValueError(f"{category_path.name} 缺少 categoryId")
+        category_id = resolve_category_id(args, manifest)
         manifest_books = manifest.get("books", [])
         key = normalized_key(str(candidate.get("title", "")), str(candidate.get("author", "")))
         existing_keys = {
@@ -138,16 +151,19 @@ def reserve(args: argparse.Namespace) -> int:
             skipped.append(str(candidate.get("title", "")))
             continue
 
+        book_directory = root / "Books" / category_id
         all_ids = {str(book.get("id", "")) for book in manifest_books}
+        if book_directory.exists():
+            all_ids.update(path.stem for path in book_directory.glob("*.json"))
         book_id = allocate_id(category_id, args.to_date, all_ids)
         book = candidate_payload(candidate, book_id, args.from_date, args.to_date)
+        book["categoryId"] = category_id
+        book_path = root / book_relative_path(category_id, book_id)
 
-        category.setdefault("books", []).append(book)
-        category["updatedAt"] = args.to_date
-        write_json_atomic(category_path, category)
-        check_category = read_json(category_path)
-        if sum(item.get("id") == book_id for item in check_category.get("books", [])) != 1:
-            raise RuntimeError(f"{book_id} 分類 pending 骨架寫後驗證失敗")
+        write_json_atomic(book_path, book)
+        check_book = read_json(book_path)
+        if check_book.get("id") != book_id or check_book.get("categoryId") != category_id:
+            raise RuntimeError(f"{book_id} 單書 pending 骨架寫後驗證失敗")
 
         manifest = read_json(manifest_path)
         latest_keys = {
@@ -155,7 +171,7 @@ def reserve(args: argparse.Namespace) -> int:
             for item in manifest.get("books", [])
         }
         if key in latest_keys:
-            raise RuntimeError(f"{book_id} 分類已寫入，但 data.json 出現 reservation 衝突")
+            raise RuntimeError(f"{book_id} 單書檔已寫入，但 data.json 出現 reservation 衝突")
         manifest.setdefault("books", []).append(manifest_payload(book, category_id))
         update_manifest_metadata(manifest, args.from_date, args.to_date)
         write_json_atomic(manifest_path, manifest)
@@ -196,7 +212,7 @@ def validate_highlights(book_id: str, highlights: object) -> list[str]:
 
 def complete(args: argparse.Namespace) -> int:
     root = Path(args.root).resolve()
-    category_path = root / args.category_file
+    manifest_path = root / "data.json"
     results = read_json(Path(args.results).resolve())
     if isinstance(results, dict):
         results = [results]
@@ -206,22 +222,33 @@ def complete(args: argparse.Namespace) -> int:
     for result in results:
         book_id = str(result.get("id", ""))
         highlights = validate_highlights(book_id, result.get("highlights"))
-        category = read_json(category_path)
-        matches = [book for book in category.get("books", []) if book.get("id") == book_id]
+        manifest = read_json(manifest_path)
+        matches = [book for book in manifest.get("books", []) if book.get("id") == book_id]
         if len(matches) != 1:
-            raise ValueError(f"{book_id} 在 {category_path.name} 必須剛好出現一次")
-        book = matches[0]
+            raise ValueError(f"{book_id} 在 data.json 必須剛好出現一次")
+        index_book = matches[0]
+        expected_category_id = resolve_category_id(args, manifest) if (
+            getattr(args, "category_id", None) or getattr(args, "category_file", None)
+        ) else str(index_book.get("categoryId", ""))
+        if index_book.get("categoryId") != expected_category_id:
+            raise ValueError(f"{book_id} 不屬於 {expected_category_id}")
+        relative_file = str(index_book.get("file", ""))
+        expected_file = book_relative_path(expected_category_id, book_id)
+        if relative_file != expected_file:
+            raise ValueError(f"{book_id} 的 data.json file 必須是 {expected_file}")
+        book_path = root / relative_file
+        book = read_json(book_path)
+        if book.get("id") != book_id:
+            raise ValueError(f"{book_id} 單書檔 ID 不一致")
         book["chatgptHighlights"] = highlights
         book["chatgptStatus"] = "complete"
         book["highlightsSource"] = "codex"
         book["highlightsCapturedAt"] = now_iso()
         book["updatedAt"] = datetime.now(TAIPEI).date().isoformat()
-        category["updatedAt"] = book["updatedAt"]
-        write_json_atomic(category_path, category)
+        write_json_atomic(book_path, book)
 
-        check = read_json(category_path)
-        saved = next((item for item in check.get("books", []) if item.get("id") == book_id), None)
-        if saved is None:
+        saved = read_json(book_path)
+        if saved.get("id") != book_id:
             raise RuntimeError(f"{book_id} 寫後找不到")
         validate_highlights(book_id, saved.get("chatgptHighlights"))
         if saved.get("chatgptStatus") != "complete":
@@ -236,7 +263,9 @@ def build_parser() -> argparse.ArgumentParser:
     subparsers = parser.add_subparsers(dest="command", required=True)
 
     reserve_parser = subparsers.add_parser("reserve")
-    reserve_parser.add_argument("--category-file", required=True)
+    reserve_category = reserve_parser.add_mutually_exclusive_group(required=True)
+    reserve_category.add_argument("--category-id")
+    reserve_category.add_argument("--category-file", help="舊參數相容；只用檔名推導 categoryId，不讀寫分類檔")
     reserve_parser.add_argument("--candidates", required=True)
     reserve_parser.add_argument("--limit", type=int, required=True)
     reserve_parser.add_argument("--from-date", required=True)
@@ -244,7 +273,9 @@ def build_parser() -> argparse.ArgumentParser:
     reserve_parser.set_defaults(func=reserve)
 
     complete_parser = subparsers.add_parser("complete")
-    complete_parser.add_argument("--category-file", required=True)
+    complete_category = complete_parser.add_mutually_exclusive_group()
+    complete_category.add_argument("--category-id")
+    complete_category.add_argument("--category-file", help="舊參數相容；只用檔名驗證 categoryId，不讀寫分類檔")
     complete_parser.add_argument("--results", required=True)
     complete_parser.set_defaults(func=complete)
     return parser

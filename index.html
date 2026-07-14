@@ -440,7 +440,6 @@
       const state = {
         manifest: null,
         category: null,
-        categoryData: null,
         book: null,
         cache: new Map(),
         mode: "category",
@@ -536,19 +535,20 @@
         if (!category) return;
 
         state.category = category;
-        state.categoryData = await loadCategory(category);
         els.categorySelect.value = category.id;
 
         if (state.mode === "category") {
-          state.bookOptions = asArray(state.categoryData.books).map(function (book) {
+          state.bookOptions = categoryBooks(category.id).map(function (book) {
             return optionFromBook(book, category.id);
           });
           state.bookPage = 1;
-          const firstBook = findBook(requestedBookId) || asArray(state.categoryData.books)[0];
+          const firstBook = categoryBooks(category.id).find(function (book) {
+            return book.id === requestedBookId;
+          }) || categoryBooks(category.id)[0];
           renderBookOptionsPage();
           if (firstBook) {
             jumpToOption(category.id, firstBook.id);
-            selectBook(firstBook.id);
+            await selectBook(firstBook.id);
           } else {
             state.book = null;
             renderEmpty("這個主題目前還沒有書籍資料。");
@@ -564,21 +564,21 @@
         const category = findCategory(option.categoryId || (state.category && state.category.id));
         if (!category) return;
 
-        if (!state.category || state.category.id !== category.id || !state.categoryData) {
+        if (!state.category || state.category.id !== category.id) {
           state.category = category;
-          state.categoryData = await loadCategory(category);
           els.categorySelect.value = category.id;
         }
 
-        selectBook(option.bookId);
+        await selectBook(option.bookId);
       }
 
-      function selectBook(bookId) {
-        const book = findBook(bookId);
-        if (!book) return;
+      async function selectBook(bookId) {
+        const indexBook = findBookIndex(bookId);
+        if (!indexBook || !indexBook.file) return;
+        const book = await loadBook(indexBook);
         state.book = book;
         renderBook(book);
-        setSelectedBookOption(state.category.id, book.id);
+        setSelectedBookOption(indexBook.categoryId, book.id);
       }
 
       async function searchBooks() {
@@ -614,17 +614,26 @@
         updateStats();
       }
 
-      async function loadCategory(category) {
-        if (state.cache.has(category.id)) return state.cache.get(category.id);
-        const data = await loadJson(category.file);
-        state.cache.set(category.id, data);
+      async function loadBook(indexBook) {
+        const url = versionedUrl(indexBook.file);
+        if (state.cache.has(url)) return state.cache.get(url);
+        const data = await loadJson(url);
+        state.cache.set(url, data);
         return data;
       }
 
       async function loadJson(url) {
-        const response = await fetch(url, { cache: "no-store" });
+        const response = await fetch(url, { cache: "default" });
         if (!response.ok) throw new Error(`${url} 載入失敗：${response.status}`);
         return response.json();
+      }
+
+      function versionedUrl(url) {
+        const version = state.manifest && state.manifest.generatedAt;
+        if (!version) return url;
+        const result = new URL(url, window.location.href);
+        result.searchParams.set("v", version);
+        return result.href;
       }
 
       function populateCategories(categories) {
@@ -740,7 +749,7 @@
 
       function updateStats() {
         const manifestCount = (state.manifest && state.manifest.totalBooks) || 0;
-        const currentCount = state.categoryData ? asArray(state.categoryData.books).length : 0;
+        const currentCount = state.category ? categoryBooks(state.category.id).length : 0;
         if (els.bookCount) els.bookCount.textContent = manifestCount || currentCount;
         if (state.mode === "search") {
           if (els.categoryStatus) els.categoryStatus.textContent = `搜尋結果：${state.bookOptions.length} 筆`;
@@ -798,10 +807,16 @@
         })) || null;
       }
 
-      function findBook(id) {
-        return (state.categoryData && asArray(state.categoryData.books).find(function (book) {
+      function findBookIndex(id) {
+        return (state.manifest && asArray(state.manifest.books).find(function (book) {
           return book.id === id;
         })) || null;
+      }
+
+      function categoryBooks(categoryId) {
+        return state.manifest ? asArray(state.manifest.books).filter(function (book) {
+          return book.categoryId === categoryId;
+        }) : [];
       }
 
       function categoryLabel(categoryId) {
