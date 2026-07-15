@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Western Civilizations",
+    "author": "Joshua Cole、Carol Symes",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL20772133W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2011；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "世界史",
+      "Western Civilization",
+      "Textbooks"
+    ],
+    "summary": "《Western Civilizations》由Joshua Cole、Carol Symes撰寫，書目主題涵蓋世界史、Western Civilization、Textbooks；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "世界史",
+      "Western Civilization",
+      "Textbooks"
+    ],
+    "firstPublishYear": 2011,
+    "workId": "findbook-20260715-205005-b9"
+  },
+  {
+    "title": "Crusades",
+    "author": "Benjamin Z. Kedar、Jonathan Phillips、Iris Shagrir",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL20752984W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "世界史",
+      "World history",
+      "Crusades"
+    ],
+    "summary": "《Crusades》由Benjamin Z. Kedar、Jonathan Phillips、Iris Shagrir撰寫，書目主題涵蓋世界史、World history、Crusades；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "世界史",
+      "World history",
+      "Crusades"
+    ],
+    "firstPublishYear": 2008,
+    "workId": "findbook-20260715-205005-b9"
+  }
+]

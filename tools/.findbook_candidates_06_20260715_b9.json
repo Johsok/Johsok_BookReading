@@ -1,0 +1,46 @@
+[
+  {
+    "title": "PHP & MySQL",
+    "author": "Jon Duckett",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL20799566W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2019；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "程式設計",
+      "Web site development",
+      "Mathematics"
+    ],
+    "summary": "《PHP & MySQL》由Jon Duckett撰寫，書目主題涵蓋程式設計、Web site development、Mathematics；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "程式設計",
+      "Web site development",
+      "Mathematics"
+    ],
+    "firstPublishYear": 2019,
+    "workId": "findbook-20260715-205005-b9"
+  },
+  {
+    "title": "The Master Algorithm",
+    "author": "Pedro Domingos",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19663805W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2015；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "人工智慧",
+      "Information Theory",
+      "Cognitive Science"
+    ],
+    "summary": "《The Master Algorithm》由Pedro Domingos撰寫，書目主題涵蓋人工智慧、Information Theory、Cognitive Science；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "人工智慧",
+      "Information Theory",
+      "Cognitive Science"
+    ],
+    "firstPublishYear": 2015,
+    "workId": "findbook-20260715-205005-b9"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Archaeology",
+    "author": "Mark Q. Sutton、Robert M. Yohe",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2132654W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2002；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "考古學",
+      "Textbooks",
+      "Archaeology"
+    ],
+    "summary": "《Archaeology》由Mark Q. Sutton、Robert M. Yohe撰寫，書目主題涵蓋考古學、Textbooks、Archaeology；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "考古學",
+      "Textbooks",
+      "Archaeology"
+    ],
+    "firstPublishYear": 2002,
+    "workId": "findbook-20260715-210600-b11"
+  },
+  {
+    "title": "The Attention Merchants",
+    "author": "Tim Wu",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19667653W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "文化史",
+      "Consumer behavior",
+      "Advertising"
+    ],
+    "summary": "《The Attention Merchants》由Tim Wu撰寫，書目主題涵蓋文化史、Consumer behavior、Advertising；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "文化史",
+      "Consumer behavior",
+      "Advertising"
+    ],
+    "firstPublishYear": 2016,
+    "workId": "findbook-20260715-210600-b11"
+  }
+]

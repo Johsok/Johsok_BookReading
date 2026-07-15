@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Consider the fork",
+    "author": "Bee Wilson",
+    "categoryId": "05_food_wellness",
+    "sourceName": "Open Library 飲食養生主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16671669W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "飲食養生",
+      "飲食科學",
+      "Kitchen utensils",
+      "COOKING / History"
+    ],
+    "summary": "《Consider the fork》由Bee Wilson撰寫，書目主題涵蓋飲食科學、Kitchen utensils、COOKING / History；本次依飲食養生閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "飲食科學",
+      "Kitchen utensils",
+      "COOKING / History"
+    ],
+    "firstPublishYear": 2012,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Salt Sugar Fat",
+    "author": "Michael Moss",
+    "categoryId": "05_food_wellness",
+    "sourceName": "Open Library 飲食養生主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16810383W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2013；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "飲食養生",
+      "營養",
+      "飲食習慣",
+      "加工食品"
+    ],
+    "summary": "《Salt Sugar Fat》由Michael Moss撰寫，聚焦鹽、糖與脂肪如何被食品產業運用並影響飲食習慣，適合從營養、加工食品與健康選擇建立閱讀框架。",
+    "subjects": [
+      "營養",
+      "飲食習慣",
+      "加工食品"
+    ],
+    "firstPublishYear": 2013,
+    "workId": "findbook-20260715-205830-b10"
+  }
+]

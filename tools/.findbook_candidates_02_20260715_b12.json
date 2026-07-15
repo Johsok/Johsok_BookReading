@@ -1,0 +1,658 @@
+[
+  {
+    "title": "Secrets of Resilient People",
+    "author": "John Lees",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21074177W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "韌性",
+      "Personality",
+      "Popular works"
+    ],
+    "summary": "《Secrets of Resilient People》由John Lees撰寫，書目主題涵蓋韌性、Personality、Popular works；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "韌性",
+      "Personality",
+      "Popular works"
+    ],
+    "firstPublishYear": 2014,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "Gentle Reminders",
+    "author": "Dodinsky",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21585476W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正向心理學",
+      "Quotations, maxims",
+      "Conduct of life"
+    ],
+    "summary": "《Gentle Reminders》由Dodinsky撰寫，書目主題涵蓋正向心理學、Quotations, maxims、Conduct of life；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "正向心理學",
+      "Quotations, maxims",
+      "Conduct of life"
+    ],
+    "firstPublishYear": 2016,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "Conquer Your Critical Inner Voice",
+    "author": "Robert W. Firestone、Lisa Firestone、Joyce Catlett、Pat Love",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL20991849W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2002；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "自尊",
+      "Self-realization",
+      "Self-acceptance"
+    ],
+    "summary": "《Conquer Your Critical Inner Voice》由Robert W. Firestone、Lisa Firestone、Joyce Catlett、Pat Love撰寫，書目主題涵蓋自尊、Self-realization、Self-acceptance；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "自尊",
+      "Self-realization",
+      "Self-acceptance"
+    ],
+    "firstPublishYear": 2002,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "Handbook of adult resilience",
+    "author": "John W. Reich",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL15625485W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2010；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "韌性",
+      "Crisis management",
+      "Community organization"
+    ],
+    "summary": "《Handbook of adult resilience》由John W. Reich撰寫，書目主題涵蓋韌性、Crisis management、Community organization；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "韌性",
+      "Crisis management",
+      "Community organization"
+    ],
+    "firstPublishYear": 2010,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "Savoring",
+    "author": "Fred B. Bryant、Joseph Veroff",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL25107740W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2006；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正向心理學",
+      "Positive psychology",
+      "Psychologie positive"
+    ],
+    "summary": "《Savoring》由Fred B. Bryant、Joseph Veroff撰寫，書目主題涵蓋正向心理學、Positive psychology、Psychologie positive；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "正向心理學",
+      "Positive psychology",
+      "Psychologie positive"
+    ],
+    "firstPublishYear": 2006,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "Hope in the age of anxiety",
+    "author": "Anthony Scioli",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL13758530W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正向心理學",
+      "Positive psychology",
+      "Hope"
+    ],
+    "summary": "《Hope in the age of anxiety》由Anthony Scioli撰寫，書目主題涵蓋正向心理學、Positive psychology、Hope；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "正向心理學",
+      "Positive psychology",
+      "Hope"
+    ],
+    "firstPublishYear": 2009,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "The social cure",
+    "author": "Jolanda Jetten",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16182768W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "幸福感",
+      "Group identity",
+      "Health"
+    ],
+    "summary": "《The social cure》由Jolanda Jetten撰寫，書目主題涵蓋幸福感、Group identity、Health；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "幸福感",
+      "Group identity",
+      "Health"
+    ],
+    "firstPublishYear": 2012,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "How to Change",
+    "author": "Katy Milkman、Angela Duckworth",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL24208253W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2021；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "行為改變",
+      "Psychology",
+      "Change (Psychology)"
+    ],
+    "summary": "《How to Change》由Katy Milkman、Angela Duckworth撰寫，書目主題涵蓋行為改變、Psychology、Change (Psychology)；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "行為改變",
+      "Psychology",
+      "Change (Psychology)"
+    ],
+    "firstPublishYear": 2021,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "Creating well-being",
+    "author": "Pamela A. Hays",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL23297430W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "幸福感",
+      "Happiness",
+      "Well-being"
+    ],
+    "summary": "《Creating well-being》由Pamela A. Hays撰寫，書目主題涵蓋幸福感、Happiness、Well-being；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "幸福感",
+      "Happiness",
+      "Well-being"
+    ],
+    "firstPublishYear": 2014,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "Adverse Childhood Experiences",
+    "author": "Roberta Waite、Ruth Ann Ryan",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21649218W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2019；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "韌性",
+      "Adult child abuse victims",
+      "Psychic trauma in children"
+    ],
+    "summary": "《Adverse Childhood Experiences》由Roberta Waite、Ruth Ann Ryan撰寫，書目主題涵蓋韌性、Adult child abuse victims、Psychic trauma in children；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "韌性",
+      "Adult child abuse victims",
+      "Psychic trauma in children"
+    ],
+    "firstPublishYear": 2019,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "Loss, Trauma, and Resilience",
+    "author": "Pauline Boss",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1999957W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2005；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "韌性",
+      "Grief",
+      "Loss (Psychology)"
+    ],
+    "summary": "《Loss, Trauma, and Resilience》由Pauline Boss撰寫，書目主題涵蓋韌性、Grief、Loss (Psychology)；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "韌性",
+      "Grief",
+      "Loss (Psychology)"
+    ],
+    "firstPublishYear": 2005,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "The five things we need to be happy and money isn't one of them",
+    "author": "Patricia Lorenz",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2639287W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "幸福感",
+      "Well-being",
+      "Happiness"
+    ],
+    "summary": "《The five things we need to be happy and money isn't one of them》由Patricia Lorenz撰寫，書目主題涵蓋幸福感、Well-being、Happiness；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "幸福感",
+      "Well-being",
+      "Happiness"
+    ],
+    "firstPublishYear": 2009,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "Stepping Up",
+    "author": "John B. Izzo",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21908936W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "行為改變",
+      "Leadership",
+      "Organizational behavior"
+    ],
+    "summary": "《Stepping Up》由John B. Izzo撰寫，書目主題涵蓋行為改變、Leadership、Organizational behavior；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "行為改變",
+      "Leadership",
+      "Organizational behavior"
+    ],
+    "firstPublishYear": 2012,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "A blueprint for your castle in the clouds",
+    "author": "Barbara Sophia Tammes",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19962424W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "幸福感",
+      "Well-being",
+      "Self-help techniques"
+    ],
+    "summary": "《A blueprint for your castle in the clouds》由Barbara Sophia Tammes撰寫，書目主題涵蓋幸福感、Well-being、Self-help techniques；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "幸福感",
+      "Well-being",
+      "Self-help techniques"
+    ],
+    "firstPublishYear": 2012,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "Trauma-proofing your kids",
+    "author": "Peter A. Levine",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2629037W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "韌性",
+      "Popular works",
+      "Psychic trauma in children"
+    ],
+    "summary": "《Trauma-proofing your kids》由Peter A. Levine撰寫，書目主題涵蓋韌性、Popular works、Psychic trauma in children；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "韌性",
+      "Popular works",
+      "Psychic trauma in children"
+    ],
+    "firstPublishYear": 2008,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "How to make your dreams come true",
+    "author": "Angela Donovan",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL20985682W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2011；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "幸福感",
+      "Wishes",
+      "Well-being"
+    ],
+    "summary": "《How to make your dreams come true》由Angela Donovan撰寫，書目主題涵蓋幸福感、Wishes、Well-being；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "幸福感",
+      "Wishes",
+      "Well-being"
+    ],
+    "firstPublishYear": 2011,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "Positive Therapy",
+    "author": "Stephen Joseph",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL26501005W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2015；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正向心理學",
+      "Positive psychology",
+      "Psychotherapy"
+    ],
+    "summary": "《Positive Therapy》由Stephen Joseph撰寫，書目主題涵蓋正向心理學、Positive psychology、Psychotherapy；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "正向心理學",
+      "Positive psychology",
+      "Psychotherapy"
+    ],
+    "firstPublishYear": 2015,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "How to deal with anything",
+    "author": "Henderson",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL17919191W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2002；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "韌性",
+      "Self-confidence",
+      "Self-reliance"
+    ],
+    "summary": "《How to deal with anything》由Henderson撰寫，書目主題涵蓋韌性、Self-confidence、Self-reliance；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "韌性",
+      "Self-confidence",
+      "Self-reliance"
+    ],
+    "firstPublishYear": 2002,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "Handbook of positive psychology",
+    "author": "C. R. Snyder、Shane J. Lopez",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL18240147W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2005；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正向心理學",
+      "Positive psychology",
+      "Psychology"
+    ],
+    "summary": "《Handbook of positive psychology》由C. R. Snyder、Shane J. Lopez撰寫，書目主題涵蓋正向心理學、Positive psychology、Psychology；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "正向心理學",
+      "Positive psychology",
+      "Psychology"
+    ],
+    "firstPublishYear": 2005,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "Positive psychology 101",
+    "author": "Philip C. Watkins",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL22317829W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2015；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正向心理學",
+      "Positive psychology"
+    ],
+    "summary": "《Positive psychology 101》由Philip C. Watkins撰寫，書目主題涵蓋正向心理學、Positive psychology；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "正向心理學",
+      "Positive psychology"
+    ],
+    "firstPublishYear": 2015,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "The Second Circle",
+    "author": "Patsy Rodenburg",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1732757W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正向心理學",
+      "Energy psychology",
+      "Positive psychology"
+    ],
+    "summary": "《The Second Circle》由Patsy Rodenburg撰寫，書目主題涵蓋正向心理學、Energy psychology、Positive psychology；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "正向心理學",
+      "Energy psychology",
+      "Positive psychology"
+    ],
+    "firstPublishYear": 2008,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "African American Psychology",
+    "author": "Stacie DeFreitas",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL25751065W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2020；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正向心理學",
+      "Positive psychology",
+      "African Americans"
+    ],
+    "summary": "《African American Psychology》由Stacie DeFreitas撰寫，書目主題涵蓋正向心理學、Positive psychology、African Americans；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "正向心理學",
+      "Positive psychology",
+      "African Americans"
+    ],
+    "firstPublishYear": 2020,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "How full is your bucket?",
+    "author": "Tom Rath、Donald O. Clifton",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL18516986W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2004；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正向心理學",
+      "Employee morale",
+      "Positive psychology"
+    ],
+    "summary": "《How full is your bucket?》由Tom Rath、Donald O. Clifton撰寫，書目主題涵蓋正向心理學、Employee morale、Positive psychology；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "正向心理學",
+      "Employee morale",
+      "Positive psychology"
+    ],
+    "firstPublishYear": 2004,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "Self-esteem research, theory, and practice",
+    "author": "Christopher J. Mruk",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL18287887W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2006；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正向心理學",
+      "Positive psychology",
+      "Self-esteem"
+    ],
+    "summary": "《Self-esteem research, theory, and practice》由Christopher J. Mruk撰寫，書目主題涵蓋正向心理學、Positive psychology、Self-esteem；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "正向心理學",
+      "Positive psychology",
+      "Self-esteem"
+    ],
+    "firstPublishYear": 2006,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "The hope circuit",
+    "author": "Martin Elias Pete Seligman",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19738257W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2018；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正向心理學",
+      "Positive psychology",
+      "Psychologists"
+    ],
+    "summary": "《The hope circuit》由Martin Elias Pete Seligman撰寫，書目主題涵蓋正向心理學、Positive psychology、Psychologists；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "正向心理學",
+      "Positive psychology",
+      "Psychologists"
+    ],
+    "firstPublishYear": 2018,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "The Whispering of Ghosts",
+    "author": "Boris Cyrulnik",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL15319410W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2005；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "韌性",
+      "Case studies"
+    ],
+    "summary": "《The Whispering of Ghosts》由Boris Cyrulnik撰寫，書目主題涵蓋韌性、Case studies；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "韌性",
+      "Case studies"
+    ],
+    "firstPublishYear": 2005,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "On resilience",
+    "author": "Elisabeth Wynhausen",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL18592792W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "韌性",
+      "Adjustment (Psychology)",
+      "Spiritual healing"
+    ],
+    "summary": "《On resilience》由Elisabeth Wynhausen撰寫，書目主題涵蓋韌性、Adjustment (Psychology)、Spiritual healing；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "韌性",
+      "Adjustment (Psychology)",
+      "Spiritual healing"
+    ],
+    "firstPublishYear": 2008,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "Quiet mind, healthy body",
+    "author": "Nancy Tan",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL26436371W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "幸福感",
+      "Stress management",
+      "Health"
+    ],
+    "summary": "《Quiet mind, healthy body》由Nancy Tan撰寫，書目主題涵蓋幸福感、Stress management、Health；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "幸福感",
+      "Stress management",
+      "Health"
+    ],
+    "firstPublishYear": 2008,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "The science of positivity",
+    "author": "Loretta Graziano Breuning",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19723958W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正向心理學",
+      "Positive psychology",
+      "Attitude (Psychology)"
+    ],
+    "summary": "《The science of positivity》由Loretta Graziano Breuning撰寫，書目主題涵蓋正向心理學、Positive psychology、Attitude (Psychology)；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "正向心理學",
+      "Positive psychology",
+      "Attitude (Psychology)"
+    ],
+    "firstPublishYear": 2016,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "Interviewing and change strategies for helpers",
+    "author": "L. Sherilyn Cormier、Sherry Cormier、Paula S. Nurius、Cynthia J. Osborn",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1923311W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2002；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "心理治療",
+      "Counseling",
+      "Interviewing"
+    ],
+    "summary": "《Interviewing and change strategies for helpers》由L. Sherilyn Cormier、Sherry Cormier、Paula S. Nurius、Cynthia J. Osborn撰寫，書目主題涵蓋心理治療、Counseling、Interviewing；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "心理治療",
+      "Counseling",
+      "Interviewing"
+    ],
+    "firstPublishYear": 2002,
+    "workId": "findbook-20260715-211259-b12"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The clean coder",
+    "author": "Robert C. Martin",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16298147W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2011；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "程式設計",
+      "Computer programmers",
+      "Computer programming"
+    ],
+    "summary": "《The clean coder》由Robert C. Martin撰寫，書目主題涵蓋程式設計、Computer programmers、Computer programming；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "程式設計",
+      "Computer programmers",
+      "Computer programming"
+    ],
+    "firstPublishYear": 2011,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "AI Engineering",
+    "author": "Chip Huyen",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL39671094W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2024；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "人工智慧",
+      "Artificial intelligence"
+    ],
+    "summary": "《AI Engineering》由Chip Huyen撰寫，書目主題涵蓋人工智慧、Artificial intelligence；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "人工智慧",
+      "Artificial intelligence"
+    ],
+    "firstPublishYear": 2024,
+    "workId": "findbook-20260715-205830-b10"
+  }
+]

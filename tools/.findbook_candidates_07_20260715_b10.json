@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Worlds Together, Worlds Apart",
+    "author": "Robert Tignor、Jeremy Adelman、Stephen Aron、Stephen Kotkin",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21727560W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "世界史",
+      "World history",
+      "Civilization, medieval"
+    ],
+    "summary": "《Worlds Together, Worlds Apart》由Robert Tignor、Jeremy Adelman、Stephen Aron、Stephen Kotkin撰寫，書目主題涵蓋世界史、World history、Civilization, medieval；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "世界史",
+      "World history",
+      "Civilization, medieval"
+    ],
+    "firstPublishYear": 2008,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Fascism",
+    "author": "Madeleine Korbel Albright",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL17931000W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2018；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "世界史",
+      "Fascism",
+      "History"
+    ],
+    "summary": "《Fascism》由Madeleine Korbel Albright撰寫，書目主題涵蓋世界史、Fascism、History；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "世界史",
+      "Fascism",
+      "History"
+    ],
+    "firstPublishYear": 2018,
+    "workId": "findbook-20260715-205830-b10"
+  }
+]

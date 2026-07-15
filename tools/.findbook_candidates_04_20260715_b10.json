@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Learning to Speak Alzheimer's",
+    "author": "Joanne Koenig Coste",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL7917989W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2003；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "病人照護",
+      "Methods",
+      "Alzheimer Disease"
+    ],
+    "summary": "《Learning to Speak Alzheimer's》由Joanne Koenig Coste撰寫，書目主題涵蓋病人照護、Methods、Alzheimer Disease；本次依醫療保健閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "病人照護",
+      "Methods",
+      "Alzheimer Disease"
+    ],
+    "firstPublishYear": 2003,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "The Royal Marsden Manual of Clinical Nursing Procedures",
+    "author": "Lisa Dougherty、Sara Lister、Alex West-Oram",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL20709861W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2015；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "病人照護",
+      "Nursing",
+      "Technique"
+    ],
+    "summary": "《The Royal Marsden Manual of Clinical Nursing Procedures》由Lisa Dougherty、Sara Lister、Alex West-Oram撰寫，書目主題涵蓋病人照護、Nursing、Technique；本次依醫療保健閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "病人照護",
+      "Nursing",
+      "Technique"
+    ],
+    "firstPublishYear": 2015,
+    "workId": "findbook-20260715-205830-b10"
+  }
+]

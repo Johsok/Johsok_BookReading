@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Do No Harm",
+    "author": "Marsh, Henry、Henry Marsh",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL17108962W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "病人照護",
+      "Nervous system",
+      "Neurosurgeons"
+    ],
+    "summary": "《Do No Harm》由Marsh, Henry、Henry Marsh撰寫，書目主題涵蓋病人照護、Nervous system、Neurosurgeons；本次依醫療保健閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "病人照護",
+      "Nervous system",
+      "Neurosurgeons"
+    ],
+    "firstPublishYear": 2014,
+    "workId": "findbook-20260715-205005-b9"
+  },
+  {
+    "title": "Twelve patients",
+    "author": "Eric Manheimer",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16591692W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "病人照護",
+      "Hospital patients",
+      "Case studies"
+    ],
+    "summary": "《Twelve patients》由Eric Manheimer撰寫，書目主題涵蓋病人照護、Hospital patients、Case studies；本次依醫療保健閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "病人照護",
+      "Hospital patients",
+      "Case studies"
+    ],
+    "firstPublishYear": 2012,
+    "workId": "findbook-20260715-205005-b9"
+  }
+]

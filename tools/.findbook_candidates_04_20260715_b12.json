@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Plague Cycle",
+    "author": "Charles Kenny",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21933205W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2021；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "公共衛生",
+      "Public health"
+    ],
+    "summary": "《Plague Cycle》由Charles Kenny撰寫，書目主題涵蓋公共衛生、Public health；本次依醫療保健閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "公共衛生",
+      "Public health"
+    ],
+    "firstPublishYear": 2021,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "Health Behavior",
+    "author": "Karen Glanz、Barbara K. Rimer、K. Viswanath",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21577353W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2015；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "公共衛生",
+      "Health behavior",
+      "Health education"
+    ],
+    "summary": "《Health Behavior》由Karen Glanz、Barbara K. Rimer、K. Viswanath撰寫，書目主題涵蓋公共衛生、Health behavior、Health education；本次依醫療保健閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "公共衛生",
+      "Health behavior",
+      "Health education"
+    ],
+    "firstPublishYear": 2015,
+    "workId": "findbook-20260715-211259-b12"
+  }
+]

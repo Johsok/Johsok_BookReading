@@ -1,0 +1,46 @@
+[
+  {
+    "title": "The art of fermentation",
+    "author": "Sandor Ellix Katz、Alejandro Pareja Rodríguez",
+    "categoryId": "05_food_wellness",
+    "sourceName": "Open Library 飲食養生主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16461965W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "飲食養生",
+      "飲食科學",
+      "Fermented foods",
+      "Fermentation"
+    ],
+    "summary": "《The art of fermentation》由Sandor Ellix Katz、Alejandro Pareja Rodríguez撰寫，書目主題涵蓋飲食科學、Fermented foods、Fermentation；本次依飲食養生閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "飲食科學",
+      "Fermented foods",
+      "Fermentation"
+    ],
+    "firstPublishYear": 2012,
+    "workId": "findbook-20260715-205005-b9"
+  },
+  {
+    "title": "Cooking for Geeks",
+    "author": "Jeff Potter",
+    "categoryId": "05_food_wellness",
+    "sourceName": "Open Library 飲食養生主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL15197192W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2010；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "飲食養生",
+      "飲食科學",
+      "cooking",
+      "food science"
+    ],
+    "summary": "《Cooking for Geeks》由Jeff Potter撰寫，書目主題涵蓋飲食科學、cooking、food science；本次依飲食養生閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "飲食科學",
+      "cooking",
+      "food science"
+    ],
+    "firstPublishYear": 2010,
+    "workId": "findbook-20260715-205005-b9"
+  }
+]

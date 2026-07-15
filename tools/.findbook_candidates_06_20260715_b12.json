@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Coders at Work",
+    "author": "Peter Seibel",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16301038W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "程式設計",
+      "Programmatuurtechniek",
+      "Programmierung"
+    ],
+    "summary": "《Coders at Work》由Peter Seibel撰寫，書目主題涵蓋程式設計、Programmatuurtechniek、Programmierung；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "程式設計",
+      "Programmatuurtechniek",
+      "Programmierung"
+    ],
+    "firstPublishYear": 2009,
+    "workId": "findbook-20260715-211259-b12"
+  },
+  {
+    "title": "The effective engineer",
+    "author": "Edmond Lau",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL20006564W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2015；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "軟體工程",
+      "Computer programmers",
+      "Development"
+    ],
+    "summary": "《The effective engineer》由Edmond Lau撰寫，書目主題涵蓋軟體工程、Computer programmers、Development；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "軟體工程",
+      "Computer programmers",
+      "Development"
+    ],
+    "firstPublishYear": 2015,
+    "workId": "findbook-20260715-211259-b12"
+  }
+]

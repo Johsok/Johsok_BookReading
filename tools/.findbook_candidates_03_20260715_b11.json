@@ -1,0 +1,220 @@
+[
+  {
+    "title": "The Knowledge",
+    "author": "Lewis Dartnell",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL17112978W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "科普",
+      "Technology",
+      "Survival"
+    ],
+    "summary": "《The Knowledge》由Lewis Dartnell撰寫，書目主題涵蓋科普、Technology、Survival；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "科普",
+      "Technology",
+      "Survival"
+    ],
+    "firstPublishYear": 2014,
+    "workId": "findbook-20260715-210600-b11"
+  },
+  {
+    "title": "Human Geography",
+    "author": "Alexander B. Murphy、Erin H. Fouberg",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL20761205W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "生態學",
+      "Human ecology",
+      "Human geography"
+    ],
+    "summary": "《Human Geography》由Alexander B. Murphy、Erin H. Fouberg撰寫，書目主題涵蓋生態學、Human ecology、Human geography；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "生態學",
+      "Human ecology",
+      "Human geography"
+    ],
+    "firstPublishYear": 2009,
+    "workId": "findbook-20260715-210600-b11"
+  },
+  {
+    "title": "Life Ascending",
+    "author": "Nick Lane、Ilona Hauser",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL7998479W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "演化",
+      "DNA",
+      "Evolution (Biology)"
+    ],
+    "summary": "《Life Ascending》由Nick Lane、Ilona Hauser撰寫，書目主題涵蓋演化、DNA、Evolution (Biology)；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "演化",
+      "DNA",
+      "Evolution (Biology)"
+    ],
+    "firstPublishYear": 2009,
+    "workId": "findbook-20260715-210600-b11"
+  },
+  {
+    "title": "Why Evolution is True",
+    "author": "Jerry A. Coyne",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL20405770W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2010；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "演化",
+      "Evolution"
+    ],
+    "summary": "《Why Evolution is True》由Jerry A. Coyne撰寫，書目主題涵蓋演化、Evolution；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "演化",
+      "Evolution"
+    ],
+    "firstPublishYear": 2010,
+    "workId": "findbook-20260715-210600-b11"
+  },
+  {
+    "title": "Being You",
+    "author": "Anil Seth",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL25224018W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2021；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "神經科學",
+      "Consciousness",
+      "Physiological aspects"
+    ],
+    "summary": "《Being You》由Anil Seth撰寫，書目主題涵蓋神經科學、Consciousness、Physiological aspects；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "神經科學",
+      "Consciousness",
+      "Physiological aspects"
+    ],
+    "firstPublishYear": 2021,
+    "workId": "findbook-20260715-210600-b11"
+  },
+  {
+    "title": "The neuroscience of intelligence",
+    "author": "Richard J. Haier",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19733102W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "神經科學",
+      "Neurosciences",
+      "Consciousness"
+    ],
+    "summary": "《The neuroscience of intelligence》由Richard J. Haier撰寫，書目主題涵蓋神經科學、Neurosciences、Consciousness；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "神經科學",
+      "Neurosciences",
+      "Consciousness"
+    ],
+    "firstPublishYear": 2016,
+    "workId": "findbook-20260715-210600-b11"
+  },
+  {
+    "title": "Welcome to the Universe",
+    "author": "Neil deGrasse Tyson、J. Richard Gott、Michael A. Strauss、Michael Butler Murray",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL17593191W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "科普",
+      "Popular works",
+      "Relativity (Physics)"
+    ],
+    "summary": "《Welcome to the Universe》由Neil deGrasse Tyson、J. Richard Gott、Michael A. Strauss、Michael Butler Murray撰寫，書目主題涵蓋科普、Popular works、Relativity (Physics)；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "科普",
+      "Popular works",
+      "Relativity (Physics)"
+    ],
+    "firstPublishYear": 2016,
+    "workId": "findbook-20260715-210600-b11"
+  },
+  {
+    "title": "Mind Over Matter",
+    "author": "K. C. Cole",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1987755W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2003；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "科普",
+      "Science",
+      "Popular works"
+    ],
+    "summary": "《Mind Over Matter》由K. C. Cole撰寫，書目主題涵蓋科普、Science、Popular works；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "科普",
+      "Science",
+      "Popular works"
+    ],
+    "firstPublishYear": 2003,
+    "workId": "findbook-20260715-210600-b11"
+  },
+  {
+    "title": "A Mind for Numbers",
+    "author": "Barbara A. Oakley",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL18199470W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "數學",
+      "Mathematics",
+      "Study and teaching"
+    ],
+    "summary": "《A Mind for Numbers》由Barbara A. Oakley撰寫，書目主題涵蓋數學、Mathematics、Study and teaching；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "數學",
+      "Mathematics",
+      "Study and teaching"
+    ],
+    "firstPublishYear": 2014,
+    "workId": "findbook-20260715-210600-b11"
+  },
+  {
+    "title": "The Planets",
+    "author": "Dava Sobel、Rosa Maria Borràs Montané",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1883968W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2005；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "天文",
+      "Planets",
+      "Large type books"
+    ],
+    "summary": "《The Planets》由Dava Sobel、Rosa Maria Borràs Montané撰寫，書目主題涵蓋天文、Planets、Large type books；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "天文",
+      "Planets",
+      "Large type books"
+    ],
+    "firstPublishYear": 2005,
+    "workId": "findbook-20260715-210600-b11"
+  }
+]

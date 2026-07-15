@@ -1,0 +1,220 @@
+[
+  {
+    "title": "A Brief History of Earth",
+    "author": "Andrew H. Knoll",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL24337220W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2021；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "地球科學",
+      "Origin",
+      "Life"
+    ],
+    "summary": "《A Brief History of Earth》由Andrew H. Knoll撰寫，書目主題涵蓋地球科學、Origin、Life；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "地球科學",
+      "Origin",
+      "Life"
+    ],
+    "firstPublishYear": 2021,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Chemistry3",
+    "author": "Andrew Burrows",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL18661011W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "化學",
+      "Chemistry"
+    ],
+    "summary": "《Chemistry3》由Andrew Burrows撰寫，書目主題涵蓋化學、Chemistry；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "化學",
+      "Chemistry"
+    ],
+    "firstPublishYear": 2009,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "The Seven Daughters of Eve",
+    "author": "Bryan Sykes",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL5854298W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2001；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "演化",
+      "Evolution",
+      "Genetics"
+    ],
+    "summary": "《The Seven Daughters of Eve》由Bryan Sykes撰寫，書目主題涵蓋演化、Evolution、Genetics；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "演化",
+      "Evolution",
+      "Genetics"
+    ],
+    "firstPublishYear": 2001,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Origins",
+    "author": "Neil deGrasse Tyson、Donald Goldsmith、Joan Soler Chic",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL17116370W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2004；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "演化",
+      "Origin",
+      "Evolution"
+    ],
+    "summary": "《Origins》由Neil deGrasse Tyson、Donald Goldsmith、Joan Soler Chic撰寫，書目主題涵蓋演化、Origin、Evolution；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "演化",
+      "Origin",
+      "Evolution"
+    ],
+    "firstPublishYear": 2004,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Mycelium running",
+    "author": "Paul Stamets",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL3264349W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2005；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "生態學",
+      "Mycelium",
+      "Ecology"
+    ],
+    "summary": "《Mycelium running》由Paul Stamets撰寫，書目主題涵蓋生態學、Mycelium、Ecology；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "生態學",
+      "Mycelium",
+      "Ecology"
+    ],
+    "firstPublishYear": 2005,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Discovering Physical Geography",
+    "author": "Alan F. Arbogast",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL9169734W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2007；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "地球科學",
+      "Physical geography",
+      "Textbooks"
+    ],
+    "summary": "《Discovering Physical Geography》由Alan F. Arbogast撰寫，書目主題涵蓋地球科學、Physical geography、Textbooks；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "地球科學",
+      "Physical geography",
+      "Textbooks"
+    ],
+    "firstPublishYear": 2007,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "The vital question",
+    "author": "Nick Lane",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19663289W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2001；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "演化",
+      "Origin",
+      "Life"
+    ],
+    "summary": "《The vital question》由Nick Lane撰寫，書目主題涵蓋演化、Origin、Life；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "演化",
+      "Origin",
+      "Life"
+    ],
+    "firstPublishYear": 2001,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Earth",
+    "author": "Stephen Marshak",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL4585251W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2004；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "地球科學",
+      "Textbooks",
+      "Geology"
+    ],
+    "summary": "《Earth》由Stephen Marshak撰寫，書目主題涵蓋地球科學、Textbooks、Geology；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "地球科學",
+      "Textbooks",
+      "Geology"
+    ],
+    "firstPublishYear": 2004,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Beyond the Brain",
+    "author": "Louise Barrett",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16182744W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2011；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "演化",
+      "Brain",
+      "Evolution"
+    ],
+    "summary": "《Beyond the Brain》由Louise Barrett撰寫，書目主題涵蓋演化、Brain、Evolution；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "演化",
+      "Brain",
+      "Evolution"
+    ],
+    "firstPublishYear": 2011,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "The Great Derangement",
+    "author": "Amitav Ghosh",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL17633542W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "地球科學",
+      "Klimaänderung",
+      "POLITICAL SCIENCE"
+    ],
+    "summary": "《The Great Derangement》由Amitav Ghosh撰寫，書目主題涵蓋地球科學、Klimaänderung、POLITICAL SCIENCE；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "地球科學",
+      "Klimaänderung",
+      "POLITICAL SCIENCE"
+    ],
+    "firstPublishYear": 2016,
+    "workId": "findbook-20260715-205830-b10"
+  }
+]

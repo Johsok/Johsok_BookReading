@@ -1,0 +1,658 @@
+[
+  {
+    "title": "Nuts!",
+    "author": "Jackie Freiberg、Kevin Freiberg",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL8826523M",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2001；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "商業策略",
+      "Business strategy",
+      "Careers - General"
+    ],
+    "summary": "《Nuts!》由Jackie Freiberg、Kevin Freiberg撰寫，書目主題涵蓋商業策略、Business strategy、Careers - General；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "商業策略",
+      "Business strategy",
+      "Careers - General"
+    ],
+    "firstPublishYear": 2001,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Conserving Client Portfolios During Retirement",
+    "author": "CFP William P. Bengen",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL9197621W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2006；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "財務規畫",
+      "Portfolio management",
+      "Investment analysis"
+    ],
+    "summary": "《Conserving Client Portfolios During Retirement》由CFP William P. Bengen撰寫，書目主題涵蓋財務規畫、Portfolio management、Investment analysis；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "財務規畫",
+      "Portfolio management",
+      "Investment analysis"
+    ],
+    "firstPublishYear": 2006,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Innovate!",
+    "author": "Thomas A. Meyer",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL15443432W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2010；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "財務規畫",
+      "New business enterprises",
+      "Financial crises"
+    ],
+    "summary": "《Innovate!》由Thomas A. Meyer撰寫，書目主題涵蓋財務規畫、New business enterprises、Financial crises；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "財務規畫",
+      "New business enterprises",
+      "Financial crises"
+    ],
+    "firstPublishYear": 2010,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Revolutionize your customer experience",
+    "author": "Colin Shaw",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16953639W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2004；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "商業策略",
+      "Business strategy",
+      "Business and Management"
+    ],
+    "summary": "《Revolutionize your customer experience》由Colin Shaw撰寫，書目主題涵蓋商業策略、Business strategy、Business and Management；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "商業策略",
+      "Business strategy",
+      "Business and Management"
+    ],
+    "firstPublishYear": 2004,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Yes, you can get a financial life!",
+    "author": "Stein, Benjamin、Ben Stein、Phil DeMuth",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1849689W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2006；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "財務規畫",
+      "Personal Finance",
+      "Financial security"
+    ],
+    "summary": "《Yes, you can get a financial life!》由Stein, Benjamin、Ben Stein、Phil DeMuth撰寫，書目主題涵蓋財務規畫、Personal Finance、Financial security；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "財務規畫",
+      "Personal Finance",
+      "Financial security"
+    ],
+    "firstPublishYear": 2006,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "The entrepreneurial journey",
+    "author": "Thomas J. O'Malia、Margaret M. Whistler",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL5901635W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2002；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "商業策略",
+      "Entrepreneurship",
+      "Business strategy"
+    ],
+    "summary": "《The entrepreneurial journey》由Thomas J. O'Malia、Margaret M. Whistler撰寫，書目主題涵蓋商業策略、Entrepreneurship、Business strategy；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "商業策略",
+      "Entrepreneurship",
+      "Business strategy"
+    ],
+    "firstPublishYear": 2002,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Estate Planning for Financial Planners",
+    "author": "Michael A. Dalton",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL9730157W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2004；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "財務規畫",
+      "Estate planning",
+      "Personal Finance"
+    ],
+    "summary": "《Estate Planning for Financial Planners》由Michael A. Dalton撰寫，書目主題涵蓋財務規畫、Estate planning、Personal Finance；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "財務規畫",
+      "Estate planning",
+      "Personal Finance"
+    ],
+    "firstPublishYear": 2004,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Exploring Corporate Strategy",
+    "author": "Gerry Johnson、Kevan Scholes、Richard Whittington",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21440677W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2003；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "商業策略",
+      "Business planning",
+      "Strategic planning"
+    ],
+    "summary": "《Exploring Corporate Strategy》由Gerry Johnson、Kevan Scholes、Richard Whittington撰寫，書目主題涵蓋商業策略、Business planning、Strategic planning；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "商業策略",
+      "Business planning",
+      "Strategic planning"
+    ],
+    "firstPublishYear": 2003,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Managing health care business strategy",
+    "author": "George B. Moseley",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1934733W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "財務規畫",
+      "Business management",
+      "Economics"
+    ],
+    "summary": "《Managing health care business strategy》由George B. Moseley撰寫，書目主題涵蓋財務規畫、Business management、Economics；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "財務規畫",
+      "Business management",
+      "Economics"
+    ],
+    "firstPublishYear": 2009,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Strategy for sustainability",
+    "author": "Adam Werbach",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2726313W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "商業策略",
+      "Sustainable development",
+      "Strategic planning"
+    ],
+    "summary": "《Strategy for sustainability》由Adam Werbach撰寫，書目主題涵蓋商業策略、Sustainable development、Strategic planning；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "商業策略",
+      "Sustainable development",
+      "Strategic planning"
+    ],
+    "firstPublishYear": 2009,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Personal Financial Planning Manual",
+    "author": "John White",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL4817726W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2004；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "財務規畫",
+      "Financial planning"
+    ],
+    "summary": "《Personal Financial Planning Manual》由John White撰寫，書目主題涵蓋財務規畫、Financial planning；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "財務規畫",
+      "Financial planning"
+    ],
+    "firstPublishYear": 2004,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Sustainable strategic management",
+    "author": "W. Edward Stead、Jean Garner Stead、Mark Starik",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2982899W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2003；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "商業策略",
+      "Management",
+      "Strategic planning"
+    ],
+    "summary": "《Sustainable strategic management》由W. Edward Stead、Jean Garner Stead、Mark Starik撰寫，書目主題涵蓋商業策略、Management、Strategic planning；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "商業策略",
+      "Management",
+      "Strategic planning"
+    ],
+    "firstPublishYear": 2003,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Economics and finance of risk and of the future",
+    "author": "Robert Kast",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16921304W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2006；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "財務規畫",
+      "Risk management",
+      "Financie le planning"
+    ],
+    "summary": "《Economics and finance of risk and of the future》由Robert Kast撰寫，書目主題涵蓋財務規畫、Risk management、Financie le planning；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "財務規畫",
+      "Risk management",
+      "Financie le planning"
+    ],
+    "firstPublishYear": 2006,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "The Best-laid Business Plans",
+    "author": "Paul Barrow",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL5855344W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2001；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "財務規畫",
+      "Business planning",
+      "Financial Management"
+    ],
+    "summary": "《The Best-laid Business Plans》由Paul Barrow撰寫，書目主題涵蓋財務規畫、Business planning、Financial Management；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "財務規畫",
+      "Business planning",
+      "Financial Management"
+    ],
+    "firstPublishYear": 2001,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Handbooks in Financial Globalization",
+    "author": "Gerard Caprio",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21053165W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "財務規畫",
+      "Financial crises",
+      "Globalization"
+    ],
+    "summary": "《Handbooks in Financial Globalization》由Gerard Caprio撰寫，書目主題涵蓋財務規畫、Financial crises、Globalization；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "財務規畫",
+      "Financial crises",
+      "Globalization"
+    ],
+    "firstPublishYear": 2012,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Financial markets and corporate strategy",
+    "author": "David Hillier",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19850051W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "財務規畫",
+      "Financial institutions",
+      "Business planning"
+    ],
+    "summary": "《Financial markets and corporate strategy》由David Hillier撰寫，書目主題涵蓋財務規畫、Financial institutions、Business planning；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "財務規畫",
+      "Financial institutions",
+      "Business planning"
+    ],
+    "firstPublishYear": 2008,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "The rules of victory",
+    "author": "James Gimian、Barry Boyce",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL9911896W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "商業策略",
+      "Conflict management",
+      "Leadership"
+    ],
+    "summary": "《The rules of victory》由James Gimian、Barry Boyce撰寫，書目主題涵蓋商業策略、Conflict management、Leadership；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "商業策略",
+      "Conflict management",
+      "Leadership"
+    ],
+    "firstPublishYear": 2008,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Exploring Strategy",
+    "author": "Gerry Johnson",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL17424336W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2010；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "商業策略",
+      "Business planning",
+      "Strategic planning"
+    ],
+    "summary": "《Exploring Strategy》由Gerry Johnson撰寫，書目主題涵蓋商業策略、Business planning、Strategic planning；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "商業策略",
+      "Business planning",
+      "Strategic planning"
+    ],
+    "firstPublishYear": 2010,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "What I Wish I Knew When I Was 20",
+    "author": "Tina Seelig",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL17505710W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "創業",
+      "Creative ability",
+      "Technological innovations"
+    ],
+    "summary": "《What I Wish I Knew When I Was 20》由Tina Seelig撰寫，書目主題涵蓋創業、Creative ability、Technological innovations；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "創業",
+      "Creative ability",
+      "Technological innovations"
+    ],
+    "firstPublishYear": 2009,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "The Book on Rental Property Investing: How to Create Wealth and Passive Income Through Intelligent Buy & Hold Real Estate Investing!",
+    "author": "Brandon Turner",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19908889W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2015；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "投資",
+      "Real estate investment",
+      "Investments"
+    ],
+    "summary": "《The Book on Rental Property Investing: How to Create Wealth and Passive Income Through Intelligent Buy & Hold Real Estate Investing!》由Brandon Turner撰寫，書目主題涵蓋投資、Real estate investment、Investments；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "投資",
+      "Real estate investment",
+      "Investments"
+    ],
+    "firstPublishYear": 2015,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "The E-Myth Revisited Rev Ed",
+    "author": "Michael E. Gerber",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1821255W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2005；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "創業",
+      "Managerial economics",
+      "Entrepreneurship"
+    ],
+    "summary": "《The E-Myth Revisited Rev Ed》由Michael E. Gerber撰寫，書目主題涵蓋創業、Managerial economics、Entrepreneurship；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "創業",
+      "Managerial economics",
+      "Entrepreneurship"
+    ],
+    "firstPublishYear": 2005,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Blockchain",
+    "author": "HBR、Marco Iansiti、Don Tapscott、Catherine Tucker",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21209348W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2019；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "財務規畫",
+      "Finance",
+      "Blockchains (Databases)"
+    ],
+    "summary": "《Blockchain》由HBR、Marco Iansiti、Don Tapscott、Catherine Tucker撰寫，書目主題涵蓋財務規畫、Finance、Blockchains (Databases)；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "財務規畫",
+      "Finance",
+      "Blockchains (Databases)"
+    ],
+    "firstPublishYear": 2019,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "How to Lead Smart People",
+    "author": "Mike Mister、Arun Singh",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21627796W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2019；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "領導",
+      "Leadership"
+    ],
+    "summary": "《How to Lead Smart People》由Mike Mister、Arun Singh撰寫，書目主題涵蓋領導、Leadership；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "領導",
+      "Leadership"
+    ],
+    "firstPublishYear": 2019,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Millionaire teacher",
+    "author": "Andrew Hallam",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16987863W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2011；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "個人理財",
+      "Personal Finance",
+      "Investments"
+    ],
+    "summary": "《Millionaire teacher》由Andrew Hallam撰寫，書目主題涵蓋個人理財、Personal Finance、Investments；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "個人理財",
+      "Personal Finance",
+      "Investments"
+    ],
+    "firstPublishYear": 2011,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Marketing Management (12th Edition) (Marketing Management)",
+    "author": "Philip Kotler",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL15105627W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2005；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "行銷",
+      "Marketing, management",
+      "Marketing"
+    ],
+    "summary": "《Marketing Management (12th Edition) (Marketing Management)》由Philip Kotler撰寫，書目主題涵蓋行銷、Marketing, management、Marketing；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "行銷",
+      "Marketing, management",
+      "Marketing"
+    ],
+    "firstPublishYear": 2005,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Romancing the balance sheet",
+    "author": "Anil Lamba",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL20056302W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "商業",
+      "Financial statements",
+      "Business enterprises"
+    ],
+    "summary": "《Romancing the balance sheet》由Anil Lamba撰寫，書目主題涵蓋商業、Financial statements、Business enterprises；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "商業",
+      "Financial statements",
+      "Business enterprises"
+    ],
+    "firstPublishYear": 2016,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Investing for Dummies",
+    "author": "Eric Tyson",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21684147W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "投資",
+      "Finance",
+      "Investments"
+    ],
+    "summary": "《Investing for Dummies》由Eric Tyson撰寫，書目主題涵蓋投資、Finance、Investments；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "投資",
+      "Finance",
+      "Investments"
+    ],
+    "firstPublishYear": 2008,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Financial literacy",
+    "author": "Olivia S. Mitchell、Annamaria Lusardi",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16635394W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2011；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "財務規畫",
+      "Personal Finance",
+      "Financial literacy"
+    ],
+    "summary": "《Financial literacy》由Olivia S. Mitchell、Annamaria Lusardi撰寫，書目主題涵蓋財務規畫、Personal Finance、Financial literacy；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "財務規畫",
+      "Personal Finance",
+      "Financial literacy"
+    ],
+    "firstPublishYear": 2011,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "The changing landscape of retirement",
+    "author": "Mark Singer",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL27719588W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2011；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "財務規畫",
+      "Retirement",
+      "Planning"
+    ],
+    "summary": "《The changing landscape of retirement》由Mark Singer撰寫，書目主題涵蓋財務規畫、Retirement、Planning；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "財務規畫",
+      "Retirement",
+      "Planning"
+    ],
+    "firstPublishYear": 2011,
+    "workId": "findbook-20260715-205830-b10"
+  },
+  {
+    "title": "Collaborating with the enemy",
+    "author": "Adam Kahane",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19711027W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2017；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "管理",
+      "Social aspects",
+      "Management"
+    ],
+    "summary": "《Collaborating with the enemy》由Adam Kahane撰寫，書目主題涵蓋管理、Social aspects、Management；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "管理",
+      "Social aspects",
+      "Management"
+    ],
+    "firstPublishYear": 2017,
+    "workId": "findbook-20260715-205830-b10"
+  }
+]
