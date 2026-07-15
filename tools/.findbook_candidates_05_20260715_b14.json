@@ -1,0 +1,112 @@
+[
+  {
+    "title": "On Cooking",
+    "author": "Sarah R. Labensky、Alan M. Hause、Priscilla A. Martel",
+    "categoryId": "05_food_wellness",
+    "sourceName": "Open Library 飲食養生主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1874827W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1994；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "飲食養生",
+      "料理",
+      "Recipes",
+      "Culinary"
+    ],
+    "summary": "《On Cooking》由Sarah R. Labensky、Alan M. Hause、Priscilla A. Martel撰寫，書目主題涵蓋料理、Recipes、Culinary；本次依飲食養生閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "料理",
+      "Recipes",
+      "Culinary"
+    ],
+    "firstPublishYear": 1994,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Sensory evaluation techniques",
+    "author": "Morten Meilgaard、Gail Vance Civille、B. Thomas Carr",
+    "categoryId": "05_food_wellness",
+    "sourceName": "Open Library 飲食養生主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL4459896W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1987；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "飲食養生",
+      "飲食科學",
+      "Sensory evaluation",
+      "Food & beverage technology"
+    ],
+    "summary": "《Sensory evaluation techniques》由Morten Meilgaard、Gail Vance Civille、B. Thomas Carr撰寫，書目主題涵蓋飲食科學、Sensory evaluation、Food & beverage technology；本次依飲食養生閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "飲食科學",
+      "Sensory evaluation",
+      "Food & beverage technology"
+    ],
+    "firstPublishYear": 1987,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "White Heat",
+    "author": "Marco Pierre White",
+    "categoryId": "05_food_wellness",
+    "sourceName": "Open Library 飲食養生主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL7916417W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1990；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "飲食養生",
+      "料理",
+      "Cooks",
+      "English Cooking"
+    ],
+    "summary": "《White Heat》由Marco Pierre White撰寫，書目主題涵蓋料理、Cooks、English Cooking；本次依飲食養生閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "料理",
+      "Cooks",
+      "English Cooking"
+    ],
+    "firstPublishYear": 1990,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Advanced nutrition",
+    "author": "Carolyn D. Berdanier、Janos Zempleni",
+    "categoryId": "05_food_wellness",
+    "sourceName": "Open Library 飲食養生主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2736370W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1995；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "飲食養生",
+      "營養",
+      "Diet in disease",
+      "Dietary Carbohydrates"
+    ],
+    "summary": "《Advanced nutrition》由Carolyn D. Berdanier、Janos Zempleni撰寫，書目主題涵蓋營養、Diet in disease、Dietary Carbohydrates；本次依飲食養生閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "營養",
+      "Diet in disease",
+      "Dietary Carbohydrates"
+    ],
+    "firstPublishYear": 1995,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Sensory evaluation of food",
+    "author": "Harry T. Lawless、Hildegarde Heymann",
+    "categoryId": "05_food_wellness",
+    "sourceName": "Open Library 飲食養生主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2627047W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1997；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "飲食養生",
+      "飲食科學",
+      "Food",
+      "Sensory evaluation"
+    ],
+    "summary": "《Sensory evaluation of food》由Harry T. Lawless、Hildegarde Heymann撰寫，書目主題涵蓋飲食科學、Food、Sensory evaluation；本次依飲食養生閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "飲食科學",
+      "Food",
+      "Sensory evaluation"
+    ],
+    "firstPublishYear": 1997,
+    "workId": "findbook-20260715-231837-b14"
+  }
+]

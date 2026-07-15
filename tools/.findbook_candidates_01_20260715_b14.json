@@ -1,0 +1,662 @@
+[
+  {
+    "title": "Rich Dad, Poor Dad",
+    "author": "Robert T. Kiyosaki、Sharon L. Lechter",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2010879W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1990；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "個人理財",
+      "Rich people",
+      "Personal Finance"
+    ],
+    "summary": "《Rich Dad, Poor Dad》由Robert T. Kiyosaki、Sharon L. Lechter撰寫，書目主題涵蓋個人理財、Rich people、Personal Finance；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "個人理財",
+      "Rich people",
+      "Personal Finance"
+    ],
+    "firstPublishYear": 1990,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Human resource management",
+    "author": "R. Wayne Mondy、Robert M. Noe、Shane R. Premeaux、Ronald Knowles",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1850195W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1990；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "管理",
+      "Personnel management",
+      "Personnel"
+    ],
+    "summary": "《Human resource management》由R. Wayne Mondy、Robert M. Noe、Shane R. Premeaux、Ronald Knowles撰寫，書目主題涵蓋管理、Personnel management、Personnel；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "管理",
+      "Personnel management",
+      "Personnel"
+    ],
+    "firstPublishYear": 1990,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "The millionaire next door",
+    "author": "Thomas J. Stanley、William D. Danko",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1986060W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1996；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "個人理財",
+      "Rich people",
+      "Millionaires"
+    ],
+    "summary": "《The millionaire next door》由Thomas J. Stanley、William D. Danko撰寫，書目主題涵蓋個人理財、Rich people、Millionaires；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "個人理財",
+      "Rich people",
+      "Millionaires"
+    ],
+    "firstPublishYear": 1996,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Operations management",
+    "author": "Jay H. Heizer、Barry Render",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1887971W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1999；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "管理",
+      "Production management",
+      "Operations research"
+    ],
+    "summary": "《Operations management》由Jay H. Heizer、Barry Render撰寫，書目主題涵蓋管理、Production management、Operations research；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "管理",
+      "Production management",
+      "Operations research"
+    ],
+    "firstPublishYear": 1999,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "The 21 Irrefutable Laws of Leadership",
+    "author": "John C. Maxwell",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL28124W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1998；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "領導",
+      "Leadership",
+      "Industrial management"
+    ],
+    "summary": "《The 21 Irrefutable Laws of Leadership》由John C. Maxwell撰寫，書目主題涵蓋領導、Leadership、Industrial management；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "領導",
+      "Leadership",
+      "Industrial management"
+    ],
+    "firstPublishYear": 1998,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Built to Last",
+    "author": "Collins, James C.、Jim Collins、Jerry I. Porras、James C. Collins",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL3486276W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1994；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "商業策略",
+      "Success in business",
+      "Industrial management"
+    ],
+    "summary": "《Built to Last》由Collins, James C.、Jim Collins、Jerry I. Porras、James C. Collins撰寫，書目主題涵蓋商業策略、Success in business、Industrial management；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "商業策略",
+      "Success in business",
+      "Industrial management"
+    ],
+    "firstPublishYear": 1994,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "The Simple Path to Wealth",
+    "author": "J. L. Collins",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19747351W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2000；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "個人理財",
+      "Personal Finance",
+      "Financial security"
+    ],
+    "summary": "《The Simple Path to Wealth》由J. L. Collins撰寫，書目主題涵蓋個人理財、Personal Finance、Financial security；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "個人理財",
+      "Personal Finance",
+      "Financial security"
+    ],
+    "firstPublishYear": 2000,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "One Up On Wall Street",
+    "author": "Peter Lynch、John Rothchild",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2841891W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1989；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "投資",
+      "Speculation",
+      "Stocks"
+    ],
+    "summary": "《One Up On Wall Street》由Peter Lynch、John Rothchild撰寫，書目主題涵蓋投資、Speculation、Stocks；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "投資",
+      "Speculation",
+      "Stocks"
+    ],
+    "firstPublishYear": 1989,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Thinking Like An Entrepreneur",
+    "author": "Peter I. Hupalo",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL5965581W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1999；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "創業",
+      "Success in business",
+      "Business planning"
+    ],
+    "summary": "《Thinking Like An Entrepreneur》由Peter I. Hupalo撰寫，書目主題涵蓋創業、Success in business、Business planning；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "創業",
+      "Success in business",
+      "Business planning"
+    ],
+    "firstPublishYear": 1999,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Developing the Leader Within You",
+    "author": "John C. Maxwell",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL28134W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1993；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "領導",
+      "Leadership",
+      "Executive leadership"
+    ],
+    "summary": "《Developing the Leader Within You》由John C. Maxwell撰寫，書目主題涵蓋領導、Leadership、Executive leadership；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "領導",
+      "Leadership",
+      "Executive leadership"
+    ],
+    "firstPublishYear": 1993,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Technical Analysis of the Financial Markets",
+    "author": "John J. Murphy",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1957750W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1999；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "投資",
+      "Futures market",
+      "Commodity exchanges"
+    ],
+    "summary": "《Technical Analysis of the Financial Markets》由John J. Murphy撰寫，書目主題涵蓋投資、Futures market、Commodity exchanges；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "投資",
+      "Futures market",
+      "Commodity exchanges"
+    ],
+    "firstPublishYear": 1999,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Leadership Wisdom from the Monk Who Sold His Ferrari",
+    "author": "Robin S. Sharma",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1854816W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1998；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "領導",
+      "Exito en los negocios",
+      "Leadership"
+    ],
+    "summary": "《Leadership Wisdom from the Monk Who Sold His Ferrari》由Robin S. Sharma撰寫，書目主題涵蓋領導、Exito en los negocios、Leadership；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "領導",
+      "Exito en los negocios",
+      "Leadership"
+    ],
+    "firstPublishYear": 1998,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Managerial Economics & Business Strategy",
+    "author": "Michael R. Baye",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL3266746W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1994；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "商業策略",
+      "Managerial economics",
+      "Strategic planning"
+    ],
+    "summary": "《Managerial Economics & Business Strategy》由Michael R. Baye撰寫，書目主題涵蓋商業策略、Managerial economics、Strategic planning；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "商業策略",
+      "Managerial economics",
+      "Strategic planning"
+    ],
+    "firstPublishYear": 1994,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "The Innovator's Dilemma",
+    "author": "Clayton M. Christensen、L J Ganser、Don Leslie",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1999873W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1997；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "商業",
+      "Industrial management",
+      "Disruptive technologies"
+    ],
+    "summary": "《The Innovator's Dilemma》由Clayton M. Christensen、L J Ganser、Don Leslie撰寫，書目主題涵蓋商業、Industrial management、Disruptive technologies；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "商業",
+      "Industrial management",
+      "Disruptive technologies"
+    ],
+    "firstPublishYear": 1997,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Margin of safety",
+    "author": "Seth A. Klarman",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL4108209W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1991；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "投資",
+      "Investments",
+      "Junk bonds"
+    ],
+    "summary": "《Margin of safety》由Seth A. Klarman撰寫，書目主題涵蓋投資、Investments、Junk bonds；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "投資",
+      "Investments",
+      "Junk bonds"
+    ],
+    "firstPublishYear": 1991,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Fundamentals of Management",
+    "author": "Stephen P. Robbins",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL510770W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1995；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "管理",
+      "Management",
+      "Electronic commerce"
+    ],
+    "summary": "《Fundamentals of Management》由Stephen P. Robbins撰寫，書目主題涵蓋管理、Management、Electronic commerce；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "管理",
+      "Management",
+      "Electronic commerce"
+    ],
+    "firstPublishYear": 1995,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Lincoln on Leadership",
+    "author": "Donald T. Phillips",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1807678W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1992；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "領導",
+      "Political leadership",
+      "Leadership"
+    ],
+    "summary": "《Lincoln on Leadership》由Donald T. Phillips撰寫，書目主題涵蓋領導、Political leadership、Leadership；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "領導",
+      "Political leadership",
+      "Leadership"
+    ],
+    "firstPublishYear": 1992,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Stan Weinstein's Secrets for profiting in bull and bear markets",
+    "author": "Stan Weinstein",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL5092573W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1988；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "投資",
+      "Investment analysis",
+      "Securities"
+    ],
+    "summary": "《Stan Weinstein's Secrets for profiting in bull and bear markets》由Stan Weinstein撰寫，書目主題涵蓋投資、Investment analysis、Securities；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "投資",
+      "Investment analysis",
+      "Securities"
+    ],
+    "firstPublishYear": 1988,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "The alchemy of finance",
+    "author": "George Soros",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1993774W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1987；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "投資",
+      "Investments",
+      "Finance, personal"
+    ],
+    "summary": "《The alchemy of finance》由George Soros撰寫，書目主題涵蓋投資、Investments、Finance, personal；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "投資",
+      "Investments",
+      "Finance, personal"
+    ],
+    "firstPublishYear": 1987,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Learn to Earn",
+    "author": "Peter Lynch、John Rothchild",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2841896W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1995；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "投資",
+      "Corporations",
+      "Investments"
+    ],
+    "summary": "《Learn to Earn》由Peter Lynch、John Rothchild撰寫，書目主題涵蓋投資、Corporations、Investments；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "投資",
+      "Corporations",
+      "Investments"
+    ],
+    "firstPublishYear": 1995,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Getting started in technical analysis",
+    "author": "Jack D. Schwager",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1900668W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1999；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "投資",
+      "Investment analysis",
+      "Stocks"
+    ],
+    "summary": "《Getting started in technical analysis》由Jack D. Schwager撰寫，書目主題涵蓋投資、Investment analysis、Stocks；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "投資",
+      "Investment analysis",
+      "Stocks"
+    ],
+    "firstPublishYear": 1999,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "The Wealthy Barber",
+    "author": "David Barr Chilton",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2734641W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1990；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "個人理財",
+      "Personal Finance",
+      "Finances personnelles"
+    ],
+    "summary": "《The Wealthy Barber》由David Barr Chilton撰寫，書目主題涵蓋個人理財、Personal Finance、Finances personnelles；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "個人理財",
+      "Personal Finance",
+      "Finances personnelles"
+    ],
+    "firstPublishYear": 1990,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Tough Minded Leadership",
+    "author": "Joe D. Batten",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2649476W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1989；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "領導",
+      "Leadership",
+      "Management"
+    ],
+    "summary": "《Tough Minded Leadership》由Joe D. Batten撰寫，書目主題涵蓋領導、Leadership、Management；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "領導",
+      "Leadership",
+      "Management"
+    ],
+    "firstPublishYear": 1989,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Becoming a technical leader",
+    "author": "Gerald M. Weinberg",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1958803W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1986；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "領導",
+      "Leadership",
+      "Verhalten"
+    ],
+    "summary": "《Becoming a technical leader》由Gerald M. Weinberg撰寫，書目主題涵蓋領導、Leadership、Verhalten；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "領導",
+      "Leadership",
+      "Verhalten"
+    ],
+    "firstPublishYear": 1986,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "The complete Tightwad gazette",
+    "author": "Amy Dacyczyn",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1961785W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1998；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "個人理財",
+      "Consumer education",
+      "Finance, Personal"
+    ],
+    "summary": "《The complete Tightwad gazette》由Amy Dacyczyn撰寫，書目主題涵蓋個人理財、Consumer education、Finance, Personal；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "個人理財",
+      "Consumer education",
+      "Finance, Personal"
+    ],
+    "firstPublishYear": 1998,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Retailing management",
+    "author": "Michael Levy",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2689914W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1992；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "管理",
+      "Management",
+      "Retail trade"
+    ],
+    "summary": "《Retailing management》由Michael Levy撰寫，書目主題涵蓋管理、Management、Retail trade；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "管理",
+      "Management",
+      "Retail trade"
+    ],
+    "firstPublishYear": 1992,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Small business management",
+    "author": "Justin Gooderl Longenecker、Carlos W. Moore、J. William Petty、Bill Petty",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL3242067W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1987；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "創業",
+      "Management",
+      "Small business"
+    ],
+    "summary": "《Small business management》由Justin Gooderl Longenecker、Carlos W. Moore、J. William Petty、Bill Petty撰寫，書目主題涵蓋創業、Management、Small business；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "創業",
+      "Management",
+      "Small business"
+    ],
+    "firstPublishYear": 1987,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "You can be a stock market genius",
+    "author": "Joel Greenblatt",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL3354667W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1997；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "投資",
+      "Stocks",
+      "Investments"
+    ],
+    "summary": "《You can be a stock market genius》由Joel Greenblatt撰寫，書目主題涵蓋投資、Stocks、Investments；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "投資",
+      "Stocks",
+      "Investments"
+    ],
+    "firstPublishYear": 1997,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Principle-Centered Leadership",
+    "author": "Stephen R. Covey",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2630041W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1989；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "領導",
+      "Leadership",
+      "Success"
+    ],
+    "summary": "《Principle-Centered Leadership》由Stephen R. Covey撰寫，書目主題涵蓋領導、Leadership、Success；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "領導",
+      "Leadership",
+      "Success"
+    ],
+    "firstPublishYear": 1989,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Kotler on Marketing",
+    "author": "Philip Kotler",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1807508W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1999；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "行銷",
+      "Marketing",
+      "Management"
+    ],
+    "summary": "《Kotler on Marketing》由Philip Kotler撰寫，書目主題涵蓋行銷、Marketing、Management；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "行銷",
+      "Marketing",
+      "Management"
+    ],
+    "firstPublishYear": 1999,
+    "workId": "findbook-20260715-231837-b14"
+  }
+]

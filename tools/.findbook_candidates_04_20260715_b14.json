@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Fit & well",
+    "author": "Thomas D. Fahey、Paul M. Insel、Walton T. Roth",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL62164W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1994；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "健康",
+      "Health",
+      "Physical fitness"
+    ],
+    "summary": "《Fit & well》由Thomas D. Fahey、Paul M. Insel、Walton T. Roth撰寫，書目主題涵蓋健康、Health、Physical fitness；本次依醫療保健閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "健康",
+      "Health",
+      "Physical fitness"
+    ],
+    "firstPublishYear": 1994,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Girl, interrupted",
+    "author": "Susanna Kaysen",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL3954921W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1993；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "健康",
+      "Mental health",
+      "Biography"
+    ],
+    "summary": "《Girl, interrupted》由Susanna Kaysen撰寫，書目主題涵蓋健康、Mental health、Biography；本次依醫療保健閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "健康",
+      "Mental health",
+      "Biography"
+    ],
+    "firstPublishYear": 1993,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Exercise physiology",
+    "author": "Scott K. Powers、Edward T. Howley、Powers、Powers & Howley",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2000340W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1990；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "醫學",
+      "Exercise",
+      "Physiological aspects"
+    ],
+    "summary": "《Exercise physiology》由Scott K. Powers、Edward T. Howley、Powers、Powers & Howley撰寫，書目主題涵蓋醫學、Exercise、Physiological aspects；本次依醫療保健閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "醫學",
+      "Exercise",
+      "Physiological aspects"
+    ],
+    "firstPublishYear": 1990,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Water supply & sanitation",
+    "author": "M. Feroze Ahmed",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL6242802W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2000；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "公共衛生",
+      "Drinking water",
+      "Management"
+    ],
+    "summary": "《Water supply & sanitation》由M. Feroze Ahmed撰寫，書目主題涵蓋公共衛生、Drinking water、Management；本次依醫療保健閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "公共衛生",
+      "Drinking water",
+      "Management"
+    ],
+    "firstPublishYear": 2000,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Health psychology",
+    "author": "David F. Marks、Michael Murray、Brian Evans、Carla Willig",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL18302136W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1999；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "公共衛生",
+      "Health promotion",
+      "Health behavior"
+    ],
+    "summary": "《Health psychology》由David F. Marks、Michael Murray、Brian Evans、Carla Willig撰寫，書目主題涵蓋公共衛生、Health promotion、Health behavior；本次依醫療保健閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "公共衛生",
+      "Health promotion",
+      "Health behavior"
+    ],
+    "firstPublishYear": 1999,
+    "workId": "findbook-20260715-231837-b14"
+  }
+]

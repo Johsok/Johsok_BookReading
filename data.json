@@ -28488,13 +28488,2690 @@
       "sourceUrl": "https://openlibrary.org/works/OL20428369W",
       "file": "Books/07_other/07_other-20260715-24.json",
       "workId": "findbook-20260715-211259-b12"
+    },
+    {
+      "id": "01_business_startup-20260715-361",
+      "title": "Trading and Exchanges",
+      "author": "Larry Harris",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "行銷",
+        "Commerce",
+        "Markets"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL7034157W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-361.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-362",
+      "title": "Financial decisions for retirement",
+      "author": "David A. Littell",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "財務規畫",
+        "Planning",
+        "Personal Finance"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL15938323W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-362.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-363",
+      "title": "The power of unreasonable people",
+      "author": "Elkington, John.、Pamela Hartigan",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "創業",
+        "Social change",
+        "Social entrepreneurship"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL18665835W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-363.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-364",
+      "title": "You Can Do It!",
+      "author": "Jonathan D. Pond",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "財務規畫",
+        "Baby boom generation",
+        "Financial security"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL3348134W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-364.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-365",
+      "title": "Lean Startups for Social Change",
+      "author": "Michel Gelobter",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "創業",
+        "New business enterprises",
+        "Business planning"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL17330815W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-365.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-366",
+      "title": "The art of leadership",
+      "author": "George Manning",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "領導",
+        "Leadership",
+        "Management"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL5282920W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-366.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-367",
+      "title": "The art of the strategist",
+      "author": "Cohen, William A.、William A. Cohen",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "商業策略",
+        "Success in business",
+        "Leadership"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2017840W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-367.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-368",
+      "title": "Retirement planning in 8 steps",
+      "author": "Joel Kranc",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "財務規畫",
+        "Planning",
+        "Personal Finance"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL20021294W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-368.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-369",
+      "title": "Bonds",
+      "author": "Hildy Richelson、Stan Richelson",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "商業策略",
+        "Bonds",
+        "Business strategy"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL3257961W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-369.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-370",
+      "title": "Studying Leadership",
+      "author": "Doris Schedlitzki、Gareth Edwards",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "領導",
+        "Leadership"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL21056761W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-370.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-371",
+      "title": "Understanding digital marketing",
+      "author": "Damian Ryan",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "行銷",
+        "Social media",
+        "Internet marketing"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL20054835W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-371.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-372",
+      "title": "Entrepreneurial finance",
+      "author": "J. Chris Leach",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "創業",
+        "Business enterprises",
+        "Entrepreneurship"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL5894643W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-372.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-373",
+      "title": "Project Management",
+      "author": "Erik W. Larson",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "管理",
+        "Risk management",
+        "Project management"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL15997478W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-373.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-374",
+      "title": "The Everything Business Planning Book",
+      "author": "Marlene Jensen",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "商業策略",
+        "Business strategy",
+        "Planning"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL5267263W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-374.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-375",
+      "title": "The Bass handbook of leadership",
+      "author": "Bernard M. Bass",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "領導",
+        "Leadership",
+        "Handbooks, manuals, etc"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2421687W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-375.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-376",
+      "title": "Biotechnology Entrepreneurship",
+      "author": "Craig Shimasaki",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "創業",
+        "Entrepreneurship"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL20735874W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-376.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-377",
+      "title": "One Million Followers",
+      "author": "Brendan Kane",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "行銷",
+        "Internet marketing",
+        "Social media"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL21156397W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-377.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-378",
+      "title": "Moral Reasoning at Work",
+      "author": "Øyvind Kvalnes",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "商業策略",
+        "Business strategy",
+        "Business ethics"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL20665025W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-378.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-379",
+      "title": "Leadership Theory",
+      "author": "John P. Dugan",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "領導",
+        "Leadership"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL20225670W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-379.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-380",
+      "title": "Chart Patterns",
+      "author": "Thomas N. Bulkowski",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "投資",
+        "Stocks",
+        "Commodity futures"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL21127060W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-380.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-381",
+      "title": "Essentials of Entrepreneurship and Small Business Management",
+      "author": "Norman M. Scarborough、Thomas W Zimmerer、Doug Wilson",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "創業",
+        "Management",
+        "New business enterprises"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1917124W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-381.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-382",
+      "title": "Trading in the Zone",
+      "author": "Ari Kiev",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "投資",
+        "Investment analysis",
+        "Investments"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL21465047W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-382.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-383",
+      "title": "Strategic Risk Management",
+      "author": "Torben Juul Andersen、Johanna Sax",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "財務規畫",
+        "Financial risk management",
+        "Strategic planning"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL25755357W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-383.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-384",
+      "title": "The 15 commitments of conscious leadership",
+      "author": "Jim Dethmer",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "領導",
+        "Leadership"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL22958448W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-384.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-385",
+      "title": "Epic content marketing",
+      "author": "Joe Pulizzi",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "行銷",
+        "Social aspects",
+        "Marketing"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL20038454W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-385.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-386",
+      "title": "How to make money in stocks",
+      "author": "William J. O'Neil",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "投資",
+        "Stocks",
+        "Investments"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL15423773W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-386.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-387",
+      "title": "Questions of character",
+      "author": "Joseph Badaracco",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "領導",
+        "Leadership",
+        "Moral and ethical aspects"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2668719W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-387.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-388",
+      "title": "Get Good with Money",
+      "author": "Tiffany the Budgetnista Aliche",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "個人理財",
+        "New York Times bestseller",
+        "Finance, personal"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL24411890W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-388.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-389",
+      "title": "Get Rich, Lucky Bitch!",
+      "author": "Denise Duffield-Thomas",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "個人理財",
+        "Finance, personal"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL22541038W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-389.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-390",
+      "title": "Game Theory in Action",
+      "author": "Stephen Schecter、Herbert M. Gintis",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "商業策略",
+        "Game theory",
+        "MATHEMATICS"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL21118850W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-390.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-361",
+      "title": "The resilient woman",
+      "author": "Patricia A. O'Gorman",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "韌性",
+        "Self-esteem in women",
+        "Psychology"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL17887338W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-361.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-362",
+      "title": "Art of Inspired Living",
+      "author": "Sarah Corrie",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "正向心理學",
+        "Art, psychology",
+        "Positive psychology"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL25116652W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-362.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-363",
+      "title": "The EQ edge",
+      "author": "Steven J., PhD Stein、Howard Book",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "情緒智能",
+        "Emotional intelligence",
+        "Psychological aspects"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL19926043W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-363.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-364",
+      "title": "Communicate with emotional intelligence",
+      "author": "John Eaton、Roy Johnson",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "情緒智能",
+        "Emotional intelligence",
+        "Communication in management"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL20865064W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-364.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-365",
+      "title": "What's right with me",
+      "author": "Carlene DeRoo",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "正向心理學",
+        "Positive psychology",
+        "Self-esteem"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL16278038W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-365.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-366",
+      "title": "Dabrowski's Theory Of Positive Disintegration",
+      "author": "Sal, Ph.D. Mendaglio",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "個人成長",
+        "Personality development",
+        "Gifted children"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL9617812W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-366.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-367",
+      "title": "Creating the World We Want to Live In",
+      "author": "Bridget Grenville-Cleave",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "正向心理學",
+        "Psychology",
+        "Positive psychology"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL25766625W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-367.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-368",
+      "title": "What Are You Hungry For?",
+      "author": "Deepak Chopra",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "幸福感",
+        "Weight loss",
+        "Mind and body"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL21059911W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-368.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-369",
+      "title": "The best within us",
+      "author": "Alan S. Waterman",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "幸福感",
+        "Positive psychology",
+        "Well-being"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL16769643W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-369.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-370",
+      "title": "The upside of your dark side",
+      "author": "Todd B. Kashdan",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "正向心理學",
+        "Self-acceptance",
+        "Positive psychology"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL19994825W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-370.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-371",
+      "title": "Measures of Positive Psychology",
+      "author": "Kamlesh Singh、Mohita Junnarkar、Jasleen Kaur",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "正向心理學",
+        "Positive psychology"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL20824121W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-371.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-372",
+      "title": "Understanding emotional intelligence",
+      "author": "Neilson Kite",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "情緒智能",
+        "Emotional intelligence",
+        "Management"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL16461514W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-372.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-373",
+      "title": "Family Ties That Bind",
+      "author": "Ronald W. Richardson",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "自尊",
+        "Self-esteem",
+        "Family psychotherapy"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL21032346W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-373.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-374",
+      "title": "HBR's 10 must reads on mental toughness",
+      "author": "Sarah Green Carmichael",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "韌性",
+        "Achievement motivation",
+        "Performance"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL19736741W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-374.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-375",
+      "title": "The Mindful Brain",
+      "author": "Daniel J. Siegel",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "正念",
+        "Psychophysiology",
+        "Awareness"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2001516W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-375.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-376",
+      "title": "They F*** You Up",
+      "author": "Oliver James",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "個人成長",
+        "Family",
+        "Nature and nurture"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1657183W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-376.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-377",
+      "title": "Flourishing : positive psychology and the life well-lived",
+      "author": "Jonathan Haidt",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "正向心理學",
+        "Congresses",
+        "Psychology"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL13547626W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-377.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-378",
+      "title": "Heroism and Wellbeing in the 21st Century",
+      "author": "Olivia Efthimiou、Scott T. Allison、Zeno E. Franco",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "幸福感",
+        "Courage",
+        "Heroes"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL21356885W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-378.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-379",
+      "title": "End of Trauma",
+      "author": "George A. Bonanno",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "韌性",
+        "Internal medicine",
+        "Psychic trauma"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL25773398W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-379.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-380",
+      "title": "Positive Psychology in Sport and Physical Activity",
+      "author": "Abbe Brady、Bridget Grenville-Cleave",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "正向心理學",
+        "Positive psychology",
+        "Sports"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL21313752W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-380.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-381",
+      "title": "The power of self-esteem",
+      "author": "Nathaniel Branden",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "自尊",
+        "Self-esteem"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL17831547W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-381.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-382",
+      "title": "Resilience Begins with Beliefs",
+      "author": "Sara Truebridge",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "韌性",
+        "Educational planning",
+        "Academic achievement"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL20371531W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-382.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-383",
+      "title": "Subjective Well-Being and Life Satisfaction",
+      "author": "James E. Maddux",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "幸福感",
+        "Happiness",
+        "Emotions"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL21305900W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-383.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-384",
+      "title": "Practicing positive CBT",
+      "author": "Fredrike Bannink",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "正向心理學",
+        "Positive psychology",
+        "Cognitive therapy"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL16681356W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-384.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-385",
+      "title": "Psychology of Wellbeing",
+      "author": "Gary W. Wood",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "幸福感",
+        "Well-being",
+        "Psychological aspects"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL21703015W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-385.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-386",
+      "title": "The pursuit of unhappiness",
+      "author": "Daniel M. Haybron",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "幸福感",
+        "Happiness",
+        "Well-being"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL9097489W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-386.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-387",
+      "title": "A world of fragile things",
+      "author": "Mari Ruti",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "幸福感",
+        "Psychoanalysis",
+        "Well-being"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL5824404W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-387.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-388",
+      "title": "Teacher Wellbeing",
+      "author": "Elizabeth Holmes",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "幸福感",
+        "Teachers, psychology",
+        "Happiness"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL21160920W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-388.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-389",
+      "title": "A fit and well way of life",
+      "author": "Gwen Robbins",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "幸福感",
+        "Health",
+        "Well-being"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1818704W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-389.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "02_psychology_growth-20260715-390",
+      "title": "Becoming Who We Are",
+      "author": "Mary K. Rothbart",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "個人成長",
+        "Child development",
+        "Personality development"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL20403936W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-390.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "03_natural_science-20260715-121",
+      "title": "Understanding Earth",
+      "author": "John Grotzinger、Thomas H. Jordan",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "地球科學",
+        "Earth sciences",
+        "Geology"
+      ],
+      "sourceName": "Open Library 自然科學主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL22444681W",
+      "file": "Books/03_natural_science/03_natural_science-20260715-121.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "03_natural_science-20260715-122",
+      "title": "What Is Life?",
+      "author": "Paul Nurse",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "生物",
+        "Biology, philosophy",
+        "Life (biology)"
+      ],
+      "sourceName": "Open Library 自然科學主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL22004853W",
+      "file": "Books/03_natural_science/03_natural_science-20260715-122.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "03_natural_science-20260715-123",
+      "title": "Ecology",
+      "author": "Manuel C. Molles",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "生態學",
+        "Ecology"
+      ],
+      "sourceName": "Open Library 自然科學主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL15138434W",
+      "file": "Books/03_natural_science/03_natural_science-20260715-123.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "03_natural_science-20260715-124",
+      "title": "Conversations on consciousness",
+      "author": "Susan J. Blackmore",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "神經科學",
+        "Interviews",
+        "Philosophers"
+      ],
+      "sourceName": "Open Library 自然科學主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1995558W",
+      "file": "Books/03_natural_science/03_natural_science-20260715-124.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "03_natural_science-20260715-125",
+      "title": "Advanced engineering mathematics",
+      "author": "Jain, R. K.",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "數學",
+        "Engineering mathematics",
+        "Problems, exercises"
+      ],
+      "sourceName": "Open Library 自然科學主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL392574W",
+      "file": "Books/03_natural_science/03_natural_science-20260715-125.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "03_natural_science-20260715-126",
+      "title": "Astronomy today",
+      "author": "Eric Chaisson、Steve McMillan",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "天文",
+        "Textbooks",
+        "Astronomy"
+      ],
+      "sourceName": "Open Library 自然科學主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL15410156W",
+      "file": "Books/03_natural_science/03_natural_science-20260715-126.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "03_natural_science-20260715-127",
+      "title": "A Devil's Chaplain",
+      "author": "Richard Dawkins",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "演化",
+        "Religion and science",
+        "Science"
+      ],
+      "sourceName": "Open Library 自然科學主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1966510W",
+      "file": "Books/03_natural_science/03_natural_science-20260715-127.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "03_natural_science-20260715-128",
+      "title": "On the Shoulders of Giants",
+      "author": "Stephen Hawking",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "天文",
+        "Physics",
+        "Astronomy"
+      ],
+      "sourceName": "Open Library 自然科學主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL7986304W",
+      "file": "Books/03_natural_science/03_natural_science-20260715-128.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "03_natural_science-20260715-129",
+      "title": "Mathematical Statistics with Applications",
+      "author": "Richard L. Scheaffer、Wackerly, Mendenhall, & Scheaffer.",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "數學",
+        "Mathematical statistics"
+      ],
+      "sourceName": "Open Library 自然科學主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL14925216W",
+      "file": "Books/03_natural_science/03_natural_science-20260715-129.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "03_natural_science-20260715-130",
+      "title": "The Tell-Tale Brain",
+      "author": "V. S. Ramachandran (neurology)",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "神經科學",
+        "neuroscience",
+        "humanity"
+      ],
+      "sourceName": "Open Library 自然科學主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL15665906W",
+      "file": "Books/03_natural_science/03_natural_science-20260715-130.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "04_healthcare-20260715-25",
+      "title": "ACSM's Guidelines for Exercise Testing and Prescription",
+      "author": "Gary Liguori、American College of Sports Medicine (ACSM)",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療保健",
+        "醫學",
+        "Internal medicine"
+      ],
+      "sourceName": "Open Library 醫療保健主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL26333328W",
+      "file": "Books/04_healthcare/04_healthcare-20260715-25.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "04_healthcare-20260715-26",
+      "title": "Covid-19",
+      "author": "J. Michael Ryan",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療保健",
+        "公共衛生",
+        "Public health",
+        "COVID-19 (Disease)"
+      ],
+      "sourceName": "Open Library 醫療保健主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL25763794W",
+      "file": "Books/04_healthcare/04_healthcare-20260715-26.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "05_food_wellness-20260715-25",
+      "title": "Flour Water Salt Yeast",
+      "author": "Ken Forkish",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食養生",
+        "料理",
+        "Bread",
+        "COOKING / Methods / Baking"
+      ],
+      "sourceName": "Open Library 飲食養生主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL16626586W",
+      "file": "Books/05_food_wellness/05_food_wellness-20260715-25.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "05_food_wellness-20260715-26",
+      "title": "Yoga and Eating Disorders",
+      "author": "Carolyn Costin、Joe Kelly",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食養生",
+        "健康飲食",
+        "Eating disorders",
+        "Hatha yoga"
+      ],
+      "sourceName": "Open Library 飲食養生主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL21285053W",
+      "file": "Books/05_food_wellness/05_food_wellness-20260715-26.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "06_computer_info-20260715-25",
+      "title": "Software Testing",
+      "author": "Brian Hambling",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦資訊",
+        "軟體工程",
+        "Computer software",
+        "Computer software, testing"
+      ],
+      "sourceName": "Open Library 電腦資訊主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL16944106W",
+      "file": "Books/06_computer_info/06_computer_info-20260715-25.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "06_computer_info-20260715-26",
+      "title": "The Design of Design",
+      "author": "Frederick P. Brooks",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦資訊",
+        "軟體工程",
+        "Engineering design",
+        "Design"
+      ],
+      "sourceName": "Open Library 電腦資訊主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL15452584W",
+      "file": "Books/06_computer_info/06_computer_info-20260715-26.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "07_other-20260715-25",
+      "title": "The radium girls",
+      "author": "Kate Moore",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "世界史",
+        "World War, 1914-1918",
+        "Diseases"
+      ],
+      "sourceName": "Open Library 其他主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL19663676W",
+      "file": "Books/07_other/07_other-20260715-25.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "07_other-20260715-26",
+      "title": "The Sex Lives of African Women",
+      "author": "Nana Darkoa Sekyiamah",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "世界史",
+        "Sociology",
+        "World history"
+      ],
+      "sourceName": "Open Library 其他主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL25086192W",
+      "file": "Books/07_other/07_other-20260715-26.json",
+      "workId": "findbook-20260715-230753-b13"
+    },
+    {
+      "id": "01_business_startup-20260715-391",
+      "title": "Rich Dad, Poor Dad",
+      "author": "Robert T. Kiyosaki、Sharon L. Lechter",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "個人理財",
+        "Rich people",
+        "Personal Finance"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2010879W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-391.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-392",
+      "title": "Human resource management",
+      "author": "R. Wayne Mondy、Robert M. Noe、Shane R. Premeaux、Ronald Knowles",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "管理",
+        "Personnel management",
+        "Personnel"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1850195W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-392.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-393",
+      "title": "The millionaire next door",
+      "author": "Thomas J. Stanley、William D. Danko",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "個人理財",
+        "Rich people",
+        "Millionaires"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1986060W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-393.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-394",
+      "title": "Operations management",
+      "author": "Jay H. Heizer、Barry Render",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "管理",
+        "Production management",
+        "Operations research"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1887971W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-394.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-395",
+      "title": "The 21 Irrefutable Laws of Leadership",
+      "author": "John C. Maxwell",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "領導",
+        "Leadership",
+        "Industrial management"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL28124W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-395.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-396",
+      "title": "Built to Last",
+      "author": "Collins, James C.、Jim Collins、Jerry I. Porras、James C. Collins",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "商業策略",
+        "Success in business",
+        "Industrial management"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL3486276W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-396.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-397",
+      "title": "The Simple Path to Wealth",
+      "author": "J. L. Collins",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "個人理財",
+        "Personal Finance",
+        "Financial security"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL19747351W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-397.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-398",
+      "title": "One Up On Wall Street",
+      "author": "Peter Lynch、John Rothchild",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "投資",
+        "Speculation",
+        "Stocks"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2841891W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-398.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-399",
+      "title": "Thinking Like An Entrepreneur",
+      "author": "Peter I. Hupalo",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "創業",
+        "Success in business",
+        "Business planning"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL5965581W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-399.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-400",
+      "title": "Developing the Leader Within You",
+      "author": "John C. Maxwell",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "領導",
+        "Leadership",
+        "Executive leadership"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL28134W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-400.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-401",
+      "title": "Technical Analysis of the Financial Markets",
+      "author": "John J. Murphy",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "投資",
+        "Futures market",
+        "Commodity exchanges"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1957750W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-401.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-402",
+      "title": "Leadership Wisdom from the Monk Who Sold His Ferrari",
+      "author": "Robin S. Sharma",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "領導",
+        "Exito en los negocios",
+        "Leadership"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1854816W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-402.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-403",
+      "title": "Managerial Economics & Business Strategy",
+      "author": "Michael R. Baye",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "商業策略",
+        "Managerial economics",
+        "Strategic planning"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL3266746W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-403.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-404",
+      "title": "The Innovator's Dilemma",
+      "author": "Clayton M. Christensen、L J Ganser、Don Leslie",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "商業",
+        "Industrial management",
+        "Disruptive technologies"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1999873W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-404.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-405",
+      "title": "Margin of safety",
+      "author": "Seth A. Klarman",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "投資",
+        "Investments",
+        "Junk bonds"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL4108209W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-405.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-406",
+      "title": "Fundamentals of Management",
+      "author": "Stephen P. Robbins",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "管理",
+        "Management",
+        "Electronic commerce"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL510770W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-406.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-407",
+      "title": "Lincoln on Leadership",
+      "author": "Donald T. Phillips",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "領導",
+        "Political leadership",
+        "Leadership"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1807678W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-407.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-408",
+      "title": "Stan Weinstein's Secrets for profiting in bull and bear markets",
+      "author": "Stan Weinstein",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "投資",
+        "Investment analysis",
+        "Securities"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL5092573W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-408.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-409",
+      "title": "The alchemy of finance",
+      "author": "George Soros",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "投資",
+        "Investments",
+        "Finance, personal"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1993774W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-409.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-410",
+      "title": "Learn to Earn",
+      "author": "Peter Lynch、John Rothchild",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "投資",
+        "Corporations",
+        "Investments"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2841896W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-410.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-411",
+      "title": "Getting started in technical analysis",
+      "author": "Jack D. Schwager",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "投資",
+        "Investment analysis",
+        "Stocks"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1900668W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-411.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-412",
+      "title": "The Wealthy Barber",
+      "author": "David Barr Chilton",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "個人理財",
+        "Personal Finance",
+        "Finances personnelles"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2734641W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-412.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-413",
+      "title": "Tough Minded Leadership",
+      "author": "Joe D. Batten",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "領導",
+        "Leadership",
+        "Management"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2649476W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-413.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-414",
+      "title": "Becoming a technical leader",
+      "author": "Gerald M. Weinberg",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "領導",
+        "Leadership",
+        "Verhalten"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1958803W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-414.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-415",
+      "title": "The complete Tightwad gazette",
+      "author": "Amy Dacyczyn",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "個人理財",
+        "Consumer education",
+        "Finance, Personal"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1961785W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-415.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-416",
+      "title": "Retailing management",
+      "author": "Michael Levy",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "管理",
+        "Management",
+        "Retail trade"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2689914W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-416.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-417",
+      "title": "Small business management",
+      "author": "Justin Gooderl Longenecker、Carlos W. Moore、J. William Petty、Bill Petty",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "創業",
+        "Management",
+        "Small business"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL3242067W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-417.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-418",
+      "title": "You can be a stock market genius",
+      "author": "Joel Greenblatt",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "投資",
+        "Stocks",
+        "Investments"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL3354667W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-418.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-419",
+      "title": "Principle-Centered Leadership",
+      "author": "Stephen R. Covey",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "領導",
+        "Leadership",
+        "Success"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2630041W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-419.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "01_business_startup-20260715-420",
+      "title": "Kotler on Marketing",
+      "author": "Philip Kotler",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "行銷",
+        "Marketing",
+        "Management"
+      ],
+      "sourceName": "Open Library 商業理財主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1807508W",
+      "file": "Books/01_business_startup/01_business_startup-20260715-420.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-391",
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey、Sean Covey",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "心理學",
+        "Character",
+        "Success"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2629977W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-391.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-392",
+      "title": "Educational psychology",
+      "author": "Anita Woolfolk Hoy、Philip H. Winne、Nancy E. Perry、Beth Popiel",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "心理學",
+        "Educational psychology",
+        "Textbooks"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2651233W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-392.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-393",
+      "title": "The world of psychology",
+      "author": "Samuel E. Wood、Ellen Green Wood、Denise Boyd、Wood",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "個人成長",
+        "Psychology",
+        "Textbooks"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL103858W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-393.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-394",
+      "title": "The Person",
+      "author": "Dan P. McAdams",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "個人成長",
+        "Personality",
+        "Textbooks"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL3352787W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-394.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-395",
+      "title": "Self-esteem",
+      "author": "Matthew McKay、Patrick Fanning",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "自尊",
+        "Self-esteem",
+        "Autoestima"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2764952W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-395.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-396",
+      "title": "You Can Win",
+      "author": "Shiv Khera",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "自尊",
+        "Motivation (Psychology)",
+        "Success"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL8938318W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-396.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-397",
+      "title": "When Things Fall Apart",
+      "author": "Pema Chödrön",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "正念",
+        "Buddhism",
+        "Religious life"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL263676W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-397.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-398",
+      "title": "The way of the superior man",
+      "author": "David Deida",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "人際關係",
+        "Man-woman relationships",
+        "Conduct of life"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2680142W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-398.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-399",
+      "title": "Who Will Cry When You Die?",
+      "author": "Robin S. Sharma",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "個人成長",
+        "Conduct of life",
+        "Self-realization"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1854815W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-399.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-400",
+      "title": "The Mind Map Book",
+      "author": "Tony Buzan、Barry Buzan",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "正念",
+        "Creative ability",
+        "Thought and thinking"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1952692W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-400.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-401",
+      "title": "Motivation",
+      "author": "Lambert Deckers",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "動機",
+        "Motivation (Psychology)",
+        "Textbooks"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL8023880W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-401.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-402",
+      "title": "The six pillars of self-esteem",
+      "author": "Nathaniel Branden",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "個人成長",
+        "Self-esteem",
+        "psychology"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1835073W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-402.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-403",
+      "title": "You/2",
+      "author": "Price Pritchett",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "行為改變",
+        "Corporate culture",
+        "Organizational change"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL15156996W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-403.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-404",
+      "title": "Molecules of emotion",
+      "author": "Candace B. Pert",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "正念",
+        "Emotions",
+        "Medicine, Psychosomatic"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2668265W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-404.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-405",
+      "title": "Unlimited power",
+      "author": "Tony Robbins",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "心理學",
+        "African Americans",
+        "Control (Psychology)"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2715466W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-405.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-406",
+      "title": "Motivation in education",
+      "author": "Dale H. Schunk、Paul R. Pintrich、Judith R. Meece",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "動機",
+        "Motivation (Psychology)",
+        "Motivation in education"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL467436W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-406.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-407",
+      "title": "Punished by Rewards",
+      "author": "Alfie Kohn",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "動機",
+        "Behaviorism (Psychology)",
+        "Motivation (Psychology)"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1908441W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-407.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-408",
+      "title": "The Four Agreements",
+      "author": "Don Miguel Ruiz",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "動機",
+        "Conduct of life",
+        "Conduct of life."
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL27203W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-408.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-409",
+      "title": "Understanding human behavior and the social environment",
+      "author": "Charles Zastrow、Karen Kay Kirst-Ashman",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "行為改變",
+        "Behavioral assessment",
+        "Social psychology"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL15833766W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-409.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-410",
+      "title": "Ai hen chih chien",
+      "author": "Susan Forward、Joan Torres",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "自尊",
+        "Psychology",
+        "Misogyny"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1929396W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-410.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-411",
+      "title": "El Manual De Ejercicios De Sentirse Bien",
+      "author": "David D. Burns",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "心理治療",
+        "Cognitive therapy",
+        "Psychotropic drugs"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL4310023W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-411.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-412",
+      "title": "Waking the tiger",
+      "author": "Peter A. Levine",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "正念",
+        "Treatment",
+        "Prevention"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2629038W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-412.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-413",
+      "title": "Behavior Modification",
+      "author": "Raymond G. Miltenberger",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "行為改變",
+        "Behavior modification",
+        "Textbooks"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL3266492W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-413.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-414",
+      "title": "The handbook of emotional intelligence",
+      "author": "Reuven Bar-On、James D. A. Parker",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "情緒智能",
+        "Emotional intelligence tests",
+        "Emotional intelligence"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL18003434W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-414.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-415",
+      "title": "Understanding motivation and emotion",
+      "author": "Johnmarshall Reeve",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "動機",
+        "Motivation (Psychology)",
+        "Emotions"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2926555W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-415.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-416",
+      "title": "Maximum self-esteem",
+      "author": "Jerry Minchinton",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "自尊",
+        "Self-esteem"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL3544351W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-416.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-417",
+      "title": "Head First!",
+      "author": "Tony Buzan",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "情緒智能",
+        "Multiple intelligences",
+        "Self-help techniques"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1952755W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-417.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-418",
+      "title": "The highly sensitive person",
+      "author": "Elaine N. Aron",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "自我成長",
+        "Stress (Psychology)",
+        "Stress management"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL856010W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-418.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-419",
+      "title": "Boundaries",
+      "author": "Henry Cloud、John Sims Townsend、Henry O. Arnold",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "自我成長",
+        "Interpersonal relations",
+        "Christian life"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL15134775W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-419.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "02_psychology_growth-20260715-420",
+      "title": "Changing for good",
+      "author": "James O. Prochaska、John Norcross、Carlo DiClemente",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "行為改變",
+        "Behavior modification",
+        "Change (Psychology)"
+      ],
+      "sourceName": "Open Library 心理勵志主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1919375W",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260715-420.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "03_natural_science-20260715-131",
+      "title": "Guns, Germs, and Steel",
+      "author": "Jared Diamond",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "演化",
+        "prize:pulitzer=1998",
+        "Ethnology"
+      ],
+      "sourceName": "Open Library 自然科學主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL276558W",
+      "file": "Books/03_natural_science/03_natural_science-20260715-131.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "03_natural_science-20260715-132",
+      "title": "Chemistry, A Molecular Approach",
+      "author": "Nivaldo J. Tro",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "化學",
+        "Textbooks",
+        "Chemistry"
+      ],
+      "sourceName": "Open Library 自然科學主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2739810W",
+      "file": "Books/03_natural_science/03_natural_science-20260715-132.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "03_natural_science-20260715-133",
+      "title": "Physics for scientists and engineers",
+      "author": "Paul A. Tipler、Gene Mosca",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "物理",
+        "Physics",
+        "Textbooks"
+      ],
+      "sourceName": "Open Library 自然科學主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1984422W",
+      "file": "Books/03_natural_science/03_natural_science-20260715-133.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "03_natural_science-20260715-134",
+      "title": "The Demon-Haunted World",
+      "author": "Carl Sagan",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "科普",
+        "Open Library Staff Picks",
+        "Pseudowetenschap"
+      ],
+      "sourceName": "Open Library 自然科學主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2950942W",
+      "file": "Books/03_natural_science/03_natural_science-20260715-134.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "03_natural_science-20260715-135",
+      "title": "How Things Work",
+      "author": "Louis A. Bloomfield",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "物理",
+        "Textbooks",
+        "Physics"
+      ],
+      "sourceName": "Open Library 自然科學主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL8206804W",
+      "file": "Books/03_natural_science/03_natural_science-20260715-135.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "03_natural_science-20260715-136",
+      "title": "The Blind Watchmaker",
+      "author": "Richard Dawkins",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "演化",
+        "Natural selection",
+        "Evolution (Biology)"
+      ],
+      "sourceName": "Open Library 自然科學主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1966501W",
+      "file": "Books/03_natural_science/03_natural_science-20260715-136.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "03_natural_science-20260715-137",
+      "title": "Calculus",
+      "author": "James Stewart",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "數學",
+        "Calculus",
+        "Problems, exercises"
+      ],
+      "sourceName": "Open Library 自然科學主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL100903W",
+      "file": "Books/03_natural_science/03_natural_science-20260715-137.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "03_natural_science-20260715-138",
+      "title": "Pale Blue Dot",
+      "author": "Carl Sagan",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "天文",
+        "Exploration",
+        "Popular works"
+      ],
+      "sourceName": "Open Library 自然科學主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2950948W",
+      "file": "Books/03_natural_science/03_natural_science-20260715-138.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "03_natural_science-20260715-139",
+      "title": "Billions and billions",
+      "author": "Carl Sagan",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "科普",
+        "Science",
+        "Popular works"
+      ],
+      "sourceName": "Open Library 自然科學主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2950946W",
+      "file": "Books/03_natural_science/03_natural_science-20260715-139.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "03_natural_science-20260715-140",
+      "title": "Physics",
+      "author": "John D. Cutnell",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "物理",
+        "Textbooks",
+        "Physics textbooks"
+      ],
+      "sourceName": "Open Library 自然科學主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2166736W",
+      "file": "Books/03_natural_science/03_natural_science-20260715-140.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "04_healthcare-20260715-27",
+      "title": "Fit & well",
+      "author": "Thomas D. Fahey、Paul M. Insel、Walton T. Roth",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療保健",
+        "健康",
+        "Health",
+        "Physical fitness"
+      ],
+      "sourceName": "Open Library 醫療保健主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL62164W",
+      "file": "Books/04_healthcare/04_healthcare-20260715-27.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "04_healthcare-20260715-28",
+      "title": "Girl, interrupted",
+      "author": "Susanna Kaysen",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療保健",
+        "健康",
+        "Mental health",
+        "Biography"
+      ],
+      "sourceName": "Open Library 醫療保健主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL3954921W",
+      "file": "Books/04_healthcare/04_healthcare-20260715-28.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "04_healthcare-20260715-29",
+      "title": "Exercise physiology",
+      "author": "Scott K. Powers、Edward T. Howley、Powers、Powers & Howley",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療保健",
+        "醫學",
+        "Exercise",
+        "Physiological aspects"
+      ],
+      "sourceName": "Open Library 醫療保健主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2000340W",
+      "file": "Books/04_healthcare/04_healthcare-20260715-29.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "04_healthcare-20260715-30",
+      "title": "Water supply & sanitation",
+      "author": "M. Feroze Ahmed",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療保健",
+        "公共衛生",
+        "Drinking water",
+        "Management"
+      ],
+      "sourceName": "Open Library 醫療保健主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL6242802W",
+      "file": "Books/04_healthcare/04_healthcare-20260715-30.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "04_healthcare-20260715-31",
+      "title": "Health psychology",
+      "author": "David F. Marks、Michael Murray、Brian Evans、Carla Willig",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療保健",
+        "公共衛生",
+        "Health promotion",
+        "Health behavior"
+      ],
+      "sourceName": "Open Library 醫療保健主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL18302136W",
+      "file": "Books/04_healthcare/04_healthcare-20260715-31.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "05_food_wellness-20260715-27",
+      "title": "On Cooking",
+      "author": "Sarah R. Labensky、Alan M. Hause、Priscilla A. Martel",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食養生",
+        "料理",
+        "Recipes",
+        "Culinary"
+      ],
+      "sourceName": "Open Library 飲食養生主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1874827W",
+      "file": "Books/05_food_wellness/05_food_wellness-20260715-27.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "05_food_wellness-20260715-28",
+      "title": "Sensory evaluation techniques",
+      "author": "Morten Meilgaard、Gail Vance Civille、B. Thomas Carr",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食養生",
+        "飲食科學",
+        "Sensory evaluation",
+        "Food & beverage technology"
+      ],
+      "sourceName": "Open Library 飲食養生主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL4459896W",
+      "file": "Books/05_food_wellness/05_food_wellness-20260715-28.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "05_food_wellness-20260715-29",
+      "title": "White Heat",
+      "author": "Marco Pierre White",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食養生",
+        "料理",
+        "Cooks",
+        "English Cooking"
+      ],
+      "sourceName": "Open Library 飲食養生主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL7916417W",
+      "file": "Books/05_food_wellness/05_food_wellness-20260715-29.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "05_food_wellness-20260715-30",
+      "title": "Advanced nutrition",
+      "author": "Carolyn D. Berdanier、Janos Zempleni",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食養生",
+        "營養",
+        "Diet in disease",
+        "Dietary Carbohydrates"
+      ],
+      "sourceName": "Open Library 飲食養生主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2736370W",
+      "file": "Books/05_food_wellness/05_food_wellness-20260715-30.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "05_food_wellness-20260715-31",
+      "title": "Sensory evaluation of food",
+      "author": "Harry T. Lawless、Hildegarde Heymann",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食養生",
+        "飲食科學",
+        "Food",
+        "Sensory evaluation"
+      ],
+      "sourceName": "Open Library 飲食養生主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2627047W",
+      "file": "Books/05_food_wellness/05_food_wellness-20260715-31.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "06_computer_info-20260715-27",
+      "title": "Introducing Computers",
+      "author": "Robert H. Blissmer",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦資訊",
+        "程式設計",
+        "Enable (computer program)",
+        "Computers"
+      ],
+      "sourceName": "Open Library 電腦資訊主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL3155000W",
+      "file": "Books/06_computer_info/06_computer_info-20260715-27.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "06_computer_info-20260715-28",
+      "title": "Learning Python",
+      "author": "Mark Lutz、David Ascher",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦資訊",
+        "電腦科學",
+        "Langage à objets",
+        "Python (programmeertaal)"
+      ],
+      "sourceName": "Open Library 電腦資訊主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2784125W",
+      "file": "Books/06_computer_info/06_computer_info-20260715-28.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "06_computer_info-20260715-29",
+      "title": "Introduction to Algorithms",
+      "author": "Thomas H. Cormen、Charles E. Leiserson、Ronald L. Rivest、Clifford Stein",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦資訊",
+        "程式設計",
+        "Algorithms",
+        "Computer algorithms"
+      ],
+      "sourceName": "Open Library 電腦資訊主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL4781294W",
+      "file": "Books/06_computer_info/06_computer_info-20260715-29.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "06_computer_info-20260715-30",
+      "title": "The C++ programming language",
+      "author": "Bjarne Stroustrup",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦資訊",
+        "程式設計",
+        "C (Programmiersprache)",
+        "C++"
+      ],
+      "sourceName": "Open Library 電腦資訊主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL53184W",
+      "file": "Books/06_computer_info/06_computer_info-20260715-30.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "06_computer_info-20260715-31",
+      "title": "Code",
+      "author": "Charles Petzold",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦資訊",
+        "電腦科學",
+        "Computer programming",
+        "Coding theory"
+      ],
+      "sourceName": "Open Library 電腦資訊主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1972516W",
+      "file": "Books/06_computer_info/06_computer_info-20260715-31.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "07_other-20260715-27",
+      "title": "The Enduring Vision",
+      "author": "Paul S. Boyer",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "歷史",
+        "Textbooks",
+        "History"
+      ],
+      "sourceName": "Open Library 其他主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL2024851W",
+      "file": "Books/07_other/07_other-20260715-27.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "07_other-20260715-28",
+      "title": "The great conversation",
+      "author": "Norman Melchert",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "歷史",
+        "Textbooks",
+        "Philosophy"
+      ],
+      "sourceName": "Open Library 其他主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL1810842W",
+      "file": "Books/07_other/07_other-20260715-28.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "07_other-20260715-29",
+      "title": "Traditions & encounters",
+      "author": "Jerry H. Bentley、Herbert Ziegler、Heather Streets",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "世界史",
+        "History",
+        "Intercultural communication"
+      ],
+      "sourceName": "Open Library 其他主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL4289172W",
+      "file": "Books/07_other/07_other-20260715-29.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "07_other-20260715-30",
+      "title": "The Unfinished Nation",
+      "author": "Alan Brinkley",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "歷史",
+        "History",
+        "Textbooks"
+      ],
+      "sourceName": "Open Library 其他主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL176193W",
+      "file": "Books/07_other/07_other-20260715-30.json",
+      "workId": "findbook-20260715-231837-b14"
+    },
+    {
+      "id": "07_other-20260715-31",
+      "title": "Band of Brothers",
+      "author": "Stephen E. Ambrose",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "世界史",
+        "United States",
+        "Invasies"
+      ],
+      "sourceName": "Open Library 其他主題書目",
+      "sourceUrl": "https://openlibrary.org/works/OL478550W",
+      "file": "Books/07_other/07_other-20260715-31.json",
+      "workId": "findbook-20260715-231837-b14"
     }
   ],
-  "totalBooks": 1863,
+  "totalBooks": 2031,
   "searchDateRange": {
-    "from": "2000-06-01",
+    "from": "1985-06-01",
     "to": "2026-07-15"
   },
-  "generatedFrom": "FindBook_Skill.md fresh Codex-only b12 30/30/10/2/2/2/2 complete: workId=findbook-20260715-211259-b12 complete=1863 pending=0",
-  "generatedAt": "2026-07-15T21:19:52+08:00"
+  "generatedFrom": "FindBook_Skill.md fresh Codex-only b14 30/30/10/5/5/5/5 complete: workId=findbook-20260715-231837-b14 complete=2031 pending=0",
+  "generatedAt": "2026-07-15T23:27:27+08:00"
 }

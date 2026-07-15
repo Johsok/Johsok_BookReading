@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Flour Water Salt Yeast",
+    "author": "Ken Forkish",
+    "categoryId": "05_food_wellness",
+    "sourceName": "Open Library 飲食養生主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16626586W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "飲食養生",
+      "料理",
+      "Bread",
+      "COOKING / Methods / Baking"
+    ],
+    "summary": "《Flour Water Salt Yeast》由Ken Forkish撰寫，書目主題涵蓋料理、Bread、COOKING / Methods / Baking；本次依飲食養生閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "料理",
+      "Bread",
+      "COOKING / Methods / Baking"
+    ],
+    "firstPublishYear": 2012,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "Yoga and Eating Disorders",
+    "author": "Carolyn Costin、Joe Kelly",
+    "categoryId": "05_food_wellness",
+    "sourceName": "Open Library 飲食養生主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21285053W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "飲食養生",
+      "健康飲食",
+      "Eating disorders",
+      "Hatha yoga"
+    ],
+    "summary": "《Yoga and Eating Disorders》由Carolyn Costin、Joe Kelly撰寫，書目主題涵蓋健康飲食、Eating disorders、Hatha yoga；本次依飲食養生閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "健康飲食",
+      "Eating disorders",
+      "Hatha yoga"
+    ],
+    "firstPublishYear": 2016,
+    "workId": "findbook-20260715-230753-b13"
+  }
+]

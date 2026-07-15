@@ -216,7 +216,10 @@ def candidate_from_doc(doc: dict, spec: CategorySpec, focus: str, rank: int) -> 
         return None
     if "?" in author:
         return None
-    if not isinstance(year, int) or not 2001 <= year <= 2026:
+    from_year = int(FROM_DATE[:4])
+    minimum_year = from_year if FROM_DATE.endswith("-01-01") else from_year + 1
+    to_year = int(TO_DATE[:4])
+    if not isinstance(year, int) or not minimum_year <= year <= to_year:
         return None
     if (
         len(title) < 4
@@ -434,8 +437,9 @@ def update_manifest() -> None:
     manifest["totalBooks"] = len(manifest.get("books", []))
     manifest["searchDateRange"] = {"from": FROM_DATE, "to": TO_DATE}
     manifest["generatedAt"] = findbook_writer.now_iso()
+    quota_label = "/".join(str(spec.quota) for spec in CATEGORIES)
     manifest["generatedFrom"] = (
-        f"FindBook_Skill.md fresh Codex-only {BATCH_NAME} 30/30/10/2/2/2/2 complete: "
+        f"FindBook_Skill.md fresh Codex-only {BATCH_NAME} {quota_label} complete: "
         f"workId={WORK_ID} complete={complete} pending={pending}"
     )
     findbook_writer.write_json_atomic(ROOT / "data.json", manifest)

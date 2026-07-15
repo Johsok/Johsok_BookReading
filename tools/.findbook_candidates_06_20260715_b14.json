@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Introducing Computers",
+    "author": "Robert H. Blissmer",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL3155000W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1988；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "程式設計",
+      "Enable (computer program)",
+      "Computers"
+    ],
+    "summary": "《Introducing Computers》由Robert H. Blissmer撰寫，書目主題涵蓋程式設計、Enable (computer program)、Computers；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "程式設計",
+      "Enable (computer program)",
+      "Computers"
+    ],
+    "firstPublishYear": 1988,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Learning Python",
+    "author": "Mark Lutz、David Ascher",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2784125W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1999；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "電腦科學",
+      "Langage à objets",
+      "Python (programmeertaal)"
+    ],
+    "summary": "《Learning Python》由Mark Lutz、David Ascher撰寫，書目主題涵蓋電腦科學、Langage à objets、Python (programmeertaal)；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "電腦科學",
+      "Langage à objets",
+      "Python (programmeertaal)"
+    ],
+    "firstPublishYear": 1999,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen、Charles E. Leiserson、Ronald L. Rivest、Clifford Stein",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL4781294W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1990；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "程式設計",
+      "Algorithms",
+      "Computer algorithms"
+    ],
+    "summary": "《Introduction to Algorithms》由Thomas H. Cormen、Charles E. Leiserson、Ronald L. Rivest、Clifford Stein撰寫，書目主題涵蓋程式設計、Algorithms、Computer algorithms；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "程式設計",
+      "Algorithms",
+      "Computer algorithms"
+    ],
+    "firstPublishYear": 1990,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "The C++ programming language",
+    "author": "Bjarne Stroustrup",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL53184W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1986；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "程式設計",
+      "C (Programmiersprache)",
+      "C++"
+    ],
+    "summary": "《The C++ programming language》由Bjarne Stroustrup撰寫，書目主題涵蓋程式設計、C (Programmiersprache)、C++；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "程式設計",
+      "C (Programmiersprache)",
+      "C++"
+    ],
+    "firstPublishYear": 1986,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Code",
+    "author": "Charles Petzold",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1972516W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1999；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "電腦科學",
+      "Computer programming",
+      "Coding theory"
+    ],
+    "summary": "《Code》由Charles Petzold撰寫，書目主題涵蓋電腦科學、Computer programming、Coding theory；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "電腦科學",
+      "Computer programming",
+      "Coding theory"
+    ],
+    "firstPublishYear": 1999,
+    "workId": "findbook-20260715-231837-b14"
+  }
+]

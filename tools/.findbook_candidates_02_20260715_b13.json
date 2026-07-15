@@ -1,0 +1,658 @@
+[
+  {
+    "title": "The resilient woman",
+    "author": "Patricia A. O'Gorman",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL17887338W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2013；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "韌性",
+      "Self-esteem in women",
+      "Psychology"
+    ],
+    "summary": "《The resilient woman》由Patricia A. O'Gorman撰寫，書目主題涵蓋韌性、Self-esteem in women、Psychology；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "韌性",
+      "Self-esteem in women",
+      "Psychology"
+    ],
+    "firstPublishYear": 2013,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "Art of Inspired Living",
+    "author": "Sarah Corrie",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL25116652W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正向心理學",
+      "Art, psychology",
+      "Positive psychology"
+    ],
+    "summary": "《Art of Inspired Living》由Sarah Corrie撰寫，書目主題涵蓋正向心理學、Art, psychology、Positive psychology；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "正向心理學",
+      "Art, psychology",
+      "Positive psychology"
+    ],
+    "firstPublishYear": 2009,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "The EQ edge",
+    "author": "Steven J., PhD Stein、Howard Book",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19926043W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2006；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "情緒智能",
+      "Emotional intelligence",
+      "Psychological aspects"
+    ],
+    "summary": "《The EQ edge》由Steven J., PhD Stein、Howard Book撰寫，書目主題涵蓋情緒智能、Emotional intelligence、Psychological aspects；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "情緒智能",
+      "Emotional intelligence",
+      "Psychological aspects"
+    ],
+    "firstPublishYear": 2006,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "Communicate with emotional intelligence",
+    "author": "John Eaton、Roy Johnson",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL20865064W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2001；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "情緒智能",
+      "Emotional intelligence",
+      "Communication in management"
+    ],
+    "summary": "《Communicate with emotional intelligence》由John Eaton、Roy Johnson撰寫，書目主題涵蓋情緒智能、Emotional intelligence、Communication in management；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "情緒智能",
+      "Emotional intelligence",
+      "Communication in management"
+    ],
+    "firstPublishYear": 2001,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "What's right with me",
+    "author": "Carlene DeRoo",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16278038W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2006；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正向心理學",
+      "Positive psychology",
+      "Self-esteem"
+    ],
+    "summary": "《What's right with me》由Carlene DeRoo撰寫，書目主題涵蓋正向心理學、Positive psychology、Self-esteem；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "正向心理學",
+      "Positive psychology",
+      "Self-esteem"
+    ],
+    "firstPublishYear": 2006,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "Dabrowski's Theory Of Positive Disintegration",
+    "author": "Sal, Ph.D. Mendaglio",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL9617812W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "個人成長",
+      "Personality development",
+      "Gifted children"
+    ],
+    "summary": "《Dabrowski's Theory Of Positive Disintegration》由Sal, Ph.D. Mendaglio撰寫，書目主題涵蓋個人成長、Personality development、Gifted children；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "個人成長",
+      "Personality development",
+      "Gifted children"
+    ],
+    "firstPublishYear": 2008,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "Creating the World We Want to Live In",
+    "author": "Bridget Grenville-Cleave",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL25766625W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2021；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正向心理學",
+      "Psychology",
+      "Positive psychology"
+    ],
+    "summary": "《Creating the World We Want to Live In》由Bridget Grenville-Cleave撰寫，書目主題涵蓋正向心理學、Psychology、Positive psychology；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "正向心理學",
+      "Psychology",
+      "Positive psychology"
+    ],
+    "firstPublishYear": 2021,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "What Are You Hungry For?",
+    "author": "Deepak Chopra",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21059911W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2013；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "幸福感",
+      "Weight loss",
+      "Mind and body"
+    ],
+    "summary": "《What Are You Hungry For?》由Deepak Chopra撰寫，書目主題涵蓋幸福感、Weight loss、Mind and body；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "幸福感",
+      "Weight loss",
+      "Mind and body"
+    ],
+    "firstPublishYear": 2013,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "The best within us",
+    "author": "Alan S. Waterman",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16769643W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2013；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "幸福感",
+      "Positive psychology",
+      "Well-being"
+    ],
+    "summary": "《The best within us》由Alan S. Waterman撰寫，書目主題涵蓋幸福感、Positive psychology、Well-being；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "幸福感",
+      "Positive psychology",
+      "Well-being"
+    ],
+    "firstPublishYear": 2013,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "The upside of your dark side",
+    "author": "Todd B. Kashdan",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19994825W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正向心理學",
+      "Self-acceptance",
+      "Positive psychology"
+    ],
+    "summary": "《The upside of your dark side》由Todd B. Kashdan撰寫，書目主題涵蓋正向心理學、Self-acceptance、Positive psychology；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "正向心理學",
+      "Self-acceptance",
+      "Positive psychology"
+    ],
+    "firstPublishYear": 2014,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "Measures of Positive Psychology",
+    "author": "Kamlesh Singh、Mohita Junnarkar、Jasleen Kaur",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL20824121W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正向心理學",
+      "Positive psychology"
+    ],
+    "summary": "《Measures of Positive Psychology》由Kamlesh Singh、Mohita Junnarkar、Jasleen Kaur撰寫，書目主題涵蓋正向心理學、Positive psychology；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "正向心理學",
+      "Positive psychology"
+    ],
+    "firstPublishYear": 2016,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "Understanding emotional intelligence",
+    "author": "Neilson Kite",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16461514W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "情緒智能",
+      "Emotional intelligence",
+      "Management"
+    ],
+    "summary": "《Understanding emotional intelligence》由Neilson Kite撰寫，書目主題涵蓋情緒智能、Emotional intelligence、Management；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "情緒智能",
+      "Emotional intelligence",
+      "Management"
+    ],
+    "firstPublishYear": 2012,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "Family Ties That Bind",
+    "author": "Ronald W. Richardson",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21032346W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2011；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "自尊",
+      "Self-esteem",
+      "Family psychotherapy"
+    ],
+    "summary": "《Family Ties That Bind》由Ronald W. Richardson撰寫，書目主題涵蓋自尊、Self-esteem、Family psychotherapy；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "自尊",
+      "Self-esteem",
+      "Family psychotherapy"
+    ],
+    "firstPublishYear": 2011,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "HBR's 10 must reads on mental toughness",
+    "author": "Sarah Green Carmichael",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19736741W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2018；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "韌性",
+      "Achievement motivation",
+      "Performance"
+    ],
+    "summary": "《HBR's 10 must reads on mental toughness》由Sarah Green Carmichael撰寫，書目主題涵蓋韌性、Achievement motivation、Performance；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "韌性",
+      "Achievement motivation",
+      "Performance"
+    ],
+    "firstPublishYear": 2018,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "The Mindful Brain",
+    "author": "Daniel J. Siegel",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2001516W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2007；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正念",
+      "Psychophysiology",
+      "Awareness"
+    ],
+    "summary": "《The Mindful Brain》由Daniel J. Siegel撰寫，書目主題涵蓋正念、Psychophysiology、Awareness；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "正念",
+      "Psychophysiology",
+      "Awareness"
+    ],
+    "firstPublishYear": 2007,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "They F*** You Up",
+    "author": "Oliver James",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1657183W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2003；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "個人成長",
+      "Family",
+      "Nature and nurture"
+    ],
+    "summary": "《They F*** You Up》由Oliver James撰寫，書目主題涵蓋個人成長、Family、Nature and nurture；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "個人成長",
+      "Family",
+      "Nature and nurture"
+    ],
+    "firstPublishYear": 2003,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "Flourishing : positive psychology and the life well-lived",
+    "author": "Jonathan Haidt",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL13547626W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2002；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正向心理學",
+      "Congresses",
+      "Psychology"
+    ],
+    "summary": "《Flourishing : positive psychology and the life well-lived》由Jonathan Haidt撰寫，書目主題涵蓋正向心理學、Congresses、Psychology；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "正向心理學",
+      "Congresses",
+      "Psychology"
+    ],
+    "firstPublishYear": 2002,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "Heroism and Wellbeing in the 21st Century",
+    "author": "Olivia Efthimiou、Scott T. Allison、Zeno E. Franco",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21356885W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2018；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "幸福感",
+      "Courage",
+      "Heroes"
+    ],
+    "summary": "《Heroism and Wellbeing in the 21st Century》由Olivia Efthimiou、Scott T. Allison、Zeno E. Franco撰寫，書目主題涵蓋幸福感、Courage、Heroes；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "幸福感",
+      "Courage",
+      "Heroes"
+    ],
+    "firstPublishYear": 2018,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "End of Trauma",
+    "author": "George A. Bonanno",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL25773398W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2021；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "韌性",
+      "Internal medicine",
+      "Psychic trauma"
+    ],
+    "summary": "《End of Trauma》由George A. Bonanno撰寫，書目主題涵蓋韌性、Internal medicine、Psychic trauma；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "韌性",
+      "Internal medicine",
+      "Psychic trauma"
+    ],
+    "firstPublishYear": 2021,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "Positive Psychology in Sport and Physical Activity",
+    "author": "Abbe Brady、Bridget Grenville-Cleave",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21313752W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2017；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正向心理學",
+      "Positive psychology",
+      "Sports"
+    ],
+    "summary": "《Positive Psychology in Sport and Physical Activity》由Abbe Brady、Bridget Grenville-Cleave撰寫，書目主題涵蓋正向心理學、Positive psychology、Sports；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "正向心理學",
+      "Positive psychology",
+      "Sports"
+    ],
+    "firstPublishYear": 2017,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "The power of self-esteem",
+    "author": "Nathaniel Branden",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL17831547W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2001；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "自尊",
+      "Self-esteem"
+    ],
+    "summary": "《The power of self-esteem》由Nathaniel Branden撰寫，書目主題涵蓋自尊、Self-esteem；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "自尊",
+      "Self-esteem"
+    ],
+    "firstPublishYear": 2001,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "Resilience Begins with Beliefs",
+    "author": "Sara Truebridge",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL20371531W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2013；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "韌性",
+      "Educational planning",
+      "Academic achievement"
+    ],
+    "summary": "《Resilience Begins with Beliefs》由Sara Truebridge撰寫，書目主題涵蓋韌性、Educational planning、Academic achievement；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "韌性",
+      "Educational planning",
+      "Academic achievement"
+    ],
+    "firstPublishYear": 2013,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "Subjective Well-Being and Life Satisfaction",
+    "author": "James E. Maddux",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21305900W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2017；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "幸福感",
+      "Happiness",
+      "Emotions"
+    ],
+    "summary": "《Subjective Well-Being and Life Satisfaction》由James E. Maddux撰寫，書目主題涵蓋幸福感、Happiness、Emotions；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "幸福感",
+      "Happiness",
+      "Emotions"
+    ],
+    "firstPublishYear": 2017,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "Practicing positive CBT",
+    "author": "Fredrike Bannink",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16681356W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正向心理學",
+      "Positive psychology",
+      "Cognitive therapy"
+    ],
+    "summary": "《Practicing positive CBT》由Fredrike Bannink撰寫，書目主題涵蓋正向心理學、Positive psychology、Cognitive therapy；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "正向心理學",
+      "Positive psychology",
+      "Cognitive therapy"
+    ],
+    "firstPublishYear": 2012,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "Psychology of Wellbeing",
+    "author": "Gary W. Wood",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21703015W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2020；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "幸福感",
+      "Well-being",
+      "Psychological aspects"
+    ],
+    "summary": "《Psychology of Wellbeing》由Gary W. Wood撰寫，書目主題涵蓋幸福感、Well-being、Psychological aspects；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "幸福感",
+      "Well-being",
+      "Psychological aspects"
+    ],
+    "firstPublishYear": 2020,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "The pursuit of unhappiness",
+    "author": "Daniel M. Haybron",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL9097489W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "幸福感",
+      "Happiness",
+      "Well-being"
+    ],
+    "summary": "《The pursuit of unhappiness》由Daniel M. Haybron撰寫，書目主題涵蓋幸福感、Happiness、Well-being；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "幸福感",
+      "Happiness",
+      "Well-being"
+    ],
+    "firstPublishYear": 2008,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "A world of fragile things",
+    "author": "Mari Ruti",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL5824404W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "幸福感",
+      "Psychoanalysis",
+      "Well-being"
+    ],
+    "summary": "《A world of fragile things》由Mari Ruti撰寫，書目主題涵蓋幸福感、Psychoanalysis、Well-being；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "幸福感",
+      "Psychoanalysis",
+      "Well-being"
+    ],
+    "firstPublishYear": 2009,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "Teacher Wellbeing",
+    "author": "Elizabeth Holmes",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21160920W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2005；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "幸福感",
+      "Teachers, psychology",
+      "Happiness"
+    ],
+    "summary": "《Teacher Wellbeing》由Elizabeth Holmes撰寫，書目主題涵蓋幸福感、Teachers, psychology、Happiness；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "幸福感",
+      "Teachers, psychology",
+      "Happiness"
+    ],
+    "firstPublishYear": 2005,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "A fit and well way of life",
+    "author": "Gwen Robbins",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1818704W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "幸福感",
+      "Health",
+      "Well-being"
+    ],
+    "summary": "《A fit and well way of life》由Gwen Robbins撰寫，書目主題涵蓋幸福感、Health、Well-being；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "幸福感",
+      "Health",
+      "Well-being"
+    ],
+    "firstPublishYear": 2008,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "Becoming Who We Are",
+    "author": "Mary K. Rothbart",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL20403936W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "個人成長",
+      "Child development",
+      "Personality development"
+    ],
+    "summary": "《Becoming Who We Are》由Mary K. Rothbart撰寫，書目主題涵蓋個人成長、Child development、Personality development；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "個人成長",
+      "Child development",
+      "Personality development"
+    ],
+    "firstPublishYear": 2012,
+    "workId": "findbook-20260715-230753-b13"
+  }
+]

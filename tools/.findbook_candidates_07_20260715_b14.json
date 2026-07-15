@@ -1,0 +1,112 @@
+[
+  {
+    "title": "The Enduring Vision",
+    "author": "Paul S. Boyer",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2024851W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1987；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "歷史",
+      "Textbooks",
+      "History"
+    ],
+    "summary": "《The Enduring Vision》由Paul S. Boyer撰寫，書目主題涵蓋歷史、Textbooks、History；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "歷史",
+      "Textbooks",
+      "History"
+    ],
+    "firstPublishYear": 1987,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "The great conversation",
+    "author": "Norman Melchert",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1810842W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1991；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "歷史",
+      "Textbooks",
+      "Philosophy"
+    ],
+    "summary": "《The great conversation》由Norman Melchert撰寫，書目主題涵蓋歷史、Textbooks、Philosophy；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "歷史",
+      "Textbooks",
+      "Philosophy"
+    ],
+    "firstPublishYear": 1991,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Traditions & encounters",
+    "author": "Jerry H. Bentley、Herbert Ziegler、Heather Streets",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL4289172W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1999；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "世界史",
+      "History",
+      "Intercultural communication"
+    ],
+    "summary": "《Traditions & encounters》由Jerry H. Bentley、Herbert Ziegler、Heather Streets撰寫，書目主題涵蓋世界史、History、Intercultural communication；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "世界史",
+      "History",
+      "Intercultural communication"
+    ],
+    "firstPublishYear": 1999,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "The Unfinished Nation",
+    "author": "Alan Brinkley",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL176193W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1993；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "歷史",
+      "History",
+      "Textbooks"
+    ],
+    "summary": "《The Unfinished Nation》由Alan Brinkley撰寫，書目主題涵蓋歷史、History、Textbooks；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "歷史",
+      "History",
+      "Textbooks"
+    ],
+    "firstPublishYear": 1993,
+    "workId": "findbook-20260715-231837-b14"
+  },
+  {
+    "title": "Band of Brothers",
+    "author": "Stephen E. Ambrose",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL478550W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1992；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "世界史",
+      "United States",
+      "Invasies"
+    ],
+    "summary": "《Band of Brothers》由Stephen E. Ambrose撰寫，書目主題涵蓋世界史、United States、Invasies；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "世界史",
+      "United States",
+      "Invasies"
+    ],
+    "firstPublishYear": 1992,
+    "workId": "findbook-20260715-231837-b14"
+  }
+]

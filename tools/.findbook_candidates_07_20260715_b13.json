@@ -1,0 +1,46 @@
+[
+  {
+    "title": "The radium girls",
+    "author": "Kate Moore",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19663676W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "世界史",
+      "World War, 1914-1918",
+      "Diseases"
+    ],
+    "summary": "《The radium girls》由Kate Moore撰寫，書目主題涵蓋世界史、World War, 1914-1918、Diseases；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "世界史",
+      "World War, 1914-1918",
+      "Diseases"
+    ],
+    "firstPublishYear": 2016,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "The Sex Lives of African Women",
+    "author": "Nana Darkoa Sekyiamah",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL25086192W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2022；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "世界史",
+      "Sociology",
+      "World history"
+    ],
+    "summary": "《The Sex Lives of African Women》由Nana Darkoa Sekyiamah撰寫，書目主題涵蓋世界史、Sociology、World history；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "世界史",
+      "Sociology",
+      "World history"
+    ],
+    "firstPublishYear": 2022,
+    "workId": "findbook-20260715-230753-b13"
+  }
+]

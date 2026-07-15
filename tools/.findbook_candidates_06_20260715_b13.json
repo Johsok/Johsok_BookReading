@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Software Testing",
+    "author": "Brian Hambling",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16944106W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "軟體工程",
+      "Computer software",
+      "Computer software, testing"
+    ],
+    "summary": "《Software Testing》由Brian Hambling撰寫，書目主題涵蓋軟體工程、Computer software、Computer software, testing；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "軟體工程",
+      "Computer software",
+      "Computer software, testing"
+    ],
+    "firstPublishYear": 2009,
+    "workId": "findbook-20260715-230753-b13"
+  },
+  {
+    "title": "The Design of Design",
+    "author": "Frederick P. Brooks",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL15452584W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2010；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "軟體工程",
+      "Engineering design",
+      "Design"
+    ],
+    "summary": "《The Design of Design》由Frederick P. Brooks撰寫，書目主題涵蓋軟體工程、Engineering design、Design；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "軟體工程",
+      "Engineering design",
+      "Design"
+    ],
+    "firstPublishYear": 2010,
+    "workId": "findbook-20260715-230753-b13"
+  }
+]
