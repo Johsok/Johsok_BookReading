@@ -13110,13 +13110,157 @@
       "sourceName": "博客來中文書心理勵志新書榜（人工複核）",
       "sourceUrl": "https://www.books.com.tw/products/0011037990",
       "file": "Books/02_psychology_growth/02_psychology_growth-20260715-30.json"
+    },
+    {
+      "id": "01_business_startup-20260716-01",
+      "title": "操作慣性股，我38歲就財富自由：篩出別人沒發現的類台積和類輝達，幾塊漲、幾塊跌有慣性，績效大勝長期持有。",
+      "author": "王仲麟",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "股票投資",
+        "趨勢操作",
+        "風險管理"
+      ],
+      "sourceName": "博客來中文書商業理財新書",
+      "sourceUrl": "https://www.books.com.tw/products/0011044344",
+      "file": "Books/01_business_startup/01_business_startup-20260716-01.json",
+      "workId": "findbook-20260716-002316"
+    },
+    {
+      "id": "01_business_startup-20260716-02",
+      "title": "勇往值錢：做自己人生的CEO",
+      "author": "于振源",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "個人品牌",
+        "職涯經營",
+        "價值變現"
+      ],
+      "sourceName": "博客來中文書商業理財新書",
+      "sourceUrl": "https://www.books.com.tw/products/0011042447",
+      "file": "Books/01_business_startup/01_business_startup-20260716-02.json",
+      "workId": "findbook-20260716-002316"
+    },
+    {
+      "id": "02_psychology_growth-20260716-01",
+      "title": "飛吧!!排球少年心理學：舉球給自己，讓人生更輕鬆的阿德勒心理學",
+      "author": "內田若希、河津慶太",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "阿德勒心理學",
+        "運動心理",
+        "內在動機"
+      ],
+      "sourceName": "博客來中文書心理勵志新書",
+      "sourceUrl": "https://www.books.com.tw/products/0011043944",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260716-01.json",
+      "workId": "findbook-20260716-002316"
+    },
+    {
+      "id": "02_psychology_growth-20260716-02",
+      "title": "你不是唯一快要崩潰的人：奪回職場主權的32條生存指南",
+      "author": "牟垚",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "職場心理",
+        "界線",
+        "壓力調適"
+      ],
+      "sourceName": "博客來中文書心理勵志新書",
+      "sourceUrl": "https://www.books.com.tw/products/0011044723",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260716-02.json",
+      "workId": "findbook-20260716-002316"
+    },
+    {
+      "id": "03_natural_science-20260716-01",
+      "title": "你知道的黑洞知識90%是錯的：天文學家寫給所有人的黑洞身世史",
+      "author": "貝琪·史梅瑟博士",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "天文學",
+        "黑洞",
+        "科學史"
+      ],
+      "sourceName": "博客來中文書自然科普新書",
+      "sourceUrl": "https://www.books.com.tw/products/0011043461",
+      "file": "Books/03_natural_science/03_natural_science-20260716-01.json",
+      "workId": "findbook-20260716-002316"
+    },
+    {
+      "id": "04_healthcare-20260716-01",
+      "title": "從預防到修復，腦中風危險因子與身體訊號全解析：血壓、血糖、血脂、心律……從日常習慣到身體指標，掌握90％能事先檢出來的腦中風風險",
+      "author": "廖振南",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療保健",
+        "腦中風",
+        "危險因子",
+        "復健"
+      ],
+      "sourceName": "博客來中文書醫療保健新書",
+      "sourceUrl": "https://www.books.com.tw/products/0011040930",
+      "file": "Books/04_healthcare/04_healthcare-20260716-01.json",
+      "workId": "findbook-20260716-002316"
+    },
+    {
+      "id": "05_food_wellness-20260716-01",
+      "title": "營養師&兒科醫師副食品配方〔修訂版〕：100 道營養菜單，補鐵、強鋅、低敏、增D，從第一口就為寶寶的健康打底！",
+      "author": "湯國廷、廖嘉音",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食養生",
+        "副食品",
+        "嬰幼兒營養",
+        "食物過敏"
+      ],
+      "sourceName": "博客來中文書飲食營養新書",
+      "sourceUrl": "https://www.books.com.tw/products/0011044454",
+      "file": "Books/05_food_wellness/05_food_wellness-20260716-01.json",
+      "workId": "findbook-20260716-002316"
+    },
+    {
+      "id": "06_computer_info-20260716-01",
+      "title": "Vibe Coding 聖經：4 天寫出 4000 行可執行程式碼，不只是「快」，也重新定義「你的能耐」！",
+      "author": "Gene Kim、Steve Yegge",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦資訊",
+        "Vibe Coding",
+        "生成式AI",
+        "軟體工程"
+      ],
+      "sourceName": "博客來中文書電腦資訊新書",
+      "sourceUrl": "https://www.books.com.tw/products/0011044617",
+      "file": "Books/06_computer_info/06_computer_info-20260716-01.json",
+      "workId": "findbook-20260716-002316"
+    },
+    {
+      "id": "07_other-20260716-01",
+      "title": "入陣者：台灣勞工運動三十年，一場尊嚴與抵抗的對話",
+      "author": "孫友聯、林立恆、邱筠",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "台灣史",
+        "勞工運動",
+        "社會運動"
+      ],
+      "sourceName": "博客來中文書人文社科新書",
+      "sourceUrl": "https://www.books.com.tw/products/0011043940",
+      "file": "Books/07_other/07_other-20260716-01.json",
+      "workId": "findbook-20260716-002316"
     }
   ],
-  "totalBooks": 879,
+  "totalBooks": 888,
   "searchDateRange": {
     "from": "1985-06-01",
-    "to": "2026-07-15"
+    "to": "2026-07-16"
   },
-  "generatedFrom": "FindBook_Skill.md 中文書名清理：移除 1222 本純外文書名；complete=879 pending=0",
-  "generatedAt": "2026-07-15T23:48:51+08:00"
+  "generatedFrom": "FindBook_Skill.md fresh Codex-only 2/2/1/1/1/1/1 batch complete: complete=888 pending=0",
+  "generatedAt": "2026-07-16T00:40:01+08:00"
 }
