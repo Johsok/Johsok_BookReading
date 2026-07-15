@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Think Python",
+    "author": "Allen B. Downey",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16976951W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "程式設計",
+      "Computer programming",
+      "Software architecture"
+    ],
+    "summary": "《Think Python》由Allen B. Downey撰寫，書目主題涵蓋程式設計、Computer programming、Software architecture；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "程式設計",
+      "Computer programming",
+      "Software architecture"
+    ],
+    "firstPublishYear": 2009,
+    "workId": "findbook-20260715-200801-b6"
+  },
+  {
+    "title": "Fluent Python",
+    "author": "Luciano Ramalho",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19932156W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2015；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "程式設計",
+      "Computer programming",
+      "COMPUTERS"
+    ],
+    "summary": "《Fluent Python》由Luciano Ramalho撰寫，書目主題涵蓋程式設計、Computer programming、COMPUTERS；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "程式設計",
+      "Computer programming",
+      "COMPUTERS"
+    ],
+    "firstPublishYear": 2015,
+    "workId": "findbook-20260715-200801-b6"
+  }
+]

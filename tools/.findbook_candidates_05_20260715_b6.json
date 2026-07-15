@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Betty Crocker Cookbook",
+    "author": "Betty Crocker",
+    "categoryId": "05_food_wellness",
+    "sourceName": "Open Library 飲食養生主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL15030499W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2002；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "飲食養生",
+      "料理",
+      "Cookery",
+      "Holiday cookery"
+    ],
+    "summary": "《Betty Crocker Cookbook》由Betty Crocker撰寫，書目主題涵蓋料理、Cookery、Holiday cookery；本次依飲食養生閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "料理",
+      "Cookery",
+      "Holiday cookery"
+    ],
+    "firstPublishYear": 2002,
+    "workId": "findbook-20260715-200801-b6"
+  },
+  {
+    "title": "Nutrition",
+    "author": "Joan Salge Blake",
+    "categoryId": "05_food_wellness",
+    "sourceName": "Open Library 飲食養生主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL18634124W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "飲食養生",
+      "營養",
+      "Textbooks",
+      "Nutrition"
+    ],
+    "summary": "《Nutrition》由Joan Salge Blake撰寫，書目主題涵蓋營養、Textbooks、Nutrition；本次依飲食養生閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "營養",
+      "Textbooks",
+      "Nutrition"
+    ],
+    "firstPublishYear": 2009,
+    "workId": "findbook-20260715-200801-b6"
+  }
+]

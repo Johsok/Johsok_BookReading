@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Messi",
+    "author": "Guillem Balague",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21066655W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2013；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "傳記",
+      "Soccer, biography",
+      "Spain, biography"
+    ],
+    "summary": "《Messi》由Guillem Balague撰寫，書目主題涵蓋傳記、Soccer, biography、Spain, biography；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "傳記",
+      "Soccer, biography",
+      "Spain, biography"
+    ],
+    "firstPublishYear": 2013,
+    "workId": "findbook-20260715-201336-b7"
+  },
+  {
+    "title": "1776",
+    "author": "David McCullough",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16939881W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2006；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "歷史",
+      "History"
+    ],
+    "summary": "《1776》由David McCullough撰寫，書目主題涵蓋歷史、History；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "歷史",
+      "History"
+    ],
+    "firstPublishYear": 2006,
+    "workId": "findbook-20260715-201336-b7"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Sex, Drugs, and Cocoa Puffs",
+    "author": "Chuck Klosterman",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL5844640W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2003；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "文化",
+      "Popular culture",
+      "Civilization"
+    ],
+    "summary": "《Sex, Drugs, and Cocoa Puffs》由Chuck Klosterman撰寫，書目主題涵蓋文化、Popular culture、Civilization；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "文化",
+      "Popular culture",
+      "Civilization"
+    ],
+    "firstPublishYear": 2003,
+    "workId": "findbook-20260715-200801-b6"
+  },
+  {
+    "title": "Chronicles",
+    "author": "Bob Dylan",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL28809W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2004；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "傳記",
+      "Singers",
+      "Biography"
+    ],
+    "summary": "《Chronicles》由Bob Dylan撰寫，書目主題涵蓋傳記、Singers、Biography；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "傳記",
+      "Singers",
+      "Biography"
+    ],
+    "firstPublishYear": 2004,
+    "workId": "findbook-20260715-200801-b6"
+  }
+]

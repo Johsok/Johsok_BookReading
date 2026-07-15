@@ -1,0 +1,46 @@
+[
+  {
+    "title": "National health programs of India",
+    "author": "J. Kishore",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL5764202W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2011；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "公共衛生",
+      "Health promotion",
+      "National health care"
+    ],
+    "summary": "《National health programs of India》由J. Kishore撰寫，書目主題涵蓋公共衛生、Health promotion、National health care；本次依醫療保健閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "公共衛生",
+      "Health promotion",
+      "National health care"
+    ],
+    "firstPublishYear": 2011,
+    "workId": "findbook-20260715-200801-b6"
+  },
+  {
+    "title": "The Emotion Code",
+    "author": "Bradley B. Nelson、Dr. Bradley Nelson",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL9775991W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2007；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "醫學",
+      "Mental healing",
+      "Emotions"
+    ],
+    "summary": "《The Emotion Code》由Bradley B. Nelson、Dr. Bradley Nelson撰寫，書目主題涵蓋醫學、Mental healing、Emotions；本次依醫療保健閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "醫學",
+      "Mental healing",
+      "Emotions"
+    ],
+    "firstPublishYear": 2007,
+    "workId": "findbook-20260715-200801-b6"
+  }
+]

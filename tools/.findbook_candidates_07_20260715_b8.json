@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Beekeeping for dummies",
+    "author": "Howland Blackiston",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL8513300W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2002；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "文化",
+      "Bee culture",
+      "Animals"
+    ],
+    "summary": "《Beekeeping for dummies》由Howland Blackiston撰寫，書目主題涵蓋文化、Bee culture、Animals；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "文化",
+      "Bee culture",
+      "Animals"
+    ],
+    "firstPublishYear": 2002,
+    "workId": "findbook-20260715-201722-b8"
+  },
+  {
+    "title": "The Corporation",
+    "author": "Joel Bakan",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2887824W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2004；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "文化",
+      "Moral and ethical aspects",
+      "Aspectos morales"
+    ],
+    "summary": "《The Corporation》由Joel Bakan撰寫，書目主題涵蓋文化、Moral and ethical aspects、Aspectos morales；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "文化",
+      "Moral and ethical aspects",
+      "Aspectos morales"
+    ],
+    "firstPublishYear": 2004,
+    "workId": "findbook-20260715-201722-b8"
+  }
+]

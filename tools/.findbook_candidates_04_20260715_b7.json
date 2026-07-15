@@ -1,0 +1,44 @@
+[
+  {
+    "title": "No Bad Parts",
+    "author": "Richard Schwartz Ph.D.、Alanis Morissette",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL24355843W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2021；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "醫學",
+      "Internal medicine"
+    ],
+    "summary": "《No Bad Parts》由Richard Schwartz Ph.D.、Alanis Morissette撰寫，書目主題涵蓋醫學、Internal medicine；本次依醫療保健閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "醫學",
+      "Internal medicine"
+    ],
+    "firstPublishYear": 2021,
+    "workId": "findbook-20260715-201336-b7"
+  },
+  {
+    "title": "Community health",
+    "author": "Chris Wood",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL8747568W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "公共衛生",
+      "Community health services",
+      "Public health"
+    ],
+    "summary": "《Community health》由Chris Wood撰寫，書目主題涵蓋公共衛生、Community health services、Public health；本次依醫療保健閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "公共衛生",
+      "Community health services",
+      "Public health"
+    ],
+    "firstPublishYear": 2008,
+    "workId": "findbook-20260715-201336-b7"
+  }
+]

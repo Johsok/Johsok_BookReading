@@ -1,0 +1,46 @@
+[
+  {
+    "title": "6 weeks to a Hollywood body",
+    "author": "Steve Zim",
+    "categoryId": "05_food_wellness",
+    "sourceName": "Open Library 飲食養生主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL5827745W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2006；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "飲食養生",
+      "營養",
+      "Nutrition",
+      "Health and hygiene"
+    ],
+    "summary": "《6 weeks to a Hollywood body》由Steve Zim撰寫，書目主題涵蓋營養、Nutrition、Health and hygiene；本次依飲食養生閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "營養",
+      "Nutrition",
+      "Health and hygiene"
+    ],
+    "firstPublishYear": 2006,
+    "workId": "findbook-20260715-201336-b7"
+  },
+  {
+    "title": "Food Science And Nutrition",
+    "author": "Sunetra Roday",
+    "categoryId": "05_food_wellness",
+    "sourceName": "Open Library 飲食養生主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL17469685W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2007；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "飲食養生",
+      "營養",
+      "Food",
+      "Nutrition"
+    ],
+    "summary": "《Food Science And Nutrition》由Sunetra Roday撰寫，書目主題涵蓋營養、Food、Nutrition；本次依飲食養生閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "營養",
+      "Food",
+      "Nutrition"
+    ],
+    "firstPublishYear": 2007,
+    "workId": "findbook-20260715-201336-b7"
+  }
+]
