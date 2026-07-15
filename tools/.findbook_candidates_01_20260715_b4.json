@@ -1,0 +1,658 @@
+[
+  {
+    "title": "Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time",
+    "author": "Brian Tracy",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2392324W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2001；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "商業",
+      "Procrastination",
+      "Dilación"
+    ],
+    "summary": "《Eat That Frog! 21 Great Ways to Stop Procrastinating and Get More Done in Less Time》由Brian Tracy撰寫，書目主題涵蓋商業、Procrastination、Dilación；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "商業",
+      "Procrastination",
+      "Dilación"
+    ],
+    "firstPublishYear": 2001,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Dotcom Secrets",
+    "author": "Russell Brunson",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21687423W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2011；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "行銷",
+      "Commerce",
+      "Internet marketing"
+    ],
+    "summary": "《Dotcom Secrets》由Russell Brunson撰寫，書目主題涵蓋行銷、Commerce、Internet marketing；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "行銷",
+      "Commerce",
+      "Internet marketing"
+    ],
+    "firstPublishYear": 2011,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Marketing Management",
+    "author": "Philip Kotler、Kevin Lane Keller",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL17371073W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "管理",
+      "Marketing, management",
+      "Marketing"
+    ],
+    "summary": "《Marketing Management》由Philip Kotler、Kevin Lane Keller撰寫，書目主題涵蓋管理、Marketing, management、Marketing；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "管理",
+      "Marketing, management",
+      "Marketing"
+    ],
+    "firstPublishYear": 2016,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "The dictator's handbook",
+    "author": "Bruce Bueno de Mesquita、Alastair Smith",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL15980652W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2011；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "領導",
+      "Political corruption",
+      "Philosophy"
+    ],
+    "summary": "《The dictator's handbook》由Bruce Bueno de Mesquita、Alastair Smith撰寫，書目主題涵蓋領導、Political corruption、Philosophy；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "領導",
+      "Political corruption",
+      "Philosophy"
+    ],
+    "firstPublishYear": 2011,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16086010W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2011；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "創業",
+      "New York Times bestseller",
+      "New business enterprises"
+    ],
+    "summary": "《The Lean Startup》由Eric Ries撰寫，書目主題涵蓋創業、New York Times bestseller、New business enterprises；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "創業",
+      "New York Times bestseller",
+      "New business enterprises"
+    ],
+    "firstPublishYear": 2011,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "The total money makeover",
+    "author": "Dave Ramsey",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16027047W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2003；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "個人理財",
+      "Personal Finance",
+      "Debt"
+    ],
+    "summary": "《The total money makeover》由Dave Ramsey撰寫，書目主題涵蓋個人理財、Personal Finance、Debt；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "個人理財",
+      "Personal Finance",
+      "Debt"
+    ],
+    "firstPublishYear": 2003,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Getting Things Done",
+    "author": "David Allen",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL271504W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2001；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "管理",
+      "Time management",
+      "Self-management (Psychology)"
+    ],
+    "summary": "《Getting Things Done》由David Allen撰寫，書目主題涵蓋管理、Time management、Self-management (Psychology)；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "管理",
+      "Time management",
+      "Self-management (Psychology)"
+    ],
+    "firstPublishYear": 2001,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "The millionaire fastlane",
+    "author": "M. J. DeMarco",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16981184W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2011；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "創業",
+      "Personal Finance",
+      "Entrepreneurship"
+    ],
+    "summary": "《The millionaire fastlane》由M. J. DeMarco撰寫，書目主題涵蓋創業、Personal Finance、Entrepreneurship；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "創業",
+      "Personal Finance",
+      "Entrepreneurship"
+    ],
+    "firstPublishYear": 2011,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Doglapan",
+    "author": "Ashneer Grover",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL34306266W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2022；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "創業",
+      "Startup",
+      "Enterpreneurship"
+    ],
+    "summary": "《Doglapan》由Ashneer Grover撰寫，書目主題涵蓋創業、Startup、Enterpreneurship；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "創業",
+      "Startup",
+      "Enterpreneurship"
+    ],
+    "firstPublishYear": 2022,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Convince them in 90 seconds or less",
+    "author": "Nicholas Boothman",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL15910345W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2010；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "商業",
+      "Success in business",
+      "Nonverbal communication"
+    ],
+    "summary": "《Convince them in 90 seconds or less》由Nicholas Boothman撰寫，書目主題涵蓋商業、Success in business、Nonverbal communication；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "商業",
+      "Success in business",
+      "Nonverbal communication"
+    ],
+    "firstPublishYear": 2010,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "The charisma myth",
+    "author": "Olivia Fox Cabane、Lisa Cordileone",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16240171W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "領導",
+      "Charisma (Personality trait)",
+      "Développement d'aptitudes"
+    ],
+    "summary": "《The charisma myth》由Olivia Fox Cabane、Lisa Cordileone撰寫，書目主題涵蓋領導、Charisma (Personality trait)、Développement d'aptitudes；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "領導",
+      "Charisma (Personality trait)",
+      "Développement d'aptitudes"
+    ],
+    "firstPublishYear": 2012,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "The Unicorn Project",
+    "author": "Gene Kim",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL20716769W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2019；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "商業",
+      "Business"
+    ],
+    "summary": "《The Unicorn Project》由Gene Kim撰寫，書目主題涵蓋商業、Business；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "商業",
+      "Business"
+    ],
+    "firstPublishYear": 2019,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Digital Marketing",
+    "author": "Alan Charlesworth",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21248904W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "行銷",
+      "Internet marketing"
+    ],
+    "summary": "《Digital Marketing》由Alan Charlesworth撰寫，書目主題涵蓋行銷、Internet marketing；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "行銷",
+      "Internet marketing"
+    ],
+    "firstPublishYear": 2014,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Show Your Work!",
+    "author": "Austin Kleon",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16821630W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "商業",
+      "Career development",
+      "Business networks"
+    ],
+    "summary": "《Show Your Work!》由Austin Kleon撰寫，書目主題涵蓋商業、Career development、Business networks；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "商業",
+      "Career development",
+      "Business networks"
+    ],
+    "firstPublishYear": 2014,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "The millionaire master plan",
+    "author": "Roger James Hamilton",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19986251W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "個人理財",
+      "Personal Finance",
+      "Investments"
+    ],
+    "summary": "《The millionaire master plan》由Roger James Hamilton撰寫，書目主題涵蓋個人理財、Personal Finance、Investments；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "個人理財",
+      "Personal Finance",
+      "Investments"
+    ],
+    "firstPublishYear": 2014,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "The $100 startup",
+    "author": "Chris Guillebeau",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16499348W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "創業",
+      "Management",
+      "New business enterprises"
+    ],
+    "summary": "《The $100 startup》由Chris Guillebeau撰寫，書目主題涵蓋創業、Management、New business enterprises；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "創業",
+      "Management",
+      "New business enterprises"
+    ],
+    "firstPublishYear": 2012,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "UNSCRIPTED",
+    "author": "M. J. DeMarco",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL22056168W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2017；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "創業",
+      "Quality of life",
+      "Finance, personal"
+    ],
+    "summary": "《UNSCRIPTED》由M. J. DeMarco撰寫，書目主題涵蓋創業、Quality of life、Finance, personal；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "創業",
+      "Quality of life",
+      "Finance, personal"
+    ],
+    "firstPublishYear": 2017,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Marketing for entrepreneurs",
+    "author": "Frederick G. Crane",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL5600287W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "行銷",
+      "Marketing",
+      "Management"
+    ],
+    "summary": "《Marketing for entrepreneurs》由Frederick G. Crane撰寫，書目主題涵蓋行銷、Marketing、Management；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "行銷",
+      "Marketing",
+      "Management"
+    ],
+    "firstPublishYear": 2009,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Thinking in bets",
+    "author": "Annie Duke",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19736287W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2018；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "管理",
+      "Management games",
+      "Decision making"
+    ],
+    "summary": "《Thinking in bets》由Annie Duke撰寫，書目主題涵蓋管理、Management games、Decision making；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "管理",
+      "Management games",
+      "Decision making"
+    ],
+    "firstPublishYear": 2018,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Maximum Trading Gains with Anchored VWAP",
+    "author": "Brian Shannon",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL34054577W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2023；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "個人理財",
+      "Business",
+      "Finance, personal"
+    ],
+    "summary": "《Maximum Trading Gains with Anchored VWAP》由Brian Shannon撰寫，書目主題涵蓋個人理財、Business、Finance, personal；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "個人理財",
+      "Business",
+      "Finance, personal"
+    ],
+    "firstPublishYear": 2023,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "The Manager's Path",
+    "author": "Camille Fournier",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19860807W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2017；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "管理",
+      "Management",
+      "Business"
+    ],
+    "summary": "《The Manager's Path》由Camille Fournier撰寫，書目主題涵蓋管理、Management、Business；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "管理",
+      "Management",
+      "Business"
+    ],
+    "firstPublishYear": 2017,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "The brand gap",
+    "author": "Marty Neumeier",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL120747W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2003；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "行銷",
+      "Brand name products",
+      "Marketing"
+    ],
+    "summary": "《The brand gap》由Marty Neumeier撰寫，書目主題涵蓋行銷、Brand name products、Marketing；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "行銷",
+      "Brand name products",
+      "Marketing"
+    ],
+    "firstPublishYear": 2003,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Ignited Minds",
+    "author": "A. P. J. Abdul Kalam",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21412264W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "領導",
+      "Inspirational",
+      "biography"
+    ],
+    "summary": "《Ignited Minds》由A. P. J. Abdul Kalam撰寫，書目主題涵蓋領導、Inspirational、biography；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "領導",
+      "Inspirational",
+      "biography"
+    ],
+    "firstPublishYear": 2012,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Marketing 4.0",
+    "author": "Philip Kotler、Hermawan Kartajaya、Iwan Setiawan",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL20861212W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "行銷",
+      "Marketing",
+      "General"
+    ],
+    "summary": "《Marketing 4.0》由Philip Kotler、Hermawan Kartajaya、Iwan Setiawan撰寫，書目主題涵蓋行銷、Marketing、General；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "行銷",
+      "Marketing",
+      "General"
+    ],
+    "firstPublishYear": 2016,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "How to Become a People Magnet",
+    "author": "Marc Reklau",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL24152385W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2018；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "領導",
+      "Self-help",
+      "personal development"
+    ],
+    "summary": "《How to Become a People Magnet》由Marc Reklau撰寫，書目主題涵蓋領導、Self-help、personal development；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "領導",
+      "Self-help",
+      "personal development"
+    ],
+    "firstPublishYear": 2018,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Rich Dad's Rich Kid, Smart Kid",
+    "author": "Robert T. Kiyosaki、Sharon L. Lechter",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2010882W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2001；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "個人理財",
+      "Finance, personal",
+      "Children"
+    ],
+    "summary": "《Rich Dad's Rich Kid, Smart Kid》由Robert T. Kiyosaki、Sharon L. Lechter撰寫，書目主題涵蓋個人理財、Finance, personal、Children；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "個人理財",
+      "Finance, personal",
+      "Children"
+    ],
+    "firstPublishYear": 2001,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Digital marketing for dummies",
+    "author": "Ryan Deiss",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19718632W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "行銷",
+      "Digital media",
+      "Management"
+    ],
+    "summary": "《Digital marketing for dummies》由Ryan Deiss撰寫，書目主題涵蓋行銷、Digital media、Management；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "行銷",
+      "Digital media",
+      "Management"
+    ],
+    "firstPublishYear": 2016,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Thinking in systems",
+    "author": "Donella H. Meadows、Diana Wright",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL3737036W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "管理",
+      "critical thinking",
+      "systems thinking"
+    ],
+    "summary": "《Thinking in systems》由Donella H. Meadows、Diana Wright撰寫，書目主題涵蓋管理、critical thinking、systems thinking；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "管理",
+      "critical thinking",
+      "systems thinking"
+    ],
+    "firstPublishYear": 2008,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "The education of a value investor",
+    "author": "Guy Spier",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19990241W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "投資",
+      "Investment advisors",
+      "Investments"
+    ],
+    "summary": "《The education of a value investor》由Guy Spier撰寫，書目主題涵蓋投資、Investment advisors、Investments；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "投資",
+      "Investment advisors",
+      "Investments"
+    ],
+    "firstPublishYear": 2014,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Side hustle",
+    "author": "Chris Guillebeau",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19724782W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2017；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "創業",
+      "New business enterprises",
+      "Entrepreneurship"
+    ],
+    "summary": "《Side hustle》由Chris Guillebeau撰寫，書目主題涵蓋創業、New business enterprises、Entrepreneurship；本次依商業理財閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "創業",
+      "New business enterprises",
+      "Entrepreneurship"
+    ],
+    "firstPublishYear": 2017,
+    "workId": "findbook-20260715-194023-b4"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "title": "The science of nutrition",
+    "author": "Janice Thompson、Melinda Manore、Linda Vaughan、Kathy Gottschall-Pass",
+    "categoryId": "05_food_wellness",
+    "sourceName": "Open Library 飲食養生主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL15596858W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2007；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "飲食養生",
+      "營養",
+      "Textbooks",
+      "Nutrition"
+    ],
+    "summary": "《The science of nutrition》由Janice Thompson、Melinda Manore、Linda Vaughan、Kathy Gottschall-Pass撰寫，書目主題涵蓋營養、Textbooks、Nutrition；本次依飲食養生閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "營養",
+      "Textbooks",
+      "Nutrition"
+    ],
+    "firstPublishYear": 2007,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Cooking Basics for Dummies",
+    "author": "Bryan Miller、Marie Rama",
+    "categoryId": "05_food_wellness",
+    "sourceName": "Open Library 飲食養生主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2776167W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2004；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "飲食養生",
+      "料理",
+      "Cooking",
+      "Cookery"
+    ],
+    "summary": "《Cooking Basics for Dummies》由Bryan Miller、Marie Rama撰寫，書目主題涵蓋料理、Cooking、Cookery；本次依飲食養生閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "料理",
+      "Cooking",
+      "Cookery"
+    ],
+    "firstPublishYear": 2004,
+    "workId": "findbook-20260715-194023-b4"
+  }
+]

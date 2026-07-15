@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Superintelligence",
+    "author": "Nick Bostrom",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL17319280W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "電腦科學",
+      "Moral and ethical aspects",
+      "Cognitive science"
+    ],
+    "summary": "《Superintelligence》由Nick Bostrom撰寫，書目主題涵蓋電腦科學、Moral and ethical aspects、Cognitive science；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "電腦科學",
+      "Moral and ethical aspects",
+      "Cognitive science"
+    ],
+    "firstPublishYear": 2014,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Eloquent Javascript",
+    "author": "Marijn Haverbeke",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL15444205W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "程式設計",
+      "Computer science",
+      "programming languages"
+    ],
+    "summary": "《Eloquent Javascript》由Marijn Haverbeke撰寫，書目主題涵蓋程式設計、Computer science、programming languages；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "程式設計",
+      "Computer science",
+      "programming languages"
+    ],
+    "firstPublishYear": 2009,
+    "workId": "findbook-20260715-194023-b4"
+  }
+]

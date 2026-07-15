@@ -1,0 +1,40 @@
+[
+  {
+    "title": "How Not to Die",
+    "author": "Michael Greger、Gene Stone",
+    "categoryId": "05_food_wellness",
+    "tags": [
+      "飲食養生",
+      "營養",
+      "慢性病預防",
+      "植物性飲食"
+    ],
+    "summary": "整理飲食與常見慢性疾病之間的研究證據，提出可融入日常的食物與生活習慣清單。",
+    "sourceName": "Open Library 飲食養生書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17319629W",
+    "sourceDateNote": "Open Library 書目標示出版年份為 2015；擷取日期 2026-07-15，落在指定搜尋區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Eat to Beat Disease",
+    "author": "William W. Li",
+    "categoryId": "05_food_wellness",
+    "tags": [
+      "飲食養生",
+      "營養",
+      "食物與疾病",
+      "身體防禦系統"
+    ],
+    "summary": "以血管新生、再生、微生物群、DNA 保護與免疫五套防禦系統，說明食物可能影響健康的途徑。",
+    "sourceName": "Open Library 飲食養生書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20151094W",
+    "sourceDateNote": "Open Library 書目標示出版日期為 2019-03-19；擷取日期 2026-07-15，落在指定搜尋區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Why We Sleep",
+    "author": "Matthew P. Walker",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL20168133W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2017；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "健康",
+      "sleep",
+      "health & fitness"
+    ],
+    "summary": "《Why We Sleep》由Matthew P. Walker撰寫，書目主題涵蓋健康、sleep、health & fitness；本次依醫療保健閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "健康",
+      "sleep",
+      "health & fitness"
+    ],
+    "firstPublishYear": 2017,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Expecting better",
+    "author": "Emily Oster",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19969030W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2013；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "健康",
+      "Pregnancy",
+      "Health aspects"
+    ],
+    "summary": "《Expecting better》由Emily Oster撰寫，書目主題涵蓋健康、Pregnancy、Health aspects；本次依醫療保健閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "健康",
+      "Pregnancy",
+      "Health aspects"
+    ],
+    "firstPublishYear": 2013,
+    "workId": "findbook-20260715-194023-b4"
+  }
+]

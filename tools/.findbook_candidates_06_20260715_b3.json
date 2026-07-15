@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Python for Data Analysis",
+    "author": "Wes McKinney",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17422847W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "Python",
+      "pandas",
+      "資料分析"
+    ],
+    "summary": "本書由Wes McKinney撰寫，聚焦Python、pandas、資料分析，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "Python",
+      "pandas",
+      "資料分析"
+    ]
+  },
+  {
+    "title": "Head First Java",
+    "author": "Kathy Sierra、Bert Bates",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL5756124W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2003；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "Java",
+      "物件導向",
+      "程式設計"
+    ],
+    "summary": "本書由Kathy Sierra、Bert Bates撰寫，聚焦Java、物件導向、程式設計，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "Java",
+      "物件導向",
+      "程式設計"
+    ]
+  }
+]

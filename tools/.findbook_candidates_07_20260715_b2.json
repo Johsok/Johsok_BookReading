@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Collapse",
+    "author": "Jared Diamond",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL276557W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2004；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "文明史",
+      "環境",
+      "社會變遷"
+    ],
+    "summary": "本書由Jared Diamond撰寫，聚焦文明史、環境、社會變遷，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "文明史",
+      "環境",
+      "社會變遷"
+    ]
+  },
+  {
+    "title": "Webs of Humankind",
+    "author": "J. R. McNeill",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL22198858W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2020；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "世界史",
+      "人類網絡",
+      "文明交流"
+    ],
+    "summary": "本書由J. R. McNeill撰寫，聚焦世界史、人類網絡、文明交流，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "世界史",
+      "人類網絡",
+      "文明交流"
+    ]
+  }
+]

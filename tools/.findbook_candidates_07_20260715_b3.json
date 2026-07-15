@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Born a Crime",
+    "author": "Trevor Noah",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17824318W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "回憶錄",
+      "南非",
+      "種族文化"
+    ],
+    "summary": "本書由Trevor Noah撰寫，聚焦回憶錄、南非、種族文化，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "回憶錄",
+      "南非",
+      "種族文化"
+    ]
+  },
+  {
+    "title": "Hillbilly Elegy",
+    "author": "J. D. Vance",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17357665W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "美國社會",
+      "階級",
+      "回憶錄"
+    ],
+    "summary": "本書由J. D. Vance撰寫，聚焦美國社會、階級、回憶錄，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "美國社會",
+      "階級",
+      "回憶錄"
+    ]
+  }
+]

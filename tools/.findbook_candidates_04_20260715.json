@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Being Mortal",
+    "author": "Atul Gawande",
+    "categoryId": "04_healthcare",
+    "tags": [
+      "醫療保健",
+      "安寧照護",
+      "老化",
+      "醫病決策"
+    ],
+    "summary": "檢視醫療體系面對老化與臨終的限制，主張照護應把生活品質、選擇與尊嚴納入核心。",
+    "sourceName": "Open Library 醫療保健書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17079567W",
+    "sourceDateNote": "Open Library 書目說明標示本書為 2014 年非虛構作品；擷取日期 2026-07-15，落在指定搜尋區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "When Breath Becomes Air",
+    "author": "Paul Kalanithi",
+    "categoryId": "04_healthcare",
+    "tags": [
+      "醫療保健",
+      "肺癌",
+      "醫病角色",
+      "臨終生命"
+    ],
+    "summary": "由神經外科醫師兼癌症患者的視角，反思疾病、死亡、醫師責任與有意義的人生。",
+    "sourceName": "Open Library 醫療保健書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17356252W",
+    "sourceDateNote": "Open Library 書目標示出版年份為 2016；擷取日期 2026-07-15，落在指定搜尋區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  }
+]

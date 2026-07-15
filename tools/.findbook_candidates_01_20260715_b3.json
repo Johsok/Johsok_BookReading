@@ -1,0 +1,602 @@
+[
+  {
+    "title": "The Student Leadership Challenge",
+    "author": "James M. Kouzes、Barry Z. Posner",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL1974738W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2000；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "學生領導",
+      "團隊",
+      "影響力"
+    ],
+    "summary": "本書由James M. Kouzes、Barry Z. Posner撰寫，聚焦學生領導、團隊、影響力，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "學生領導",
+      "團隊",
+      "影響力"
+    ]
+  },
+  {
+    "title": "Rich Dad, Poor Dad for Teens",
+    "author": "Robert T. Kiyosaki、Sharon L. Lechter",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL2010893W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2004；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "青少年理財",
+      "資產",
+      "財務教育"
+    ],
+    "summary": "本書由Robert T. Kiyosaki、Sharon L. Lechter撰寫，聚焦青少年理財、資產、財務教育，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "青少年理財",
+      "資產",
+      "財務教育"
+    ]
+  },
+  {
+    "title": "The Art of Persuasion",
+    "author": "Bob Burg",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL22367098W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2011；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "說服",
+      "溝通",
+      "銷售"
+    ],
+    "summary": "本書由Bob Burg撰寫，聚焦說服、溝通、銷售，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "說服",
+      "溝通",
+      "銷售"
+    ]
+  },
+  {
+    "title": "Project",
+    "author": "Helgi Thor Ingason、Haukur Ingi Jonasson",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL25754672W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2018；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "專案管理",
+      "執行",
+      "組織"
+    ],
+    "summary": "本書由Helgi Thor Ingason、Haukur Ingi Jonasson撰寫，聚焦專案管理、執行、組織，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "專案管理",
+      "執行",
+      "組織"
+    ]
+  },
+  {
+    "title": "Think Big and Kick Ass in Business and Life",
+    "author": "Donald Trump、Bill Zanker",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL2720608W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2007；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "創業",
+      "談判",
+      "企圖心"
+    ],
+    "summary": "本書由Donald Trump、Bill Zanker撰寫，聚焦創業、談判、企圖心，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "創業",
+      "談判",
+      "企圖心"
+    ]
+  },
+  {
+    "title": "Eurasian Business Perspectives",
+    "author": "Mehmet Huseyin Bilgin、Hakan Danis、Ender Demir、Ahmet Faruk Aysan",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20820046W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2017；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "歐亞商業",
+      "經濟",
+      "管理"
+    ],
+    "summary": "本書由Mehmet Huseyin Bilgin、Hakan Danis、Ender Demir、Ahmet Faruk Aysan撰寫，聚焦歐亞商業、經濟、管理，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "歐亞商業",
+      "經濟",
+      "管理"
+    ]
+  },
+  {
+    "title": "Contemporary Selling",
+    "author": "Mark W. Johnston",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL16727213W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2013；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "銷售",
+      "顧客關係",
+      "成交"
+    ],
+    "summary": "本書由Mark W. Johnston撰寫，聚焦銷售、顧客關係、成交，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "銷售",
+      "顧客關係",
+      "成交"
+    ]
+  },
+  {
+    "title": "Advances in National Brand and Private Label Marketing",
+    "author": "Francisco J. Martínez-López、Juan Carlos Gázquez-Abad、Els Gijsbrecht",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20775747W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2015；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "自有品牌",
+      "零售",
+      "行銷"
+    ],
+    "summary": "本書由Francisco J. Martínez-López、Juan Carlos Gázquez-Abad、Els Gijsbrecht撰寫，聚焦自有品牌、零售、行銷，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "自有品牌",
+      "零售",
+      "行銷"
+    ]
+  },
+  {
+    "title": "Marketing",
+    "author": "Roger A. Kerin、Eric N. Berkowitz、Steven W. Hartley、William Rudelius",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17744763W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2002；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "行銷管理",
+      "市場",
+      "顧客價值"
+    ],
+    "summary": "本書由Roger A. Kerin、Eric N. Berkowitz、Steven W. Hartley、William Rudelius撰寫，聚焦行銷管理、市場、顧客價值，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "行銷管理",
+      "市場",
+      "顧客價值"
+    ]
+  },
+  {
+    "title": "Leadership in Health Care",
+    "author": "Jill Barr、Lesley L. Dowding",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL9454258W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "醫療領導",
+      "組織",
+      "變革"
+    ],
+    "summary": "本書由Jill Barr、Lesley L. Dowding撰寫，聚焦醫療領導、組織、變革，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "醫療領導",
+      "組織",
+      "變革"
+    ]
+  },
+  {
+    "title": "Ethical Leadership and Decision Making in Education",
+    "author": "Joan Poliner Shapiro、Jacqueline Anne Stefkovich",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20900619W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2000；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "倫理領導",
+      "決策",
+      "教育管理"
+    ],
+    "summary": "本書由Joan Poliner Shapiro、Jacqueline Anne Stefkovich撰寫，聚焦倫理領導、決策、教育管理，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "倫理領導",
+      "決策",
+      "教育管理"
+    ]
+  },
+  {
+    "title": "Entrepreneurship, Innovation and Regional Development",
+    "author": "Jay Mitra",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL4071686W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "創業",
+      "創新",
+      "區域發展"
+    ],
+    "summary": "本書由Jay Mitra撰寫，聚焦創業、創新、區域發展，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "創業",
+      "創新",
+      "區域發展"
+    ]
+  },
+  {
+    "title": "Inspired Entrepreneurs",
+    "author": "Beth Caldwell、Debra Dion Krischke、Danielle Cuomo",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL39679993W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2010；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "女性創業",
+      "企業家",
+      "實務案例"
+    ],
+    "summary": "本書由Beth Caldwell、Debra Dion Krischke、Danielle Cuomo撰寫，聚焦女性創業、企業家、實務案例，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "女性創業",
+      "企業家",
+      "實務案例"
+    ]
+  },
+  {
+    "title": "The Dynamics of Managing Diversity",
+    "author": "Gill Kirton、Anne-Marie Greene",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL8477902W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2000；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "多元管理",
+      "人力資源",
+      "組織文化"
+    ],
+    "summary": "本書由Gill Kirton、Anne-Marie Greene撰寫，聚焦多元管理、人力資源、組織文化，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "多元管理",
+      "人力資源",
+      "組織文化"
+    ]
+  },
+  {
+    "title": "The New Retirementality",
+    "author": "Mitch Anthony",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL5827037W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2001；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "退休規劃",
+      "理財",
+      "生活設計"
+    ],
+    "summary": "本書由Mitch Anthony撰寫，聚焦退休規劃、理財、生活設計，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "退休規劃",
+      "理財",
+      "生活設計"
+    ]
+  },
+  {
+    "title": "How to Win Campaigns",
+    "author": "Chris Rose",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL7974716W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2005；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "倡議",
+      "行銷活動",
+      "傳播"
+    ],
+    "summary": "本書由Chris Rose撰寫，聚焦倡議、行銷活動、傳播，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "倡議",
+      "行銷活動",
+      "傳播"
+    ]
+  },
+  {
+    "title": "Review of Marketing Research",
+    "author": "Naresh K. Malhotra",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL25724460W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2004；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "行銷研究",
+      "消費者",
+      "市場分析"
+    ],
+    "summary": "本書由Naresh K. Malhotra撰寫，聚焦行銷研究、消費者、市場分析，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "行銷研究",
+      "消費者",
+      "市場分析"
+    ]
+  },
+  {
+    "title": "Strategic Marketing",
+    "author": "Tony Proctor",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL1962170W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2000；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "策略行銷",
+      "定位",
+      "競爭"
+    ],
+    "summary": "本書由Tony Proctor撰寫，聚焦策略行銷、定位、競爭，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "策略行銷",
+      "定位",
+      "競爭"
+    ]
+  },
+  {
+    "title": "Social Media Marketing All-in-One for Dummies",
+    "author": "Jan Zimmerman",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20056309W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2010；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "社群行銷",
+      "內容",
+      "數位策略"
+    ],
+    "summary": "本書由Jan Zimmerman撰寫，聚焦社群行銷、內容、數位策略，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "社群行銷",
+      "內容",
+      "數位策略"
+    ]
+  },
+  {
+    "title": "Destination Marketing",
+    "author": "Steven Pike",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL21281286W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "目的地行銷",
+      "觀光",
+      "品牌"
+    ],
+    "summary": "本書由Steven Pike撰寫，聚焦目的地行銷、觀光、品牌，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "目的地行銷",
+      "觀光",
+      "品牌"
+    ]
+  },
+  {
+    "title": "Sponsorship in Marketing",
+    "author": "T. Bettina Cornwell",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL19992774W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "贊助行銷",
+      "品牌",
+      "效益衡量"
+    ],
+    "summary": "本書由T. Bettina Cornwell撰寫，聚焦贊助行銷、品牌、效益衡量，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "贊助行銷",
+      "品牌",
+      "效益衡量"
+    ]
+  },
+  {
+    "title": "Basic Marketing Research",
+    "author": "Naresh K. Malhotra",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL1959083W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2001；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "市場研究",
+      "資料分析",
+      "顧客洞察"
+    ],
+    "summary": "本書由Naresh K. Malhotra撰寫，聚焦市場研究、資料分析、顧客洞察，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "市場研究",
+      "資料分析",
+      "顧客洞察"
+    ]
+  },
+  {
+    "title": "Management",
+    "author": "Annie McKee",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20412530W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2010；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "管理",
+      "組織",
+      "領導"
+    ],
+    "summary": "本書由Annie McKee撰寫，聚焦管理、組織、領導，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "管理",
+      "組織",
+      "領導"
+    ]
+  },
+  {
+    "title": "The New Psychology of Leadership",
+    "author": "S. Alexander Haslam",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL16995812W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2010；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "領導心理",
+      "群體認同",
+      "影響力"
+    ],
+    "summary": "本書由S. Alexander Haslam撰寫，聚焦領導心理、群體認同、影響力，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "領導心理",
+      "群體認同",
+      "影響力"
+    ]
+  },
+  {
+    "title": "Snapshots of Great Leadership",
+    "author": "Jon P. Howell",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL16521674W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "領導案例",
+      "組織",
+      "管理"
+    ],
+    "summary": "本書由Jon P. Howell撰寫，聚焦領導案例、組織、管理，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "領導案例",
+      "組織",
+      "管理"
+    ]
+  },
+  {
+    "title": "Entrepreneurship Marketing",
+    "author": "Sonny Nwankwo、Ayantunji Gbadamosi",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20749628W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2010；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "創業行銷",
+      "新創",
+      "市場開發"
+    ],
+    "summary": "本書由Sonny Nwankwo、Ayantunji Gbadamosi撰寫，聚焦創業行銷、新創、市場開發，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "創業行銷",
+      "新創",
+      "市場開發"
+    ]
+  },
+  {
+    "title": "Responsible Leadership",
+    "author": "Thomas Maak、Nicola M. Pless",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL25201859W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2005；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "責任領導",
+      "企業倫理",
+      "利害關係人"
+    ],
+    "summary": "本書由Thomas Maak、Nicola M. Pless撰寫，聚焦責任領導、企業倫理、利害關係人，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "責任領導",
+      "企業倫理",
+      "利害關係人"
+    ]
+  },
+  {
+    "title": "New Venture Management",
+    "author": "Donald F. Kuratko、Jeffrey Hornsby",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL2761717W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "新創管理",
+      "成長",
+      "營運"
+    ],
+    "summary": "本書由Donald F. Kuratko、Jeffrey Hornsby撰寫，聚焦新創管理、成長、營運，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "新創管理",
+      "成長",
+      "營運"
+    ]
+  },
+  {
+    "title": "Understanding Social Entrepreneurship",
+    "author": "Jill Kickul、Thomas S. Lyons",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20749665W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "社會創業",
+      "影響力",
+      "商業模式"
+    ],
+    "summary": "本書由Jill Kickul、Thomas S. Lyons撰寫，聚焦社會創業、影響力、商業模式，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "社會創業",
+      "影響力",
+      "商業模式"
+    ]
+  },
+  {
+    "title": "Tribal Leadership",
+    "author": "David Logan、John King、Halee Fischer-Wright",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL11659147W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2007；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "組織文化",
+      "領導",
+      "團隊"
+    ],
+    "summary": "本書由David Logan、John King、Halee Fischer-Wright撰寫，聚焦組織文化、領導、團隊，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "組織文化",
+      "領導",
+      "團隊"
+    ]
+  }
+]

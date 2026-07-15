@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Chip War",
+    "author": "Chris Miller",
+    "categoryId": "07_other",
+    "tags": [
+      "其他",
+      "科技史",
+      "半導體",
+      "地緣政治"
+    ],
+    "summary": "追溯半導體產業與供應鏈的形成，說明晶片如何成為經濟、軍事與國際競爭的關鍵資源。",
+    "sourceName": "Open Library 歷史文化書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL27846746W",
+    "sourceDateNote": "Open Library 書目標示出版年份為 2022；擷取日期 2026-07-15，落在指定搜尋區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "The Anarchy",
+    "author": "William Dalrymple",
+    "categoryId": "07_other",
+    "tags": [
+      "其他",
+      "印度史",
+      "東印度公司",
+      "殖民史"
+    ],
+    "summary": "敘述東印度公司如何從商業組織擴張為統治力量，分析企業暴力、帝國崩解與殖民權力形成。",
+    "sourceName": "Open Library 歷史文化書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20707056W",
+    "sourceDateNote": "Open Library 版本書目標示出版日期為 2019-09-10；擷取日期 2026-07-15，落在指定搜尋區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  }
+]

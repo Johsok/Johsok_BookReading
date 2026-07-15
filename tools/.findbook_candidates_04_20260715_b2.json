@@ -1,0 +1,42 @@
+[
+  {
+    "title": "The Emperor of All Maladies",
+    "author": "Siddhartha Mukherjee",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL15540668W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2010；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "癌症",
+      "醫療史",
+      "治療"
+    ],
+    "summary": "本書由Siddhartha Mukherjee撰寫，聚焦癌症、醫療史、治療，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "癌症",
+      "醫療史",
+      "治療"
+    ]
+  },
+  {
+    "title": "The Great Influenza",
+    "author": "John M. Barry",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL7989229W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2004；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "流行病",
+      "公共衛生",
+      "醫療史"
+    ],
+    "summary": "本書由John M. Barry撰寫，聚焦流行病、公共衛生、醫療史，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "流行病",
+      "公共衛生",
+      "醫療史"
+    ]
+  }
+]

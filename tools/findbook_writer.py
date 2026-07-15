@@ -5,6 +5,7 @@ import json
 import os
 import re
 import tempfile
+import time
 import unicodedata
 from datetime import datetime
 from pathlib import Path
@@ -40,7 +41,14 @@ def write_json_atomic(path: Path, payload: dict | list) -> None:
             handle.flush()
             os.fsync(handle.fileno())
         json.loads(temp_path.read_text(encoding="utf-8"))
-        os.replace(temp_path, path)
+        for attempt in range(4):
+            try:
+                os.replace(temp_path, path)
+                break
+            except PermissionError:
+                if attempt == 3:
+                    raise
+                time.sleep(0.1 * (attempt + 1))
     finally:
         if temp_path.exists():
             temp_path.unlink()
@@ -62,7 +70,7 @@ def candidate_payload(candidate: dict, book_id: str, from_date: str, to_date: st
         raise ValueError(f"候選缺少欄位：{', '.join(missing)}")
     if not isinstance(candidate["tags"], list):
         raise ValueError(f"{candidate['title']} 的 tags 不是陣列")
-    return {
+    payload = {
         "id": book_id,
         "title": str(candidate["title"]).strip(),
         "author": str(candidate["author"]).strip(),
@@ -77,6 +85,10 @@ def candidate_payload(candidate: dict, book_id: str, from_date: str, to_date: st
         "chatgptStatus": "pending_codex",
         "highlightsSource": "pending_codex",
     }
+    work_id = str(candidate.get("workId", "")).strip()
+    if work_id:
+        payload["workId"] = work_id
+    return payload
 
 
 def book_relative_path(category_id: str, book_id: str) -> str:
@@ -84,7 +96,7 @@ def book_relative_path(category_id: str, book_id: str) -> str:
 
 
 def manifest_payload(book: dict, category_id: str) -> dict:
-    return {
+    payload = {
         "id": book["id"],
         "title": book["title"],
         "author": book["author"],
@@ -94,6 +106,9 @@ def manifest_payload(book: dict, category_id: str) -> dict:
         "sourceUrl": book["sourceUrl"],
         "file": book_relative_path(category_id, book["id"]),
     }
+    if book.get("workId"):
+        payload["workId"] = book["workId"]
+    return payload
 
 
 def resolve_category_id(args: argparse.Namespace, manifest: dict) -> str:

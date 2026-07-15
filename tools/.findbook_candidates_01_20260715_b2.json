@@ -1,0 +1,602 @@
+[
+  {
+    "title": "Blink",
+    "author": "Malcolm Gladwell",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL5749849W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2004；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "決策",
+      "直覺",
+      "管理"
+    ],
+    "summary": "本書由Malcolm Gladwell撰寫，聚焦決策、直覺、管理，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "決策",
+      "直覺",
+      "管理"
+    ]
+  },
+  {
+    "title": "Elon Musk",
+    "author": "Ashlee Vance",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17184556W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2013；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "企業家",
+      "創新",
+      "科技產業"
+    ],
+    "summary": "本書由Ashlee Vance撰寫，聚焦企業家、創新、科技產業，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "企業家",
+      "創新",
+      "科技產業"
+    ]
+  },
+  {
+    "title": "Entrepreneurship",
+    "author": "Bruce R. Barringer、R. Duane Ireland",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL7947084W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2004；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "創業",
+      "商業模式",
+      "新創管理"
+    ],
+    "summary": "本書由Bruce R. Barringer、R. Duane Ireland撰寫，聚焦創業、商業模式、新創管理，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "創業",
+      "商業模式",
+      "新創管理"
+    ]
+  },
+  {
+    "title": "Leadership and Self-Deception",
+    "author": "The Arbinger Institute",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL8921343W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2000；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "領導",
+      "自我覺察",
+      "組織關係"
+    ],
+    "summary": "本書由The Arbinger Institute撰寫，聚焦領導、自我覺察、組織關係，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "領導",
+      "自我覺察",
+      "組織關係"
+    ]
+  },
+  {
+    "title": "Strategic Management and Competitive Advantage",
+    "author": "Jay B. Barney、William S. Hesterly",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL3243279W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2007；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "策略管理",
+      "競爭優勢",
+      "資源配置"
+    ],
+    "summary": "本書由Jay B. Barney、William S. Hesterly撰寫，聚焦策略管理、競爭優勢、資源配置，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "策略管理",
+      "競爭優勢",
+      "資源配置"
+    ]
+  },
+  {
+    "title": "Hot, Flat, and Crowded",
+    "author": "Thomas L. Friedman",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL3740419W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "全球化",
+      "永續經營",
+      "產業趨勢"
+    ],
+    "summary": "本書由Thomas L. Friedman撰寫，聚焦全球化、永續經營、產業趨勢，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "全球化",
+      "永續經營",
+      "產業趨勢"
+    ]
+  },
+  {
+    "title": "E-Marketing",
+    "author": "Judy Strauss、Adel El-Ansary、Raymond Frost",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL7943607W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2002；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "數位行銷",
+      "網路商務",
+      "顧客經營"
+    ],
+    "summary": "本書由Judy Strauss、Adel El-Ansary、Raymond Frost撰寫，聚焦數位行銷、網路商務、顧客經營，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "數位行銷",
+      "網路商務",
+      "顧客經營"
+    ]
+  },
+  {
+    "title": "Advertising Media Planning",
+    "author": "Larry D. Kelley、Donald W. Jugenheimer",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL12292204W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2003；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "媒體規劃",
+      "廣告",
+      "行銷策略"
+    ],
+    "summary": "本書由Larry D. Kelley、Donald W. Jugenheimer撰寫，聚焦媒體規劃、廣告、行銷策略，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "媒體規劃",
+      "廣告",
+      "行銷策略"
+    ]
+  },
+  {
+    "title": "The Long Tail",
+    "author": "Chris Anderson",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL4091759W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2006；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "長尾理論",
+      "數位經濟",
+      "市場策略"
+    ],
+    "summary": "本書由Chris Anderson撰寫，聚焦長尾理論、數位經濟、市場策略，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "長尾理論",
+      "數位經濟",
+      "市場策略"
+    ]
+  },
+  {
+    "title": "The Tipping Point",
+    "author": "Malcolm Gladwell",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL5749848W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2000；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "傳播",
+      "社會影響",
+      "行銷"
+    ],
+    "summary": "本書由Malcolm Gladwell撰寫，聚焦傳播、社會影響、行銷，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "傳播",
+      "社會影響",
+      "行銷"
+    ]
+  },
+  {
+    "title": "The Leader Who Had No Title",
+    "author": "Robin S. Sharma",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL15093286W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2010；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "領導力",
+      "職涯",
+      "自我管理"
+    ],
+    "summary": "本書由Robin S. Sharma撰寫，聚焦領導力、職涯、自我管理，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "領導力",
+      "職涯",
+      "自我管理"
+    ]
+  },
+  {
+    "title": "Social Marketing",
+    "author": "Gerard Hastings",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL9487179W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2007；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "社會行銷",
+      "行為改變",
+      "公共溝通"
+    ],
+    "summary": "本書由Gerard Hastings撰寫，聚焦社會行銷、行為改變、公共溝通，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "社會行銷",
+      "行為改變",
+      "公共溝通"
+    ]
+  },
+  {
+    "title": "Nation Branding",
+    "author": "Keith Dinnie",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL9487177W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2007；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "國家品牌",
+      "品牌策略",
+      "國際行銷"
+    ],
+    "summary": "本書由Keith Dinnie撰寫，聚焦國家品牌、品牌策略、國際行銷，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "國家品牌",
+      "品牌策略",
+      "國際行銷"
+    ]
+  },
+  {
+    "title": "Strategic Integrated Marketing Communications",
+    "author": "Larry Percy",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL3291000W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2007；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "整合行銷",
+      "品牌溝通",
+      "策略"
+    ],
+    "summary": "本書由Larry Percy撰寫，聚焦整合行銷、品牌溝通、策略，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "整合行銷",
+      "品牌溝通",
+      "策略"
+    ]
+  },
+  {
+    "title": "Entrepreneurial Financial Management",
+    "author": "Jeffrey R. Cornwall",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20039853W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2015；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "創業財務",
+      "現金流",
+      "募資"
+    ],
+    "summary": "本書由Jeffrey R. Cornwall撰寫，聚焦創業財務、現金流、募資，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "創業財務",
+      "現金流",
+      "募資"
+    ]
+  },
+  {
+    "title": "Financial Services Marketing",
+    "author": "Christine Ennew",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL16957825W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2006；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "金融服務",
+      "行銷",
+      "顧客關係"
+    ],
+    "summary": "本書由Christine Ennew撰寫，聚焦金融服務、行銷、顧客關係，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "金融服務",
+      "行銷",
+      "顧客關係"
+    ]
+  },
+  {
+    "title": "Marketing Metrics",
+    "author": "Paul Farris",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL18553001W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2007；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "行銷衡量",
+      "數據決策",
+      "績效指標"
+    ],
+    "summary": "本書由Paul Farris撰寫，聚焦行銷衡量、數據決策、績效指標，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "行銷衡量",
+      "數據決策",
+      "績效指標"
+    ]
+  },
+  {
+    "title": "Business Plans Kit for Dummies",
+    "author": "Steven D. Peterson、Peter E. Jaret",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL16070198W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2001；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "商業計畫",
+      "創業",
+      "營運規劃"
+    ],
+    "summary": "本書由Steven D. Peterson、Peter E. Jaret撰寫，聚焦商業計畫、創業、營運規劃，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "商業計畫",
+      "創業",
+      "營運規劃"
+    ]
+  },
+  {
+    "title": "Export-Import Theory, Practices, and Procedures",
+    "author": "Belay Seyoum",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL21258717W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "國際貿易",
+      "進出口",
+      "商務流程"
+    ],
+    "summary": "本書由Belay Seyoum撰寫，聚焦國際貿易、進出口、商務流程，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "國際貿易",
+      "進出口",
+      "商務流程"
+    ]
+  },
+  {
+    "title": "Hispanic Marketing",
+    "author": "Felipe Korzenny",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL19720879W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2011；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "族群行銷",
+      "消費者洞察",
+      "市場區隔"
+    ],
+    "summary": "本書由Felipe Korzenny撰寫，聚焦族群行銷、消費者洞察、市場區隔，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "族群行銷",
+      "消費者洞察",
+      "市場區隔"
+    ]
+  },
+  {
+    "title": "Political Marketing",
+    "author": "Jennifer Lees-Marshment",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL18206215W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2005；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "政治行銷",
+      "品牌定位",
+      "傳播策略"
+    ],
+    "summary": "本書由Jennifer Lees-Marshment撰寫，聚焦政治行銷、品牌定位、傳播策略，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "政治行銷",
+      "品牌定位",
+      "傳播策略"
+    ]
+  },
+  {
+    "title": "Advertising and Promotion",
+    "author": "Chris Hackley",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL8500697W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2005；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "廣告",
+      "促銷",
+      "品牌溝通"
+    ],
+    "summary": "本書由Chris Hackley撰寫，聚焦廣告、促銷、品牌溝通，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "廣告",
+      "促銷",
+      "品牌溝通"
+    ]
+  },
+  {
+    "title": "Designing Brand Identity",
+    "author": "Alina Wheeler",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL19720097W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "品牌識別",
+      "設計管理",
+      "品牌策略"
+    ],
+    "summary": "本書由Alina Wheeler撰寫，聚焦品牌識別、設計管理、品牌策略，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "品牌識別",
+      "設計管理",
+      "品牌策略"
+    ]
+  },
+  {
+    "title": "E-Commerce",
+    "author": "Kenneth C. Laudon、Carol Guercio Traver",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL58230W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2002；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "電子商務",
+      "數位平台",
+      "商業模式"
+    ],
+    "summary": "本書由Kenneth C. Laudon、Carol Guercio Traver撰寫，聚焦電子商務、數位平台、商業模式，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "電子商務",
+      "數位平台",
+      "商業模式"
+    ]
+  },
+  {
+    "title": "Lean Six Sigma for Dummies",
+    "author": "Martin Brenig-Jones",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17521157W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "流程改善",
+      "精實管理",
+      "品質管理"
+    ],
+    "summary": "本書由Martin Brenig-Jones撰寫，聚焦流程改善、精實管理、品質管理，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "流程改善",
+      "精實管理",
+      "品質管理"
+    ]
+  },
+  {
+    "title": "The Everything Store",
+    "author": "Brad Stone",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL16808249W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2013；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "Amazon",
+      "企業成長",
+      "平台策略"
+    ],
+    "summary": "本書由Brad Stone撰寫，聚焦Amazon、企業成長、平台策略，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "Amazon",
+      "企業成長",
+      "平台策略"
+    ]
+  },
+  {
+    "title": "Essential Personal Finance",
+    "author": "Lien Luu、Jonquil Lowe、Jason Butler、Tony Byrne",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL21323581W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2017；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "個人理財",
+      "資產配置",
+      "財務規劃"
+    ],
+    "summary": "本書由Lien Luu、Jonquil Lowe、Jason Butler、Tony Byrne撰寫，聚焦個人理財、資產配置、財務規劃，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "個人理財",
+      "資產配置",
+      "財務規劃"
+    ]
+  },
+  {
+    "title": "How Google Works",
+    "author": "Eric Schmidt、Jonathan Rosenberg",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17276241W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "Google",
+      "企業管理",
+      "創新文化"
+    ],
+    "summary": "本書由Eric Schmidt、Jonathan Rosenberg撰寫，聚焦Google、企業管理、創新文化，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "Google",
+      "企業管理",
+      "創新文化"
+    ]
+  },
+  {
+    "title": "The Entrepreneurial State",
+    "author": "Mariana Mazzucato",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL16808725W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2011；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "創新政策",
+      "公共投資",
+      "產業發展"
+    ],
+    "summary": "本書由Mariana Mazzucato撰寫，聚焦創新政策、公共投資、產業發展，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "創新政策",
+      "公共投資",
+      "產業發展"
+    ]
+  },
+  {
+    "title": "The Speed of Trust",
+    "author": "Stephen M. R. Covey、Rebecca R. Merrill",
+    "categoryId": "01_business_startup",
+    "sourceName": "Open Library 商業理財主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL8454218W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2006；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "商業理財",
+      "信任",
+      "領導",
+      "組織效能"
+    ],
+    "summary": "本書由Stephen M. R. Covey、Rebecca R. Merrill撰寫，聚焦信任、領導、組織效能，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "信任",
+      "領導",
+      "組織效能"
+    ]
+  }
+]

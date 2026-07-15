@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Chef Express",
+    "author": "Trident Press International",
+    "categoryId": "05_food_wellness",
+    "sourceName": "Open Library 飲食養生主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL8945763W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2003；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "飲食養生",
+      "料理",
+      "Casserole cooking",
+      "Diabetes"
+    ],
+    "summary": "《Chef Express》由Trident Press International撰寫，書目主題涵蓋料理、Casserole cooking、Diabetes；本次依飲食養生閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "料理",
+      "Casserole cooking",
+      "Diabetes"
+    ],
+    "firstPublishYear": 2003,
+    "workId": "findbook-20260715-195429-b5"
+  },
+  {
+    "title": "Food Production Operations",
+    "author": "Parvinder S. Bali",
+    "categoryId": "05_food_wellness",
+    "sourceName": "Open Library 飲食養生主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21018244W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "飲食養生",
+      "料理",
+      "Hotel management",
+      "Food service management"
+    ],
+    "summary": "《Food Production Operations》由Parvinder S. Bali撰寫，書目主題涵蓋料理、Hotel management、Food service management；本次依飲食養生閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "料理",
+      "Hotel management",
+      "Food service management"
+    ],
+    "firstPublishYear": 2009,
+    "workId": "findbook-20260715-195429-b5"
+  }
+]

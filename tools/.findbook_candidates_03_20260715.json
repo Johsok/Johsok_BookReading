@@ -1,0 +1,192 @@
+[
+  {
+    "title": "The Gene",
+    "author": "Siddhartha Mukherjee",
+    "categoryId": "03_natural_science",
+    "tags": [
+      "自然科學",
+      "遺傳學",
+      "基因",
+      "科學史"
+    ],
+    "summary": "回顧基因概念、遺傳研究與人類基因體發展，並討論遺傳知識的力量與倫理邊界。",
+    "sourceName": "Open Library 自然科學書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17762235W",
+    "sourceDateNote": "Open Library 書目標示出版年份為 2016；擷取日期 2026-07-15，落在指定搜尋區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "The Code Breaker",
+    "author": "Walter Isaacson",
+    "categoryId": "03_natural_science",
+    "tags": [
+      "自然科學",
+      "CRISPR",
+      "基因編輯",
+      "生物科技"
+    ],
+    "summary": "以 Jennifer Doudna 與 CRISPR 發展為主線，說明基因編輯的科學突破、競爭與倫理問題。",
+    "sourceName": "Open Library 自然科學書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL24217656W",
+    "sourceDateNote": "Open Library 版本書目標示出版年份為 2021；擷取日期 2026-07-15，落在指定搜尋區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Entangled Life",
+    "author": "Merlin Sheldrake",
+    "categoryId": "03_natural_science",
+    "tags": [
+      "自然科學",
+      "真菌",
+      "生態學",
+      "共生"
+    ],
+    "summary": "探索真菌如何分解物質、連結植物並塑造生態系，重新理解生命個體與共生網絡。",
+    "sourceName": "Open Library 自然科學書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20758206W",
+    "sourceDateNote": "Open Library 書目標示出版年份為 2020；擷取日期 2026-07-15，落在指定搜尋區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Other Minds",
+    "author": "Peter Godfrey-Smith",
+    "categoryId": "03_natural_science",
+    "tags": [
+      "自然科學",
+      "章魚",
+      "演化",
+      "動物意識"
+    ],
+    "summary": "從頭足類的演化與行為研究切入，探討智慧、神經系統與意識如何在不同生命支系出現。",
+    "sourceName": "Open Library 自然科學書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17894924W",
+    "sourceDateNote": "Open Library 書目標示出版年份為 2016；擷取日期 2026-07-15，落在指定搜尋區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "An Immense World",
+    "author": "Ed Yong",
+    "categoryId": "03_natural_science",
+    "tags": [
+      "自然科學",
+      "動物感官",
+      "生理學",
+      "動物行為"
+    ],
+    "summary": "以多種動物的感官系統為例，呈現不同物種如何感知聲音、光、氣味、電場與磁場。",
+    "sourceName": "Open Library 自然科學書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL25815646W",
+    "sourceDateNote": "Open Library 書目標示出版年份為 2022；擷取日期 2026-07-15，落在指定搜尋區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "The Hidden Life of Trees",
+    "author": "Peter Wohlleben",
+    "categoryId": "03_natural_science",
+    "tags": [
+      "自然科學",
+      "森林生態",
+      "樹木",
+      "生態網絡"
+    ],
+    "summary": "以森林觀察與生態研究說明樹木的資源交換、溝通、防禦，以及森林群落的相互依存。",
+    "sourceName": "Open Library 自然科學書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17711762W",
+    "sourceDateNote": "Open Library 書目標示原作年份為 2015；擷取日期 2026-07-15，落在指定搜尋區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "The Order of Time",
+    "author": "Carlo Rovelli",
+    "categoryId": "03_natural_science",
+    "tags": [
+      "自然科學",
+      "時間",
+      "物理學",
+      "量子重力"
+    ],
+    "summary": "從相對論、熱力學與量子理論拆解日常時間觀，說明時間的方向、尺度與觀察者關係。",
+    "sourceName": "Open Library 自然科學書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17870579W",
+    "sourceDateNote": "Open Library 書目標示原作年份為 2017；擷取日期 2026-07-15，落在指定搜尋區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Seven Brief Lessons on Physics",
+    "author": "Carlo Rovelli",
+    "categoryId": "03_natural_science",
+    "tags": [
+      "自然科學",
+      "現代物理",
+      "相對論",
+      "量子力學"
+    ],
+    "summary": "以七個主題介紹相對論、量子力學、粒子、宇宙與黑洞，建立現代物理的核心輪廓。",
+    "sourceName": "Open Library 自然科學書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17319394W",
+    "sourceDateNote": "Open Library 書目標示原作年份為 2014；擷取日期 2026-07-15，落在指定搜尋區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Something Deeply Hidden",
+    "author": "Sean M. Carroll",
+    "categoryId": "03_natural_science",
+    "tags": [
+      "自然科學",
+      "量子力學",
+      "多世界詮釋",
+      "時空"
+    ],
+    "summary": "從量子測量問題出發，闡述多世界詮釋及其對現實、波函數與時空起源的意義。",
+    "sourceName": "Open Library 自然科學書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20128006W",
+    "sourceDateNote": "Open Library 書目標示出版年份為 2019；擷取日期 2026-07-15，落在指定搜尋區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "The Beginning of Infinity",
+    "author": "David Deutsch",
+    "categoryId": "03_natural_science",
+    "tags": [
+      "自然科學",
+      "科學哲學",
+      "解釋",
+      "知識進步"
+    ],
+    "summary": "探討好解釋如何推動知識無限進步，並連結物理學、演化、創造力與文化發展。",
+    "sourceName": "Open Library 自然科學書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL4325174W",
+    "sourceDateNote": "Open Library 英文版本書目標示出版年份為 2011；擷取日期 2026-07-15，落在指定搜尋區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  }
+]

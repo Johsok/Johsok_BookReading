@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Mountains Beyond Mountains",
+    "author": "Tracy Kidder",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL98216W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2003；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "全球醫療",
+      "公共衛生",
+      "醫師故事"
+    ],
+    "summary": "本書由Tracy Kidder撰寫，聚焦全球醫療、公共衛生、醫師故事，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "全球醫療",
+      "公共衛生",
+      "醫師故事"
+    ]
+  },
+  {
+    "title": "When the Body Says No",
+    "author": "Gabor Maté",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL8299076W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2003；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "壓力",
+      "身心健康",
+      "慢性病"
+    ],
+    "summary": "本書由Gabor Maté撰寫，聚焦壓力、身心健康、慢性病，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "壓力",
+      "身心健康",
+      "慢性病"
+    ]
+  }
+]

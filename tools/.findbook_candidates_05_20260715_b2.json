@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Food Rules",
+    "author": "Michael Pollan",
+    "categoryId": "05_food_wellness",
+    "sourceName": "Open Library 飲食養生主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL14873323W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "飲食養生",
+      "飲食原則",
+      "營養",
+      "健康飲食"
+    ],
+    "summary": "本書由Michael Pollan撰寫，聚焦飲食原則、營養、健康飲食，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "飲食原則",
+      "營養",
+      "健康飲食"
+    ]
+  },
+  {
+    "title": "In Defense of Food",
+    "author": "Michael Pollan",
+    "categoryId": "05_food_wellness",
+    "sourceName": "Open Library 飲食養生主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL3296482W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "飲食養生",
+      "飲食文化",
+      "營養",
+      "加工食品"
+    ],
+    "summary": "本書由Michael Pollan撰寫，聚焦飲食文化、營養、加工食品，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "飲食文化",
+      "營養",
+      "加工食品"
+    ]
+  }
+]

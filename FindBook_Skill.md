@@ -26,11 +26,19 @@
 - `06_電腦資訊`
 - `07_其他`
 
+## 新批次與續跑判定
+
+1. 使用者每次重新提出「找新書」或「新增新書」要求，都視為一個全新批次；即使主題、配額、日期區間與先前完全相同，也必須重新完成本次要求的全部新書配額。
+2. 每個全新批次啟動時必須配置唯一 `workId`。批次是否相同只能依 `workId` 判斷，不得用日期、主題、配額、提示詞文字、`queue=0`、`generatedFrom` 或既有完成數量推定為同一批次。
+3. 既有書籍只用於正規化「書名 + 作者」去重，不得計入或抵扣新批次配額；候選已存在時必須改找下一本新書，直到本次各分類配額全部完成。
+4. 只有使用者明確要求「續跑」、「驗證」或「不新增」，或目前存在同一 `workId` 的 pending 工作時，才可停止建立新批次並改為續跑或驗證。
+5. `queue=0` 只表示目前沒有待處理模型工作，`validate` 通過只表示既有資料有效；兩者都不得作為全新找書要求已完成的證明。
+
 ## 快速執行總流程
 
 1. 啟動時讀取 `data.json`，再依各索引列的 `file` 讀取本次涉及的 `Books/{categoryId}/{book-id}.json` 單書檔，建立正規化「書名 + 作者」索引、ID 索引及 Codex 狀態索引。`data.json` 是跨 worker 去重的權威來源；每次新書登記成功後立即更新共享索引，worker 不得長期使用啟動時的舊快照。
-2. 先做狀態式續跑：Codex 重點已驗收完成的書直接略過；仍為 pending 的書只排入 Codex 佇列。只有可明確判定為中斷造成的索引缺漏可依 checkpoint 修復，其他結構異常先隔離回報，不得自動覆寫。
-3. 若同一批次已存在，只續跑尚未完成的 Codex 工作，不得重建或重複附加。若是全新的找書要求，既有書不計入新書配額，改找下一個新候選。
+2. 先依「新批次與續跑判定」確認意圖：全新找書要求先配置唯一 `workId` 並建立完整新書配額；只有明確續跑或同一 `workId` 尚有 pending 時才進入狀態式續跑。
+3. 續跑時，Codex 重點已驗收完成的書直接略過，仍為 pending 的書只排入 Codex 佇列。只有可明確判定為中斷造成的索引缺漏可依 checkpoint 修復，其他結構異常先隔離回報，不得自動覆寫。
 4. 全流程採流水線：候選書通過日期、去重及分類後，先完成 `data.json` 即時登記 checkpoint；只有登記成功的書才能送入 Codex 佇列。搜尋剩餘書籍、Codex 產生、驗收與寫入可同步推進。
 5. worker 只回傳隔離結果；Codex 取得並驗收完整 150 點後，立即交由單一 writer 寫入相應單書 JSON，不得為了湊批次延後保存。
 6. 每次即時寫入後只驗證受影響資料；全部工作結束後才做一次全庫驗證與一次 UI 冒煙測試。
@@ -67,11 +75,11 @@
 5. 同一 checkpoint 先建立並驗證 `Books/{categoryId}/{book-id}.json` pending 骨架，再原子寫入並驗證 `data.json` 索引；索引列必須包含單書檔 `file` 路徑，pending 骨架需包含完整基本資料、`categoryId`、空的 highlights 及相容 pending 狀態。`data.json` 最後寫入，作為 reservation 已提交的標記。
 6. 只有 writer 重新讀取 `data.json`、確認該組「書名 + 作者」只出現一次，並回傳 `committed + book ID` 後，Codex worker 才能開始產生重點；後續所有工作都以該 ID 為主鍵。
 7. 每次 committed 後立即更新並通知所有 worker 使用最新索引。下一個候選仍必須交給 reservation writer 原子檢查，不得只相信自己的舊快照。
-8. 若 writer 回傳已存在：Codex 重點已完成就略過；若屬同一批次且仍為 pending，只排入 Codex 佇列；全新找書配額則改找下一本，不得新增第二筆。
+8. 若 writer 回傳已存在：只有同一 `workId` 且仍為 pending 才排入 Codex 佇列；其他 `workId` 的既有書不計入本次配額，必須改找下一本新書，不得新增重複書籍。
 
 ## 多工整理規則
 
-1. 中央排程器維護 Codex 與 retry 兩個佇列；每個工作至少包含：書名、作者、分類、來源資訊、`searchDateRange`、`workId`、`attemptCount`、最後錯誤及 `queued → submitted → captured → validated → written` 狀態。
+1. 中央排程器維護 Codex 與 retry 兩個佇列；同一批次的每個工作都必須帶入該批次唯一 `workId`，並至少包含：書名、作者、分類、來源資訊、`searchDateRange`、`attemptCount`、最後錯誤及 `queued → submitted → captured → validated → written` 狀態。
 2. Codex 依穩定上限啟動 worker；每本書使用獨立工作與獨立結果暫存。worker 不得直接寫正式 JSON。
 3. 必須以 reservation writer 已提交到 `data.json` 的 book ID 防止本批次重複；共享 reservation set 只快取 committed 索引。後續用「book ID + workId」追蹤結果，避免跨書寫入。
 4. 同一執行階段只確認一次 `codexMaxWorkers`，後續沿用最後穩定值；不得每本書或每個批次重新從 1 開始測試。

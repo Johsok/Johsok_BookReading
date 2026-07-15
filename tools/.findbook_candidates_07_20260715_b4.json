@@ -1,0 +1,46 @@
+[
+  {
+    "title": "21 Lessons for the 21st Century",
+    "author": "Yuval Noah Harari",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL17917961W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2018；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "歷史",
+      "Modern Civilization",
+      "Twenty-first century"
+    ],
+    "summary": "《21 Lessons for the 21st Century》由Yuval Noah Harari撰寫，書目主題涵蓋歷史、Modern Civilization、Twenty-first century；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "歷史",
+      "Modern Civilization",
+      "Twenty-first century"
+    ],
+    "firstPublishYear": 2018,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Capitalist Realism",
+    "author": "Mark Fisher",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL15683250W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "歷史",
+      "Accelerationism",
+      "Postmoderne"
+    ],
+    "summary": "《Capitalist Realism》由Mark Fisher撰寫，書目主題涵蓋歷史、Accelerationism、Postmoderne；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "歷史",
+      "Accelerationism",
+      "Postmoderne"
+    ],
+    "firstPublishYear": 2009,
+    "workId": "findbook-20260715-194023-b4"
+  }
+]

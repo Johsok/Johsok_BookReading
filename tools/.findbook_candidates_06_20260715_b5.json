@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Pro Git",
+    "author": "Scott Chacon、Ben Straub",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16310859W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "軟體工程",
+      "Computer science",
+      "Software engineering"
+    ],
+    "summary": "《Pro Git》由Scott Chacon、Ben Straub撰寫，書目主題涵蓋軟體工程、Computer science、Software engineering；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "軟體工程",
+      "Computer science",
+      "Software engineering"
+    ],
+    "firstPublishYear": 2009,
+    "workId": "findbook-20260715-195429-b5"
+  },
+  {
+    "title": "Accelerate",
+    "author": "Nicole Forsgren、Jez Humble、Gene Kim",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19542983W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2018；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "軟體工程",
+      "Software engineering",
+      "Teams"
+    ],
+    "summary": "《Accelerate》由Nicole Forsgren、Jez Humble、Gene Kim撰寫，書目主題涵蓋軟體工程、Software engineering、Teams；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "軟體工程",
+      "Software engineering",
+      "Teams"
+    ],
+    "firstPublishYear": 2018,
+    "workId": "findbook-20260715-195429-b5"
+  }
+]

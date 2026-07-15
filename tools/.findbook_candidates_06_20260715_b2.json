@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Hacking for Dummies",
+    "author": "Kevin Beaver",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL6035941W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2004；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "資安",
+      "滲透測試",
+      "風險管理"
+    ],
+    "summary": "本書由Kevin Beaver撰寫，聚焦資安、滲透測試、風險管理，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "資安",
+      "滲透測試",
+      "風險管理"
+    ]
+  },
+  {
+    "title": "Raspberry Pi User Guide",
+    "author": "Eben Upton",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17451852W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "Raspberry Pi",
+      "硬體",
+      "程式設計"
+    ],
+    "summary": "本書由Eben Upton撰寫，聚焦Raspberry Pi、硬體、程式設計，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "Raspberry Pi",
+      "硬體",
+      "程式設計"
+    ]
+  }
+]

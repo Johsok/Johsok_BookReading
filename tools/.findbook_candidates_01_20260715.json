@@ -1,0 +1,572 @@
+[
+  {
+    "title": "Creativity, Inc",
+    "author": "Ed Catmull",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "創意管理",
+      "企業文化",
+      "創新"
+    ],
+    "summary": "以 Pixar 的管理經驗說明如何打造能坦誠回饋、容許試錯並持續產出創意的組織。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL23361858W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "The Hard Thing About Hard Things",
+    "author": "Ben Horowitz",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "創業管理",
+      "執行長",
+      "危機決策"
+    ],
+    "summary": "從矽谷創業實戰解析裁員、組織衝突、人才配置與企業危機中的艱難決策。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL16818208W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Blitzscaling",
+    "author": "Reid Hoffman",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "高速成長",
+      "規模化",
+      "競爭策略"
+    ],
+    "summary": "說明企業在不確定環境下如何優先追求速度、快速擴張並建立規模優勢。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL18027210W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2018；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Hooked",
+    "author": "Nir Eyal",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "產品設計",
+      "使用者習慣",
+      "成長"
+    ],
+    "summary": "以觸發、行動、變動獎賞與投入四階段模型，解釋產品如何形成使用習慣。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL19992071W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Traction",
+    "author": "Gabriel Weinberg",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "新創成長",
+      "獲客",
+      "行銷渠道"
+    ],
+    "summary": "整理十九種獲客渠道與 Bullseye 測試框架，協助新創找到可持續擴張的成長引擎。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20015670W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "The Mom Test",
+    "author": "Rob Fitzpatrick",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "顧客訪談",
+      "需求驗證",
+      "創業"
+    ],
+    "summary": "教創業者避開誘導式提問，從顧客過往行為與承諾取得可信的需求證據。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL23982116W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Built to Sell",
+    "author": "John Warrillow",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "企業價值",
+      "流程標準化",
+      "退出策略"
+    ],
+    "summary": "透過寓言式案例說明如何降低公司對創辦人的依賴，建立可複製且可出售的企業。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL16149036W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2011；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Purple Cow",
+    "author": "Seth Godin",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "差異化",
+      "品牌",
+      "行銷"
+    ],
+    "summary": "主張產品必須具備值得談論的顯著差異，才能在資訊過載市場中被看見。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL2329258W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2002；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "This Is Marketing",
+    "author": "Seth Godin",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "市場定位",
+      "顧客價值",
+      "品牌"
+    ],
+    "summary": "以最小可行市場、同理心與信任為核心，重新界定行銷如何服務特定族群。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL19764632W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2018；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Contagious",
+    "author": "Jonah Berger",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "口碑行銷",
+      "社群傳播",
+      "消費行為"
+    ],
+    "summary": "提出 STEPPS 六原則，分析產品、觀念與內容為何會被主動分享並形成口碑。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL19711031W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2013；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Made to Stick",
+    "author": "Chip Heath、Dan Heath",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "商務溝通",
+      "創意傳播",
+      "說服"
+    ],
+    "summary": "歸納簡單、意外、具體、可信、情感與故事六項特質，讓商業訊息更容易被理解與記住。",
+    "sourceName": "Open Library 商業理財書目（頁面人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL8423528W",
+    "sourceDateNote": "Open Library 版本頁標示出版日期為 2007-01-02；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Building A StoryBrand",
+    "author": "Donald Miller",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "品牌故事",
+      "行銷訊息",
+      "顧客旅程"
+    ],
+    "summary": "運用故事結構釐清品牌訊息，讓顧客成為主角並清楚理解產品價值與行動方向。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL19347277W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2017；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Obviously Awesome",
+    "author": "April Dunford",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "產品定位",
+      "競爭分析",
+      "市場策略"
+    ],
+    "summary": "提供一套系統化定位流程，從替代方案、差異化價值與目標客群找出產品最佳市場脈絡。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20873429W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2019；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "The 1-page marketing plan",
+    "author": "Allan Dib",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "行銷計畫",
+      "獲客",
+      "顧客經營"
+    ],
+    "summary": "以一頁九格架構整合市場選擇、訊息、媒體、成交、交付與顧客終身價值。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20043319W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Hacking growth",
+    "author": "Sean Ellis",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "成長駭客",
+      "實驗",
+      "數據決策"
+    ],
+    "summary": "說明跨職能團隊如何用快速實驗與數據分析改善獲客、啟用、留存與變現。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20054781W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2017；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Play bigger",
+    "author": "Al Ramadan",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "品類設計",
+      "市場策略",
+      "定位"
+    ],
+    "summary": "探討企業如何定義新產品品類、設計市場認知並成為該品類的代表品牌。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20039913W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Subscribed",
+    "author": "Tien Tzuo",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "訂閱經濟",
+      "商業模式",
+      "顧客關係"
+    ],
+    "summary": "分析企業從一次性銷售轉向訂閱模式時，產品、收入與組織流程必須如何改變。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL19755362W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2018；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "The automatic customer",
+    "author": "John Warrillow",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "訂閱模式",
+      "現金流",
+      "顧客留存"
+    ],
+    "summary": "整理多種訂閱商業模式，說明如何創造經常性收入並提高顧客與企業價值。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL19996513W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2015；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "The pumpkin plan",
+    "author": "Mike Michalowicz",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "客群聚焦",
+      "企業成長",
+      "資源配置"
+    ],
+    "summary": "借用培育巨型南瓜的概念，主張淘汰低價值業務並集中資源服務最佳客群。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL16474554W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Scaling Up",
+    "author": "Verne Harnish",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "企業成長",
+      "策略執行",
+      "現金流"
+    ],
+    "summary": "以人才、策略、執行與現金四大面向，建立成長型企業可持續擴張的管理節奏。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17191894W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Dare to lead",
+    "author": "Brené Brown",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "領導力",
+      "勇氣",
+      "組織文化"
+    ],
+    "summary": "將脆弱、價值觀、信任與韌性轉化為可練習的領導技能，支持坦誠而勇敢的團隊文化。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL19754782W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2018；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Multipliers",
+    "author": "Liz Wiseman",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "人才管理",
+      "領導力",
+      "團隊績效"
+    ],
+    "summary": "比較放大者與壓縮者兩種領導模式，說明主管如何釋放團隊智慧與責任感。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL18569599W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2010；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Extreme ownership",
+    "author": "Jocko Willink、Leif Babin",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "領導力",
+      "責任文化",
+      "團隊執行"
+    ],
+    "summary": "以軍事領導案例說明主管承擔完整責任、簡化計畫、設定優先順序與分散指揮的重要性。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20017105W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2015；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "The culture code",
+    "author": "Daniel Coyle",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "企業文化",
+      "心理安全",
+      "團隊合作"
+    ],
+    "summary": "從高績效團隊案例歸納安全感、共享脆弱與共同使命如何塑造合作文化。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL19670476W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2018；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "The coaching habit",
+    "author": "Michael Bungay Stanier",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "教練式領導",
+      "提問",
+      "人才發展"
+    ],
+    "summary": "用七個核心問題幫助主管少給答案、多促進思考，建立日常教練式管理習慣。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20038440W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Work Rules! Insights from Inside Google That Will Transform How You Live and Lead",
+    "author": "Laszlo Bock",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "人力資源",
+      "人才管理",
+      "Google"
+    ],
+    "summary": "以 Google 人才實務說明招募、授權、績效、薪酬與資料導向人資決策。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17104519W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2015；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "The Startup Owners Manual",
+    "author": "Steve Blank、Bob Dorf",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "顧客開發",
+      "新創",
+      "商業模式"
+    ],
+    "summary": "提供以顧客發現、驗證、創造與組織建立為核心的新創執行手冊。",
+    "sourceName": "Open Library 商業理財書目（頁面人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL16793860W",
+    "sourceDateNote": "Open Library 頁面標示出版年份為 2012；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Disciplined Entrepreneurship",
+    "author": "Bill Aulet",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "創業方法",
+      "市場區隔",
+      "產品策略"
+    ],
+    "summary": "以二十四個步驟串聯市場選擇、顧客輪廓、價值主張、商業模式與產品驗證。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL21508040W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2013；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "The founder's dilemmas",
+    "author": "Noam Wasserman",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "創辦人",
+      "股權設計",
+      "團隊治理"
+    ],
+    "summary": "以大量新創資料分析共同創辦、股權、控制權與成長選擇中常見且可預防的衝突。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL16152741W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "The art of startup fundraising",
+    "author": "Alejandro Cremades",
+    "categoryId": "01_business_startup",
+    "tags": [
+      "商業理財",
+      "新創募資",
+      "投資人",
+      "簡報"
+    ],
+    "summary": "整理新創募資流程，涵蓋投資人搜尋、募資簡報、估值、談判與交易執行。",
+    "sourceName": "Open Library 商業理財書目（API 人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20027583W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-15，落在指定區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "title": "Musicophilia",
+    "author": "Oliver Sacks",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL277255W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2007；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "音樂心理",
+      "神經科學",
+      "生命故事"
+    ],
+    "summary": "本書由Oliver Sacks撰寫，聚焦音樂心理、神經科學、生命故事，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "音樂心理",
+      "神經科學",
+      "生命故事"
+    ]
+  },
+  {
+    "title": "Big Magic",
+    "author": "Elizabeth Gilbert",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17356845W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "創造力",
+      "勇氣",
+      "自我成長"
+    ],
+    "summary": "本書由Elizabeth Gilbert撰寫，聚焦創造力、勇氣、自我成長，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "創造力",
+      "勇氣",
+      "自我成長"
+    ]
+  },
+  {
+    "title": "I Know This to Be True",
+    "author": "Geoff Blackwell、Ruth Hobday",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL21665201W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "生命智慧",
+      "價值觀",
+      "韌性"
+    ],
+    "summary": "本書由Geoff Blackwell、Ruth Hobday撰寫，聚焦生命智慧、價值觀、韌性，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "生命智慧",
+      "價值觀",
+      "韌性"
+    ]
+  },
+  {
+    "title": "Feeling Is the Secret",
+    "author": "Neville Goddard",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL4492042W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2004；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "信念",
+      "情緒",
+      "自我暗示"
+    ],
+    "summary": "本書由Neville Goddard撰寫，聚焦信念、情緒、自我暗示，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "信念",
+      "情緒",
+      "自我暗示"
+    ]
+  },
+  {
+    "title": "The Greatness Guide",
+    "author": "Robin S. Sharma",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL276493W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2006；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "自我成長",
+      "習慣",
+      "領導自己"
+    ],
+    "summary": "本書由Robin S. Sharma撰寫，聚焦自我成長、習慣、領導自己，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "自我成長",
+      "習慣",
+      "領導自己"
+    ]
+  },
+  {
+    "title": "What Should I Do With My Life?",
+    "author": "Po Bronson",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL3292805W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2002；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "人生選擇",
+      "職涯",
+      "自我探索"
+    ],
+    "summary": "本書由Po Bronson撰寫，聚焦人生選擇、職涯、自我探索，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "人生選擇",
+      "職涯",
+      "自我探索"
+    ]
+  },
+  {
+    "title": "David and Goliath",
+    "author": "Malcolm Gladwell",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL16809805W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2013；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "逆境",
+      "優勢",
+      "韌性"
+    ],
+    "summary": "本書由Malcolm Gladwell撰寫，聚焦逆境、優勢、韌性，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "逆境",
+      "優勢",
+      "韌性"
+    ]
+  },
+  {
+    "title": "Maybe You Should Talk to Someone",
+    "author": "Lori Gottlieb",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL19791590W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2019；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "心理治療",
+      "自我理解",
+      "關係"
+    ],
+    "summary": "本書由Lori Gottlieb撰寫，聚焦心理治療、自我理解、關係，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "心理治療",
+      "自我理解",
+      "關係"
+    ]
+  },
+  {
+    "title": "Overcoming Anxiety for Dummies",
+    "author": "Charles H. Elliott、Laura L. Smith",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL538233W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2002；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "焦慮",
+      "認知行為",
+      "自助練習"
+    ],
+    "summary": "本書由Charles H. Elliott、Laura L. Smith撰寫，聚焦焦慮、認知行為、自助練習，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "焦慮",
+      "認知行為",
+      "自助練習"
+    ]
+  },
+  {
+    "title": "The Antidote",
+    "author": "Oliver Burkeman",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL16681873W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正向思考",
+      "不確定性",
+      "心理韌性"
+    ],
+    "summary": "本書由Oliver Burkeman撰寫，聚焦正向思考、不確定性、心理韌性，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "正向思考",
+      "不確定性",
+      "心理韌性"
+    ]
+  },
+  {
+    "title": "You Are a Badass",
+    "author": "Jen Sincero",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17102197W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2013；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "自信",
+      "行動",
+      "自我成長"
+    ],
+    "summary": "本書由Jen Sincero撰寫，聚焦自信、行動、自我成長，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "自信",
+      "行動",
+      "自我成長"
+    ]
+  },
+  {
+    "title": "Everything Is F*cked",
+    "author": "Mark Manson",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20657486W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2019；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "希望",
+      "價值觀",
+      "現代焦慮"
+    ],
+    "summary": "本書由Mark Manson撰寫，聚焦希望、價值觀、現代焦慮，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "希望",
+      "價值觀",
+      "現代焦慮"
+    ]
+  },
+  {
+    "title": "Come as You Are",
+    "author": "Emily Nagoski",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17870214W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2015；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "身體認知",
+      "親密關係",
+      "自我接納"
+    ],
+    "summary": "本書由Emily Nagoski撰寫，聚焦身體認知、親密關係、自我接納，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "身體認知",
+      "親密關係",
+      "自我接納"
+    ]
+  },
+  {
+    "title": "Goals!",
+    "author": "Brian Tracy",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL2392330W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2003；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "目標設定",
+      "行動計畫",
+      "自律"
+    ],
+    "summary": "本書由Brian Tracy撰寫，聚焦目標設定、行動計畫、自律，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "目標設定",
+      "行動計畫",
+      "自律"
+    ]
+  },
+  {
+    "title": "Family Wisdom from the Monk Who Sold His Ferrari",
+    "author": "Robin S. Sharma",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL1854797W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2001；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "家庭關係",
+      "生活平衡",
+      "價值觀"
+    ],
+    "summary": "本書由Robin S. Sharma撰寫，聚焦家庭關係、生活平衡、價值觀，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "家庭關係",
+      "生活平衡",
+      "價值觀"
+    ]
+  },
+  {
+    "title": "Think Like a Freak",
+    "author": "Steven D. Levitt、Stephen J. Dubner",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17078346W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2014；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "思考方式",
+      "問題解決",
+      "認知偏誤"
+    ],
+    "summary": "本書由Steven D. Levitt、Stephen J. Dubner撰寫，聚焦思考方式、問題解決、認知偏誤，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "思考方式",
+      "問題解決",
+      "認知偏誤"
+    ]
+  },
+  {
+    "title": "Life Coaching",
+    "author": "Michael Neenan",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL6031983W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2002；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "生活教練",
+      "認知行為",
+      "目標"
+    ],
+    "summary": "本書由Michael Neenan撰寫，聚焦生活教練、認知行為、目標，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "生活教練",
+      "認知行為",
+      "目標"
+    ]
+  },
+  {
+    "title": "Positive Psychology",
+    "author": "Alan Carr",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL25226491W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2003；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正向心理",
+      "幸福",
+      "優勢"
+    ],
+    "summary": "本書由Alan Carr撰寫，聚焦正向心理、幸福、優勢，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "正向心理",
+      "幸福",
+      "優勢"
+    ]
+  },
+  {
+    "title": "How to Do Nothing",
+    "author": "Jenny Odell",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20078135W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2019；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "注意力",
+      "數位生活",
+      "自我主導"
+    ],
+    "summary": "本書由Jenny Odell撰寫，聚焦注意力、數位生活、自我主導，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "注意力",
+      "數位生活",
+      "自我主導"
+    ]
+  },
+  {
+    "title": "The Mindfulness & Acceptance Workbook for Anxiety",
+    "author": "John P. Forsyth、Georg Eifert",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL8920598W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2007；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正念",
+      "接納",
+      "焦慮"
+    ],
+    "summary": "本書由John P. Forsyth、Georg Eifert撰寫，聚焦正念、接納、焦慮，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "正念",
+      "接納",
+      "焦慮"
+    ]
+  },
+  {
+    "title": "What Every BODY Is Saying",
+    "author": "Joe Navarro、Marvin Karlins",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL12926505W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "肢體語言",
+      "人際觀察",
+      "溝通"
+    ],
+    "summary": "本書由Joe Navarro、Marvin Karlins撰寫，聚焦肢體語言、人際觀察、溝通，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "肢體語言",
+      "人際觀察",
+      "溝通"
+    ]
+  },
+  {
+    "title": "Women Who Think Too Much",
+    "author": "Susan Nolen-Hoeksema",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL1944250W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2003；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "反芻思考",
+      "情緒調節",
+      "女性心理"
+    ],
+    "summary": "本書由Susan Nolen-Hoeksema撰寫，聚焦反芻思考、情緒調節、女性心理，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "反芻思考",
+      "情緒調節",
+      "女性心理"
+    ]
+  },
+  {
+    "title": "Option B",
+    "author": "Sheryl Sandberg、Adam Grant",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17710048W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2017；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "失落",
+      "復原力",
+      "支持關係"
+    ],
+    "summary": "本書由Sheryl Sandberg、Adam Grant撰寫，聚焦失落、復原力、支持關係，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "失落",
+      "復原力",
+      "支持關係"
+    ]
+  },
+  {
+    "title": "The Road to Character",
+    "author": "David Brooks",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17364754W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2015；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "品格",
+      "謙遜",
+      "人生價值"
+    ],
+    "summary": "本書由David Brooks撰寫，聚焦品格、謙遜、人生價值，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "品格",
+      "謙遜",
+      "人生價值"
+    ]
+  },
+  {
+    "title": "It Didn't Start with You",
+    "author": "Mark Wolynn",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20029303W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2016；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "代際創傷",
+      "家庭模式",
+      "療癒"
+    ],
+    "summary": "本書由Mark Wolynn撰寫，聚焦代際創傷、家庭模式、療癒，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "代際創傷",
+      "家庭模式",
+      "療癒"
+    ]
+  },
+  {
+    "title": "Social Intelligence",
+    "author": "Daniel Goleman",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL1878299W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2006；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "社會智能",
+      "同理心",
+      "人際關係"
+    ],
+    "summary": "本書由Daniel Goleman撰寫，聚焦社會智能、同理心、人際關係，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "社會智能",
+      "同理心",
+      "人際關係"
+    ]
+  },
+  {
+    "title": "Overcoming Social Anxiety and Shyness",
+    "author": "Gillian Butler",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL2742370W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2001；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "社交焦慮",
+      "害羞",
+      "認知行為"
+    ],
+    "summary": "本書由Gillian Butler撰寫，聚焦社交焦慮、害羞、認知行為，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "社交焦慮",
+      "害羞",
+      "認知行為"
+    ]
+  },
+  {
+    "title": "Burnout",
+    "author": "Emily Nagoski、Amelia Nagoski",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL20163365W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2019；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "倦怠",
+      "壓力循環",
+      "自我照顧"
+    ],
+    "summary": "本書由Emily Nagoski、Amelia Nagoski撰寫，聚焦倦怠、壓力循環、自我照顧，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "倦怠",
+      "壓力循環",
+      "自我照顧"
+    ]
+  },
+  {
+    "title": "Happy Brain",
+    "author": "Dean Burnett",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL19745207W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2018；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "幸福",
+      "大腦",
+      "情緒科學"
+    ],
+    "summary": "本書由Dean Burnett撰寫，聚焦幸福、大腦、情緒科學，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "幸福",
+      "大腦",
+      "情緒科學"
+    ]
+  },
+  {
+    "title": "S.U.M.O.",
+    "author": "Paul McGee",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL21246074W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "責任感",
+      "行動",
+      "生活態度"
+    ],
+    "summary": "本書由Paul McGee撰寫，聚焦責任感、行動、生活態度，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "責任感",
+      "行動",
+      "生活態度"
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Deep Learning",
+    "author": "Ian Goodfellow、Yoshua Bengio、Aaron Courville",
+    "categoryId": "06_computer_info",
+    "tags": [
+      "電腦資訊",
+      "深度學習",
+      "神經網路",
+      "機器學習"
+    ],
+    "summary": "系統說明深度學習的數學基礎、前饋網路、正則化、最佳化、卷積與序列模型等核心方法。",
+    "sourceName": "Open Library 電腦資訊書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL17801809W",
+    "sourceDateNote": "Open Library 書目列有 2016 年 MIT Press 版本；擷取日期 2026-07-15，落在指定搜尋區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  },
+  {
+    "title": "Designing Data-Intensive Applications",
+    "author": "Martin Kleppmann",
+    "categoryId": "06_computer_info",
+    "tags": [
+      "電腦資訊",
+      "分散式系統",
+      "資料系統",
+      "可擴展性"
+    ],
+    "summary": "比較資料庫、串流、批次與訊息系統的設計取捨，聚焦可靠性、可擴展性、一致性與可維護性。",
+    "sourceName": "Open Library 電腦資訊書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL19293745W",
+    "sourceDateNote": "Open Library 書目標示出版年份為 2017；擷取日期 2026-07-15，落在指定搜尋區間內。",
+    "searchDateRange": {
+      "from": "2000-06-01",
+      "to": "2026-07-15"
+    }
+  }
+]

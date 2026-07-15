@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Glucose Revolution",
+    "author": "Jessie Inchauspé",
+    "categoryId": "05_food_wellness",
+    "sourceName": "Open Library 飲食養生主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL26599673W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2022；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "飲食養生",
+      "血糖",
+      "飲食順序",
+      "代謝"
+    ],
+    "summary": "本書由Jessie Inchauspé撰寫，聚焦血糖、飲食順序、代謝，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "血糖",
+      "飲食順序",
+      "代謝"
+    ]
+  },
+  {
+    "title": "French Women Don't Get Fat",
+    "author": "Mireille Guiliano",
+    "categoryId": "05_food_wellness",
+    "sourceName": "Open Library 飲食養生主題書目（人工複核）",
+    "sourceUrl": "https://openlibrary.org/works/OL5840799W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2004；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "飲食養生",
+      "飲食文化",
+      "份量",
+      "生活習慣"
+    ],
+    "summary": "本書由Mireille Guiliano撰寫，聚焦飲食文化、份量、生活習慣，整理核心概念、案例與可延伸的實際應用。",
+    "subjects": [
+      "飲食文化",
+      "份量",
+      "生活習慣"
+    ]
+  }
+]

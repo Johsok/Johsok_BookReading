@@ -1,0 +1,46 @@
+[
+  {
+    "title": "The Age of Surveillance Capitalism",
+    "author": "Shoshana Zuboff",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL18201749W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2018；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "文化",
+      "Social aspects",
+      "Consumer behavior"
+    ],
+    "summary": "《The Age of Surveillance Capitalism》由Shoshana Zuboff撰寫，書目主題涵蓋文化、Social aspects、Consumer behavior；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "文化",
+      "Social aspects",
+      "Consumer behavior"
+    ],
+    "firstPublishYear": 2018,
+    "workId": "findbook-20260715-195429-b5"
+  },
+  {
+    "title": "Just for fun",
+    "author": "Linus Torvalds、David Diamond",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL12494344W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2001；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "傳記",
+      "Biography",
+      "Computer programmers"
+    ],
+    "summary": "《Just for fun》由Linus Torvalds、David Diamond撰寫，書目主題涵蓋傳記、Biography、Computer programmers；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "傳記",
+      "Biography",
+      "Computer programmers"
+    ],
+    "firstPublishYear": 2001,
+    "workId": "findbook-20260715-195429-b5"
+  }
+]

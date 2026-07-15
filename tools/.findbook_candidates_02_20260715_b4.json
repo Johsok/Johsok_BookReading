@@ -1,0 +1,656 @@
+[
+  {
+    "title": "Thinking, fast and slow",
+    "author": "Daniel Kahneman",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL15992072W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2011；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "情緒智能",
+      "Intuition",
+      "Thought and thinking"
+    ],
+    "summary": "《Thinking, fast and slow》由Daniel Kahneman撰寫，書目主題涵蓋情緒智能、Intuition、Thought and thinking；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "情緒智能",
+      "Intuition",
+      "Thought and thinking"
+    ],
+    "firstPublishYear": 2011,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "A Gentle Reminder",
+    "author": "Bianca Sparacino",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL25296570W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2020；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "個人成長",
+      "Self-help",
+      "personal development"
+    ],
+    "summary": "《A Gentle Reminder》由Bianca Sparacino撰寫，書目主題涵蓋個人成長、Self-help、personal development；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "個人成長",
+      "Self-help",
+      "personal development"
+    ],
+    "firstPublishYear": 2020,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Don't Believe Everything You Think",
+    "author": "Joseph Nguyen",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL28098879W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2022；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "自我成長",
+      "Self-help techniques",
+      "Spirituality"
+    ],
+    "summary": "《Don't Believe Everything You Think》由Joseph Nguyen撰寫，書目主題涵蓋自我成長、Self-help techniques、Spirituality；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "自我成長",
+      "Self-help techniques",
+      "Spirituality"
+    ],
+    "firstPublishYear": 2022,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Can't Hurt Me",
+    "author": "David Goggins",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL18108064W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2018；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "動機",
+      "New York Times bestseller",
+      "United states, navy, seals"
+    ],
+    "summary": "《Can't Hurt Me》由David Goggins撰寫，書目主題涵蓋動機、New York Times bestseller、United states, navy, seals；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "動機",
+      "New York Times bestseller",
+      "United states, navy, seals"
+    ],
+    "firstPublishYear": 2018,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "The Mountain Is You",
+    "author": "Brianna Wiest",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL25436364W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2020；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "自我成長",
+      "Self-help techniques",
+      "Mind and body"
+    ],
+    "summary": "《The Mountain Is You》由Brianna Wiest撰寫，書目主題涵蓋自我成長、Self-help techniques、Mind and body；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "自我成長",
+      "Self-help techniques",
+      "Mind and body"
+    ],
+    "firstPublishYear": 2020,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "So Good They Can't Ignore You",
+    "author": "Cal Newport、Diego Pereda Sancho",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16283407W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "個人成長",
+      "Personality and occupation",
+      "Vocational guidance"
+    ],
+    "summary": "《So Good They Can't Ignore You》由Cal Newport、Diego Pereda Sancho撰寫，書目主題涵蓋個人成長、Personality and occupation、Vocational guidance；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "個人成長",
+      "Personality and occupation",
+      "Vocational guidance"
+    ],
+    "firstPublishYear": 2012,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Becoming Supernatural",
+    "author": "Joe Dispenza",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19722003W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2017；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正念",
+      "Mind and body",
+      "Self-care, Health"
+    ],
+    "summary": "《Becoming Supernatural》由Joe Dispenza撰寫，書目主題涵蓋正念、Mind and body、Self-care, Health；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "正念",
+      "Mind and body",
+      "Self-care, Health"
+    ],
+    "firstPublishYear": 2017,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "I Have to Tell You Something",
+    "author": "Zara Bas",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL28110702W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2022；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "個人成長",
+      "Self-help",
+      "personal development"
+    ],
+    "summary": "《I Have to Tell You Something》由Zara Bas撰寫，書目主題涵蓋個人成長、Self-help、personal development；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "個人成長",
+      "Self-help",
+      "personal development"
+    ],
+    "firstPublishYear": 2022,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "The things you can see only when you slow down",
+    "author": "Haemin Sunim",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL20050396W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2017；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "正念",
+      "Buddhism",
+      "Conduct of life"
+    ],
+    "summary": "《The things you can see only when you slow down》由Haemin Sunim撰寫，書目主題涵蓋正念、Buddhism、Conduct of life；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "正念",
+      "Buddhism",
+      "Conduct of life"
+    ],
+    "firstPublishYear": 2017,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Read People Like a Book",
+    "author": "Patrick King",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL25291486W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2020；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "心理學",
+      "Nonverbal communication",
+      "Interpersonal skills"
+    ],
+    "summary": "《Read People Like a Book》由Patrick King撰寫，書目主題涵蓋心理學、Nonverbal communication、Interpersonal skills；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "心理學",
+      "Nonverbal communication",
+      "Interpersonal skills"
+    ],
+    "firstPublishYear": 2020,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "I Want to Die but I Want to Eat Tteokbokki",
+    "author": "Baek Se-Hee [백세희]、Anton Hur",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL26510971W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2022；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "心理學",
+      "Psychology"
+    ],
+    "summary": "《I Want to Die but I Want to Eat Tteokbokki》由Baek Se-Hee [백세희]、Anton Hur撰寫，書目主題涵蓋心理學、Psychology；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "心理學",
+      "Psychology"
+    ],
+    "firstPublishYear": 2022,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Do Epic Shit",
+    "author": "Ankur Warikoo",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL27040669W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2021；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "個人成長",
+      "Self-help",
+      "personal development"
+    ],
+    "summary": "《Do Epic Shit》由Ankur Warikoo撰寫，書目主題涵蓋個人成長、Self-help、personal development；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "個人成長",
+      "Self-help",
+      "personal development"
+    ],
+    "firstPublishYear": 2021,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Omgiven av Psykopater",
+    "author": "Thomas Erikson",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL20915117W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2020；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "心理學",
+      "Sociology",
+      "Psychology"
+    ],
+    "summary": "《Omgiven av Psykopater》由Thomas Erikson撰寫，書目主題涵蓋心理學、Sociology、Psychology；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "心理學",
+      "Sociology",
+      "Psychology"
+    ],
+    "firstPublishYear": 2020,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "The untethered soul",
+    "author": "Michael A. Singer",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL15845722W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2007；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "自我成長",
+      "Self",
+      "Consciousness"
+    ],
+    "summary": "《The untethered soul》由Michael A. Singer撰寫，書目主題涵蓋自我成長、Self、Consciousness；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "自我成長",
+      "Self",
+      "Consciousness"
+    ],
+    "firstPublishYear": 2007,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "When You're Ready, This Is How You Heal",
+    "author": "Brianna Wiest",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL26085514W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2022；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "自我成長",
+      "Self-help techniques"
+    ],
+    "summary": "《When You're Ready, This Is How You Heal》由Brianna Wiest撰寫，書目主題涵蓋自我成長、Self-help techniques；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "自我成長",
+      "Self-help techniques"
+    ],
+    "firstPublishYear": 2022,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Outwitting the devil",
+    "author": "Napoleon Hill",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16176999W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2011；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "自我成長",
+      "New Thought",
+      "Success"
+    ],
+    "summary": "《Outwitting the devil》由Napoleon Hill撰寫，書目主題涵蓋自我成長、New Thought、Success；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "自我成長",
+      "New Thought",
+      "Success"
+    ],
+    "firstPublishYear": 2011,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "How to fail at almost everything and still win big",
+    "author": "Scott Adams",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19974170W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2013；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "動機",
+      "Cartoonists",
+      "Motivation (Psychology)"
+    ],
+    "summary": "《How to fail at almost everything and still win big》由Scott Adams撰寫，書目主題涵蓋動機、Cartoonists、Motivation (Psychology)；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "動機",
+      "Cartoonists",
+      "Motivation (Psychology)"
+    ],
+    "firstPublishYear": 2013,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "The Rudest Book Ever",
+    "author": "Shwetabh Gangwar",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL24350123W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2019；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "個人成長",
+      "Self-help",
+      "personal development"
+    ],
+    "summary": "《The Rudest Book Ever》由Shwetabh Gangwar撰寫，書目主題涵蓋個人成長、Self-help、personal development；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "個人成長",
+      "Self-help",
+      "personal development"
+    ],
+    "firstPublishYear": 2019,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "The talent code",
+    "author": "Daniel Coyle",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19702508W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2009；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "動機",
+      "Motivation (Psychology)",
+      "Ability"
+    ],
+    "summary": "《The talent code》由Daniel Coyle撰寫，書目主題涵蓋動機、Motivation (Psychology)、Ability；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "動機",
+      "Motivation (Psychology)",
+      "Ability"
+    ],
+    "firstPublishYear": 2009,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Tiny Habits",
+    "author": "B. J. Fogg",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL20641940W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2019；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "自我成長",
+      "Habit",
+      "Change (psychology)"
+    ],
+    "summary": "《Tiny Habits》由B. J. Fogg撰寫，書目主題涵蓋自我成長、Habit、Change (psychology)；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "自我成長",
+      "Habit",
+      "Change (psychology)"
+    ],
+    "firstPublishYear": 2019,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "365 Days with Self-Discipline",
+    "author": "Martin Meadows",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL22706549W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2017；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "自我成長",
+      "Self-help techniques"
+    ],
+    "summary": "《365 Days with Self-Discipline》由Martin Meadows撰寫，書目主題涵蓋自我成長、Self-help techniques；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "自我成長",
+      "Self-help techniques"
+    ],
+    "firstPublishYear": 2017,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "You're Too Good to Feel This Bad",
+    "author": "Nate Dallas",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL24620443W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2020；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "個人成長",
+      "Self-help",
+      "personal development"
+    ],
+    "summary": "《You're Too Good to Feel This Bad》由Nate Dallas撰寫，書目主題涵蓋個人成長、Self-help、personal development；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "個人成長",
+      "Self-help",
+      "personal development"
+    ],
+    "firstPublishYear": 2020,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Search inside yourself",
+    "author": "Chade-Meng Tan",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL16239725W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2012；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "情緒智能",
+      "Creative ability",
+      "Emotional intelligence"
+    ],
+    "summary": "《Search inside yourself》由Chade-Meng Tan撰寫，書目主題涵蓋情緒智能、Creative ability、Emotional intelligence；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "情緒智能",
+      "Creative ability",
+      "Emotional intelligence"
+    ],
+    "firstPublishYear": 2012,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Emotional Intelligence",
+    "author": "Christine Wilding",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL21146285W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2007；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "情緒智能",
+      "Emotional intelligence",
+      "Emotions"
+    ],
+    "summary": "《Emotional Intelligence》由Christine Wilding撰寫，書目主題涵蓋情緒智能、Emotional intelligence、Emotions；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "情緒智能",
+      "Emotional intelligence",
+      "Emotions"
+    ],
+    "firstPublishYear": 2007,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Permission to Feel",
+    "author": "Marc Brackett",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL20128926W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2019；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "情緒智能",
+      "Psychology",
+      "Emotional intelligence"
+    ],
+    "summary": "《Permission to Feel》由Marc Brackett撰寫，書目主題涵蓋情緒智能、Psychology、Emotional intelligence；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "情緒智能",
+      "Psychology",
+      "Emotional intelligence"
+    ],
+    "firstPublishYear": 2019,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Rising strong",
+    "author": "Brené Brown",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19671174W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2015；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "動機",
+      "Courage",
+      "PSYCHOLOGY / Emotions"
+    ],
+    "summary": "《Rising strong》由Brené Brown撰寫，書目主題涵蓋動機、Courage、PSYCHOLOGY / Emotions；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "動機",
+      "Courage",
+      "PSYCHOLOGY / Emotions"
+    ],
+    "firstPublishYear": 2015,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Relentless",
+    "author": "Tim Grover、Shari Wenk",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19966051W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2013；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "動機",
+      "Motivation (Psychology)",
+      "Sports"
+    ],
+    "summary": "《Relentless》由Tim Grover、Shari Wenk撰寫，書目主題涵蓋動機、Motivation (Psychology)、Sports；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "動機",
+      "Motivation (Psychology)",
+      "Sports"
+    ],
+    "firstPublishYear": 2013,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "The Daily Book of Positive Quotations",
+    "author": "Linda Picone",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL9442774W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2008；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "動機",
+      "English Quotations",
+      "Quotations, maxims"
+    ],
+    "summary": "《The Daily Book of Positive Quotations》由Linda Picone撰寫，書目主題涵蓋動機、English Quotations、Quotations, maxims；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "動機",
+      "English Quotations",
+      "Quotations, maxims"
+    ],
+    "firstPublishYear": 2008,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "Set Boundaries, Find Peace",
+    "author": "Nedra Glover Tawwab",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL24144951W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2021；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "情緒智能",
+      "New York Times bestseller",
+      "Peace of mind"
+    ],
+    "summary": "《Set Boundaries, Find Peace》由Nedra Glover Tawwab撰寫，書目主題涵蓋情緒智能、New York Times bestseller、Peace of mind；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "情緒智能",
+      "New York Times bestseller",
+      "Peace of mind"
+    ],
+    "firstPublishYear": 2021,
+    "workId": "findbook-20260715-194023-b4"
+  },
+  {
+    "title": "The emotional intelligence quick book",
+    "author": "Travis Bradberry",
+    "categoryId": "02_psychology_growth",
+    "sourceName": "Open Library 心理勵志主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL5844673W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2005；擷取日期 2026-07-15，落在 2000-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "心理勵志",
+      "情緒智能",
+      "Emotional intelligence",
+      "Intelligence"
+    ],
+    "summary": "《The emotional intelligence quick book》由Travis Bradberry撰寫，書目主題涵蓋情緒智能、Emotional intelligence、Intelligence；本次依心理勵志閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "情緒智能",
+      "Emotional intelligence",
+      "Intelligence"
+    ],
+    "firstPublishYear": 2005,
+    "workId": "findbook-20260715-194023-b4"
+  }
+]
