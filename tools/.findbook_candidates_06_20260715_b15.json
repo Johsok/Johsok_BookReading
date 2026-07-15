@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Systems Analysis and Design",
+    "author": "Alan Dennis、Barbara Haley Wixom、David Tegarden、Roberta M. Roth",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL5973035W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2000；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "電腦科學",
+      "Systeemanalyse",
+      "Computer architecture"
+    ],
+    "summary": "《Systems Analysis and Design》由Alan Dennis、Barbara Haley Wixom、David Tegarden、Roberta M. Roth撰寫，書目主題涵蓋電腦科學、Systeemanalyse、Computer architecture；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "電腦科學",
+      "Systeemanalyse",
+      "Computer architecture"
+    ],
+    "firstPublishYear": 2000,
+    "workId": "findbook-20260715-233205-b15"
+  },
+  {
+    "title": "Computer Concepts",
+    "author": "June Jamrich Parsons、Dan Oja",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2373712W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1996；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "電腦科學",
+      "Amateurs' manuals",
+      "Computer science"
+    ],
+    "summary": "《Computer Concepts》由June Jamrich Parsons、Dan Oja撰寫，書目主題涵蓋電腦科學、Amateurs' manuals、Computer science；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "電腦科學",
+      "Amateurs' manuals",
+      "Computer science"
+    ],
+    "firstPublishYear": 1996,
+    "workId": "findbook-20260715-233205-b15"
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andy Hunt、David Thomas、Dave Thomas",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL5748544W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1999；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "程式設計",
+      "Computer programming",
+      "Vocational education"
+    ],
+    "summary": "《The Pragmatic Programmer》由Andy Hunt、David Thomas、Dave Thomas撰寫，書目主題涵蓋程式設計、Computer programming、Vocational education；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "程式設計",
+      "Computer programming",
+      "Vocational education"
+    ],
+    "firstPublishYear": 1999,
+    "workId": "findbook-20260715-233205-b15"
+  },
+  {
+    "title": "Don't Make Me Think",
+    "author": "Steve Krug",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL8578577W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2000；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "軟體工程",
+      "Web sites",
+      "Web site development"
+    ],
+    "summary": "《Don't Make Me Think》由Steve Krug撰寫，書目主題涵蓋軟體工程、Web sites、Web site development；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "軟體工程",
+      "Web sites",
+      "Web site development"
+    ],
+    "firstPublishYear": 2000,
+    "workId": "findbook-20260715-233205-b15"
+  },
+  {
+    "title": "Discrete Mathematics and Its Applications",
+    "author": "Kenneth H. Rosen",
+    "categoryId": "06_computer_info",
+    "sourceName": "Open Library 電腦資訊主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL31821W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1988；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "電腦科學",
+      "Mathematics",
+      "Computer science"
+    ],
+    "summary": "《Discrete Mathematics and Its Applications》由Kenneth H. Rosen撰寫，書目主題涵蓋電腦科學、Mathematics、Computer science；本次依電腦資訊閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "電腦科學",
+      "Mathematics",
+      "Computer science"
+    ],
+    "firstPublishYear": 1988,
+    "workId": "findbook-20260715-233205-b15"
+  }
+]

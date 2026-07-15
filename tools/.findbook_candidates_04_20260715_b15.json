@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Codependent No More and Beyond Codependency",
+    "author": "Melody Beattie",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL45913W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1989；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "病人照護",
+      "Family relationships",
+      "Patients"
+    ],
+    "summary": "《Codependent No More and Beyond Codependency》由Melody Beattie撰寫，書目主題涵蓋病人照護、Family relationships、Patients；本次依醫療保健閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "病人照護",
+      "Family relationships",
+      "Patients"
+    ],
+    "firstPublishYear": 1989,
+    "workId": "findbook-20260715-233205-b15"
+  },
+  {
+    "title": "Ayurvedic healing",
+    "author": "David Frawley",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL555614W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1989；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "醫學",
+      "Herbal Medicine",
+      "Ayurvedic Medicine"
+    ],
+    "summary": "《Ayurvedic healing》由David Frawley撰寫，書目主題涵蓋醫學、Herbal Medicine、Ayurvedic Medicine；本次依醫療保健閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "醫學",
+      "Herbal Medicine",
+      "Ayurvedic Medicine"
+    ],
+    "firstPublishYear": 1989,
+    "workId": "findbook-20260715-233205-b15"
+  },
+  {
+    "title": "Bed number ten",
+    "author": "Sue Baier、Mary Zimmeth Schomaker",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL5097949W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1986；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "病人照護",
+      "Biography",
+      "Guillain-Barré syndrome"
+    ],
+    "summary": "《Bed number ten》由Sue Baier、Mary Zimmeth Schomaker撰寫，書目主題涵蓋病人照護、Biography、Guillain-Barré syndrome；本次依醫療保健閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "病人照護",
+      "Biography",
+      "Guillain-Barré syndrome"
+    ],
+    "firstPublishYear": 1986,
+    "workId": "findbook-20260715-233205-b15"
+  },
+  {
+    "title": "Ancient Egyptian Medicine",
+    "author": "John F. Nunn",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2962215W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1996；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "醫學",
+      "Medicine, Egyptian",
+      "Egyptian Medicine"
+    ],
+    "summary": "《Ancient Egyptian Medicine》由John F. Nunn撰寫，書目主題涵蓋醫學、Medicine, Egyptian、Egyptian Medicine；本次依醫療保健閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "醫學",
+      "Medicine, Egyptian",
+      "Egyptian Medicine"
+    ],
+    "firstPublishYear": 1996,
+    "workId": "findbook-20260715-233205-b15"
+  },
+  {
+    "title": "Human Physiology",
+    "author": "Lauralee Sherwood",
+    "categoryId": "04_healthcare",
+    "sourceName": "Open Library 醫療保健主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL3341289W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1989；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "醫療保健",
+      "健康",
+      "Human physiology",
+      "Anatomy"
+    ],
+    "summary": "《Human Physiology》由Lauralee Sherwood撰寫，書目主題涵蓋健康、Human physiology、Anatomy；本次依醫療保健閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "健康",
+      "Human physiology",
+      "Anatomy"
+    ],
+    "firstPublishYear": 1989,
+    "workId": "findbook-20260715-233205-b15"
+  }
+]

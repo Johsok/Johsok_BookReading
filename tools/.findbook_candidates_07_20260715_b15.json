@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Discovering Classical Music",
+    "author": "Ian Christians",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL8772290W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1991；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "歷史",
+      "Music",
+      "History and criticism"
+    ],
+    "summary": "《Discovering Classical Music》由Ian Christians撰寫，書目主題涵蓋歷史、Music、History and criticism；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "歷史",
+      "Music",
+      "History and criticism"
+    ],
+    "firstPublishYear": 1991,
+    "workId": "findbook-20260715-233205-b15"
+  },
+  {
+    "title": "Wings of Fire",
+    "author": "A. P. J. Abdul Kalam",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1037811W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1999；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "傳記",
+      "Biography",
+      "Presidents"
+    ],
+    "summary": "《Wings of Fire》由A. P. J. Abdul Kalam撰寫，書目主題涵蓋傳記、Biography、Presidents；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "傳記",
+      "Biography",
+      "Presidents"
+    ],
+    "firstPublishYear": 1999,
+    "workId": "findbook-20260715-233205-b15"
+  },
+  {
+    "title": "Art history",
+    "author": "Marilyn Stokstad、Margaret A. Oppenheimer",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL29921W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1995；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "歷史",
+      "Art",
+      "History"
+    ],
+    "summary": "《Art history》由Marilyn Stokstad、Margaret A. Oppenheimer撰寫，書目主題涵蓋歷史、Art、History；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "歷史",
+      "Art",
+      "History"
+    ],
+    "firstPublishYear": 1995,
+    "workId": "findbook-20260715-233205-b15"
+  },
+  {
+    "title": "The Clash of Civilizations and the Remaking of World Order",
+    "author": "Samuel P. Huntington、Ṭalʻat Shāyib、Ṣalāḥ Qanṣūh",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL3289930W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1996；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "文化史",
+      "Civilisation",
+      "Civilización moderna"
+    ],
+    "summary": "《The Clash of Civilizations and the Remaking of World Order》由Samuel P. Huntington、Ṭalʻat Shāyib、Ṣalāḥ Qanṣūh撰寫，書目主題涵蓋文化史、Civilisation、Civilización moderna；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "文化史",
+      "Civilisation",
+      "Civilización moderna"
+    ],
+    "firstPublishYear": 1996,
+    "workId": "findbook-20260715-233205-b15"
+  },
+  {
+    "title": "A Beautiful Mind",
+    "author": "Sylvia Nasar",
+    "categoryId": "07_other",
+    "sourceName": "Open Library 其他主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL937456W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1998；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "其他",
+      "傳記",
+      "Schizophrenics",
+      "Schizofrenie"
+    ],
+    "summary": "《A Beautiful Mind》由Sylvia Nasar撰寫，書目主題涵蓋傳記、Schizophrenics、Schizofrenie；本次依其他閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "傳記",
+      "Schizophrenics",
+      "Schizofrenie"
+    ],
+    "firstPublishYear": 1998,
+    "workId": "findbook-20260715-233205-b15"
+  }
+]

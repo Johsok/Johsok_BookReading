@@ -1,0 +1,218 @@
+[
+  {
+    "title": "Algebra 1",
+    "author": "Ron Larson",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL7943059W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1993；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "數學",
+      "Algebra",
+      "Textbooks"
+    ],
+    "summary": "《Algebra 1》由Ron Larson撰寫，書目主題涵蓋數學、Algebra、Textbooks；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "數學",
+      "Algebra",
+      "Textbooks"
+    ],
+    "firstPublishYear": 1993,
+    "workId": "findbook-20260715-233205-b15"
+  },
+  {
+    "title": "Concepts of physics",
+    "author": "Harish Chandra Verma",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19836917W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1993；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "物理",
+      "Physics"
+    ],
+    "summary": "《Concepts of physics》由Harish Chandra Verma撰寫，書目主題涵蓋物理、Physics；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "物理",
+      "Physics"
+    ],
+    "firstPublishYear": 1993,
+    "workId": "findbook-20260715-233205-b15"
+  },
+  {
+    "title": "Spectrum Maths",
+    "author": "Dave Kirkby",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL8197157W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1989；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "數學",
+      "Mathematics",
+      "Electronic data processing"
+    ],
+    "summary": "《Spectrum Maths》由Dave Kirkby撰寫，書目主題涵蓋數學、Mathematics、Electronic data processing；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "數學",
+      "Mathematics",
+      "Electronic data processing"
+    ],
+    "firstPublishYear": 1989,
+    "workId": "findbook-20260715-233205-b15"
+  },
+  {
+    "title": "Foundations of earth science",
+    "author": "Frederick K. Lutgens、Edward J. Tarbuck、Dennis G. Tasa",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL29600W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1996；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "地球科學",
+      "Earth sciences",
+      "Geology"
+    ],
+    "summary": "《Foundations of earth science》由Frederick K. Lutgens、Edward J. Tarbuck、Dennis G. Tasa撰寫，書目主題涵蓋地球科學、Earth sciences、Geology；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "地球科學",
+      "Earth sciences",
+      "Geology"
+    ],
+    "firstPublishYear": 1996,
+    "workId": "findbook-20260715-233205-b15"
+  },
+  {
+    "title": "Darwin's dangerous idea",
+    "author": "Daniel C. Dennett",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL2463712W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1995；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "演化",
+      "Philosophy",
+      "Evolution (Biology)"
+    ],
+    "summary": "《Darwin's dangerous idea》由Daniel C. Dennett撰寫，書目主題涵蓋演化、Philosophy、Evolution (Biology)；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "演化",
+      "Philosophy",
+      "Evolution (Biology)"
+    ],
+    "firstPublishYear": 1995,
+    "workId": "findbook-20260715-233205-b15"
+  },
+  {
+    "title": "Genius",
+    "author": "James Gleick",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL15898W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1992；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "物理",
+      "Physics",
+      "Physicists"
+    ],
+    "summary": "《Genius》由James Gleick撰寫，書目主題涵蓋物理、Physics、Physicists；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "物理",
+      "Physics",
+      "Physicists"
+    ],
+    "firstPublishYear": 1992,
+    "workId": "findbook-20260715-233205-b15"
+  },
+  {
+    "title": "Environmental science",
+    "author": "Bernard J. Nebel、Richard T. Wright",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL19061W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1987；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "生態學",
+      "Environmental sciences",
+      "Ecology"
+    ],
+    "summary": "《Environmental science》由Bernard J. Nebel、Richard T. Wright撰寫，書目主題涵蓋生態學、Environmental sciences、Ecology；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "生態學",
+      "Environmental sciences",
+      "Ecology"
+    ],
+    "firstPublishYear": 1987,
+    "workId": "findbook-20260715-233205-b15"
+  },
+  {
+    "title": "Essential biology",
+    "author": "Neil Alexander Campbell、Jane B. Reece",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL1983086W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 2000；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "生物",
+      "Biology"
+    ],
+    "summary": "《Essential biology》由Neil Alexander Campbell、Jane B. Reece撰寫，書目主題涵蓋生物、Biology；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "生物",
+      "Biology"
+    ],
+    "firstPublishYear": 2000,
+    "workId": "findbook-20260715-233205-b15"
+  },
+  {
+    "title": "The Pleasure of Finding Things Out",
+    "author": "Richard Phillips Feynman、Sean Runnette、Freeman Dyson",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL271751W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1999；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "科普",
+      "Science",
+      "Physicists"
+    ],
+    "summary": "《The Pleasure of Finding Things Out》由Richard Phillips Feynman、Sean Runnette、Freeman Dyson撰寫，書目主題涵蓋科普、Science、Physicists；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "科普",
+      "Science",
+      "Physicists"
+    ],
+    "firstPublishYear": 1999,
+    "workId": "findbook-20260715-233205-b15"
+  },
+  {
+    "title": "Discrete Mathematics with Applications",
+    "author": "Susanna S. Epp",
+    "categoryId": "03_natural_science",
+    "sourceName": "Open Library 自然科學主題書目",
+    "sourceUrl": "https://openlibrary.org/works/OL3502985W",
+    "sourceDateNote": "Open Library 書目標示初版年份為 1990；擷取日期 2026-07-15，落在 1985-06-01 至 2026-07-15 的搜尋區間內。",
+    "tags": [
+      "自然科學",
+      "數學",
+      "Textbooks",
+      "Computer science"
+    ],
+    "summary": "《Discrete Mathematics with Applications》由Susanna S. Epp撰寫，書目主題涵蓋數學、Textbooks、Computer science；本次依自然科學閱讀目的整理核心觀點、證據與可實踐方法。",
+    "subjects": [
+      "數學",
+      "Textbooks",
+      "Computer science"
+    ],
+    "firstPublishYear": 1990,
+    "workId": "findbook-20260715-233205-b15"
+  }
+]
