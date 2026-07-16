@@ -7,6 +7,7 @@ import re
 import tempfile
 import time
 import unicodedata
+from collections import Counter
 from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -202,11 +203,18 @@ def reserve(args: argparse.Namespace) -> int:
     return 0
 
 
-def validate_highlights(book_id: str, highlights: object) -> list[str]:
+def validate_highlights(
+    book_id: str,
+    highlights: object,
+    title: str = "",
+    author: str = "",
+) -> list[str]:
     if not isinstance(highlights, list) or len(highlights) != 150:
         raise ValueError(f"{book_id} 必須剛好 150 點")
     short_colon_lines = []
     cleaned = []
+    bodies = []
+    forbidden_prefixes = ("本書", "作者指出", "本章", "這一章")
     for index, line in enumerate(highlights, 1):
         expected = f"{index:03d}、"
         if not isinstance(line, str) or not line.startswith(expected):
@@ -216,12 +224,26 @@ def validate_highlights(book_id: str, highlights: object) -> list[str]:
         body = NUMBER_RE.sub("", line, count=1).strip()
         if not body:
             raise ValueError(f"{book_id} 第 {index} 點沒有正文")
+        if len(body) < 12:
+            raise ValueError(f"{book_id} 第 {index} 點正文過短")
+        if any(prefix in body for prefix in forbidden_prefixes):
+            raise ValueError(f"{book_id} 第 {index} 點含禁用來源前綴")
         match = re.match(r"^([^：:]{1,12})[：:]", body)
         if match and not match.group(1).endswith(NATURAL_COLON_SUFFIXES):
             short_colon_lines.append(index)
         cleaned.append(line.strip())
+        bodies.append(body)
     if len(short_colon_lines) >= 3:
         raise ValueError(f"{book_id} 有 {len(short_colon_lines)} 點疑似短標籤加冒號")
+    if len(set(bodies)) != len(bodies):
+        raise ValueError(f"{book_id} 含完全重複重點")
+    repeated_starts = Counter(body[:18] for body in bodies if len(body) >= 18)
+    if repeated_starts and repeated_starts.most_common(1)[0][1] >= 4:
+        raise ValueError(f"{book_id} 有大量重複固定開頭")
+    for label, value in (("書名", title), ("作者", author)):
+        normalized = str(value).strip()
+        if normalized and sum(normalized in body for body in bodies) >= 2:
+            raise ValueError(f"{book_id} 正文反覆出現完整{label}")
     return cleaned
 
 
@@ -255,6 +277,12 @@ def complete(args: argparse.Namespace) -> int:
         book = read_json(book_path)
         if book.get("id") != book_id:
             raise ValueError(f"{book_id} 單書檔 ID 不一致")
+        highlights = validate_highlights(
+            book_id,
+            highlights,
+            str(book.get("title", "")),
+            str(book.get("author", "")),
+        )
         book["chatgptHighlights"] = highlights
         book["chatgptStatus"] = "complete"
         book["highlightsSource"] = "codex"

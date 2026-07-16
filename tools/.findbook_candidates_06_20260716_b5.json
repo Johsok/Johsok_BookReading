@@ -1,0 +1,107 @@
+[
+  {
+    "title": "知道你的下一筆訂單 - 使用LLM",
+    "author": "梁志遠、韓曉晨",
+    "categoryId": "06_computer_info",
+    "sourceName": "博客來中文書商品頁－電腦資訊",
+    "sourceUrl": "https://www.books.com.tw/products/0011039440",
+    "sourceDateNote": "博客來商品頁標示出版日期為 2025-12-19；擷取日期 2026-07-16，落在 1985-06-01 至 2026-07-16 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "LLM",
+      "資料分析",
+      "預測"
+    ],
+    "summary": "本書由梁志遠、韓曉晨撰寫，內容聚焦LLM、資料分析、預測；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。",
+    "subjects": [
+      "LLM",
+      "資料分析",
+      "預測"
+    ],
+    "workId": "findbook-20260716-081252-b5"
+  },
+  {
+    "title": "深入淺出Python 第三版",
+    "author": "Paul Barry",
+    "categoryId": "06_computer_info",
+    "sourceName": "博客來中文書商品頁－電腦資訊",
+    "sourceUrl": "https://www.books.com.tw/products/0011039495",
+    "sourceDateNote": "博客來商品頁標示出版日期為 2025-12-19；擷取日期 2026-07-16，落在 1985-06-01 至 2026-07-16 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "Python",
+      "程式設計",
+      "實作"
+    ],
+    "summary": "本書由Paul Barry撰寫，內容聚焦Python、程式設計、實作；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。",
+    "subjects": [
+      "Python",
+      "程式設計",
+      "實作"
+    ],
+    "workId": "findbook-20260716-081252-b5"
+  },
+  {
+    "title": "精通JavaScript 第四版",
+    "author": "Marijn Haverbeke",
+    "categoryId": "06_computer_info",
+    "sourceName": "博客來中文書商品頁－電腦資訊",
+    "sourceUrl": "https://www.books.com.tw/products/0011039496",
+    "sourceDateNote": "博客來商品頁標示出版日期為 2025-12-19；擷取日期 2026-07-16，落在 1985-06-01 至 2026-07-16 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "JavaScript",
+      "程式設計",
+      "Web"
+    ],
+    "summary": "本書由Marijn Haverbeke撰寫，內容聚焦JavaScript、程式設計、Web；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。",
+    "subjects": [
+      "JavaScript",
+      "程式設計",
+      "Web"
+    ],
+    "workId": "findbook-20260716-081252-b5"
+  },
+  {
+    "title": "內行人才知道的生成式 AI系統設計面試指南",
+    "author": "Ali Aminian、Hao Sheng",
+    "categoryId": "06_computer_info",
+    "sourceName": "博客來中文書商品頁－電腦資訊",
+    "sourceUrl": "https://www.books.com.tw/products/0011039497",
+    "sourceDateNote": "博客來商品頁標示出版日期為 2025-12-19；擷取日期 2026-07-16，落在 1985-06-01 至 2026-07-16 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "生成式AI",
+      "系統設計",
+      "面試"
+    ],
+    "summary": "本書由Ali Aminian、Hao Sheng撰寫，內容聚焦生成式AI、系統設計、面試；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。",
+    "subjects": [
+      "生成式AI",
+      "系統設計",
+      "面試"
+    ],
+    "workId": "findbook-20260716-081252-b5"
+  },
+  {
+    "title": "史上最完整 - 一本書晉升深度學習世界級大師",
+    "author": "王成、黃曉輝",
+    "categoryId": "06_computer_info",
+    "sourceName": "博客來中文書商品頁－電腦資訊",
+    "sourceUrl": "https://www.books.com.tw/products/0011039543",
+    "sourceDateNote": "博客來商品頁標示出版日期為 2025-12-19；擷取日期 2026-07-16，落在 1985-06-01 至 2026-07-16 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "深度學習",
+      "神經網路",
+      "AI"
+    ],
+    "summary": "本書由王成、黃曉輝撰寫，內容聚焦深度學習、神經網路、AI；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。",
+    "subjects": [
+      "深度學習",
+      "神經網路",
+      "AI"
+    ],
+    "workId": "findbook-20260716-081252-b5"
+  }
+]

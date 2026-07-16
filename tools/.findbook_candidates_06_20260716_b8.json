@@ -1,0 +1,107 @@
+[
+  {
+    "title": "大模型時代：從 ChatGPT 一枝獨秀到全面開戰的 AI 賽局",
+    "author": "Kevin Chen",
+    "categoryId": "06_computer_info",
+    "sourceName": "博客來中文書新書列表－電腦資訊",
+    "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/19",
+    "sourceDateNote": "博客來商品頁標示出版日期為 2026-02-24；擷取日期 2026-07-16，落在 1985-06-01 至 2026-07-16 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "大型語言模型",
+      "ChatGPT",
+      "AI賽局"
+    ],
+    "summary": "本書由Kevin Chen撰寫，內容聚焦大型語言模型、ChatGPT、AI賽局；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。",
+    "subjects": [
+      "大型語言模型",
+      "ChatGPT",
+      "AI賽局"
+    ],
+    "workId": "findbook-20260716-084852-b8"
+  },
+  {
+    "title": "讓 LLM 飛起來的工具使用 - AI Agent MCP 協議開發、標準、應用",
+    "author": "凌峰、王伊凝",
+    "categoryId": "06_computer_info",
+    "sourceName": "博客來中文書新書列表－電腦資訊",
+    "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/19",
+    "sourceDateNote": "博客來商品頁標示出版日期為 2026-02-19；擷取日期 2026-07-16，落在 1985-06-01 至 2026-07-16 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "LLM",
+      "AI Agent",
+      "MCP"
+    ],
+    "summary": "本書由凌峰、王伊凝撰寫，內容聚焦LLM、AI Agent、MCP；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。",
+    "subjects": [
+      "LLM",
+      "AI Agent",
+      "MCP"
+    ],
+    "workId": "findbook-20260716-084852-b8"
+  },
+  {
+    "title": "AI Agent智能工作流：設計與自動化全實戰",
+    "author": "亨利羊",
+    "categoryId": "06_computer_info",
+    "sourceName": "博客來中文書新書列表－電腦資訊",
+    "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/19",
+    "sourceDateNote": "博客來商品頁標示出版日期為 2026-02-19；擷取日期 2026-07-16，落在 1985-06-01 至 2026-07-16 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "AI Agent",
+      "工作流",
+      "自動化"
+    ],
+    "summary": "本書由亨利羊撰寫，內容聚焦AI Agent、工作流、自動化；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。",
+    "subjects": [
+      "AI Agent",
+      "工作流",
+      "自動化"
+    ],
+    "workId": "findbook-20260716-084852-b8"
+  },
+  {
+    "title": "深度探索Go語言：物件模型與runtime的原理特性及應用",
+    "author": "封幼林",
+    "categoryId": "06_computer_info",
+    "sourceName": "博客來中文書新書列表－電腦資訊",
+    "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/19",
+    "sourceDateNote": "博客來商品頁標示出版日期為 2026-02-19；擷取日期 2026-07-16，落在 1985-06-01 至 2026-07-16 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "Go",
+      "runtime",
+      "物件模型"
+    ],
+    "summary": "本書由封幼林撰寫，內容聚焦Go、runtime、物件模型；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。",
+    "subjects": [
+      "Go",
+      "runtime",
+      "物件模型"
+    ],
+    "workId": "findbook-20260716-084852-b8"
+  },
+  {
+    "title": "ChatGPT原理，從PyTorch中的NLP功能讓你一腳跨入自然語言",
+    "author": "孫小文、王薪宇、楊談",
+    "categoryId": "06_computer_info",
+    "sourceName": "博客來中文書新書列表－電腦資訊",
+    "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/19",
+    "sourceDateNote": "博客來商品頁標示出版日期為 2026-02-19；擷取日期 2026-07-16，落在 1985-06-01 至 2026-07-16 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "ChatGPT",
+      "PyTorch",
+      "NLP"
+    ],
+    "summary": "本書由孫小文、王薪宇、楊談撰寫，內容聚焦ChatGPT、PyTorch、NLP；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。",
+    "subjects": [
+      "ChatGPT",
+      "PyTorch",
+      "NLP"
+    ],
+    "workId": "findbook-20260716-084852-b8"
+  }
+]

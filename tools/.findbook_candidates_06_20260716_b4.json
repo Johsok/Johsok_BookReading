@@ -1,0 +1,107 @@
+[
+  {
+    "title": "Gemini x NotebookLM 領軍：Nano Banana x Imagen x Veo x Gem x Gemini Live - Google 多模態 AI 工作流",
+    "author": "洪錦魁",
+    "categoryId": "06_computer_info",
+    "sourceName": "博客來中文書商品頁－電腦資訊",
+    "sourceUrl": "https://www.books.com.tw/products/0011034764",
+    "sourceDateNote": "博客來商品頁標示出版日期為 2025-10-17；擷取日期 2026-07-16，落在 1985-06-01 至 2026-07-16 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "Gemini",
+      "NotebookLM",
+      "AI工作流"
+    ],
+    "summary": "本書由洪錦魁撰寫，內容聚焦Gemini、NotebookLM、AI工作流；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。",
+    "subjects": [
+      "Gemini",
+      "NotebookLM",
+      "AI工作流"
+    ],
+    "workId": "findbook-20260716-074811-b4"
+  },
+  {
+    "title": "Clean Code：Python 寫乾淨程式碼 - 告別技術債，不再為爛程式加班收爛攤",
+    "author": "洪錦魁",
+    "categoryId": "06_computer_info",
+    "sourceName": "博客來中文書商品頁－電腦資訊",
+    "sourceUrl": "https://www.books.com.tw/products/0011033500",
+    "sourceDateNote": "博客來商品頁標示出版日期為 2025-10-09；擷取日期 2026-07-16，落在 1985-06-01 至 2026-07-16 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "Python",
+      "Clean Code",
+      "技術債"
+    ],
+    "summary": "本書由洪錦魁撰寫，內容聚焦Python、Clean Code、技術債；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。",
+    "subjects": [
+      "Python",
+      "Clean Code",
+      "技術債"
+    ],
+    "workId": "findbook-20260716-074811-b4"
+  },
+  {
+    "title": "最強 AI 組合技！NotebookLM / Gemini / Nano Banana / Veo 3 〖影音生成進化版〗",
+    "author": "施威銘研究室",
+    "categoryId": "06_computer_info",
+    "sourceName": "博客來中文書商品頁－電腦資訊",
+    "sourceUrl": "https://www.books.com.tw/products/0011034258",
+    "sourceDateNote": "博客來商品頁標示出版日期為 2025-10-17；擷取日期 2026-07-16，落在 1985-06-01 至 2026-07-16 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "生成式AI",
+      "影音生成",
+      "NotebookLM"
+    ],
+    "summary": "本書由施威銘研究室撰寫，內容聚焦生成式AI、影音生成、NotebookLM；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。",
+    "subjects": [
+      "生成式AI",
+      "影音生成",
+      "NotebookLM"
+    ],
+    "workId": "findbook-20260716-074811-b4"
+  },
+  {
+    "title": "AI超神應用術：Google Gemini × Gemini Live × Nano Banana × Veo × Flow × NotebookLM全解鎖",
+    "author": "鄧君如、文淵閣工作室",
+    "categoryId": "06_computer_info",
+    "sourceName": "博客來中文書商品頁－電腦資訊",
+    "sourceUrl": "https://www.books.com.tw/products/0011035186",
+    "sourceDateNote": "博客來商品頁標示出版日期為 2025-10-30；擷取日期 2026-07-16，落在 1985-06-01 至 2026-07-16 的搜尋區間內。",
+    "tags": [
+      "電腦資訊",
+      "Google AI",
+      "多模態",
+      "生產力"
+    ],
+    "summary": "本書由鄧君如、文淵閣工作室撰寫，內容聚焦Google AI、多模態、生產力；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。",
+    "subjects": [
+      "Google AI",
+      "多模態",
+      "生產力"
+    ],
+    "workId": "findbook-20260716-074811-b4"
+  },
+  {
+    "title": "高效能Python程式設計 第三版：寫給人類的高性能編程法",
+    "author": "Micha Gorelick、Ian Ozsvald",
+    "categoryId": "06_computer_info",
+    "sourceName": "博客來中文書商品頁－電腦資訊",
+    "sourceUrl": "https://www.books.com.tw/products/0011039382",
+    "sourceDateNote": "博客來公開列表未提供明確出版日期；擷取日期 2026-07-16，依來源可讀性列入 1985-06-01 至 2026-07-16 的搜尋區間候選。",
+    "tags": [
+      "電腦資訊",
+      "Python",
+      "效能優化",
+      "程式設計"
+    ],
+    "summary": "本書由Micha Gorelick、Ian Ozsvald撰寫，內容聚焦Python、效能優化、程式設計；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。",
+    "subjects": [
+      "Python",
+      "效能優化",
+      "程式設計"
+    ],
+    "workId": "findbook-20260716-074811-b4"
+  }
+]
