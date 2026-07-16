@@ -25174,13 +25174,1063 @@
       "sourceUrl": "https://www.books.com.tw/web/sys_topme/books/04",
       "file": "Books/07_other/07_other-20260716-56.json",
       "workId": "findbook-20260716-133458-b11"
+    },
+    {
+      "id": "01_business_startup-20260716-223",
+      "title": "你不該看到的金融真相：從華爾街神話到市場幻象，洞悉金錢背後的操控與陷阱",
+      "author": "約書亞．布朗",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/02/?o=5&v=1",
+      "file": "Books/01_business_startup/01_business_startup-20260716-223.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "01_business_startup-20260716-224",
+      "title": "矽谷流鋼鐵般的自我肯定感：科學實證，矽谷菁英的3步驟情緒清理法，成為自己的終生盟友",
+      "author": "宮崎直子",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/02/?o=1&page=3&v=2",
+      "file": "Books/01_business_startup/01_business_startup-20260716-224.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "01_business_startup-20260716-225",
+      "title": "科特勒談行銷管理",
+      "author": "謝德高",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/02/?o=1&page=3&v=2",
+      "file": "Books/01_business_startup/01_business_startup-20260716-225.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "01_business_startup-20260716-226",
+      "title": "幣漲無疑：加密貨幣，一場史詩級騙局?",
+      "author": "齊克．法克斯",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/02/?o=1&page=3&v=2",
+      "file": "Books/01_business_startup/01_business_startup-20260716-226.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "01_business_startup-20260716-227",
+      "title": "世界上最偉大的53堂演說課：全球首席演說教練吉姆．卡斯卡特，從觀念到細節，迅速提昇你的演說能力",
+      "author": "吉姆．卡斯卡特、林裕峯",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/02/?o=1&page=3&v=2",
+      "file": "Books/01_business_startup/01_business_startup-20260716-227.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "01_business_startup-20260716-228",
+      "title": "〖圖解〗房子就這樣買：挑屋．議價．簽約．驗屋，完全解答購屋108問!",
+      "author": "蘇于修",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/02/?o=1&page=3&v=2",
+      "file": "Books/01_business_startup/01_business_startup-20260716-228.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "01_business_startup-20260716-229",
+      "title": "IT轉型專案集群管理：介紹及工具",
+      "author": "吳岳穎、江俊毅、黃妍恆",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/02/?o=1&page=3&v=2",
+      "file": "Books/01_business_startup/01_business_startup-20260716-229.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "01_business_startup-20260716-230",
+      "title": "倫敦最狂散戶：在家買股滾出破億身價，交易心理+盤前策略〖Win-Win套書〗",
+      "author": "羅比‧伯恩斯",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/02/?o=1&page=3&v=2",
+      "file": "Books/01_business_startup/01_business_startup-20260716-230.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "01_business_startup-20260716-231",
+      "title": "散戶投資上手的第一本書〖全新增訂版〗：投資股市最該懂的47件事",
+      "author": "王力群",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/02/?o=1&page=3&v=2",
+      "file": "Books/01_business_startup/01_business_startup-20260716-231.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "01_business_startup-20260716-232",
+      "title": "勝算：不再靠運氣!從機率、賽局到AI，解鎖預測與決策的科學(二版)",
+      "author": "亞當・庫查司基",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/02/?o=1&page=3&v=2",
+      "file": "Books/01_business_startup/01_business_startup-20260716-232.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "01_business_startup-20260716-233",
+      "title": "魔球投資金律：少數人才懂的投資市場潛規則",
+      "author": "麥可．莫布新",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/02/?o=1&page=3&v=2",
+      "file": "Books/01_business_startup/01_business_startup-20260716-233.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "01_business_startup-20260716-234",
+      "title": "走出價格僵局，超預期價值激增回購率：10種成交策略×8種話術表達×10種暗示效應",
+      "author": "心一",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/02/?o=1&page=3&v=2",
+      "file": "Books/01_business_startup/01_business_startup-20260716-234.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "01_business_startup-20260716-235",
+      "title": "人口轉型時代!破解低生育與高齡化時代的發展悖論",
+      "author": "智本社",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/02/?o=1&page=3&v=2",
+      "file": "Books/01_business_startup/01_business_startup-20260716-235.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "01_business_startup-20260716-236",
+      "title": "阿米巴定律，讓企業自己壯大的經營密碼：打破傳統管理邏輯，透過分權、自主、共享激發組織全員潛能",
+      "author": "胡八一",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/02/?o=1&page=3&v=2",
+      "file": "Books/01_business_startup/01_business_startup-20260716-236.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "01_business_startup-20260716-237",
+      "title": "向川普學談判：談判不是你輸我贏，而是要共贏!",
+      "author": "喬治．羅斯",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/02/?o=1&page=3&v=2",
+      "file": "Books/01_business_startup/01_business_startup-20260716-237.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "01_business_startup-20260716-238",
+      "title": "原子目標+原子時間經典套書：奇蹟的晨晚雙計畫，告別窮忙內耗、打造富足人生",
+      "author": "柳韓彬",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/02/?o=1&page=3&v=2",
+      "file": "Books/01_business_startup/01_business_startup-20260716-238.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "01_business_startup-20260716-239",
+      "title": "十色性格領導力：高效團隊管理與商業實戰指南",
+      "author": "黃信維",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/02/?o=1&page=3&v=2",
+      "file": "Books/01_business_startup/01_business_startup-20260716-239.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "01_business_startup-20260716-240",
+      "title": "笑看風雲行善路：新加坡百貨業傳奇人物洪振群永不放棄的人生拼搏",
+      "author": "洪振群",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/02/?o=1&page=3&v=2",
+      "file": "Books/01_business_startup/01_business_startup-20260716-240.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "01_business_startup-20260716-241",
+      "title": "專注力協定：史丹佛教授教你消除逃避心理，自然而然變專注〖暢銷新裝版〗",
+      "author": "尼爾．艾歐、李茱莉",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/02/?o=1&page=3&v=2",
+      "file": "Books/01_business_startup/01_business_startup-20260716-241.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "01_business_startup-20260716-242",
+      "title": "不生氣之後，變身有錢人+看漫畫學致富(2冊合售)",
+      "author": "森瀬繁智",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/02/?o=1&page=3&v=2",
+      "file": "Books/01_business_startup/01_business_startup-20260716-242.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "02_psychology_growth-20260716-223",
+      "title": "人生好難，怎麼笑著走下去?16則諮商室裡的復原練習，讓心理師陪你走到「我可以」",
+      "author": "朱芯儀",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=2&v=2",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260716-223.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "02_psychology_growth-20260716-224",
+      "title": "用正念改寫你的人生劇本：一趟深入內在、探索自我的轉化之旅",
+      "author": "趙安安",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=2&v=2",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260716-224.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "02_psychology_growth-20260716-225",
+      "title": "情緒界線：剛剛好的情緒化，不內耗也不外傷",
+      "author": "吳娟瑜",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=2&v=2",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260716-225.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "02_psychology_growth-20260716-226",
+      "title": "人生沒有長到可以用忍耐來浪費：坦誠面對內心、不再偽裝壓抑，你該活在適合自己的規則中",
+      "author": "鈴木裕介",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=2&v=2",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260716-226.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "02_psychology_growth-20260716-227",
+      "title": "青年的四個大夢(跨世代英雄之旅珍藏版)",
+      "author": "吳靜吉",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=2&v=2",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260716-227.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "02_psychology_growth-20260716-228",
+      "title": "環境危機下的社會心理：從逃避到參與，揭開環境焦慮背後的行動難題",
+      "author": "張玥、李娟",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=2&v=2",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260716-228.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "02_psychology_growth-20260716-229",
+      "title": "看透人性：從認知到掌控的76堂人性解碼課",
+      "author": "明道",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=2&v=2",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260716-229.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "02_psychology_growth-20260716-230",
+      "title": "博弈論",
+      "author": "明道",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=2&v=2",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260716-230.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "02_psychology_growth-20260716-231",
+      "title": "羊皮卷大全集",
+      "author": "奧格．曼狄諾",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=2&v=2",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260716-231.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "02_psychology_growth-20260716-232",
+      "title": "人生底層邏輯",
+      "author": "林祥",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=2&v=2",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260716-232.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "02_psychology_growth-20260716-233",
+      "title": "給還撐得住，但快沒電的你：心累時代的內在安定練習",
+      "author": "艾瑪．赫本博士",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=2&v=2",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260716-233.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "02_psychology_growth-20260716-234",
+      "title": "你的生命就是一場喜樂的量子遊戲：用意念創造想要的人生!",
+      "author": "克里斯強‧布利",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=2&v=2",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260716-234.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "02_psychology_growth-20260716-235",
+      "title": "只想你從全世界的煩惱路過(2)",
+      "author": "蒼海笑",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=2&v=2",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260716-235.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "02_psychology_growth-20260716-236",
+      "title": "彈性習慣：釋放壓力、克服拖延、輕鬆保持意志力(韌性新版)",
+      "author": "史蒂芬．蓋斯",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=2&v=2",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260716-236.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "02_psychology_growth-20260716-237",
+      "title": "力量來自渴望：在最壞的時代，做最好的自己(暢銷12年紀念版)",
+      "author": "戴晨志",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=2&v=2",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260716-237.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "02_psychology_growth-20260716-238",
+      "title": "鬆開糾結 停止內耗 找到如何與父母相處的情緒解藥",
+      "author": "寢子",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=2&v=2",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260716-238.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "02_psychology_growth-20260716-239",
+      "title": "隨心所欲：跟隨直覺，活出你專屬的自在豐盛",
+      "author": "殷采霏",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=2&v=2",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260716-239.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "02_psychology_growth-20260716-240",
+      "title": "我是一個還不錯的人〖學會放過自己的勇氣、無須解釋的人際關係〗",
+      "author": "金在植",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=2&v=2",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260716-240.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "02_psychology_growth-20260716-241",
+      "title": "讓強項綻放的自我觀察：你以為的弱項、你沒在意的能力，都能轉變成強項",
+      "author": "稻垣榮洋",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=2&v=2",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260716-241.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "02_psychology_growth-20260716-242",
+      "title": "漫談人性",
+      "author": "鄭孟忠",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=2&v=2",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260716-242.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "03_natural_science-20260716-112",
+      "title": "黃金山的召喚：臺灣百萬年大地礦詩——九份、金瓜石、水湳洞時空紀事",
+      "author": "黃家俊",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06",
+      "file": "Books/03_natural_science/03_natural_science-20260716-112.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "03_natural_science-20260716-113",
+      "title": "臺灣水生植物觀察紀行：我在溼地看見水光葉影",
+      "author": "劉世強",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06",
+      "file": "Books/03_natural_science/03_natural_science-20260716-113.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "03_natural_science-20260716-114",
+      "title": "哇!人體百科變立體了：從外層皮膚到內部器官，層層探索人體深處",
+      "author": "露斯．賽門斯",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06",
+      "file": "Books/03_natural_science/03_natural_science-20260716-114.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "03_natural_science-20260716-115",
+      "title": "到四次元玩數學：從生活數學到高維空間",
+      "author": "麥特‧帕克",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06",
+      "file": "Books/03_natural_science/03_natural_science-20260716-115.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "03_natural_science-20260716-116",
+      "title": "上帝的粒子：希格斯玻色子的發明與發現",
+      "author": "巴格特",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06",
+      "file": "Books/03_natural_science/03_natural_science-20260716-116.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "03_natural_science-20260716-117",
+      "title": "物理君與薛小貓的生活科學大冒險",
+      "author": "中國科學院物理研究所",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_06",
+      "file": "Books/03_natural_science/03_natural_science-20260716-117.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "03_natural_science-20260716-118",
+      "title": "史上最好懂 量子物理史話：上帝擲骰子嗎?(修訂版)",
+      "author": "曹天元Capo",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_topme/books/06",
+      "file": "Books/03_natural_science/03_natural_science-20260716-118.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "03_natural_science-20260716-119",
+      "title": "海洋天才派對：改寫地球命運的物種超進化",
+      "author": "畢勒‧弗宏思瓦",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_topme/books/06",
+      "file": "Books/03_natural_science/03_natural_science-20260716-119.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "03_natural_science-20260716-120",
+      "title": "從一到無限大",
+      "author": "喬治‧加莫夫",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_topme/books/06",
+      "file": "Books/03_natural_science/03_natural_science-20260716-120.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "03_natural_science-20260716-121",
+      "title": "隱藏的方程式",
+      "author": "劉柏宏",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_topme/books/06",
+      "file": "Books/03_natural_science/03_natural_science-20260716-121.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "04_healthcare-20260716-57",
+      "title": "減糖護腎211TOP蔬食健康餐盤：跟著醫生這樣吃，遠離糖尿病、腎臟病危機",
+      "author": "台北慈濟醫院王奕淳醫師及營養師團隊",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療保健",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－醫療保健分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/08/?o=5&v=1",
+      "file": "Books/04_healthcare/04_healthcare-20260716-57.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "04_healthcare-20260716-58",
+      "title": "超級綠拿鐵‧抗發炎修復飲：穩三高、遠癌症、強代謝",
+      "author": "陳月卿",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療保健",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－醫療保健分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/08/?o=5&v=1",
+      "file": "Books/04_healthcare/04_healthcare-20260716-58.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "04_healthcare-20260716-59",
+      "title": "健康人的小習慣：全球歷時最久地區比較醫療統計",
+      "author": "大平哲也",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療保健",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－醫療保健分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/08/?o=5&v=1",
+      "file": "Books/04_healthcare/04_healthcare-20260716-59.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "04_healthcare-20260716-60",
+      "title": "圖解中醫學：看懂自然與身體的動態平衡",
+      "author": "Kevin Chen",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療保健",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－醫療保健分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/08/?o=5&v=1",
+      "file": "Books/04_healthcare/04_healthcare-20260716-60.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "04_healthcare-20260716-61",
+      "title": "HEALTH RULES：不生病的祕密，每天一點小改變就能降低罹病風險",
+      "author": "津川友介",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療保健",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－醫療保健分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/08/?o=5&v=1",
+      "file": "Books/04_healthcare/04_healthcare-20260716-61.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "05_food_wellness-20260716-57",
+      "title": "素菜素湯：對症食療X養生滋補",
+      "author": "彭惠婧、林勃攸、璞真奕睿影像工作室、高鈴蘭",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食養生",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－飲食養生分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_09",
+      "file": "Books/05_food_wellness/05_food_wellness-20260716-57.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "05_food_wellness-20260716-58",
+      "title": "葡萄酒超圖解：釀造×產區×選購×品飲×餐搭",
+      "author": "克莉絲汀．穆克、奧爾多．索姆",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食養生",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－飲食養生分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_09",
+      "file": "Books/05_food_wellness/05_food_wellness-20260716-58.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "05_food_wellness-20260716-59",
+      "title": "一棵青菜變好菜：從根到葉不浪費，250道家常料理提案",
+      "author": "miki",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食養生",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－飲食養生分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/books_bmidm_0907",
+      "file": "Books/05_food_wellness/05_food_wellness-20260716-59.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "05_food_wellness-20260716-60",
+      "title": "今天也吃鍋吧!56道超簡單小鍋料理",
+      "author": "重信初江",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食養生",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－飲食養生分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/books_bmidm_0907",
+      "file": "Books/05_food_wellness/05_food_wellness-20260716-60.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "05_food_wellness-20260716-61",
+      "title": "茱莉亞的私房廚藝書(二版)：一生必學的法式烹飪技巧與經典食譜",
+      "author": "茱莉亞．柴爾德",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食養生",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－飲食養生分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/books_bmidm_0907",
+      "file": "Books/05_food_wellness/05_food_wellness-20260716-61.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "06_computer_info-20260716-57",
+      "title": "文科生也能輕鬆實現!自建自用大語言模型：無痛操作Ollama本機端模型管理器",
+      "author": "江達威",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦資訊",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－電腦資訊分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/books_topm_19",
+      "file": "Books/06_computer_info/06_computer_info-20260716-57.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "06_computer_info-20260716-58",
+      "title": "零花費上手!Gemini 3、NotebookLM、Nano Banana Pro、Veo 3.x最強AI組合技",
+      "author": "施威銘研究室",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦資訊",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－電腦資訊分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/books_topm_19",
+      "file": "Books/06_computer_info/06_computer_info-20260716-58.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "06_computer_info-20260716-59",
+      "title": "Python運算思維：Google Colab x Gemini AI",
+      "author": "洪錦魁",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦資訊",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－電腦資訊分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/books_topm_19",
+      "file": "Books/06_computer_info/06_computer_info-20260716-59.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "06_computer_info-20260716-60",
+      "title": "ChatGPT 5萬用手冊：自動化AI agent、提示詞技巧、研究推理與工具連接",
+      "author": "蔡宜坦、施威銘研究室",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦資訊",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－電腦資訊分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/books_topm_19",
+      "file": "Books/06_computer_info/06_computer_info-20260716-60.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "06_computer_info-20260716-61",
+      "title": "白話拆解×認證實戰：鑑別式與生成式AI",
+      "author": "黃照寰",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦資訊",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－電腦資訊分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/books_topm_19",
+      "file": "Books/06_computer_info/06_computer_info-20260716-61.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "07_other-20260716-57",
+      "title": "共同知識：揭開人類群體合作的邏輯，剖析經濟、政治與日常生活的隱藏規則",
+      "author": "史迪芬．平克",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－其他分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/04/?o=5&v=1",
+      "file": "Books/07_other/07_other-20260716-57.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "07_other-20260716-58",
+      "title": "一顆豆腐心，寫下了花園傳奇：從醫護送養到生命教育，初衷不改二十年",
+      "author": "花園／Rose（晴夜）",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－其他分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/04/?o=5&v=1",
+      "file": "Books/07_other/07_other-20260716-58.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "07_other-20260716-59",
+      "title": "七十少年：趙少康的時代現場",
+      "author": "趙少康",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－其他分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/04/?o=5&v=1",
+      "file": "Books/07_other/07_other-20260716-59.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "07_other-20260716-60",
+      "title": "問責之路：財經監委的視角",
+      "author": "賴振昌",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－其他分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/04/?o=5&v=1",
+      "file": "Books/07_other/07_other-20260716-60.json",
+      "workId": "findbook-20260716-151958-b12"
+    },
+    {
+      "id": "07_other-20260716-61",
+      "title": "美的奴役：由時尚廣告與社群媒體催化的容貌焦慮",
+      "author": "毛拉．甘奇塔諾",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "博客來",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－其他分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/04/?o=5&v=1",
+      "file": "Books/07_other/07_other-20260716-61.json",
+      "workId": "findbook-20260716-151958-b12"
     }
   ],
-  "totalBooks": 1658,
+  "totalBooks": 1728,
   "searchDateRange": {
     "from": "1985-06-01",
     "to": "2026-07-16"
   },
-  "generatedFrom": "FindBook_Skill.md fresh Books.com.tw Chinese-only 20/20/10/5/5/5/5 complete: workId=findbook-20260716-133458-b11 complete=1658 pending=0",
-  "generatedAt": "2026-07-16T14:53:01+08:00"
+  "generatedFrom": "FindBook_Skill.md fresh Books.com.tw Chinese-only 20/20/10/5/5/5/5 complete: workId=findbook-20260716-151958-b12",
+  "generatedAt": "2026-07-16T15:25:32+08:00"
 }
