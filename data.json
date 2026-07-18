@@ -1,4 +1,4 @@
-﻿{
+{
   "version": "2026-07-15",
   "title": "讀書後重點整理",
   "recommendedStorage": "data.json ?????Books/{categoryId}/{book-id}.json ????????????",
@@ -38964,13 +38964,993 @@
       "sourceUrl": "https://www.kingstone.com.tw/basic/2017310270007/",
       "file": "Books/07_other/07_other-20260717-55.json",
       "workId": "findbook-20260717-151949-b11"
+    },
+    {
+      "id": "01_business_startup-20260718-01",
+      "title": "AI時代的一人創業 x 人生整理：從外在創業經營，到內在心靈覺醒的自我實現【獨家套書】",
+      "author": "洪儒明 MING HUNG,流川美加",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011056445",
+      "file": "Books/01_business_startup/01_business_startup-20260718-01.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "01_business_startup-20260718-02",
+      "title": "史蒂文.巴列特著作限量套書《快樂性感的百萬富翁》+ 《執行長日記【耀黑燙金版】》",
+      "author": "史蒂文．巴列特 Steven Bartlett",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011055057",
+      "file": "Books/01_business_startup/01_business_startup-20260718-02.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "01_business_startup-20260718-03",
+      "title": "在雲之上的帕蘭提爾：改變戰爭與世界的AI祕密力量Palantir",
+      "author": "林冠群",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011055370",
+      "file": "Books/01_business_startup/01_business_startup-20260718-03.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "01_business_startup-20260718-04",
+      "title": "比特幣 風雲再起",
+      "author": "Zac W、Dave C",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011055757",
+      "file": "Books/01_business_startup/01_business_startup-20260718-04.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "01_business_startup-20260718-05",
+      "title": "加密貨幣投資聖經：從開戶、選幣、DeFi 到風險管理的全方位指南",
+      "author": "Zac W、Dave C",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011055758",
+      "file": "Books/01_business_startup/01_business_startup-20260718-05.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "01_business_startup-20260718-06",
+      "title": "選擇權操作全攻略 實戰演練-單式部位、價差策略與期貨避險應用",
+      "author": "Dave C、吳西蒙、Amber",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011055759",
+      "file": "Books/01_business_startup/01_business_startup-20260718-06.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "01_business_startup-20260718-07",
+      "title": "AI一人公司：OpenClaw龍蝦兵團養成記",
+      "author": "曾任偉，秋葉，秦陽",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18097253",
+      "file": "Books/01_business_startup/01_business_startup-20260718-07.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "01_business_startup-20260718-08",
+      "title": "AI一人公司：128種商業模式與盈利實操",
+      "author": "胡華成，雷鳴，徐捷",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18097887",
+      "file": "Books/01_business_startup/01_business_startup-20260718-08.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "01_business_startup-20260718-09",
+      "title": "零基礎學MACD指標：背離技術分析、波段交易技巧與短線操盤實戰",
+      "author": "馭龍識黑馬",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18098950",
+      "file": "Books/01_business_startup/01_business_startup-20260718-09.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "01_business_startup-20260718-10",
+      "title": "大數據財務分析：基於新道DBE Cloud",
+      "author": "鍾愛軍，黃楠，李愛琴",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18102185",
+      "file": "Books/01_business_startup/01_business_startup-20260718-10.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "01_business_startup-20260718-11",
+      "title": "Stata計量經濟學與實證研究應用",
+      "author": "張甜",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18102513",
+      "file": "Books/01_business_startup/01_business_startup-20260718-11.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "01_business_startup-20260718-12",
+      "title": "降本增效實戰：美的“3+4”卓越運營體系",
+      "author": "陳凱歌著",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18104881",
+      "file": "Books/01_business_startup/01_business_startup-20260718-12.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "01_business_startup-20260718-13",
+      "title": "金融GPT：人工智能與全球經濟安全",
+      "author": "（美）詹姆斯·里卡茲",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18105538",
+      "file": "Books/01_business_startup/01_business_startup-20260718-13.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "01_business_startup-20260718-14",
+      "title": "OpenClaw時代的OPC：一人公司從0到1方法論",
+      "author": "寒樹，秋葉，易洋，吳迪，劉海峰",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18112320",
+      "file": "Books/01_business_startup/01_business_startup-20260718-14.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "01_business_startup-20260718-15",
+      "title": "銀行轉型2035：邁向智能體銀行的範式躍遷",
+      "author": "何大勇,孫中東,譚彥",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18098388",
+      "file": "Books/01_business_startup/01_business_startup-20260718-15.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "01_business_startup-20260718-16",
+      "title": "中國近代對外貿易管理制度史研究(1840-1949)",
+      "author": "張國義",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18114954",
+      "file": "Books/01_business_startup/01_business_startup-20260718-16.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "01_business_startup-20260718-17",
+      "title": "AI時代創新法則：AI RaaS模式重新定義企業",
+      "author": "劉燕,彭志強",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18096176",
+      "file": "Books/01_business_startup/01_business_startup-20260718-17.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "01_business_startup-20260718-18",
+      "title": "證券暨期貨月刊(44卷7期115/07)",
+      "author": "金融監督管理委員會證期局",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011058266",
+      "file": "Books/01_business_startup/01_business_startup-20260718-18.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "01_business_startup-20260718-19",
+      "title": "農業部農業金融署114年年報",
+      "author": "農業部農業金融署",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011056955",
+      "file": "Books/01_business_startup/01_business_startup-20260718-19.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "01_business_startup-20260718-20",
+      "title": "組織發展與變革(12版)：(Cummings/Organization Development & Change 12e)",
+      "author": "陳以亨",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011057056",
+      "file": "Books/01_business_startup/01_business_startup-20260718-20.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "02_psychology_growth-20260718-01",
+      "title": "健康社交說明書：人際連結的藝術與科學，哈佛社會學家用「5-3-1法則」打開人生快樂關鍵【鸚鵡螺圖書獎金獎】",
+      "author": "卡斯利˙基蘭",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011055740",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-01.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "02_psychology_growth-20260718-02",
+      "title": "TPI天賦人格卡帶給我的指引(附202張TPI天賦人格卡+指引手冊+典藏牌卡盒)",
+      "author": "天賦人格研究院,玩轉牌卡機構",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011057722",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-02.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "02_psychology_growth-20260718-03",
+      "title": "意識如何湧現?：從神經科學到精神分析，探索心靈的隱藏泉源",
+      "author": "馬克．索姆斯 (Mark Solms)",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011057438",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-03.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "02_psychology_growth-20260718-04",
+      "title": "【宇宙就想對你好】系列：你想要的一切，宇宙早已為你預備+宇宙安排的一切，都是通往豐盛人生的祕密(套書共二冊)",
+      "author": "克里斯．普倫提斯（Chris Prentiss）",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011056470",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-04.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "02_psychology_growth-20260718-05",
+      "title": "做自己的珍珠：把你的不一樣，磨成耀眼的光",
+      "author": "凱凱 Kaikai Chou",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011054740",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-05.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "02_psychology_growth-20260718-06",
+      "title": "「想太多」只會偷走快樂：跳脫情緒鏈的思維陷阱!折磨你的從來不是事情本身，而是失控的內心戲",
+      "author": "理察．卡爾森博士（Ph.D. Richard Carlson）",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011054799",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-06.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "02_psychology_growth-20260718-07",
+      "title": "心靈化學：「吸引力法則之父」最核心的思想精隨",
+      "author": "查爾斯‧哈奈爾(Charles F. Haanel)",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011054229",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-07.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "02_psychology_growth-20260718-08",
+      "title": "心靈天氣圖：146則陪你理解情緒與人生的溫柔提醒",
+      "author": "河合隼雄",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011053587",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-08.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "02_psychology_growth-20260718-09",
+      "title": "讓孩子的「強項」發光：運用5大氣質診斷與35個實踐方法，發掘孩子的天賦優勢，培養提問力、內驅力與共感",
+      "author": "船津徹",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011054750",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-09.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "02_psychology_growth-20260718-10",
+      "title": "新哲人(07)：敢於脆弱的勇氣",
+      "author": "澳大利亞新哲人編輯部",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18105081",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-10.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "02_psychology_growth-20260718-11",
+      "title": "數位時代的情緒療癒：在過載的情緒疲勞中練習排毒，得到真正的休息",
+      "author": "潔西卡‧豪爾Jessica Howard",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011055186",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-11.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "02_psychology_growth-20260718-12",
+      "title": "OH卡讀心術(新版)",
+      "author": "曹春燕",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011052995",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-12.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "02_psychology_growth-20260718-13",
+      "title": "你不睡，貓都知道",
+      "author": "Juno주노",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011056683",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-13.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "02_psychology_growth-20260718-14",
+      "title": "我沒有成為很厲害的大人",
+      "author": "5m",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011055362",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-14.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "02_psychology_growth-20260718-15",
+      "title": "意志薄弱狗：把煩惱交給明天的自己",
+      "author": "San-X株式會社",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011055741",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-15.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "02_psychology_growth-20260718-16",
+      "title": "迷航狐狸夢：快樂不迷航—一位父親給孩子的五則睡後小寓言&六堂快樂智商課(雙書封.雙向閱讀)",
+      "author": "葉向林Noah",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011054642",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-16.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "02_psychology_growth-20260718-17",
+      "title": "SEL解憂小學堂3：我真的不想開學!",
+      "author": "鄒敦怜",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011055549",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-17.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "02_psychology_growth-20260718-18",
+      "title": "SEL解憂小學堂4：我才沒有愛生氣!",
+      "author": "鄒敦怜",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011055550",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-18.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "02_psychology_growth-20260718-19",
+      "title": "一點點勇氣【SEL情緒素養繪本|害怕|陪伴|自我認同】勇氣不是不害怕，而是帶著顫抖依然選擇前進",
+      "author": "克萊兒．亞歷珊卓",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011055732",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-19.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "02_psychology_growth-20260718-20",
+      "title": "一點點尊重【SEL情緒素養繪本|人際|界線|自我認同】尊重不需要委屈求全，是我有權利說不，而你願意聽見",
+      "author": "克萊兒．亞歷珊卓",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011055733",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-20.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "03_natural_science-20260718-01",
+      "title": "邊看漫畫邊解謎!144題算術大挑戰",
+      "author": "橫山明日希",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011056686",
+      "file": "Books/03_natural_science/03_natural_science-20260718-01.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "03_natural_science-20260718-02",
+      "title": "妙醫Why博士4",
+      "author": "林季融,許雅筑",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011055778",
+      "file": "Books/03_natural_science/03_natural_science-20260718-02.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "03_natural_science-20260718-03",
+      "title": "妙醫Why博士3",
+      "author": "林季融,許雅筑",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011055779",
+      "file": "Books/03_natural_science/03_natural_science-20260718-03.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "03_natural_science-20260718-04",
+      "title": "漫畫大英百科【生物地科20】：氣候異常",
+      "author": "BomBom Story",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011055552",
+      "file": "Books/03_natural_science/03_natural_science-20260718-04.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "03_natural_science-20260718-05",
+      "title": "昆蟲大競賽",
+      "author": "Macmillan Children’s Books",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011054770",
+      "file": "Books/03_natural_science/03_natural_science-20260718-05.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "03_natural_science-20260718-06",
+      "title": "無人機空拍應用於路段交通衝突分析(2/2)–路側交通衝突[115綠]",
+      "author": "溫基信、王宏生、高郁承、陳濬得、黃家耀、胡守任、蘇志文、黃明正、喻世祥、黃耀緯",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011057478",
+      "file": "Books/03_natural_science/03_natural_science-20260718-06.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "03_natural_science-20260718-07",
+      "title": "橋梁檢測輔助工具精進之研究(2/2)-建立橋梁多時期劣化比對技術[115橘]",
+      "author": "饒見有、林昭宏、劉光晏、李志清、李易唐、賴威伸、胡智超",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011057473",
+      "file": "Books/03_natural_science/03_natural_science-20260718-07.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "03_natural_science-20260718-08",
+      "title": "Microelectronics: Circuit Analysis and Design 5/e/ Neamen 微電子學：電路分析與設計導讀本",
+      "author": "Donald A. Neamen,Phyllis R. Nelson原著; 曾宗亮導讀",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011056433",
+      "file": "Books/03_natural_science/03_natural_science-20260718-08.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "03_natural_science-20260718-09",
+      "title": "COMSOL百識通",
+      "author": "吳細秀，侯慧，羅義新",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18105054",
+      "file": "Books/03_natural_science/03_natural_science-20260718-09.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "03_natural_science-20260718-10",
+      "title": "對手與權威：古代希臘與古代中國的科學和思想",
+      "author": "（英）G·E·R.勞埃德",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18110946",
+      "file": "Books/03_natural_science/03_natural_science-20260718-10.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "04_healthcare-20260718-01",
+      "title": "為0~3歲嬰幼兒健康把關，餵食×發燒×意外預防×用藥×居家照顧×異位性皮膚炎×過敏性鼻炎×氣喘×過敏性結膜炎 套書(共2本)",
+      "author": "江伯倫,蘇一宇",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療保健",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－醫療保健分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011056693",
+      "file": "Books/04_healthcare/04_healthcare-20260718-01.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "04_healthcare-20260718-02",
+      "title": "本草備要點評本(POD)",
+      "author": "【清】汪昂原著,蒲團子 點評,蒲曉博 參訂",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療保健",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－醫療保健分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011054563",
+      "file": "Books/04_healthcare/04_healthcare-20260718-02.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "04_healthcare-20260718-03",
+      "title": "每一次敲響，都是為了讓你遇見更好的自己",
+      "author": "楊裕仲(Leo)",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療保健",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－醫療保健分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011054523",
+      "file": "Books/04_healthcare/04_healthcare-20260718-03.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "04_healthcare-20260718-04",
+      "title": "AI賦能醫療",
+      "author": "（意）丹尼爾·卡利喬雷（DANIELE CALIGIORE）",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療保健",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－醫療保健分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18112876",
+      "file": "Books/04_healthcare/04_healthcare-20260718-04.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "04_healthcare-20260718-05",
+      "title": "中國接骨學(CO)的臨床實踐與智能接骨術(IO)的探索",
+      "author": "成永忠，溫建民，陳偉（主編）",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療保健",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－醫療保健分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18102713",
+      "file": "Books/04_healthcare/04_healthcare-20260718-05.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "05_food_wellness-20260718-01",
+      "title": "超萌人氣造型餐X夢幻便當：步驟全圖解X料理輕鬆配X圖稿照著做，讓孩子忍不住就吃光光的可愛食譜110+【隨書附造型圖稿】",
+      "author": "Kana,陳琪",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食養生",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－飲食養生分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011056923",
+      "file": "Books/05_food_wellness/05_food_wellness-20260718-01.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "05_food_wellness-20260718-02",
+      "title": "南青山「UN GRAIN」的燒菓子：一口精緻小巧的極上風味",
+      "author": "UN GRAIN",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食養生",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－飲食養生分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011056799",
+      "file": "Books/05_food_wellness/05_food_wellness-20260718-02.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "05_food_wellness-20260718-03",
+      "title": "大廚不外傳の黃金比例調醬祕訣801：熱銷上萬冊，增量升級版!主廚們的私藏調味公式，讓家常料理升等餐廳美味",
+      "author": "學研編輯部",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食養生",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－飲食養生分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011053735",
+      "file": "Books/05_food_wellness/05_food_wellness-20260718-03.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "05_food_wellness-20260718-04",
+      "title": "5分鐘味噌湯療(暢銷改版)：簡單╳省時╳對症~用114道料多味美的味噌湯喝出每日健康",
+      "author": "大友育美",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食養生",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－飲食養生分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011054697",
+      "file": "Books/05_food_wellness/05_food_wellness-20260718-04.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "05_food_wellness-20260718-05",
+      "title": "風土品酒學：失傳200年的地感品鑑技藝復興",
+      "author": "邱奕翔",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食養生",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－飲食養生分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011054304",
+      "file": "Books/05_food_wellness/05_food_wellness-20260718-05.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "06_computer_info-20260718-01",
+      "title": "SDD實戰：規範驅動開發之道",
+      "author": "黃佳",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦資訊",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－電腦資訊分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18114772",
+      "file": "Books/06_computer_info/06_computer_info-20260718-01.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "06_computer_info-20260718-02",
+      "title": "數據結構教程(微課視頻·題庫·AI賦能版)(第7版)(附練習冊)",
+      "author": "李春葆（主編）",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦資訊",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－電腦資訊分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18113857",
+      "file": "Books/06_computer_info/06_computer_info-20260718-02.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "06_computer_info-20260718-03",
+      "title": "Windows安全內幕：身份驗證、授權與審計(AAA)核心技術詳解",
+      "author": "（英）詹姆斯·福肖",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦資訊",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－電腦資訊分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18114812",
+      "file": "Books/06_computer_info/06_computer_info-20260718-03.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "06_computer_info-20260718-04",
+      "title": "AIGC賦能AutoCAD輔助設計",
+      "author": "徐穎，周黎黎，韓雪（主編）",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦資訊",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－電腦資訊分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18097563",
+      "file": "Books/06_computer_info/06_computer_info-20260718-04.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "06_computer_info-20260718-05",
+      "title": "LLaMA+ChatGLM大模型實戰",
+      "author": "薛棟",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦資訊",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－電腦資訊分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18097685",
+      "file": "Books/06_computer_info/06_computer_info-20260718-05.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "07_other-20260718-01",
+      "title": "圖解世界5大神話：從日本、印度、中東、希臘到北歐，65個主題解讀東西方神祇與傳說、信仰與世界觀",
+      "author": "中村圭志",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－其他分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011056857",
+      "file": "Books/07_other/07_other-20260718-01.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "07_other-20260718-02",
+      "title": "新「聞」時代--海上報刊與晚清文人的知識重構(1853-1889)",
+      "author": "黃龍彬",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－其他分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011057434",
+      "file": "Books/07_other/07_other-20260718-02.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "07_other-20260718-03",
+      "title": "VTuber學：虛擬角色/真實靈魂，全面解析席捲網路世代的文化現象",
+      "author": "吉川慧,山野弘樹,岡本健",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－其他分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011055746",
+      "file": "Books/07_other/07_other-20260718-03.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "07_other-20260718-04",
+      "title": "殺人魔名冊【暢銷紀念版】：全球150名極惡連環殺手檔案",
+      "author": "傑克˙羅斯伍德（Jack Rosewood）、蕾貝卡．洛 (Rebecca Lo)",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－其他分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011056466",
+      "file": "Books/07_other/07_other-20260718-04.json",
+      "workId": "findbook-20260718-121027"
+    },
+    {
+      "id": "07_other-20260718-05",
+      "title": "大不列顛小心機：搞定英國人的25條金律",
+      "author": "讀者太太Mrs Reader",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－其他分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011055368",
+      "file": "Books/07_other/07_other-20260718-05.json",
+      "workId": "findbook-20260718-121027"
     }
   ],
-  "totalBooks": 2638,
+  "totalBooks": 2708,
   "searchDateRange": {
-    "from": "1985-06-01",
-    "to": "2026-07-17"
+    "from": "2026-06-19",
+    "to": "2026-07-18"
   },
-  "generatedFrom": "FindBook_Skill.md fresh Chinese-only 20/20/10/5/5/5/5 complete: workId=findbook-20260717-151949-b11",
-  "generatedAt": "2026-07-17T15:21:27+08:00"
+  "generatedFrom": "FindBook_Skill.md fresh Chinese-only 20/20/10/5/5/5/5 complete: workId=findbook-20260718-121027",
+  "generatedAt": "2026-07-18T12:12:55+08:00"
 }
