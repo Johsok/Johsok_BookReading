@@ -552,7 +552,7 @@
           renderBookOptionsPage();
           if (firstBook) {
             jumpToOption(category.id, firstBook.id);
-            await selectBook(firstBook.id);
+            await selectBook(firstBook.id, category.id);
           } else {
             state.book = null;
             renderEmpty("這個主題目前還沒有書籍資料。");
@@ -573,11 +573,11 @@
           els.categorySelect.value = category.id;
         }
 
-        await selectBook(option.bookId);
+        await selectBook(option.bookId, category.id);
       }
 
-      async function selectBook(bookId) {
-        const indexBook = findBookIndex(bookId);
+      async function selectBook(bookId, categoryId) {
+        const indexBook = findBookIndex(bookId, categoryId);
         if (!indexBook || !indexBook.file) return;
         const book = await loadBook(indexBook);
         state.book = book;
@@ -622,8 +622,20 @@
         const url = versionedUrl(indexBook.file);
         if (state.cache.has(url)) return state.cache.get(url);
         const data = await loadJson(url);
+        validateBookIndex(indexBook, data);
         state.cache.set(url, data);
         return data;
+      }
+
+      /** 確保單書 JSON 與 data.json 的索引指向同一本書。 */
+      function validateBookIndex(indexBook, book) {
+        const isMatched = book
+          && book.id === indexBook.id
+          && book.categoryId === indexBook.categoryId
+          && book.title === indexBook.title;
+        if (!isMatched) {
+          throw new Error(`${indexBook.file} 與 data.json 的書籍索引不一致。`);
+        }
       }
 
       async function loadJson(url) {
@@ -811,9 +823,9 @@
         })) || null;
       }
 
-      function findBookIndex(id) {
+      function findBookIndex(id, categoryId) {
         return (state.manifest && asArray(state.manifest.books).find(function (book) {
-          return book.id === id;
+          return book.id === id && (!categoryId || book.categoryId === categoryId);
         })) || null;
       }
 

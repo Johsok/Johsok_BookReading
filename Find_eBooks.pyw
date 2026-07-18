@@ -25,7 +25,7 @@ import time
 import unicodedata
 import uuid
 import zipfile
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import FIRST_COMPLETED, ThreadPoolExecutor, as_completed, wait
 from dataclasses import dataclass, field
 from datetime import date, datetime
 from email.message import Message
@@ -234,7 +234,7 @@ class HostPolicy:
 
 HOST_POLICIES: Dict[str, HostPolicy] = {
     "openlibrary.org": HostPolicy(1, 1.05),
-    "archive.org": HostPolicy(4, 1.0),
+    "archive.org": HostPolicy(4, 0.25),
     "www.gutenberg.org": HostPolicy(1, 2.0),
     "gutenberg.pglaf.org": HostPolicy(1, 2.0),
     "library.oapen.org": HostPolicy(2, 0.35),
@@ -937,32 +937,56 @@ class OpenLibraryProvider(Provider):
         records: List[EbookRecord] = []
         if not candidates:
             return records
-        with ThreadPoolExecutor(max_workers=min(4, len(candidates))) as executor:
-            futures = {
-                executor.submit(
-                    self._resolve_candidate,
-                    index,
-                    doc,
-                    ia_ids,
-                    selected_start,
-                    selected_end,
-                    client,
-                ): index
-                for index, doc, ia_ids in candidates
-            }
-            for future in as_completed(futures):
+        max_workers = min(4, len(candidates))
+        stop_event = threading.Event()
+        candidate_iterator = iter(candidates)
+        executor = ThreadPoolExecutor(max_workers=max_workers)
+        futures: Dict[Any, int] = {}
+
+        def submit_next() -> bool:
+            try:
+                index, doc, ia_ids = next(candidate_iterator)
+            except StopIteration:
+                return False
+            future = executor.submit(
+                self._resolve_candidate,
+                index,
+                doc,
+                ia_ids,
+                selected_start,
+                selected_end,
+                client,
+                stop_event,
+            )
+            futures[future] = index
+            return True
+
+        try:
+            for _ in range(max_workers):
+                submit_next()
+            while futures and len(records) < limit:
                 if cancel_event.is_set():
-                    for pending in futures:
-                        pending.cancel()
                     raise RequestCancelled()
-                try:
-                    record = future.result()
-                    if record and language_matches(record.language, language_code):
-                        records.append(record)
-                except RequestCancelled:
-                    raise
-                except Exception as exc:
-                    LOGGER.info("Open Library candidate skipped: %s", exc)
+                completed, _ = wait(futures, return_when=FIRST_COMPLETED)
+                for future in completed:
+                    futures.pop(future, None)
+                    try:
+                        record = future.result()
+                        if record and language_matches(record.language, language_code):
+                            records.append(record)
+                    except RequestCancelled:
+                        raise
+                    except Exception as exc:
+                        LOGGER.info("Open Library candidate skipped: %s", exc)
+                    if len(records) >= limit:
+                        stop_event.set()
+                        break
+                    submit_next()
+        finally:
+            stop_event.set()
+            for pending in futures:
+                pending.cancel()
+            executor.shutdown(wait=True, cancel_futures=True)
         records.sort(key=lambda item: item.rank)
         return records[:limit]
 
@@ -974,7 +998,10 @@ class OpenLibraryProvider(Provider):
         selected_start: date,
         selected_end: date,
         client: NetworkClient,
+        stop_event: Optional[threading.Event] = None,
     ) -> Optional[EbookRecord]:
+        if stop_event is not None and stop_event.is_set():
+            return None
         year = safe_int(doc.get("first_publish_year"))
         parsed_date = parse_metadata_date(year)
         if not parsed_date:
@@ -987,6 +1014,8 @@ class OpenLibraryProvider(Provider):
         metadata: Dict[str, Any] = {}
         options: List[DownloadOption] = []
         for candidate_ia_id in ia_ids:
+            if stop_event is not None and stop_event.is_set():
+                return None
             try:
                 metadata_payload = client.get_json(
                     "https://archive.org/metadata/"
@@ -1910,10 +1939,16 @@ class SearchCoordinator:
     def _run(self) -> None:
         client = NetworkClient(self.cancel_event)
         self.emit("state", "正在平行搜尋各平台的官方公開介面…")
-        per_source_limit = min(max(self.config.target_count * 2, 12), 100)
+        source_count = max(1, len(self.config.sources))
+        reserve = max(
+            4,
+            (self.config.target_count + source_count - 1) // source_count,
+        )
+        per_source_limit = min(self.config.target_count + reserve, 100)
         grouped: Dict[str, List[EbookRecord]] = {
             source: [] for source in self.config.sources
         }
+        source_started: Dict[str, float] = {}
 
         def search_one(source_key: str) -> List[EbookRecord]:
             provider = PROVIDERS[source_key]
@@ -1929,12 +1964,13 @@ class SearchCoordinator:
             )
 
         with ThreadPoolExecutor(max_workers=len(self.config.sources)) as executor:
-            futures = {
-                executor.submit(search_one, source): source
-                for source in self.config.sources
-            }
+            futures = {}
+            for source in self.config.sources:
+                source_started[source] = time.monotonic()
+                futures[executor.submit(search_one, source)] = source
             for future in as_completed(futures):
                 source = futures[future]
+                elapsed = time.monotonic() - source_started[source]
                 if self.cancel_event.is_set():
                     for pending in futures:
                         pending.cancel()
@@ -1946,13 +1982,19 @@ class SearchCoordinator:
                         if language_matches(record.language, self.config.language_code)
                     ]
                     count = len(grouped[source])
-                    self.log(f"{SOURCE_LABELS[source]}：找到 {count} 本符合日期且可下載的書")
+                    self.log(
+                        f"{SOURCE_LABELS[source]}：找到 {count} 本符合日期且可下載的書"
+                        f"（{elapsed:.1f} 秒）"
+                    )
                     self.emit("source_done", {"source": source, "count": count})
                 except RequestCancelled:
                     raise
                 except Exception as exc:
                     grouped[source] = []
-                    self.log(f"{SOURCE_LABELS[source]} 搜尋失敗：{exc}", "warning")
+                    self.log(
+                        f"{SOURCE_LABELS[source]} 搜尋失敗（{elapsed:.1f} 秒）：{exc}",
+                        "warning",
+                    )
                     self.emit(
                         "source_done",
                         {"source": source, "count": 0, "error": str(exc)},

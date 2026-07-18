@@ -495,6 +495,48 @@ class ProviderParserTests(unittest.TestCase):
         search_url = client.get_json.call_args_list[0].args[0]
         self.assertIn("language%3Achi", search_url)
 
+    def test_open_library_stops_scheduling_after_reaching_limit(self):
+        docs = [
+            {
+                "key": f"/works/OL{index}W",
+                "title": f"Book {index}",
+                "author_name": [f"Author {index}"],
+                "first_publish_year": 2020,
+                "ia": [f"public-id-{index}"],
+                "ebook_access": "public",
+                "language": ["eng"],
+                "public_scan_b": True,
+            }
+            for index in range(8)
+        ]
+        metadata_calls = []
+        lock = threading.Lock()
+
+        def get_json(url):
+            if "openlibrary.org/search.json" in url:
+                return {"docs": docs}
+            with lock:
+                metadata_calls.append(url)
+            return {
+                "metadata": {},
+                "files": [{"name": "book.epub", "format": "EPUB", "size": "40"}],
+            }
+
+        client = mock.Mock()
+        client.get_json.side_effect = get_json
+        records = ebooks.OpenLibraryProvider().search(
+            "book",
+            date(2019, 1, 1),
+            date(2021, 12, 31),
+            1,
+            "en",
+            client,
+            threading.Event(),
+        )
+
+        self.assertEqual(len(records), 1)
+        self.assertLessEqual(len(metadata_calls), 4)
+
     def test_gutenberg_opds_feed_parsing(self):
         xml_data = b"""<?xml version="1.0" encoding="utf-8"?>
         <feed xmlns="http://www.w3.org/2005/Atom"
