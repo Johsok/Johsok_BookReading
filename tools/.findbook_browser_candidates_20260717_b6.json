@@ -1,0 +1,3202 @@
+{
+  "01_business_startup": [
+    {
+      "author": "林澤宏、藍翊如",
+      "date": "2026/07/17",
+      "title": "圖解產品碳足跡ISO14067:2018實務",
+      "url": "https://www.kingstone.com.tw/basic/2014941942778/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "周豔芳",
+      "date": "2026/07/16",
+      "title": "費曼學習法：學得快、記得牢、考得好！從被動學習到主動掌握，打造一生受用的學習力",
+      "url": "https://www.kingstone.com.tw/basic/2011720050525/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "艾瑞克．喬根森（Eric Jorgenson）",
+      "date": "2026/07/16",
+      "title": "馬斯克寶典：從顛覆矽谷到打造太空帝國，讀懂全球首富20年極限思維【繁中版限定收錄：給讀者的手寫寄語印簽】",
+      "url": "https://www.kingstone.com.tw/basic/2014941939365/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "陳韋峰",
+      "date": "2026/07/16",
+      "title": "致富的定力：一年只需10小時，就能穩賺18%，投資新手也能在30歲財富自由",
+      "url": "https://www.kingstone.com.tw/basic/2015630847664/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "拉爾夫．尼爾森．艾略特（Ralph Nelson Elliott）",
+      "date": "2026/07/16",
+      "title": "波動有規律，散戶也能看懂的艾略特理論操盤法：看懂集體行為規律，預測每次市場大循環",
+      "url": "https://www.kingstone.com.tw/basic/2015630847824/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "木內翔大",
+      "date": "2026/07/15",
+      "title": "AI素人的贏家思維：不懂程式也能用AI創造競爭優勢！讓AI幫你工作、賺錢、創造機會，普通人也能做到的未來生存法則【入門超圖解】",
+      "url": "https://www.kingstone.com.tw/basic/2013120777736/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "木暮太一",
+      "date": "2026/07/15",
+      "title": "看懂資本世界與階級運作關鍵套書【人生的損益平衡點＋漫畫 資本論】",
+      "url": "https://www.kingstone.com.tw/basic/2014941942228/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "克利斯汀．麥茲伯格",
+      "date": "2026/07/15",
+      "title": "數據對了，為什麼你還是輸了？：【數據告訴你發生什麼，人性告訴你為什麼發生】看懂數字背後的動機、偏誤與選擇， 破解最棘手的商業難題",
+      "url": "https://www.kingstone.com.tw/basic/2014941942358/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "克里斯．達克",
+      "date": "2026/07/15",
+      "title": "領導自己：成功不靠硬撐，10個策略，配速跑贏事業生涯馬拉松",
+      "url": "https://www.kingstone.com.tw/basic/2014941942648/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "哈林頓．艾默生（Harrington Emerson）",
+      "date": "2026/07/15",
+      "title": "可以努力，但別太用力！艾默生的效率管理十二原則：檢查目標、責任、作業方法與獎酬制度，拆解現代職場常見的低效率來源，讓好成果不再只靠盲目努力",
+      "url": "https://www.kingstone.com.tw/basic/2014941942808/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "先鋒學院 Chris",
+      "date": "2026/07/15",
+      "title": "一人公司，收入翻十倍",
+      "url": "https://www.kingstone.com.tw/basic/2014941943300/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "約翰．勞（John Law）著伊莉莎 編譯",
+      "date": "2026/07/15",
+      "title": "金融泡沫的底層邏輯，約翰．勞與密西西比狂熱：發行準備金×銀行券流通，對股票的期望大於價值，信用從交易工具變成投機燃料",
+      "url": "https://www.kingstone.com.tw/basic/2015610121715/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "阿部睦月",
+      "date": "2026/07/15",
+      "title": "AI變現：多元收入，擺脫窮忙，把時間還給自己",
+      "url": "https://www.kingstone.com.tw/basic/2015630845790/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "陳展儀、卓致遠",
+      "date": "2026/07/14",
+      "title": "雙引擎實戰：精準數據×人心溫度，打造高效營收成長力",
+      "url": "https://www.kingstone.com.tw/basic/2014941942488/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "柿內尚文",
+      "date": "2026/07/13",
+      "title": "請為這道蛋包飯創造附加價值：讓你「無可取代」的高價值思維",
+      "url": "https://www.kingstone.com.tw/basic/2014941942198/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "楊孟真（Sylv!a）",
+      "date": "2026/07/13",
+      "title": "專案管理胃痛圖鑑：從臨床診斷到重症急救，31 帖 PM 生存處方藥到病除！（iThome鐵人賽系列書）",
+      "url": "https://www.kingstone.com.tw/basic/2014941942518/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "胡昭民",
+      "date": "2026/07/13",
+      "title": "網路行銷的 14 堂關鍵必修課：ChatGPT 5•UI/UX•行動支付•駭客•廣告•SEO•直播•Google Gemini•AI多媒體（第三版）（暢銷回饋版）",
+      "url": "https://www.kingstone.com.tw/basic/2014960469379/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "孫洪祥",
+      "date": "2026/07/11",
+      "title": "高飛人生：從華航基層到董事長，46年台灣航空實戰經驗，淬鍊出的經營智慧、決策視野與人生格局",
+      "url": "https://www.kingstone.com.tw/basic/2014941941986/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "莎拉（Sara Wang）",
+      "date": "2026/07/11",
+      "title": "新式型態學2.0　全方位實戰獲利系統：全商品、多週期、跨市場，多空皆贏的專屬攻略",
+      "url": "https://www.kingstone.com.tw/basic/2015630846742/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "井手康喬（Ide Yasutaka）",
+      "date": "2026/07/10",
+      "title": "表達方式圖鑑：只需套用，讓對方聽懂暗示，從職場、商場、情場到菜市場都能無往不利的73種說話模型",
+      "url": "https://www.kingstone.com.tw/basic/2011920823646/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "林澤宏、藍翊如",
+      "date": "2026/07/17",
+      "title": "圖解產品碳足跡ISO14067:2018實務",
+      "url": "https://www.kingstone.com.tw/basic/2014941942778/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "周豔芳",
+      "date": "2026/07/16",
+      "title": "費曼學習法：學得快、記得牢、考得好！從被動學習到主動掌握，打造一生受用的學習力",
+      "url": "https://www.kingstone.com.tw/basic/2011720050525/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "艾瑞克．喬根森（Eric Jorgenson）",
+      "date": "2026/07/16",
+      "title": "馬斯克寶典：從顛覆矽谷到打造太空帝國，讀懂全球首富20年極限思維【繁中版限定收錄：給讀者的手寫寄語印簽】",
+      "url": "https://www.kingstone.com.tw/basic/2014941939365/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "陳韋峰",
+      "date": "2026/07/16",
+      "title": "致富的定力：一年只需10小時，就能穩賺18%，投資新手也能在30歲財富自由",
+      "url": "https://www.kingstone.com.tw/basic/2015630847664/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "拉爾夫．尼爾森．艾略特（Ralph Nelson Elliott）",
+      "date": "2026/07/16",
+      "title": "波動有規律，散戶也能看懂的艾略特理論操盤法：看懂集體行為規律，預測每次市場大循環",
+      "url": "https://www.kingstone.com.tw/basic/2015630847824/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "木內翔大",
+      "date": "2026/07/15",
+      "title": "AI素人的贏家思維：不懂程式也能用AI創造競爭優勢！讓AI幫你工作、賺錢、創造機會，普通人也能做到的未來生存法則【入門超圖解】",
+      "url": "https://www.kingstone.com.tw/basic/2013120777736/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "木暮太一",
+      "date": "2026/07/15",
+      "title": "看懂資本世界與階級運作關鍵套書【人生的損益平衡點＋漫畫 資本論】",
+      "url": "https://www.kingstone.com.tw/basic/2014941942228/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "克利斯汀．麥茲伯格",
+      "date": "2026/07/15",
+      "title": "數據對了，為什麼你還是輸了？：【數據告訴你發生什麼，人性告訴你為什麼發生】看懂數字背後的動機、偏誤與選擇， 破解最棘手的商業難題",
+      "url": "https://www.kingstone.com.tw/basic/2014941942358/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "克里斯．達克",
+      "date": "2026/07/15",
+      "title": "領導自己：成功不靠硬撐，10個策略，配速跑贏事業生涯馬拉松",
+      "url": "https://www.kingstone.com.tw/basic/2014941942648/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "哈林頓．艾默生（Harrington Emerson）",
+      "date": "2026/07/15",
+      "title": "可以努力，但別太用力！艾默生的效率管理十二原則：檢查目標、責任、作業方法與獎酬制度，拆解現代職場常見的低效率來源，讓好成果不再只靠盲目努力",
+      "url": "https://www.kingstone.com.tw/basic/2014941942808/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "先鋒學院 Chris",
+      "date": "2026/07/15",
+      "title": "一人公司，收入翻十倍",
+      "url": "https://www.kingstone.com.tw/basic/2014941943300/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "約翰．勞（John Law）著伊莉莎 編譯",
+      "date": "2026/07/15",
+      "title": "金融泡沫的底層邏輯，約翰．勞與密西西比狂熱：發行準備金×銀行券流通，對股票的期望大於價值，信用從交易工具變成投機燃料",
+      "url": "https://www.kingstone.com.tw/basic/2015610121715/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "阿部睦月",
+      "date": "2026/07/15",
+      "title": "AI變現：多元收入，擺脫窮忙，把時間還給自己",
+      "url": "https://www.kingstone.com.tw/basic/2015630845790/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "陳展儀、卓致遠",
+      "date": "2026/07/14",
+      "title": "雙引擎實戰：精準數據×人心溫度，打造高效營收成長力",
+      "url": "https://www.kingstone.com.tw/basic/2014941942488/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "柿內尚文",
+      "date": "2026/07/13",
+      "title": "請為這道蛋包飯創造附加價值：讓你「無可取代」的高價值思維",
+      "url": "https://www.kingstone.com.tw/basic/2014941942198/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "楊孟真（Sylv!a）",
+      "date": "2026/07/13",
+      "title": "專案管理胃痛圖鑑：從臨床診斷到重症急救，31 帖 PM 生存處方藥到病除！（iThome鐵人賽系列書）",
+      "url": "https://www.kingstone.com.tw/basic/2014941942518/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "胡昭民",
+      "date": "2026/07/13",
+      "title": "網路行銷的 14 堂關鍵必修課：ChatGPT 5•UI/UX•行動支付•駭客•廣告•SEO•直播•Google Gemini•AI多媒體（第三版）（暢銷回饋版）",
+      "url": "https://www.kingstone.com.tw/basic/2014960469379/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "孫洪祥",
+      "date": "2026/07/11",
+      "title": "高飛人生：從華航基層到董事長，46年台灣航空實戰經驗，淬鍊出的經營智慧、決策視野與人生格局",
+      "url": "https://www.kingstone.com.tw/basic/2014941941986/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "莎拉（Sara Wang）",
+      "date": "2026/07/11",
+      "title": "新式型態學2.0　全方位實戰獲利系統：全商品、多週期、跨市場，多空皆贏的專屬攻略",
+      "url": "https://www.kingstone.com.tw/basic/2015630846742/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "井手康喬（Ide Yasutaka）",
+      "date": "2026/07/10",
+      "title": "表達方式圖鑑：只需套用，讓對方聽懂暗示，從職場、商場、情場到菜市場都能無往不利的73種說話模型",
+      "url": "https://www.kingstone.com.tw/basic/2011920823646/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "李尚友（이상우）",
+      "date": "2026/07/10",
+      "title": "看圖找飆股（暢銷新版）：看穿主力思維，抓住反轉趨勢，散戶輕鬆買低賣高的三百招祕訣",
+      "url": "https://www.kingstone.com.tw/basic/2015630847374/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "佐藤耕一",
+      "date": "2026/07/09",
+      "title": "達成績效的一張表單操作法：日本超過100家企業都在執行的7個步驟",
+      "url": "https://www.kingstone.com.tw/basic/2014941939785/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "喬爾．史瓦茲伯格",
+      "date": "2026/07/08",
+      "title": "你的影響力，從說重點開始：全美演說冠軍的精準表達術，帶你一句話說服、一開口聚焦，讓人聽懂、記住，更願意行動！",
+      "url": "https://www.kingstone.com.tw/basic/2014941941436/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "里夫斯‧威德曼",
+      "date": "2026/07/08",
+      "title": "億萬負翁：共享辦公室帝國WeWork詐騙啟示錄",
+      "url": "https://www.kingstone.com.tw/basic/2014941941566/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "雲千重 (編著)",
+      "date": "2026/07/08",
+      "title": "草莽的逆襲：不是命好才出頭！在夾縫裡找機會，在人情中借力量",
+      "url": "https://www.kingstone.com.tw/basic/2014941941856/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "馬克・薛佛",
+      "date": "2026/07/08",
+      "title": "AI改變了你的客戶：大家買東西不再搜google而是問AI時，行銷該怎麼做？",
+      "url": "https://www.kingstone.com.tw/basic/2014960469249/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "亨利．喬治（Henry George）",
+      "date": "2026/07/08",
+      "title": "努力被房價收走，亨利．喬治論進步與貧困：土地壟斷×租金上升×世代門檻，破解越勤奮越難安身的城市困局",
+      "url": "https://www.kingstone.com.tw/basic/2015510046484/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "極簡Takeru",
+      "date": "2026/07/08",
+      "title": "召喚錢錢來我家：從失業零存款到30歲FIRE！以斷捨離原則重整生活和財務的全方位創富提案",
+      "url": "https://www.kingstone.com.tw/basic/2015630847244/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "瑞秋．李察斯",
+      "date": "2026/07/07",
+      "title": "讓可愛的錢自動滾進來【可愛永不過時．長銷慶祝版】：27歲財務自由的理財7步驟",
+      "url": "https://www.kingstone.com.tw/basic/2015630846582/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "李笑來",
+      "date": "2026/07/06",
+      "title": "把時間當作朋友【經典擴增版】：真正拉開人生差距的，從來不只是努力，而是時間複利",
+      "url": "https://www.kingstone.com.tw/basic/2011771635115/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "李笑來",
+      "date": "2026/07/06",
+      "title": "有錢有閒的智慧套書（二冊）：《把時間當作朋友【經典擴增版】》、《通往財富自由之路（暢銷新裝版）》",
+      "url": "https://www.kingstone.com.tw/basic/2011771635245/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "阿托莎．阿拉西亞．亞伯拉罕米安",
+      "date": "2026/07/06",
+      "title": "隱藏的世界：揭開隱沒在國界之下的金權版圖",
+      "url": "https://www.kingstone.com.tw/basic/2015520142725/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "傑拉爾德．溫伯格",
+      "date": "2026/07/04",
+      "title": "顧問成功的祕密：有效建議、促成改變的工作智慧（20週年紀念版）",
+      "url": "https://www.kingstone.com.tw/basic/2014941941146/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "南懷瑾、郭姮妟",
+      "date": "2026/07/03",
+      "title": "現代工商業的自我修養",
+      "url": "https://www.kingstone.com.tw/basic/2010780078708/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "田坂廣志",
+      "date": "2026/07/03",
+      "title": "逆境力：培養面對困境的自救心法",
+      "url": "https://www.kingstone.com.tw/basic/2011771633241/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "亞瑟．布魯克斯",
+      "date": "2026/07/02",
+      "title": "幸福檔案：一個哈佛教授的生命洞察，快樂工作與生活的33 個核心法則",
+      "url": "https://www.kingstone.com.tw/basic/2011760428056/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "喬恩．麥克尼爾",
+      "date": "2026/07/02",
+      "title": "演算法：馬斯克演算法5步驟，推動特斯拉與SpaceX爆發式成長的祕密",
+      "url": "https://www.kingstone.com.tw/basic/2014840060887/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "菲利浦．科特勒",
+      "date": "2026/07/02",
+      "title": "科特勒的卓越營運新戰略：從亞洲出發，AI、數據與文化驅動的高效未來藍圖",
+      "url": "https://www.kingstone.com.tw/basic/2014941939495/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "林之晨、蔡祈岩",
+      "date": "2026/07/02",
+      "title": "逆分工：AI 時代的生產力革命，重構組織、市場到經濟的生存新賽局",
+      "url": "https://www.kingstone.com.tw/basic/2014941942068/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "菲利浦．科特勒、陳就學、伊萬．塞提亞宛",
+      "date": "2026/07/02",
+      "title": "行銷7.0：科特勒給AI時代的心智行銷地圖，用認知科學更懂人，創造意義植入人心的新路徑",
+      "url": "https://www.kingstone.com.tw/basic/2014960469409/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "山姆．杜根（Sam Dogen）",
+      "date": "2026/07/02",
+      "title": "高勝率的階梯理財法：FIRE運動先驅親身實證，掌握3階段×12個里程碑，28歲存第一桶金、34歲提早退休，享受有選擇權的人生",
+      "url": "https://www.kingstone.com.tw/basic/2015630847084/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "威廉．江恩",
+      "date": "2026/07/02",
+      "title": "贏在轉折前，散戶也能看懂的江恩理論操盤法：看懂角度線與成交量密碼，你也能在趨勢反轉前冷靜布局",
+      "url": "https://www.kingstone.com.tw/basic/2015630847114/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "崔渶善",
+      "date": "2026/07/01",
+      "title": "讓人想和你見第二次面：輕鬆建立有魅力的關係，讓人際、工作、生活，全部順利展開！",
+      "url": "https://www.kingstone.com.tw/basic/2011771634033/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "華勒斯．華特斯（Wallace Wattles）",
+      "date": "2026/07/01",
+      "title": "致富不是暴富的幻想！華勒斯．華特斯談財富科學：金錢信念×行動秩序×價值創造，從羞愧、匱乏與焦慮中找回人生選擇權",
+      "url": "https://www.kingstone.com.tw/basic/2011771634903/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "康納．史文森",
+      "date": "2026/07/01",
+      "title": "區塊鏈創新實踐手冊：如何運用去中心化技術，建構企業轉型解決方案",
+      "url": "https://www.kingstone.com.tw/basic/2014900194279/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "蔡鴻青",
+      "date": "2026/07/01",
+      "title": "大交棒時代：跨越百年的六堂企業必修課",
+      "url": "https://www.kingstone.com.tw/basic/2014941939525/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "多明尼克．穆特勒",
+      "date": "2026/07/01",
+      "title": "把話說到痛點，別再繞圈子！ 終結職場模糊溝通，讓事情高效推進的5個原則",
+      "url": "https://www.kingstone.com.tw/basic/2014941940514/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "山口拓朗",
+      "date": "2026/07/01",
+      "title": "可以直接說重點嗎？【用AI練出最強說話術！】：高效溝通圖解大全，獨創「詞彙量×具體化×表達力」黃金三公式，讓你工作順、人緣好、評價高",
+      "url": "https://www.kingstone.com.tw/basic/2014941940644/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "KEVIn曾聖凱",
+      "date": "2026/07/01",
+      "title": "難走的路才是捷徑：K-WAX逆勢突圍的經營哲學",
+      "url": "https://www.kingstone.com.tw/basic/2014941941276/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "賴銀柱",
+      "date": "2026/07/01",
+      "title": "20年後美夢成真：從豬舍起家到打造10億綠色工廠之路",
+      "url": "https://www.kingstone.com.tw/basic/2014941941306/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "喬伊斯．黃",
+      "date": "2026/07/01",
+      "title": "來日本工作吧：完整呈現在日本生活與工作的全方位實用指南",
+      "url": "https://www.kingstone.com.tw/basic/2015420105189/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "大衛．李嘉圖（David Ricardo）",
+      "date": "2026/07/01",
+      "title": "GDP成長肥到誰？李嘉圖帶你讀懂房價、薪資、稅負與全球貿易的成本轉嫁：從生活成本到薪資報酬，從企業獲利到全球貿易，揭開經濟成長背後的利益流向",
+      "url": "https://www.kingstone.com.tw/basic/2015500204566/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "張一明",
+      "date": "2026/07/01",
+      "title": "基金老兵從業趣談：一部35/41的證券投資信託產業史",
+      "url": "https://www.kingstone.com.tw/basic/2015600028550/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "管唯中",
+      "date": "2026/07/01",
+      "title": "像巴菲特一樣看見機會",
+      "url": "https://www.kingstone.com.tw/basic/2015630846902/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "劉必榮",
+      "date": "2026/07/01",
+      "title": "劉必榮的領導筆記：上位的謀略、在位的智慧、交棒的藝術",
+      "url": "https://www.kingstone.com.tw/basic/2024941939678/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "安格斯．弗萊契",
+      "date": "2026/06/30",
+      "title": "原始智慧：AI無法取代的四種人類天賦",
+      "url": "https://www.kingstone.com.tw/basic/2011760427134/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "岡田兵吾",
+      "date": "2026/06/30",
+      "title": "成為活躍於全球的英語工作者【暢銷慶功版】:給非母語者的「絕對規則」，不只知道「如何」說，更要「正向」且「有禮貌」地說！",
+      "url": "https://www.kingstone.com.tw/basic/2011771633111/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "佐上峻作",
+      "date": "2026/06/30",
+      "title": "我們是減時27%的高效率精銳： 帶領一群Z世代，不加班、少開會，人人能揪出耗時與浪費，善於設目標，成為日本最年輕億萬執行長。",
+      "url": "https://www.kingstone.com.tw/basic/2014941939815/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "增田賢作",
+      "date": "2026/06/30",
+      "title": "用人與帶人的問題，歷史都有答案： 讀歷史可以學會什麼？領導者最常遇到的問題，九成能在中外歷史裡找到答案！",
+      "url": "https://www.kingstone.com.tw/basic/2014941939945/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "尹衍樑／口述、張殿文／著、郭議鴻／整理",
+      "date": "2026/06/30",
+      "title": "尹教授的10堂課【暢銷紀念版】：興學興人的神隱總裁",
+      "url": "https://www.kingstone.com.tw/basic/2014941940354/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "梁天龍、劉子寧╱採訪整理",
+      "date": "2026/06/30",
+      "title": "可大、可久、可敬的經營思維：保險行銷集團創辦人梁天龍給你工作與人生的30個智慧錦囊",
+      "url": "https://www.kingstone.com.tw/basic/2014941940934/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "孫路弘",
+      "date": "2026/06/30",
+      "title": "AI時代的高價值人脈學：人脈格局決定命運高度，讓每次互動都在累積關係資產",
+      "url": "https://www.kingstone.com.tw/basic/2014941941016/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "半沢剛",
+      "date": "2026/06/30",
+      "title": "超級業務的打Game銷售術： 創下業績一人抵十人紀錄的銷售祕笈，從試探、誘導到成交，每一步都有節奏，像破關一樣簡單！",
+      "url": "https://www.kingstone.com.tw/basic/2014960468907/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "張文政",
+      "date": "2026/06/30",
+      "title": "聽到他說話，我就想買！： 金氏世界紀錄的銷售天王，讓顧客立刻打開錢包的九大銷售技巧",
+      "url": "https://www.kingstone.com.tw/basic/2014960469089/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "黑田真行",
+      "date": "2026/06/30",
+      "title": "35之後，更好的工作在哪裡？： 35歲有高牆，45歲遇斷崖。求職關鍵不是拚命投履歷，而是思考：那些35之後更搶手的人，現在多做了什麼？",
+      "url": "https://www.kingstone.com.tw/basic/2015420105059/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "威廉．班根",
+      "date": "2026/06/30",
+      "title": "4%法則：讓錢活得比你久的提領金律",
+      "url": "https://www.kingstone.com.tw/basic/2015440651437/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "V大（龔恬永）",
+      "date": "2026/06/30",
+      "title": "我用四年就財富自由【隨書贈送第一金證券新開戶大禮包】：如果你有100元，如何把投資力道做到最大？四準則精選存股，低檔時操作槓桿，放大資產。",
+      "url": "https://www.kingstone.com.tw/basic/2015630846162/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "麥可．卡威爾",
+      "date": "2026/06/30",
+      "title": "贏過大盤的順勢交易：不分牛熊市，股票、基金、期貨、債券都能賺，14位頂尖操盤手締造超額報酬的獲利紀律",
+      "url": "https://www.kingstone.com.tw/basic/2015630846452/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "劉進聲",
+      "date": "2026/06/30",
+      "title": "赤腳，走在無人之境：在聚光燈亮起之前，我已經站在那裡",
+      "url": "https://www.kingstone.com.tw/basic/2017830253535/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "胡川安",
+      "date": "2026/06/29",
+      "title": "縱橫：《戰國策》教我的人生逆襲術",
+      "url": "https://www.kingstone.com.tw/basic/2011920822984/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "荻野調、小泉信也、久保田隆至、大塚貴行",
+      "date": "2026/06/29",
+      "title": "AI商機：從導入流程、產業應用、商業實務案例，解析AI跨界創利模式",
+      "url": "https://www.kingstone.com.tw/basic/2014941938733/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "王者",
+      "date": "2026/06/29",
+      "title": "王者觀點之致富思維＆實戰方法1 我的終極目標就是財務自由（2026年增訂版）",
+      "url": "https://www.kingstone.com.tw/basic/2015630844878/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "麻道明",
+      "date": "2026/06/29",
+      "title": "我10年打造一億人生就是從抓到破新高股票必學的6個K線戰法",
+      "url": "https://www.kingstone.com.tw/basic/2015630845820/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "戴國良",
+      "date": "2026/06/28",
+      "title": "超圖解企業高值化（高附加價值）成功經營策略",
+      "url": "https://www.kingstone.com.tw/basic/2014941941726/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "許銘元",
+      "date": "2026/06/28",
+      "title": "超圖解財產保險核保理賠得來速",
+      "url": "https://www.kingstone.com.tw/basic/2015630847404/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "吳明憲",
+      "date": "2026/06/27",
+      "title": "手搖飲的隱形冠軍――鮮活果汁的「守破離」管理哲學",
+      "url": "https://www.kingstone.com.tw/basic/2014941940484/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "神田昌典",
+      "date": "2026/06/26",
+      "title": "非典型成功法則：那些成功人士不會告訴你的8個習慣",
+      "url": "https://www.kingstone.com.tw/basic/2011771632879/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "克莉絲汀．賓斯",
+      "date": "2026/06/26",
+      "title": "好好退休：頂尖專家教你20堂關於快樂、成功與富足的退休課",
+      "url": "https://www.kingstone.com.tw/basic/2015440651277/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "洪震宇",
+      "date": "2026/06/24",
+      "title": "洪震宇精準提問1+2套書（二冊）：《精準提問》、《精準提問2》",
+      "url": "https://www.kingstone.com.tw/basic/2014941940064/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "鄭詩諭",
+      "date": "2026/06/24",
+      "title": "高位不亂 ─ 在不能犯錯的位置，讓心站穩",
+      "url": "https://www.kingstone.com.tw/basic/2014941940774/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "范世華",
+      "date": "2026/06/24",
+      "title": "IP資產鍛造所：SOHO族與自由接案個人品牌創業進化指南",
+      "url": "https://www.kingstone.com.tw/basic/2014941940804/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "P. T. 巴納姆（P. T. Barnum）",
+      "date": "2026/06/24",
+      "title": "讓努力變值錢，巴納姆的二十條致富法則：能力圈×市場位置×信用累積，避開越勤奮越窮困的收入陷阱",
+      "url": "https://www.kingstone.com.tw/basic/2015610121555/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "馬永哲",
+      "date": "2026/06/24",
+      "title": "無現金時代：中國為何能夠影響全球金融科技",
+      "url": "https://www.kingstone.com.tw/basic/2015630846292/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "羅振宇",
+      "date": "2026/06/23",
+      "title": "未來1000天：你現在的努力，有多少會在AI時代失效？37 位實踐者寫給你的應對指南《隨書珍藏》〈1000天導航圖〉拉頁",
+      "url": "https://www.kingstone.com.tw/basic/2015410352272/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "麻道明",
+      "date": "2026/06/22",
+      "title": "秒懂主力的反市場K線實戰： 教你用100張技術圖表， 找出主力破綻、避開陷阱，實現股市致富（熱銷再版）",
+      "url": "https://www.kingstone.com.tw/basic/2015630845530/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "薩希．布魯姆",
+      "date": "2026/06/18",
+      "title": "人生的五種財富【實作練習本】：一步步打造夢想人生，時間、社會、心理、身體、金錢財富，全方位升級",
+      "url": "https://www.kingstone.com.tw/basic/2011771632459/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "薩希．布魯姆",
+      "date": "2026/06/18",
+      "title": "人生的五種財富【實踐套書】（《人生的五種財富》+《人生的五種財富【實作練習本】》共兩冊）",
+      "url": "https://www.kingstone.com.tw/basic/2011771632589/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "麥克．瓦金斯",
+      "date": "2026/06/18",
+      "title": "從新主管到頂尖主管 實戰版：全球頂尖商學院必讀轉職聖經，九十天完美因應轉職、升遷、空降與接班挑戰",
+      "url": "https://www.kingstone.com.tw/basic/2014941939235/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "葉怡成",
+      "date": "2026/06/18",
+      "title": "理財關鍵100：學校不會教，簡單易學，為自己開創複利人生！",
+      "url": "https://www.kingstone.com.tw/basic/2015630845950/?lid=book_new_class_prod_eeee"
+    },
+    {
+      "author": "羅伯特．雷亞（Robert Rhea）",
+      "date": "2026/06/18",
+      "title": "順勢就賺錢，散戶也能看懂的道氏理論操盤法：看懂多空節奏，精準掌握每一次進出場時機",
+      "url": "https://www.kingstone.com.tw/basic/2015630846032/?lid=book_new_class_prod_eeee"
+    }
+  ],
+  "02_psychology_growth": [
+    {
+      "author": "馬克．索姆斯",
+      "date": "2026/07/17",
+      "title": "意識如何湧現？：從神經科學到精神分析，探索心靈的隱藏泉源",
+      "url": "https://www.kingstone.com.tw/basic/2011730293929/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "潔絲．詹茲",
+      "date": "2026/07/16",
+      "title": "我和1000個陌生人共進晚餐：不談工作，更能看見真實的彼此（吳念真、劉軒等5位跨界人士推薦，一場觸動人心的深刻實驗）",
+      "url": "https://www.kingstone.com.tw/basic/2011771636747/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "Seolleda 崔敏正",
+      "date": "2026/07/15",
+      "title": "黑色情緒：我會陪著你，釐清隱藏在內心的70種真實感受",
+      "url": "https://www.kingstone.com.tw/basic/2011760428506/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "齊藤勇",
+      "date": "2026/07/15",
+      "title": "不內傷、不吃虧，難搞魔人應對二部曲【對付難搞魔人的不內傷心理學＋對付難搞魔人的不吃虧回話術】",
+      "url": "https://www.kingstone.com.tw/basic/2011771636617/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "王雅涵",
+      "date": "2026/07/15",
+      "title": "遊戲引導力：心理師教你換上玩家視角，用桌遊破解人際卡關，讓冷淡抗拒變成主動投入",
+      "url": "https://www.kingstone.com.tw/basic/2011780122897/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "申昭潾",
+      "date": "2026/07/15",
+      "title": "媽媽離開的時候想穿什麼顏色的衣服？──外婆、老媽還有我的三代生命對話（二版）",
+      "url": "https://www.kingstone.com.tw/basic/2011910297419/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "胡昭民",
+      "date": "2026/07/14",
+      "title": "AI時代最強學習術─油漆式速記法：速讀 × 速憶 × 全腦學習一次到位",
+      "url": "https://www.kingstone.com.tw/basic/2010190055122/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "Peter Su、張明志",
+      "date": "2026/07/14",
+      "title": "從好好陪伴，到好好道別：《陪伴，是世上最奢侈的禮物》＋《隨時放得下的功課》套書",
+      "url": "https://www.kingstone.com.tw/basic/2015440652199/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "冒牌生",
+      "date": "2026/07/14",
+      "title": "世界很大，不用急著長成別人期待的樣子",
+      "url": "https://www.kingstone.com.tw/basic/2017190076973/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "黃政平",
+      "date": "2026/07/12",
+      "title": "艾賓浩斯記憶學習法：複習時機錯了，學再多也留不住，用遺忘曲線抓準回想點，讓記憶穩定留存",
+      "url": "https://www.kingstone.com.tw/basic/2011760428766/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "郭約瑟",
+      "date": "2026/07/11",
+      "title": "我不是想離職，只是不想被燃燒殆盡：築起三層心理防火牆，把責任還回去，把能量還給自己",
+      "url": "https://www.kingstone.com.tw/basic/2011760428346/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "瓊恩．荷里法斯",
+      "date": "2026/07/11",
+      "title": "站在邊緣之境（新版）：利他、同理心、誠正、尊重、敬業，回歸五種心理本質，在恐懼與勇氣之間找到平衡與自在",
+      "url": "https://www.kingstone.com.tw/basic/2011760428476/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "佐野直樹",
+      "date": "2026/07/11",
+      "title": "印度「上師筆記」的顯化祕密：每天5分鐘「四格書寫」，把煩惱寫成行動，讓心中所想成為真實人生！",
+      "url": "https://www.kingstone.com.tw/basic/2011920823806/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "西田一見",
+      "date": "2026/07/10",
+      "title": "大谷翔平的成信力：指導大谷翔平高中時期的心理教練親授，夢想必定實現的「腦活用術」",
+      "url": "https://www.kingstone.com.tw/basic/2011771636327/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "王浩一",
+      "date": "2026/07/10",
+      "title": "影下彩虹：你要覺察5種人生潛意識（王浩一逝世週年紀念文集・「思想料理機」二部曲下集）",
+      "url": "https://www.kingstone.com.tw/basic/2011771636457/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "凱倫・沃朗 Karen Walrond",
+      "date": "2026/07/09",
+      "title": "業餘愛好的力量：過度努力時代的快樂指南",
+      "url": "https://www.kingstone.com.tw/basic/2011771636587/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "蔡宇杰",
+      "date": "2026/07/09",
+      "title": "孤島上的醫師：在吉里巴斯與生命同行",
+      "url": "https://www.kingstone.com.tw/basic/2015480120351/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "孟炫",
+      "date": "2026/07/09",
+      "title": "鏡子面具（加贈【擁抱真實自我海報＆鐘穎精彩導讀】）",
+      "url": "https://www.kingstone.com.tw/basic/2028620215053/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "塔妮亞．露娜",
+      "date": "2026/07/08",
+      "title": "驚喜的科學：心理學家教你駕馭不可預期，把未知變成人生推進力，拓展生活、關係、工作的新可能",
+      "url": "https://www.kingstone.com.tw/basic/2011760428216/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "金鐘沅",
+      "date": "2026/07/08",
+      "title": "靜靜把自己寫回來：中、英雙語對照，100天抄寫計畫，陪你沉澱情緒、整理人生",
+      "url": "https://www.kingstone.com.tw/basic/2011771635665/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "馬克．索姆斯",
+      "date": "2026/07/17",
+      "title": "意識如何湧現？：從神經科學到精神分析，探索心靈的隱藏泉源",
+      "url": "https://www.kingstone.com.tw/basic/2011730293929/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "潔絲．詹茲",
+      "date": "2026/07/16",
+      "title": "我和1000個陌生人共進晚餐：不談工作，更能看見真實的彼此（吳念真、劉軒等5位跨界人士推薦，一場觸動人心的深刻實驗）",
+      "url": "https://www.kingstone.com.tw/basic/2011771636747/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "Seolleda 崔敏正",
+      "date": "2026/07/15",
+      "title": "黑色情緒：我會陪著你，釐清隱藏在內心的70種真實感受",
+      "url": "https://www.kingstone.com.tw/basic/2011760428506/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "齊藤勇",
+      "date": "2026/07/15",
+      "title": "不內傷、不吃虧，難搞魔人應對二部曲【對付難搞魔人的不內傷心理學＋對付難搞魔人的不吃虧回話術】",
+      "url": "https://www.kingstone.com.tw/basic/2011771636617/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "王雅涵",
+      "date": "2026/07/15",
+      "title": "遊戲引導力：心理師教你換上玩家視角，用桌遊破解人際卡關，讓冷淡抗拒變成主動投入",
+      "url": "https://www.kingstone.com.tw/basic/2011780122897/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "申昭潾",
+      "date": "2026/07/15",
+      "title": "媽媽離開的時候想穿什麼顏色的衣服？──外婆、老媽還有我的三代生命對話（二版）",
+      "url": "https://www.kingstone.com.tw/basic/2011910297419/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "胡昭民",
+      "date": "2026/07/14",
+      "title": "AI時代最強學習術─油漆式速記法：速讀 × 速憶 × 全腦學習一次到位",
+      "url": "https://www.kingstone.com.tw/basic/2010190055122/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "Peter Su、張明志",
+      "date": "2026/07/14",
+      "title": "從好好陪伴，到好好道別：《陪伴，是世上最奢侈的禮物》＋《隨時放得下的功課》套書",
+      "url": "https://www.kingstone.com.tw/basic/2015440652199/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "冒牌生",
+      "date": "2026/07/14",
+      "title": "世界很大，不用急著長成別人期待的樣子",
+      "url": "https://www.kingstone.com.tw/basic/2017190076973/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "黃政平",
+      "date": "2026/07/12",
+      "title": "艾賓浩斯記憶學習法：複習時機錯了，學再多也留不住，用遺忘曲線抓準回想點，讓記憶穩定留存",
+      "url": "https://www.kingstone.com.tw/basic/2011760428766/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "郭約瑟",
+      "date": "2026/07/11",
+      "title": "我不是想離職，只是不想被燃燒殆盡：築起三層心理防火牆，把責任還回去，把能量還給自己",
+      "url": "https://www.kingstone.com.tw/basic/2011760428346/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "瓊恩．荷里法斯",
+      "date": "2026/07/11",
+      "title": "站在邊緣之境（新版）：利他、同理心、誠正、尊重、敬業，回歸五種心理本質，在恐懼與勇氣之間找到平衡與自在",
+      "url": "https://www.kingstone.com.tw/basic/2011760428476/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "佐野直樹",
+      "date": "2026/07/11",
+      "title": "印度「上師筆記」的顯化祕密：每天5分鐘「四格書寫」，把煩惱寫成行動，讓心中所想成為真實人生！",
+      "url": "https://www.kingstone.com.tw/basic/2011920823806/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "西田一見",
+      "date": "2026/07/10",
+      "title": "大谷翔平的成信力：指導大谷翔平高中時期的心理教練親授，夢想必定實現的「腦活用術」",
+      "url": "https://www.kingstone.com.tw/basic/2011771636327/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "王浩一",
+      "date": "2026/07/10",
+      "title": "影下彩虹：你要覺察5種人生潛意識（王浩一逝世週年紀念文集・「思想料理機」二部曲下集）",
+      "url": "https://www.kingstone.com.tw/basic/2011771636457/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "凱倫・沃朗 Karen Walrond",
+      "date": "2026/07/09",
+      "title": "業餘愛好的力量：過度努力時代的快樂指南",
+      "url": "https://www.kingstone.com.tw/basic/2011771636587/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "蔡宇杰",
+      "date": "2026/07/09",
+      "title": "孤島上的醫師：在吉里巴斯與生命同行",
+      "url": "https://www.kingstone.com.tw/basic/2015480120351/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "孟炫",
+      "date": "2026/07/09",
+      "title": "鏡子面具（加贈【擁抱真實自我海報＆鐘穎精彩導讀】）",
+      "url": "https://www.kingstone.com.tw/basic/2028620215053/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "塔妮亞．露娜",
+      "date": "2026/07/08",
+      "title": "驚喜的科學：心理學家教你駕馭不可預期，把未知變成人生推進力，拓展生活、關係、工作的新可能",
+      "url": "https://www.kingstone.com.tw/basic/2011760428216/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "金鐘沅",
+      "date": "2026/07/08",
+      "title": "靜靜把自己寫回來：中、英雙語對照，100天抄寫計畫，陪你沉澱情緒、整理人生",
+      "url": "https://www.kingstone.com.tw/basic/2011771635665/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "萬特特",
+      "date": "2026/07/08",
+      "title": "這世界很煩，但你要很可愛【暢銷25萬本！精美雙面書衣收藏版】：為努力到此刻的自己乾一杯啦！（特贈《可愛語錄防水貼紙》）",
+      "url": "https://www.kingstone.com.tw/basic/2011771635795/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "佐宗邦威",
+      "date": "2026/07/08",
+      "title": "活出自己的時間：擺脫窮忙與AI焦慮，重獲自由的新生活提案",
+      "url": "https://www.kingstone.com.tw/basic/2011771635825/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "拉菲・格林伯格",
+      "date": "2026/07/08",
+      "title": "學校沒教的14堂初級大人進擊課：波士頓學院熱門課程！出社會必備的生存打怪升級技能",
+      "url": "https://www.kingstone.com.tw/basic/2011771635955/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "蘿蕊・葛利布",
+      "date": "2026/07/08",
+      "title": "也許你該找人聊聊〔陪伴日誌〕百萬暢銷慶功版：一週一課題，用一年改變一生的自我覺察練習",
+      "url": "https://www.kingstone.com.tw/basic/2011771636037/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "陳藝新",
+      "date": "2026/07/08",
+      "title": "改變生命的對話",
+      "url": "https://www.kingstone.com.tw/basic/2011771636167/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "南宮北",
+      "date": "2026/07/08",
+      "title": "原來，我一直太為難自己",
+      "url": "https://www.kingstone.com.tw/basic/2011771636297/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "李忠憲",
+      "date": "2026/07/08",
+      "title": "活出自己的節奏：我從跑步學會的人生課",
+      "url": "https://www.kingstone.com.tw/basic/2011920823356/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "野野村友紀子",
+      "date": "2026/07/08",
+      "title": "老公不知道的家事清單：親愛的廢物老公，你怎麼看不見滿出來的垃圾桶、空掉的冰箱，還有快崩潰的我？",
+      "url": "https://www.kingstone.com.tw/basic/2014200104398/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "金景一",
+      "date": "2026/07/08",
+      "title": "為何我們這樣工作，那樣花錢？：從認知心理學角度觀察職場、情緒與消費行為",
+      "url": "https://www.kingstone.com.tw/basic/2015610121685/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "尼克．崔頓．段美茹",
+      "date": "2026/07/07",
+      "title": "鬆綁焦慮，擺脫情緒內耗療癒雙套書：《八成是你想太多》＋《如果焦慮是隻貓》",
+      "url": "https://www.kingstone.com.tw/basic/2011760427684/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "穆斯庫帕比",
+      "date": "2026/07/07",
+      "title": "重要的小事(贈送重要小事話語書籤一組)：那些來不及珍惜，卻改變我們一生的瞬間",
+      "url": "https://www.kingstone.com.tw/basic/2011771635375/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "李南錫",
+      "date": "2026/07/06",
+      "title": "為什麼我們總是相信自己是對的？：不知不覺掉入的101種慣性思考陷阱",
+      "url": "https://www.kingstone.com.tw/basic/2011760428186/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "安妮．陳",
+      "date": "2026/07/06",
+      "title": "情感依戀關係療法：找出你的依附類型，改變互動方式，讓你們的關係更有安全感，更親近、更持久",
+      "url": "https://www.kingstone.com.tw/basic/2011771635085/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "佩特．沃克",
+      "date": "2026/07/06",
+      "title": "第一本複雜性創傷後壓力症候群自我療癒聖經（長銷典藏）：在童年創傷中求生到茁壯的恢復指南",
+      "url": "https://www.kingstone.com.tw/basic/2011780122767/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "白善燁 Seon Y. Baek",
+      "date": "2026/07/06",
+      "title": "打造成功習慣的英語抄寫力:每天15分鐘！將世界前1%的領袖思維寫入大腦",
+      "url": "https://www.kingstone.com.tw/basic/2011920823776/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "稻盛和夫、稻盛資料館",
+      "date": "2026/07/04",
+      "title": "稻盛和夫　培養不迷惘的心：經營之聖奉行的思考方法，讓你所想的必將實現",
+      "url": "https://www.kingstone.com.tw/basic/2018612684349/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "有田秀穂",
+      "date": "2026/07/03",
+      "title": "數位斷捨離：擺脫手機成癮造成的身心疲勞",
+      "url": "https://www.kingstone.com.tw/basic/2011760427424/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "梅爾．羅賓斯",
+      "date": "2026/07/03",
+      "title": "隨他們去：全球熱銷突破1000萬冊現象級巨作！改變千萬人命運的心理技巧【附放下執念明信片】",
+      "url": "https://www.kingstone.com.tw/basic/2011771633661/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "外山滋比古",
+      "date": "2026/07/03",
+      "title": "晚年整理學：找回生活節奏的老後哲學",
+      "url": "https://www.kingstone.com.tw/basic/2011910296757/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "提博特．梅里斯",
+      "date": "2026/07/02",
+      "title": "為什麼你有情緒？（暢銷紀念）：認識情緒，才認識自己；它難以掌控，卻決定了你的生活品質！",
+      "url": "https://www.kingstone.com.tw/basic/2011760427264/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "芳妮",
+      "date": "2026/07/02",
+      "title": "很想找個人聊聊：結合具體方法、易懂心理學與實用練習的自我療癒指南",
+      "url": "https://www.kingstone.com.tw/basic/2011771630585/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "許心華、謝昊霓",
+      "date": "2026/07/02",
+      "title": "生生世世量子糾纏：從宇宙運轉科學探討量子世界",
+      "url": "https://www.kingstone.com.tw/basic/2012200290554/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "松島雅美 Matsushima Masami",
+      "date": "2026/07/01",
+      "title": "原來訓練眼睛，就能強化心理素質！：獨家專利心理視覺訓練，企業菁英、奧運選手與名校都在用",
+      "url": "https://www.kingstone.com.tw/basic/2011760426762/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "SayNo",
+      "date": "2026/07/01",
+      "title": "SayNo的教誨：對你一直以來相信的事物，勇敢說不！【首刷特贈SayNo清醒人生迷你讀本】",
+      "url": "https://www.kingstone.com.tw/basic/2011771633951/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "皮帕．葛蘭琪",
+      "date": "2026/07/01",
+      "title": "內在獲勝：破除恐懼迷思，找回幸福的驅動力（全新珍藏版）",
+      "url": "https://www.kingstone.com.tw/basic/2011771634163/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "艾蘭度(Islandooo)",
+      "date": "2026/07/01",
+      "title": "人生就是冰淇淋，要盡快享用啊！：關於跌倒、焦慮與那些有點累的日常",
+      "url": "https://www.kingstone.com.tw/basic/2011771634293/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "方東野",
+      "date": "2026/07/01",
+      "title": "一生必讀一次厚黑學",
+      "url": "https://www.kingstone.com.tw/basic/2011771634453/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "Steven River",
+      "date": "2026/07/01",
+      "title": "一日一句貓耳語【首刷限量隨書贈貓糰子A6資料夾－】：讓貓咪每天為你不停加油！",
+      "url": "https://www.kingstone.com.tw/basic/2011771634613/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "流川美加",
+      "date": "2026/07/01",
+      "title": "AI時代的人生整理術：用愛、直覺與體驗，活出不可替代的自己！",
+      "url": "https://www.kingstone.com.tw/basic/2011771636877/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "妮可．卡利斯",
+      "date": "2026/07/01",
+      "title": "利他：告別孤獨流感，召喚使命感、歸屬感的最佳處方",
+      "url": "https://www.kingstone.com.tw/basic/2011910296917/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "康哲偉",
+      "date": "2026/07/01",
+      "title": "當你過了45歲：健康、職涯、財務、法律，必須按齡知道的",
+      "url": "https://www.kingstone.com.tw/basic/2011920822434/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "張德芬、丁銳",
+      "date": "2026/07/01",
+      "title": "生命靜界：你的人生演算法需要升級了",
+      "url": "https://www.kingstone.com.tw/basic/2011920822694/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "卡米兒",
+      "date": "2026/07/01",
+      "title": "選擇真實：在混亂中成為自己",
+      "url": "https://www.kingstone.com.tw/basic/2011920823066/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "平光源たいら・こうげん",
+      "date": "2026/07/01",
+      "title": "半憂鬱：給能工作，能生活，內心卻動彈不得的你",
+      "url": "https://www.kingstone.com.tw/basic/2014150613254/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "張逸雲",
+      "date": "2026/07/01",
+      "title": "天使逆風起飛：一位父親陪伴孩子走過崩潰、拒學的重生手記",
+      "url": "https://www.kingstone.com.tw/basic/2014150613834/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "艾瑪．海明．威利",
+      "date": "2026/07/01",
+      "title": "陪伴的力量（傑出演員布魯斯．威利之妻，親歷失智症照顧的真情分享）",
+      "url": "https://www.kingstone.com.tw/basic/2014150613964/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "綦哲達",
+      "date": "2026/07/01",
+      "title": "覺醒學習法：教你看見學習盲點，拆解過去以為有效的努力與死背迷思；方法一對，學什麼會什麼！",
+      "url": "https://www.kingstone.com.tw/basic/2015218816143/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "伯特蘭・羅素",
+      "date": "2026/07/01",
+      "title": "悠閒頌：當世界愈來愈快，羅素留給不安時代的智慧",
+      "url": "https://www.kingstone.com.tw/basic/2015400115740/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "安・威爾森",
+      "date": "2026/07/01",
+      "title": "如何用話語救活老公：即使有時候你只想掐死他",
+      "url": "https://www.kingstone.com.tw/basic/2015440652069/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "曾格爾 Grace Tseng",
+      "date": "2026/07/01",
+      "title": "世界之巔：跨越14座8000公尺高峰的答案",
+      "url": "https://www.kingstone.com.tw/basic/2019920584437/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "瑪莉安娜．亞歷山德里",
+      "date": "2026/06/30",
+      "title": "負面不是病：黑暗情緒哲學",
+      "url": "https://www.kingstone.com.tw/basic/2011760426472/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "童至祥、傅士玲(採訪整理)",
+      "date": "2026/06/30",
+      "title": "深刻認識你自己：勇氣、紀律、能力、心態，童至祥的人生導航儀",
+      "url": "https://www.kingstone.com.tw/basic/2011771634583/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "保羅．卡拉尼提、努蘭",
+      "date": "2026/06/30",
+      "title": "直視死亡，你會更明白「怎麼活」：《當呼吸化為空氣》＋《死亡的臉》",
+      "url": "https://www.kingstone.com.tw/basic/2011910296597/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "妹尾武治",
+      "date": "2026/06/29",
+      "title": "自由意志是大腦的錯覺：解密138億年前早已命定的人類行為說明書",
+      "url": "https://www.kingstone.com.tw/basic/2011720050495/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "吳若權",
+      "date": "2026/06/29",
+      "title": "再難過，也終會度過：總有那些迷惘、不知所措的時刻──給不知不覺成為大人的你",
+      "url": "https://www.kingstone.com.tw/basic/2011771633821/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "陳亮嘴",
+      "date": "2026/06/29",
+      "title": "為什麼我總是在做自己和怕別人失望之間左右為難：不委屈自己，也不傷人的相處練習",
+      "url": "https://www.kingstone.com.tw/basic/2011910296627/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "蔡美玉、葉娜慧",
+      "date": "2026/06/29",
+      "title": "我是打掃阿桑：28年的汗水付出，我從負債千萬翻轉人生，歡喜收穫信任與尊重",
+      "url": "https://www.kingstone.com.tw/basic/2017830252743/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "卡洛琳‧佛萊克",
+      "date": "2026/06/27",
+      "title": "認可：只要先接納，就能改變人生！用矽谷人氣心理師的「認可階梯」，改變你與家庭、職場、自我的關係",
+      "url": "https://www.kingstone.com.tw/basic/2011771633081/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "戴爾．卡內基",
+      "date": "2026/06/27",
+      "title": "1分鐘圖解人性的弱點：卡內基溝通與人際關係，如何贏得友誼與影響他人，最暢銷勵志經典，股神巴菲特強力推薦，改變千萬人命運，創造自己的成功之路！",
+      "url": "https://www.kingstone.com.tw/basic/2011771633401/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "洪承銀（홍승은）",
+      "date": "2026/06/27",
+      "title": "那時錯了，現在也是錯的：拆解大人編織的八個謊言",
+      "url": "https://www.kingstone.com.tw/basic/2011771635535/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "林昀萱",
+      "date": "2026/06/27",
+      "title": "調皮女醫的譏智生活：雖然每天崩潰，但還是要堅持諧音魂",
+      "url": "https://www.kingstone.com.tw/basic/2018630969268/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "二宮和也",
+      "date": "2026/06/27",
+      "title": "獨斷與偏見",
+      "url": "https://www.kingstone.com.tw/basic/2028612679245/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "尾藤克之",
+      "date": "2026/06/26",
+      "title": "聰明人的高效讀書法：如何用10分鐘掌握一本書",
+      "url": "https://www.kingstone.com.tw/basic/2010190055092/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "村松大輔",
+      "date": "2026/06/26",
+      "title": "命運由頻率決定！「量子力學式」願望實現法則",
+      "url": "https://www.kingstone.com.tw/basic/2011750133052/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "理察．卡爾森",
+      "date": "2026/06/26",
+      "title": "「想太多」只會偷走快樂：跳脫情緒鏈的思維陷阱！折磨你的從來不是事情本身，而是失控的內心戲",
+      "url": "https://www.kingstone.com.tw/basic/2011760426922/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "李瑜 Yu Lee",
+      "date": "2026/06/26",
+      "title": "最初的你，早已足夠",
+      "url": "https://www.kingstone.com.tw/basic/2011771632299/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "李瑜 Yu Lee",
+      "date": "2026/06/26",
+      "title": "最初的你，早已足夠【限量親簽】",
+      "url": "https://www.kingstone.com.tw/basic/2011771632329/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "蜜拉．李．帕托",
+      "date": "2026/06/26",
+      "title": "走自己的路：當你不再想著成為別人，才真正開始閃耀光芒",
+      "url": "https://www.kingstone.com.tw/basic/2011771632909/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "池田貴將",
+      "date": "2026/06/26",
+      "title": "覺悟的力量：超譯安倍晉三精神教父「吉田松陰」的人生格言",
+      "url": "https://www.kingstone.com.tw/basic/2011920822724/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "渡邊和子",
+      "date": "2026/06/26",
+      "title": "在落地之處開花【暢銷300萬冊，日本勵志經典】：無論在何種境遇，你都能閃耀發光（新修版）",
+      "url": "https://www.kingstone.com.tw/basic/2012440142002/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "河合薰",
+      "date": "2026/06/26",
+      "title": "退休後的孤獨入門：重建不受公司定義的人生意義",
+      "url": "https://www.kingstone.com.tw/basic/2015440650805/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "黑川伊保子",
+      "date": "2026/06/26",
+      "title": "家人使用說明書【暢銷新修版】：腦科學專家寫給總是被家人一秒惹怒的你",
+      "url": "https://www.kingstone.com.tw/basic/2015440651147/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "凱凱 Kaikai Chou",
+      "date": "2026/06/26",
+      "title": "做自己的珍珠【作者親簽版】：把你的不一樣，磨成耀眼的光",
+      "url": "https://www.kingstone.com.tw/basic/2015440651307/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "夏筱琴",
+      "date": "2026/06/26",
+      "title": "重縫人生：從罹患腦瘤、市場一坪小攤到國際伸展台，她為人生重新打版，將生命的傷口縫成了美麗的翅膀。",
+      "url": "https://www.kingstone.com.tw/basic/2017830253405/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "查爾斯．哈奈爾",
+      "date": "2026/06/25",
+      "title": "心靈化學：「吸引力法則之父」最核心的思想精隨",
+      "url": "https://www.kingstone.com.tw/basic/2011750132970/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "安納斯塔西雅．赫羅尼斯",
+      "date": "2026/06/25",
+      "title": "誰在讓你失控？駕馭多巴胺，打造最強大腦行動力：不靠意志力！用行為科學找回專注與自控",
+      "url": "https://www.kingstone.com.tw/basic/2011771633371/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "河合隼雄",
+      "date": "2026/06/25",
+      "title": "心靈天氣圖： 146則陪你理解情緒與人生的溫柔提醒",
+      "url": "https://www.kingstone.com.tw/basic/2011771634323/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "西野みや子",
+      "date": "2026/06/25",
+      "title": "我的父母竟然成了老害",
+      "url": "https://www.kingstone.com.tw/basic/2015440651987/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "潔西卡．豪爾",
+      "date": "2026/06/24",
+      "title": "數位時代的情緒療癒：在過載的情緒疲勞中練習排毒，得到真正的休息",
+      "url": "https://www.kingstone.com.tw/basic/2014180409551/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "張錦花",
+      "date": "2026/06/23",
+      "title": "決定對自己好一點，我不再討好任何人",
+      "url": "https://www.kingstone.com.tw/basic/2011780122637/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "凱特王",
+      "date": "2026/06/23",
+      "title": "既要又要還要：與慾望共生，做個既貪婪又可愛的女人",
+      "url": "https://www.kingstone.com.tw/basic/2015440650225/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "吳坪宣",
+      "date": "2026/06/23",
+      "title": "心有悸動便是青春：你不是變老，只是成熟",
+      "url": "https://www.kingstone.com.tw/basic/2015440650355/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "吳依倫",
+      "date": "2026/06/22",
+      "title": "那些傷，住進我身體：精神科醫師從大腦與神經系統，剖析家庭創傷如何傷身與療癒",
+      "url": "https://www.kingstone.com.tw/basic/2015440651567/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "伊娃．西姆斯",
+      "date": "2026/06/18",
+      "title": "童年現象學：孩子活出的世界——生命早期的身體、關係、空間與時間經驗",
+      "url": "https://www.kingstone.com.tw/basic/2011730293899/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "曾焱冰",
+      "date": "2026/06/18",
+      "title": "不完美，才是恰到好處的人生─放下「必須卓越」的包袱，長成自己喜歡的模樣",
+      "url": "https://www.kingstone.com.tw/basic/2011771632619/?lid=book_new_class_prod_aaaa"
+    },
+    {
+      "author": "葉美麗、吳俊德",
+      "date": "2026/06/18",
+      "title": "上流老人退休寶典：從容瀟灑過晚年的十二堂課",
+      "url": "https://www.kingstone.com.tw/basic/2015440650485/?lid=book_new_class_prod_aaaa"
+    }
+  ],
+  "03_natural_science": [
+    {
+      "author": "澄田夢久◎著/野村義宏◎監修",
+      "date": "2026/07/12",
+      "title": "圖解 元素生活百科：地球、人體、食物、科技產品，原來世界上的一切都是元素組成！",
+      "url": "https://www.kingstone.com.tw/basic/2013480018579/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "張天蓉",
+      "date": "2026/07/09",
+      "title": "電子科學簡史，從雨天風箏到半導體的故事：量子霍爾效應×拓撲絕緣體×高溫超導……點亮數位文明的奈米閃光",
+      "url": "https://www.kingstone.com.tw/basic/2013370082574/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "鄧子雲",
+      "date": "2026/07/08",
+      "title": "微積分不嚇人，重新認識極限、導數與積分：不硬背×不死記！從動態、局部、累加真正理解微積分",
+      "url": "https://www.kingstone.com.tw/basic/2013140069392/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "日本Newton Press",
+      "date": "2026/07/07",
+      "title": "星空大圖鑑：伽利略科學大圖鑑25",
+      "url": "https://www.kingstone.com.tw/basic/2013230048702/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "日本Newton Press",
+      "date": "2026/07/07",
+      "title": "日本職人的科學：從和食、清酒到名刀，用科學揭開日本職人技藝的祕密 人人伽利略45",
+      "url": "https://www.kingstone.com.tw/basic/2019700004032/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "叨叨漫畫",
+      "date": "2026/07/06",
+      "title": "漫畫圖解量子力學，一看就懂：從墨子到磁浮青蛙，從牙垢到石墨稀，微觀世界將把人類帶向怎樣的未來？",
+      "url": "https://www.kingstone.com.tw/basic/2013310026842/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "梁庚辰",
+      "date": "2026/07/04",
+      "title": "忖度人心——梁爸的心理學通識課：從大腦機制到社會文化，探索認知、情緒與意識的人心運作之謎",
+      "url": "https://www.kingstone.com.tw/basic/2011700088746/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "鮑伯．金恩",
+      "date": "2026/07/04",
+      "title": "裸眼看星空（暢銷修訂版）：觀星達人教你善用APP、網路資源及簡易工具，輕鬆觀察各種天文景象",
+      "url": "https://www.kingstone.com.tw/basic/2013220004558/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "麥可・E・曼恩",
+      "date": "2026/07/04",
+      "title": "脆弱的一瞬：從冰凍到超高溫時代，重返45億年氣候史，直指人類百年的存亡危機",
+      "url": "https://www.kingstone.com.tw/basic/2013280029430/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "姜哲遠",
+      "date": "2026/07/04",
+      "title": "我是福寶的快樂爺爺：姜爺爺與寶家族共度的幸福時光【首刷限量贈：寶家族硬卡識別證，五款隨機】",
+      "url": "https://www.kingstone.com.tw/basic/2013890026676/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "米田優峻",
+      "date": "2026/07/03",
+      "title": "超簡單高中數學，一本就通",
+      "url": "https://www.kingstone.com.tw/basic/2015240284002/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "莉達．謝倪",
+      "date": "2026/07/03",
+      "title": "諾伊曼：開拓榮格未竟之路──跨越神話、原型與意識演化的心靈旅程",
+      "url": "https://www.kingstone.com.tw/basic/2017840146681/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "彼得．渥雷本",
+      "date": "2026/07/01",
+      "title": "山毛櫸生命誌：《樹的祕密生命》作者新作：這一次，聽樹自己說故事",
+      "url": "https://www.kingstone.com.tw/basic/2013770002844/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "安哲羅．莫傑塔",
+      "date": "2026/07/01",
+      "title": "世界上有哪些魚？(加贈首批限量圖鑑海報)：魚類、海洋動物與牠們生活的大海",
+      "url": "https://www.kingstone.com.tw/basic/2028700545865/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "小虎老師（王俊凱）",
+      "date": "2026/06/29",
+      "title": "教室外的生物課：跟著小虎老師從故事認識昆蟲生態",
+      "url": "https://www.kingstone.com.tw/basic/2013870066128/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "宋永寬─著 柳汀勳─攝影",
+      "date": "2026/06/29",
+      "title": "全知睿寶＆輝寶視角1【首刷限量贈品「你好，我是睿寶」證件卡】：睿智又閃耀的出生日記，愛寶樂園官方授權！",
+      "url": "https://www.kingstone.com.tw/basic/2023890026309/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "宋永寬─著 柳汀勳─攝影",
+      "date": "2026/06/29",
+      "title": "全知睿寶＆輝寶視角2【首刷限量贈品「你好，我是輝寶」證件卡】：睿智又閃耀的成長冒險，愛寶樂園官方授權！",
+      "url": "https://www.kingstone.com.tw/basic/2023890026439/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "宋永寬─著 柳汀勳─攝影",
+      "date": "2026/06/29",
+      "title": "寶家族雙胞胎成長全紀錄套書【首刷限量搗蛋版】：《全知睿寶＆輝寶視角1》+《全知睿寶＆輝寶視角2》+首刷限定寫真拼貼小卡",
+      "url": "https://www.kingstone.com.tw/basic/2023890026569/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "張劍輝，錢昊，呂喆，劉驍",
+      "date": "2026/06/24",
+      "title": "儲能系統整合技術與工程實踐",
+      "url": "https://www.kingstone.com.tw/basic/2014000042173/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "大衛．逵曼",
+      "date": "2026/06/24",
+      "title": "下一場人類大瘟疫： 後疫情時代不可不知的跨物種傳染病",
+      "url": "https://www.kingstone.com.tw/basic/2014120126098/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "澄田夢久◎著/野村義宏◎監修",
+      "date": "2026/07/12",
+      "title": "圖解 元素生活百科：地球、人體、食物、科技產品，原來世界上的一切都是元素組成！",
+      "url": "https://www.kingstone.com.tw/basic/2013480018579/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "張天蓉",
+      "date": "2026/07/09",
+      "title": "電子科學簡史，從雨天風箏到半導體的故事：量子霍爾效應×拓撲絕緣體×高溫超導……點亮數位文明的奈米閃光",
+      "url": "https://www.kingstone.com.tw/basic/2013370082574/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "鄧子雲",
+      "date": "2026/07/08",
+      "title": "微積分不嚇人，重新認識極限、導數與積分：不硬背×不死記！從動態、局部、累加真正理解微積分",
+      "url": "https://www.kingstone.com.tw/basic/2013140069392/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "日本Newton Press",
+      "date": "2026/07/07",
+      "title": "星空大圖鑑：伽利略科學大圖鑑25",
+      "url": "https://www.kingstone.com.tw/basic/2013230048702/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "日本Newton Press",
+      "date": "2026/07/07",
+      "title": "日本職人的科學：從和食、清酒到名刀，用科學揭開日本職人技藝的祕密 人人伽利略45",
+      "url": "https://www.kingstone.com.tw/basic/2019700004032/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "叨叨漫畫",
+      "date": "2026/07/06",
+      "title": "漫畫圖解量子力學，一看就懂：從墨子到磁浮青蛙，從牙垢到石墨稀，微觀世界將把人類帶向怎樣的未來？",
+      "url": "https://www.kingstone.com.tw/basic/2013310026842/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "梁庚辰",
+      "date": "2026/07/04",
+      "title": "忖度人心——梁爸的心理學通識課：從大腦機制到社會文化，探索認知、情緒與意識的人心運作之謎",
+      "url": "https://www.kingstone.com.tw/basic/2011700088746/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "鮑伯．金恩",
+      "date": "2026/07/04",
+      "title": "裸眼看星空（暢銷修訂版）：觀星達人教你善用APP、網路資源及簡易工具，輕鬆觀察各種天文景象",
+      "url": "https://www.kingstone.com.tw/basic/2013220004558/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "麥可・E・曼恩",
+      "date": "2026/07/04",
+      "title": "脆弱的一瞬：從冰凍到超高溫時代，重返45億年氣候史，直指人類百年的存亡危機",
+      "url": "https://www.kingstone.com.tw/basic/2013280029430/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "姜哲遠",
+      "date": "2026/07/04",
+      "title": "我是福寶的快樂爺爺：姜爺爺與寶家族共度的幸福時光【首刷限量贈：寶家族硬卡識別證，五款隨機】",
+      "url": "https://www.kingstone.com.tw/basic/2013890026676/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "米田優峻",
+      "date": "2026/07/03",
+      "title": "超簡單高中數學，一本就通",
+      "url": "https://www.kingstone.com.tw/basic/2015240284002/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "莉達．謝倪",
+      "date": "2026/07/03",
+      "title": "諾伊曼：開拓榮格未竟之路──跨越神話、原型與意識演化的心靈旅程",
+      "url": "https://www.kingstone.com.tw/basic/2017840146681/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "彼得．渥雷本",
+      "date": "2026/07/01",
+      "title": "山毛櫸生命誌：《樹的祕密生命》作者新作：這一次，聽樹自己說故事",
+      "url": "https://www.kingstone.com.tw/basic/2013770002844/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "安哲羅．莫傑塔",
+      "date": "2026/07/01",
+      "title": "世界上有哪些魚？(加贈首批限量圖鑑海報)：魚類、海洋動物與牠們生活的大海",
+      "url": "https://www.kingstone.com.tw/basic/2028700545865/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "小虎老師（王俊凱）",
+      "date": "2026/06/29",
+      "title": "教室外的生物課：跟著小虎老師從故事認識昆蟲生態",
+      "url": "https://www.kingstone.com.tw/basic/2013870066128/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "宋永寬─著 柳汀勳─攝影",
+      "date": "2026/06/29",
+      "title": "全知睿寶＆輝寶視角1【首刷限量贈品「你好，我是睿寶」證件卡】：睿智又閃耀的出生日記，愛寶樂園官方授權！",
+      "url": "https://www.kingstone.com.tw/basic/2023890026309/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "宋永寬─著 柳汀勳─攝影",
+      "date": "2026/06/29",
+      "title": "全知睿寶＆輝寶視角2【首刷限量贈品「你好，我是輝寶」證件卡】：睿智又閃耀的成長冒險，愛寶樂園官方授權！",
+      "url": "https://www.kingstone.com.tw/basic/2023890026439/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "宋永寬─著 柳汀勳─攝影",
+      "date": "2026/06/29",
+      "title": "寶家族雙胞胎成長全紀錄套書【首刷限量搗蛋版】：《全知睿寶＆輝寶視角1》+《全知睿寶＆輝寶視角2》+首刷限定寫真拼貼小卡",
+      "url": "https://www.kingstone.com.tw/basic/2023890026569/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "張劍輝，錢昊，呂喆，劉驍",
+      "date": "2026/06/24",
+      "title": "儲能系統整合技術與工程實踐",
+      "url": "https://www.kingstone.com.tw/basic/2014000042173/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "大衛．逵曼",
+      "date": "2026/06/24",
+      "title": "下一場人類大瘟疫： 後疫情時代不可不知的跨物種傳染病",
+      "url": "https://www.kingstone.com.tw/basic/2014120126098/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "塔拉老師",
+      "date": "2026/06/23",
+      "title": "1分鐘學會數學：利用圖解化繁為簡，國高中數學一次打通！成績大反攻",
+      "url": "https://www.kingstone.com.tw/basic/2013100136164/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "Manuel Negrerie",
+      "date": "2026/06/23",
+      "title": "全球主要航空公司圖鑑",
+      "url": "https://www.kingstone.com.tw/basic/2015570145141/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "林武雄",
+      "date": "2026/06/23",
+      "title": "野柳阮ㄟ故鄉—傾斜之岬",
+      "url": "https://www.kingstone.com.tw/basic/2017330368333/?lid=book_new_class_prod_dddd"
+    },
+    {
+      "author": "瑪麗安‧泰勒",
+      "date": "2026-07-18",
+      "title": "超好懂圖解遺傳10堂課",
+      "url": "https://www.sanmin.com.tw/product/index/015590999"
+    },
+    {
+      "author": "日本Newton Press",
+      "date": "2026-07-20",
+      "title": "星空大圖鑑（《少年伽利略 宇宙》雙書珍藏特惠版）",
+      "url": "https://www.sanmin.com.tw/product/index/015586642"
+    },
+    {
+      "author": "周俊廷",
+      "date": "2026-07-21",
+      "title": "台灣動物來唱名：台語動物圖鑑",
+      "url": "https://www.sanmin.com.tw/product/index/015600549"
+    },
+    {
+      "author": "郭銘哲",
+      "date": "2026-07-22",
+      "title": "雄好呷【經典呷飽版】：高雄111家小吃慢食、至情至性的尋味紀錄",
+      "url": "https://www.sanmin.com.tw/product/index/015592808"
+    },
+    {
+      "author": "郭銘哲",
+      "date": "2026-07-22",
+      "title": "雄好呷╳雄合味【口碑絕贊！高雄美食經典紀錄套書】",
+      "url": "https://www.sanmin.com.tw/product/index/015592813"
+    },
+    {
+      "author": "達奈爾",
+      "date": "2026-07-23",
+      "title": "文明的原點：天文地理如何塑造人類歷史",
+      "url": "https://www.sanmin.com.tw/product/index/015597290"
+    },
+    {
+      "author": "溫富強",
+      "date": "2026-07-24",
+      "title": "建築師考試敷地計畫與都市設計破解攻略【搶分版】",
+      "url": "https://www.sanmin.com.tw/product/index/015604715"
+    },
+    {
+      "author": "卡蜜拉．彭",
+      "date": "2026-07-28",
+      "title": "困境使用說明書：關於失敗與擁抱未知，科學教我們的事",
+      "url": "https://www.sanmin.com.tw/product/index/015600579"
+    },
+    {
+      "author": "喬爾達．莫蘭西-著；艾倫・庫希利-繪",
+      "date": "2026-07-29",
+      "title": "我的月球任務大百科【科學家寫給孩子的STEAM未來超趨勢02】：航太工程師帶你挑戰極端溫度，躲避致命輻射，從登陸到打造地下城市，採礦、種菜、還能在月球賽車！",
+      "url": "https://www.sanmin.com.tw/product/index/015604675"
+    },
+    {
+      "author": "潔西．法蘭奇-著；克萊兒．麥克法奇克-繪",
+      "date": "2026-07-29",
+      "title": "DK自然世界真奇妙02：奇妙無比的蟲蟲世界",
+      "url": "https://www.sanmin.com.tw/product/index/015604682"
+    },
+    {
+      "author": "白佩宜、吳子耆、李貞苡、孫允中、高銘宏、張伯榆、莊喬琪、許之音、郭芳旗、陳啟豪、游珮均、楊俊浩、蘇筱茜-編著",
+      "date": "2026-07-29",
+      "title": "素戰實力──自然科探究與實作學測模擬題本(三版)",
+      "url": "https://www.sanmin.com.tw/product/index/015597278"
+    },
+    {
+      "author": "蔡錦文",
+      "date": "2026-07-29",
+      "title": "世界原生鸚鵡手繪圖鑑（根據世界三大鳥類名錄，精細描繪全球398種原生鸚鵡）",
+      "url": "https://www.sanmin.com.tw/product/index/015591006"
+    },
+    {
+      "author": "Tukunosuke-作；G. Masukawa-監修",
+      "date": "2026-07-30",
+      "title": "超有趣的找一找恐龍圖鑑",
+      "url": "https://www.sanmin.com.tw/product/index/015604710"
+    },
+    {
+      "author": "胡妙芬-著；Ariel Hsu-繪",
+      "date": "2026-07-30",
+      "title": "達克比出任務03：神蛾大追蹤─阿里山森林與登山鐵路沿線調查",
+      "url": "https://www.sanmin.com.tw/product/index/015605726"
+    },
+    {
+      "author": "軌道(Orbit)、權泰均-作；Studio DAM-插畫",
+      "date": "2026-07-30",
+      "title": "科學傳播者軌道的守護吧！科學04：科學就是愛！",
+      "url": "https://www.sanmin.com.tw/product/index/015604712"
+    },
+    {
+      "author": "KOTA-作；中島保壽-監修",
+      "date": "2026-07-30",
+      "title": "超歡樂科學圖鑑：古生代水族館",
+      "url": "https://www.sanmin.com.tw/product/index/015604711"
+    },
+    {
+      "author": "堀道廣",
+      "date": "2026-07-30",
+      "title": "在家也能做金繼：珍藏破碎中的美，修復你的美好時光",
+      "url": "https://www.sanmin.com.tw/product/index/015603037"
+    },
+    {
+      "author": "威爾．吉達拉",
+      "date": "2026-07-31",
+      "title": "超乎常理的款待式領導：打造卓越團隊的實戰策略",
+      "url": "https://www.sanmin.com.tw/product/index/015600541"
+    },
+    {
+      "author": "莎拉．強西-作；法蘭西斯．川布雷-繪",
+      "date": "2026-07-31",
+      "title": "P.S. 我愛鮪魚罐罐，但我更愛你：一封從貓咪天堂寄回的情書【折口附贈永遠想念藏書卡】",
+      "url": "https://www.sanmin.com.tw/product/index/015605694"
+    },
+    {
+      "author": "朱師右、劉佳苹",
+      "date": "2026-07-31",
+      "title": "2025年臺灣IT Spending 調查：製造業",
+      "url": "https://www.sanmin.com.tw/product/index/015565562"
+    },
+    {
+      "author": "郭志重-編著",
+      "date": "2026-08-01",
+      "title": "普通型高中選修數學乙上冊學習講義(含解答本)",
+      "url": "https://www.sanmin.com.tw/product/index/015587443"
+    },
+    {
+      "author": "韋裕霖-編",
+      "date": "2026-08-01",
+      "title": "普通型高中物理學習講義(含解答本)",
+      "url": "https://www.sanmin.com.tw/product/index/015587429"
+    },
+    {
+      "author": "陳彥宏、蘇慧珍-編著",
+      "date": "2026-08-01",
+      "title": "普通型高中選修數學甲上冊教學講義(含解答本)",
+      "url": "https://www.sanmin.com.tw/product/index/015587442"
+    },
+    {
+      "author": "結城浩",
+      "date": "2026-08-05",
+      "title": "數學女孩：黎曼猜想",
+      "url": "https://www.sanmin.com.tw/product/index/015591792"
+    }
+  ],
+  "04_healthcare": [
+    {
+      "author": "安姐（陳珮欣）",
+      "date": "2026/07/16",
+      "title": "穩瘦！擺脫暴食焦慮，12周穩定瘦身的TPE心理飲食法套書(共2本)",
+      "url": "https://www.kingstone.com.tw/basic/2014110953253/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "趙鵬、李安冬、尹明／主編",
+      "date": "2026/07/16",
+      "title": "圖解穴位艾灸，擺脫肩頸痠痛、失眠、經痛和便祕：90+種常見病症調理，看圖找穴、隨學隨用，從日常養生到全家人的對症艾灸自療書",
+      "url": "https://www.kingstone.com.tw/basic/2014130525898/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "張金堅、柳秀乖、中川靖章、王正旭",
+      "date": "2026/07/16",
+      "title": "成功抗癌飲食 與 化療期生活照護 套書(共2本)：癌症飲食全書(16週年暢銷修訂版＆附別冊64頁)+癌症化療生活照護全書",
+      "url": "https://www.kingstone.com.tw/basic/2014170156779/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "王躍春",
+      "date": "2026/07/15",
+      "title": "叩響生命之門，諾貝爾醫學獎的百年回響：幹細胞、青蒿素、疫苗……解開絕症密碼，見證諾貝爾獎大師們與死神的較量",
+      "url": "https://www.kingstone.com.tw/basic/2014100141486/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "陳俊旭",
+      "date": "2026/07/15",
+      "title": "最完美的毒藥—果糖：市售飲料大都有，飯麵也會產生，是造成糖尿病、脂肪肝、肥胖、痛風、精神疾病、大腦退化等慢性疾病的重要因素",
+      "url": "https://www.kingstone.com.tw/basic/2014110951259/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "馬文雅",
+      "date": "2026/07/15",
+      "title": "瘦了，然後呢？瘦瘦針時代的32堂減重人生課",
+      "url": "https://www.kingstone.com.tw/basic/2014150614756/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "江鎮國",
+      "date": "2026/07/15",
+      "title": "薑本養生：從餐食轉化到生命運作的養生入門",
+      "url": "https://www.kingstone.com.tw/basic/2014150615258/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "茱麗葉．卡茲",
+      "date": "2026/07/12",
+      "title": "珍奇櫃：怪異、醫學與死亡之物",
+      "url": "https://www.kingstone.com.tw/basic/2014100141356/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "亞當德永",
+      "date": "2026/07/12",
+      "title": "SLOW SEX的步驟全圖解：「亞當式愛撫」的65個技巧，讓大腦、身體感受到真實快感",
+      "url": "https://www.kingstone.com.tw/basic/2014290302308/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "李正達",
+      "date": "2026/07/11",
+      "title": "擺脫憂鬱症：12堂從理解、陪伴到療癒的心理修復課",
+      "url": "https://www.kingstone.com.tw/basic/2014150614626/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "應充明",
+      "date": "2026/07/10",
+      "title": "進健身房前的第一堂課：37個關鍵讓你避坑防雷，少走冤枉路",
+      "url": "https://www.kingstone.com.tw/basic/2014150614886/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "班傑明．比克曼",
+      "date": "2026/07/09",
+      "title": "不只逆轉糖尿病！治好胰島素阻抗，遠離90%慢性病（暢銷紀念）：耳鳴、肥胖、不孕、失智、骨鬆、心臟病、癌症、代謝症候群，穩定胰島素就會好！",
+      "url": "https://www.kingstone.com.tw/basic/2013990025548/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "Maru",
+      "date": "2026/07/08",
+      "title": "3個月瘦14公斤的211腸活飲食：用低鹽麴醬，養出不復胖的易瘦體質",
+      "url": "https://www.kingstone.com.tw/basic/2014110952911/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "Kevin Chen",
+      "date": "2026/07/06",
+      "title": "戰勝癌症：從恐懼到希望，科學與生活的雙重智慧",
+      "url": "https://www.kingstone.com.tw/basic/2014150614206/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "鄭筆方",
+      "date": "2026/07/04",
+      "title": "醫生壞掉以後：急診醫師的中風自救處方，6個月重啟人生的高效復能日記",
+      "url": "https://www.kingstone.com.tw/basic/2014150614336/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "崎田ミナ",
+      "date": "2026/07/03",
+      "title": "跟壓力說bye bye：重置身心的舒緩開關",
+      "url": "https://www.kingstone.com.tw/basic/2011760427394/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "內山葉子",
+      "date": "2026/07/03",
+      "title": "發炎消了，病就好了：找出健康不適的根源，遠離失智與癌症的自我療癒之道",
+      "url": "https://www.kingstone.com.tw/basic/2014110952591/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "林慧懿等",
+      "date": "2026/07/03",
+      "title": "幸福月子餐：65道滋養料理",
+      "url": "https://www.kingstone.com.tw/basic/2014290302278/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "謝英彪 醫師",
+      "date": "2026/07/01",
+      "title": "由裡到外補腎氣：補氣食療X特效穴位X四季養腎，跟著老中醫學習強腎補氣妙方(二版)",
+      "url": "https://www.kingstone.com.tw/basic/2014130525478/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "洪康遠",
+      "date": "2026/07/01",
+      "title": "下半身決定你的健康(三版)：70%疾病是坐出來的",
+      "url": "https://www.kingstone.com.tw/basic/2014130525638/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "安姐（陳珮欣）",
+      "date": "2026/07/16",
+      "title": "穩瘦！擺脫暴食焦慮，12周穩定瘦身的TPE心理飲食法套書(共2本)",
+      "url": "https://www.kingstone.com.tw/basic/2014110953253/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "趙鵬、李安冬、尹明／主編",
+      "date": "2026/07/16",
+      "title": "圖解穴位艾灸，擺脫肩頸痠痛、失眠、經痛和便祕：90+種常見病症調理，看圖找穴、隨學隨用，從日常養生到全家人的對症艾灸自療書",
+      "url": "https://www.kingstone.com.tw/basic/2014130525898/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "張金堅、柳秀乖、中川靖章、王正旭",
+      "date": "2026/07/16",
+      "title": "成功抗癌飲食 與 化療期生活照護 套書(共2本)：癌症飲食全書(16週年暢銷修訂版＆附別冊64頁)+癌症化療生活照護全書",
+      "url": "https://www.kingstone.com.tw/basic/2014170156779/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "王躍春",
+      "date": "2026/07/15",
+      "title": "叩響生命之門，諾貝爾醫學獎的百年回響：幹細胞、青蒿素、疫苗……解開絕症密碼，見證諾貝爾獎大師們與死神的較量",
+      "url": "https://www.kingstone.com.tw/basic/2014100141486/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "陳俊旭",
+      "date": "2026/07/15",
+      "title": "最完美的毒藥—果糖：市售飲料大都有，飯麵也會產生，是造成糖尿病、脂肪肝、肥胖、痛風、精神疾病、大腦退化等慢性疾病的重要因素",
+      "url": "https://www.kingstone.com.tw/basic/2014110951259/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "馬文雅",
+      "date": "2026/07/15",
+      "title": "瘦了，然後呢？瘦瘦針時代的32堂減重人生課",
+      "url": "https://www.kingstone.com.tw/basic/2014150614756/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "江鎮國",
+      "date": "2026/07/15",
+      "title": "薑本養生：從餐食轉化到生命運作的養生入門",
+      "url": "https://www.kingstone.com.tw/basic/2014150615258/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "茱麗葉．卡茲",
+      "date": "2026/07/12",
+      "title": "珍奇櫃：怪異、醫學與死亡之物",
+      "url": "https://www.kingstone.com.tw/basic/2014100141356/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "亞當德永",
+      "date": "2026/07/12",
+      "title": "SLOW SEX的步驟全圖解：「亞當式愛撫」的65個技巧，讓大腦、身體感受到真實快感",
+      "url": "https://www.kingstone.com.tw/basic/2014290302308/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "李正達",
+      "date": "2026/07/11",
+      "title": "擺脫憂鬱症：12堂從理解、陪伴到療癒的心理修復課",
+      "url": "https://www.kingstone.com.tw/basic/2014150614626/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "應充明",
+      "date": "2026/07/10",
+      "title": "進健身房前的第一堂課：37個關鍵讓你避坑防雷，少走冤枉路",
+      "url": "https://www.kingstone.com.tw/basic/2014150614886/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "班傑明．比克曼",
+      "date": "2026/07/09",
+      "title": "不只逆轉糖尿病！治好胰島素阻抗，遠離90%慢性病（暢銷紀念）：耳鳴、肥胖、不孕、失智、骨鬆、心臟病、癌症、代謝症候群，穩定胰島素就會好！",
+      "url": "https://www.kingstone.com.tw/basic/2013990025548/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "Maru",
+      "date": "2026/07/08",
+      "title": "3個月瘦14公斤的211腸活飲食：用低鹽麴醬，養出不復胖的易瘦體質",
+      "url": "https://www.kingstone.com.tw/basic/2014110952911/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "Kevin Chen",
+      "date": "2026/07/06",
+      "title": "戰勝癌症：從恐懼到希望，科學與生活的雙重智慧",
+      "url": "https://www.kingstone.com.tw/basic/2014150614206/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "鄭筆方",
+      "date": "2026/07/04",
+      "title": "醫生壞掉以後：急診醫師的中風自救處方，6個月重啟人生的高效復能日記",
+      "url": "https://www.kingstone.com.tw/basic/2014150614336/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "崎田ミナ",
+      "date": "2026/07/03",
+      "title": "跟壓力說bye bye：重置身心的舒緩開關",
+      "url": "https://www.kingstone.com.tw/basic/2011760427394/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "內山葉子",
+      "date": "2026/07/03",
+      "title": "發炎消了，病就好了：找出健康不適的根源，遠離失智與癌症的自我療癒之道",
+      "url": "https://www.kingstone.com.tw/basic/2014110952591/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "林慧懿等",
+      "date": "2026/07/03",
+      "title": "幸福月子餐：65道滋養料理",
+      "url": "https://www.kingstone.com.tw/basic/2014290302278/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "謝英彪 醫師",
+      "date": "2026/07/01",
+      "title": "由裡到外補腎氣：補氣食療X特效穴位X四季養腎，跟著老中醫學習強腎補氣妙方(二版)",
+      "url": "https://www.kingstone.com.tw/basic/2014130525478/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "洪康遠",
+      "date": "2026/07/01",
+      "title": "下半身決定你的健康(三版)：70%疾病是坐出來的",
+      "url": "https://www.kingstone.com.tw/basic/2014130525638/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "洪金蘭",
+      "date": "2026/07/01",
+      "title": "做自己的中醫師：跟中醫師學，辨識體質、調和陰陽飲食、活動肢體，找回健康自癒的關鍵",
+      "url": "https://www.kingstone.com.tw/basic/2014130525768/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "悅意源心中醫診所 院長 林蔚喬 醫師 勝利中醫診所️ 院長 柯莉文 醫師 合著 「不務正業家醫科」劉鴻略 醫師 繪",
+      "date": "2026/07/01",
+      "title": "產後調理全書（全二冊）",
+      "url": "https://www.kingstone.com.tw/basic/2014150613704/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "于生元 ，董釗",
+      "date": "2026/07/01",
+      "title": "擺脫偏頭痛，止痛與預防的29個關鍵：工作失能、焦慮睡眠、藥物依賴、社交受限……從身體、心理到社會功能，全面理解偏頭痛對生活的影響與解方",
+      "url": "https://www.kingstone.com.tw/basic/2014150614466/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "羅婷",
+      "date": "2026/07/01",
+      "title": "乳此安心，乳房健康100問：疼痛×硬塊×篩檢×治療康復，醫師解答現代人最常見的100個乳房健康疑問",
+      "url": "https://www.kingstone.com.tw/basic/2014160125778/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "琳賽．費茲哈里斯",
+      "date": "2026/07/01",
+      "title": "造臉者：重塑戰火下的破碎容顏，一位天才醫生與現代整形外科的誕生",
+      "url": "https://www.kingstone.com.tw/basic/2017840146551/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "麥可．里德．加赫",
+      "date": "2026/06/29",
+      "title": "第一本針對情緒、創傷與壓力的穴位按壓聖經：焦慮、悲傷、恐懼、憤怒、麻木、憂鬱……其實都有「對應的身體開關」！",
+      "url": "https://www.kingstone.com.tw/basic/2014130525218/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "臺北神經醫學中心 總策畫、蔣永孝 總審定、林進修 採訪撰文",
+      "date": "2026/06/29",
+      "title": "神經風暴關鍵時刻：臺北神經醫學中心團隊的守護紀實",
+      "url": "https://www.kingstone.com.tw/basic/2014150614176/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "宮田隆",
+      "date": "2026/06/29",
+      "title": "牙好，永不老【2026新裝修訂版】：牙周病是破壞全身健康的殺手！",
+      "url": "https://www.kingstone.com.tw/basic/2014160125358/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "石原結實",
+      "date": "2026/06/27",
+      "title": "65歲開始，空腹是最好的藥",
+      "url": "https://www.kingstone.com.tw/basic/2014110952751/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "楊婉萍",
+      "date": "2026/06/27",
+      "title": "在宅善終－從醫療轉向、法律保障到居家照護；陪你看懂身體告別信號，第一本不留遺憾的安心行動指南",
+      "url": "https://www.kingstone.com.tw/basic/2014190095430/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "大友育美",
+      "date": "2026/06/25",
+      "title": "5分鐘味噌湯療（暢銷改版）：簡單╳省時╳對症～用114道料多味美的味噌湯喝出每日健康",
+      "url": "https://www.kingstone.com.tw/basic/2014150613414/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "村山巧",
+      "date": "2026/06/24",
+      "title": "世界最快有效的伸展運動3.0：腦科學＋筋膜放鬆，僵硬的身體馬上就能變柔軟",
+      "url": "https://www.kingstone.com.tw/basic/2014110952621/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "金銳",
+      "date": "2026/06/24",
+      "title": "湯液經法圖講記套書（二冊）：《「湯液經法圖」講記①》＋《「湯液經法圖」講記②》",
+      "url": "https://www.kingstone.com.tw/basic/2014140162274/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "浦長瀬昌宏",
+      "date": "2026/06/24",
+      "title": "吞嚥困難照護實用套書（兩冊）：《吞嚥力【全新增訂版】》＋《吞嚥照護食》",
+      "url": "https://www.kingstone.com.tw/basic/2014150613384/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "莊節一",
+      "date": "2026/06/24",
+      "title": "我想了解身心科：身心科醫生寫給全家人，認識疾病、看診、治療、用藥的實用指南",
+      "url": "https://www.kingstone.com.tw/basic/2014150613544/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "曾嶔元",
+      "date": "2026/06/23",
+      "title": "精準飲食：DNA醫師帶你看懂身體，找到真正適合自己的吃法",
+      "url": "https://www.kingstone.com.tw/basic/2014110952171/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "賴韋圳",
+      "date": "2026/06/23",
+      "title": "中醫爸爸的抗過敏處方：調節免疫抗發炎，別和氣喘、鼻病、皮膚炎糾纏到老！",
+      "url": "https://www.kingstone.com.tw/basic/2014130524976/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "賴韋圳",
+      "date": "2026/06/23",
+      "title": "中醫爸爸的抗過敏處方【特調防蚊除穢香包】贈品版",
+      "url": "https://www.kingstone.com.tw/basic/2014130525058/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "內山葉子",
+      "date": "2026/06/23",
+      "title": "都是體內發霉惹的禍！：清除腸道黴菌，擺脫檢查不出原因的慢性不適",
+      "url": "https://www.kingstone.com.tw/basic/2014150612882/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "楊裕仲(Leo)",
+      "date": "2026/06/20",
+      "title": "每一次敲響，都是為了讓你遇見更好的自己",
+      "url": "https://www.kingstone.com.tw/basic/2011771632749/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "池谷敏郎",
+      "date": "2026/06/20",
+      "title": "清血管、防中風，生活習慣２選１！ [修訂版]：－日本名醫教您預防三高、中風、失智症的健康祕訣！",
+      "url": "https://www.kingstone.com.tw/basic/2014150613124/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "黃中平",
+      "date": "2026/06/19",
+      "title": "梳子的療癒力量：從梳開始的健康革命．頭頂健康密碼，用梳子喚醒頭部能量",
+      "url": "https://www.kingstone.com.tw/basic/2014130525508/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "洪泰雄、台灣泌尿科醫學會、王炯珵",
+      "date": "2026/06/18",
+      "title": "開啟身體自癒、逆齡瘦身、泌尿道照護套書(共2本)：自噬力：開啟身體自癒、逆齡與瘦身的科學飲食法+完全詳解 泌尿道診治照護全書",
+      "url": "https://www.kingstone.com.tw/basic/2014110952331/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "黃卉君",
+      "date": "2026/06/18",
+      "title": "科學刮痧修復全書〔熱銷回饋版〕：【圖解】8大部位X 34個對症手法，從痧圖回推傷害，讓身體再也不疼痛（隨書贈刮痧購物金）",
+      "url": "https://www.kingstone.com.tw/basic/2014130525188/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "楊智鈞",
+      "date": "2026/06/18",
+      "title": "俠醫楊智鈞的50道靜脈疾病密碼",
+      "url": "https://www.kingstone.com.tw/basic/2014150612912/?lid=book_new_class_prod_iiii"
+    },
+    {
+      "author": "和信治癌中心醫院．大腸直腸癌治療團隊、張金堅、柳秀乖◎合著",
+      "date": "2026/06/18",
+      "title": "大腸直腸癌診治照護 與 植物性蛋白質抗癌飲食套書(共2本)：全彩圖解 大腸直腸癌診治照護全書+逆轉癌症，一日三餐對症蔬療飲食",
+      "url": "https://www.kingstone.com.tw/basic/2014150613094/?lid=book_new_class_prod_iiii"
+    }
+  ],
+  "05_food_wellness": [
+    {
+      "author": "鈞媽、曾翌捷",
+      "date": "2026/07/16",
+      "title": "從懷孕40週孕期保健 到 給孩子零失敗 低敏．美味副食品套書(共2本)：鈞媽零失敗 低敏．美味副食品（暢銷修訂版）+〔圖解〕準爸媽最關心的懷孕40週保健全書",
+      "url": "https://www.kingstone.com.tw/basic/2014280259728/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "微微蔡",
+      "date": "2026/07/15",
+      "title": "好好吃飯，一鍋就好：微微蔡的66道驚艷又簡單的原味料理",
+      "url": "https://www.kingstone.com.tw/basic/2014271701472/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "吳武憲",
+      "date": "2026/07/10",
+      "title": "太陽之手的島嶼麵包：用在地食材，烤出最有台味的麵包",
+      "url": "https://www.kingstone.com.tw/basic/2014271700970/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "谷口佳典",
+      "date": "2026/07/10",
+      "title": "風味的誕生：日本職人麵包學",
+      "url": "https://www.kingstone.com.tw/basic/2014271701052/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "李繼強",
+      "date": "2026/07/10",
+      "title": "好好吃飯 好好生活：在一飯一蔬之間，找回生活的溫度",
+      "url": "https://www.kingstone.com.tw/basic/2015380156870/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "百香果",
+      "date": "2026/07/09",
+      "title": "台灣早餐地圖",
+      "url": "https://www.kingstone.com.tw/basic/2025380156763/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "Mini 朴志宇",
+      "date": "2026/07/08",
+      "title": "高蛋白低碳水減重料理：0失敗0壓力，狂瘦22kg不復胖的87道美味瘦身食譜",
+      "url": "https://www.kingstone.com.tw/basic/2014271700420/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "Hachi Cafe",
+      "date": "2026/07/08",
+      "title": "東京．名古屋人氣名店「Hachi Cafe招牌配方大公開」隨季節與心情，享受專屬於我的塔！",
+      "url": "https://www.kingstone.com.tw/basic/2014271700840/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "K.K.Baker",
+      "date": "2026/07/08",
+      "title": "輕鬆烤出媲美麵包店水準的日常麵包：極致省時的道地免揉麵包！附示範影片，新手友善！",
+      "url": "https://www.kingstone.com.tw/basic/2014271701182/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "楊 高木祐子",
+      "date": "2026/07/04",
+      "title": "世界一流的港式家傳雞湯【暢銷紀念版】：50道創意湯品，一日一湯常保健康",
+      "url": "https://www.kingstone.com.tw/basic/2014271700390/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "上田玲子、堀江佐和子",
+      "date": "2026/07/04",
+      "title": "0～24個月一週副食品，140道冰磚食譜：一次做好7天份．加熱即可食用．寶寶想吃時輕鬆完成（最新修訂版）",
+      "url": "https://www.kingstone.com.tw/basic/2014280259698/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "平松サリー",
+      "date": "2026/07/01",
+      "title": "不可思議的料理科學【最新修訂版】",
+      "url": "https://www.kingstone.com.tw/basic/2013030026306/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "強納森．史蒂文斯",
+      "date": "2026/07/01",
+      "title": "餓鬼麵包店之書：麵包詩人的40堂烘焙藝術課",
+      "url": "https://www.kingstone.com.tw/basic/2014271700710/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "齋藤忠夫",
+      "date": "2026/07/01",
+      "title": "起司的科學【最新修訂版】",
+      "url": "https://www.kingstone.com.tw/basic/2014390012916/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "浮田泰幸",
+      "date": "2026/07/01",
+      "title": "Domaine Takahiko：釀酒是永不停止的奮鬥　一位釀酒師的熱情宣言：曾我貴彥與北海道余市自然酒成長史",
+      "url": "https://www.kingstone.com.tw/basic/2014630074506/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "旅行飯糰店 菅本香菜",
+      "date": "2026/07/01",
+      "title": "日本的飯糰：走遍日本47個都道府縣尋覓所得94道食譜",
+      "url": "https://www.kingstone.com.tw/basic/2017310269858/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "朱明德、周正中、許晨慧（維多夫人）",
+      "date": "2026/06/30",
+      "title": "第一次喝見精品咖啡：究極咖啡職人的鑽研筆記與獨立觀察",
+      "url": "https://www.kingstone.com.tw/basic/2014271700260/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "歐雷．莫西森",
+      "date": "2026/06/29",
+      "title": "口感科學：透視剖析食物質地，揭開舌尖美味的背後奧祕(特別收錄──50道無國界全方位料理)",
+      "url": "https://www.kingstone.com.tw/basic/2014630074476/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "劉妙華",
+      "date": "2026/06/27",
+      "title": "一甲子米食技藝大全：圖解步驟╳營養美味╳節慶典故，國寶名師完整傳承不敗配方",
+      "url": "https://www.kingstone.com.tw/basic/2014271700130/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "辻口博啓",
+      "date": "2026/06/26",
+      "title": "東京自由之丘Mont St. Clair的甜點典藏食譜(烘焙食光)",
+      "url": "https://www.kingstone.com.tw/basic/2024271700573/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "鈞媽、曾翌捷",
+      "date": "2026/07/16",
+      "title": "從懷孕40週孕期保健 到 給孩子零失敗 低敏．美味副食品套書(共2本)：鈞媽零失敗 低敏．美味副食品（暢銷修訂版）+〔圖解〕準爸媽最關心的懷孕40週保健全書",
+      "url": "https://www.kingstone.com.tw/basic/2014280259728/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "微微蔡",
+      "date": "2026/07/15",
+      "title": "好好吃飯，一鍋就好：微微蔡的66道驚艷又簡單的原味料理",
+      "url": "https://www.kingstone.com.tw/basic/2014271701472/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "吳武憲",
+      "date": "2026/07/10",
+      "title": "太陽之手的島嶼麵包：用在地食材，烤出最有台味的麵包",
+      "url": "https://www.kingstone.com.tw/basic/2014271700970/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "谷口佳典",
+      "date": "2026/07/10",
+      "title": "風味的誕生：日本職人麵包學",
+      "url": "https://www.kingstone.com.tw/basic/2014271701052/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "李繼強",
+      "date": "2026/07/10",
+      "title": "好好吃飯 好好生活：在一飯一蔬之間，找回生活的溫度",
+      "url": "https://www.kingstone.com.tw/basic/2015380156870/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "百香果",
+      "date": "2026/07/09",
+      "title": "台灣早餐地圖",
+      "url": "https://www.kingstone.com.tw/basic/2025380156763/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "Mini 朴志宇",
+      "date": "2026/07/08",
+      "title": "高蛋白低碳水減重料理：0失敗0壓力，狂瘦22kg不復胖的87道美味瘦身食譜",
+      "url": "https://www.kingstone.com.tw/basic/2014271700420/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "Hachi Cafe",
+      "date": "2026/07/08",
+      "title": "東京．名古屋人氣名店「Hachi Cafe招牌配方大公開」隨季節與心情，享受專屬於我的塔！",
+      "url": "https://www.kingstone.com.tw/basic/2014271700840/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "K.K.Baker",
+      "date": "2026/07/08",
+      "title": "輕鬆烤出媲美麵包店水準的日常麵包：極致省時的道地免揉麵包！附示範影片，新手友善！",
+      "url": "https://www.kingstone.com.tw/basic/2014271701182/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "楊 高木祐子",
+      "date": "2026/07/04",
+      "title": "世界一流的港式家傳雞湯【暢銷紀念版】：50道創意湯品，一日一湯常保健康",
+      "url": "https://www.kingstone.com.tw/basic/2014271700390/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "上田玲子、堀江佐和子",
+      "date": "2026/07/04",
+      "title": "0～24個月一週副食品，140道冰磚食譜：一次做好7天份．加熱即可食用．寶寶想吃時輕鬆完成（最新修訂版）",
+      "url": "https://www.kingstone.com.tw/basic/2014280259698/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "平松サリー",
+      "date": "2026/07/01",
+      "title": "不可思議的料理科學【最新修訂版】",
+      "url": "https://www.kingstone.com.tw/basic/2013030026306/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "強納森．史蒂文斯",
+      "date": "2026/07/01",
+      "title": "餓鬼麵包店之書：麵包詩人的40堂烘焙藝術課",
+      "url": "https://www.kingstone.com.tw/basic/2014271700710/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "齋藤忠夫",
+      "date": "2026/07/01",
+      "title": "起司的科學【最新修訂版】",
+      "url": "https://www.kingstone.com.tw/basic/2014390012916/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "浮田泰幸",
+      "date": "2026/07/01",
+      "title": "Domaine Takahiko：釀酒是永不停止的奮鬥　一位釀酒師的熱情宣言：曾我貴彥與北海道余市自然酒成長史",
+      "url": "https://www.kingstone.com.tw/basic/2014630074506/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "旅行飯糰店 菅本香菜",
+      "date": "2026/07/01",
+      "title": "日本的飯糰：走遍日本47個都道府縣尋覓所得94道食譜",
+      "url": "https://www.kingstone.com.tw/basic/2017310269858/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "朱明德、周正中、許晨慧（維多夫人）",
+      "date": "2026/06/30",
+      "title": "第一次喝見精品咖啡：究極咖啡職人的鑽研筆記與獨立觀察",
+      "url": "https://www.kingstone.com.tw/basic/2014271700260/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "歐雷．莫西森",
+      "date": "2026/06/29",
+      "title": "口感科學：透視剖析食物質地，揭開舌尖美味的背後奧祕(特別收錄──50道無國界全方位料理)",
+      "url": "https://www.kingstone.com.tw/basic/2014630074476/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "劉妙華",
+      "date": "2026/06/27",
+      "title": "一甲子米食技藝大全：圖解步驟╳營養美味╳節慶典故，國寶名師完整傳承不敗配方",
+      "url": "https://www.kingstone.com.tw/basic/2014271700130/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "辻口博啓",
+      "date": "2026/06/26",
+      "title": "東京自由之丘Mont St. Clair的甜點典藏食譜(烘焙食光)",
+      "url": "https://www.kingstone.com.tw/basic/2024271700573/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "學研編輯部",
+      "date": "2026/06/25",
+      "title": "大廚不外傳黃金比例調醬祕訣801：熱銷上萬冊，增量升級版！主廚們的私藏調味公式，讓家常料理升等餐廳美味",
+      "url": "https://www.kingstone.com.tw/basic/2014271699670/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "李遠華",
+      "date": "2026/06/25",
+      "title": "烏龍茶，原來如此：從大紅袍到東方美人，快速掌握烏龍茶的風味世界",
+      "url": "https://www.kingstone.com.tw/basic/2014340034784/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "邱奕翔",
+      "date": "2026/06/23",
+      "title": "風土品酒學：失傳200年的地感品鑑技藝復興",
+      "url": "https://www.kingstone.com.tw/basic/2014271699700/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "王鵬傑",
+      "date": "2026/06/23",
+      "title": "出陣：從跳陣頭到世界麵包冠軍，王鵬傑的翻轉之路",
+      "url": "https://www.kingstone.com.tw/basic/2017830253375/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "杵島隆太",
+      "date": "2026/06/20",
+      "title": "極小廚房輕鬆煮【美食家世界料理書大獎冠軍】：能開火就超會煮！73道超省時方便的零失敗餐桌美味",
+      "url": "https://www.kingstone.com.tw/basic/2014271699540/?lid=book_new_class_prod_tttt"
+    },
+    {
+      "author": "岡本愛",
+      "date": "2026/06/20",
+      "title": "常溫也好吃！日本便當美味解密：從備菜、配色到口感層次，揭開日本媽媽的便當設計學",
+      "url": "https://www.kingstone.com.tw/basic/2014271700000/?lid=book_new_class_prod_tttt"
+    }
+  ],
+  "06_computer_info": [
+    {
+      "author": "施威銘研究室",
+      "date": "2026/07/17",
+      "title": "Codex Vibe Coding 開發手冊",
+      "url": "https://www.kingstone.com.tw/basic/2013120779280/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "彭明輝",
+      "date": "2026/07/16",
+      "title": "全民版AI識讀：原理、應用、幻覺與誤區",
+      "url": "https://www.kingstone.com.tw/basic/2013120777866/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "John Walsh, Uzi Ailon, Matt Barker",
+      "date": "2026/07/16",
+      "title": "軟體開發身分安全實務｜開發人員必須掌握的最佳做法",
+      "url": "https://www.kingstone.com.tw/basic/2013120778078/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "邱閔渝",
+      "date": "2026/07/16",
+      "title": "一本搞定Open Claw：不會寫程式的人，怎麼讓 AI 幫你把事情做完？",
+      "url": "https://www.kingstone.com.tw/basic/2013120778238/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "劉弘祥",
+      "date": "2026/07/14",
+      "title": "Claude工作術：從Chat、Projects、Skills到Cowork與Claude Code的AI自動化之路（iThome鐵人賽系列書）",
+      "url": "https://www.kingstone.com.tw/basic/2013120777286/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "鄭苑鳳",
+      "date": "2026/07/13",
+      "title": "AI影片製作工具箱：AI繪圖合成 × 智慧編輯剪片 × ChatGPT 5文案生成全攻略[第四版](暢銷回饋版)",
+      "url": "https://www.kingstone.com.tw/basic/2013120777316/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "洪錦魁",
+      "date": "2026/07/13",
+      "title": "Gemini 3.5 x NotebookLM 領軍: Nano Banana x Omni x Lyric x Flow x Gem - Google 多模態 AI 工作流",
+      "url": "https://www.kingstone.com.tw/basic/2013120778108/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "謝孟諺",
+      "date": "2026/07/09",
+      "title": "一本搞定Google AI：Gemini、NotebookLM、Workspace AI、NanoBanana到Gemini Omni，學會清晰化、結構化、規格化的AI工作法",
+      "url": "https://www.kingstone.com.tw/basic/2013120777606/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "鄧君如 總監製/文淵閣工作室 編著",
+      "date": "2026/07/08",
+      "title": "AI超神簡報術：NotebookLM×Gemini×Gamma全解鎖(附範例素材/提示詞/影音教學)",
+      "url": "https://www.kingstone.com.tw/basic/2013120777156/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "翁健豪（嗡嗡，Howard Weng）",
+      "date": "2026/07/08",
+      "title": "OpenCV 全攻略！AI 影像辨識 × 電腦視覺實戰手冊",
+      "url": "https://www.kingstone.com.tw/basic/2013120777446/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "吳應達，趙子軒，劉少清",
+      "date": "2026/07/08",
+      "title": "AIGC互動設計實戰課：產品場景觀察×Midjourney生圖操作×介面視覺整合……建立從設計判斷到成稿製作的AIGC工作流程",
+      "url": "https://www.kingstone.com.tw/basic/2013120777576/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "施威銘研究室",
+      "date": "2026/07/07",
+      "title": "Gemini 投資理財全攻略：小資族看過來！完全零門檻的 AI 智慧選股×財報分析×資金管理",
+      "url": "https://www.kingstone.com.tw/basic/2013120777026/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "邱聰倚、姚家琦、蘇千惠",
+      "date": "2026/07/06",
+      "title": "Autodesk Revit 2026建築設計入門與案例實作｜導入AI與Dynamo應用",
+      "url": "https://www.kingstone.com.tw/basic/2014410185002/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "後藤有紀",
+      "date": "2026/07/05",
+      "title": "收藏美好的時刻 多采多姿的Instagram生活美學：從攝影技法到Instagram的使用方法",
+      "url": "https://www.kingstone.com.tw/basic/2019520086690/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "Dassault Systèmes SolidWorks Corp.",
+      "date": "2026/07/03",
+      "title": "SOLIDWORKS Flow Simulation培訓教材〈繁體中文版〉(第三版)",
+      "url": "https://www.kingstone.com.tw/basic/2013120776364/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "Dassault Systèmes SolidWorks Corp.",
+      "date": "2026/07/03",
+      "title": "SOLIDWORKS Simulation基礎培訓教材〈繁體中文版〉(第三版)",
+      "url": "https://www.kingstone.com.tw/basic/2013120776494/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "台灣版工作小組、孫詠怡（Winnie Soon）、傑夫．考克斯（Geoff C",
+      "date": "2026/07/03",
+      "title": "美學程式設計：軟體研究手冊",
+      "url": "https://www.kingstone.com.tw/basic/2013120777996/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "曾慶良（阿亮老師）",
+      "date": "2026/07/02",
+      "title": "10 倍速！AI Skill 全攻略：建立 Skill 驅動 AI 系統，打造從學術研究到專案開發的自動化工作流",
+      "url": "https://www.kingstone.com.tw/basic/2013120776234/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "Al Sweigart",
+      "date": "2026/07/02",
+      "title": "Python 自動化的樂趣｜搞定重複瑣碎&單調無聊的工作 第三版",
+      "url": "https://www.kingstone.com.tw/basic/2013120776654/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "范文雄、吳進北",
+      "date": "2026/07/02",
+      "title": "電腦網路原理｜第七版(含ITS Networking網路管理與應用、CCST Networking網路管理國際認證模擬試題)",
+      "url": "https://www.kingstone.com.tw/basic/2013120776814/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "施威銘研究室",
+      "date": "2026/07/17",
+      "title": "Codex Vibe Coding 開發手冊",
+      "url": "https://www.kingstone.com.tw/basic/2013120779280/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "彭明輝",
+      "date": "2026/07/16",
+      "title": "全民版AI識讀：原理、應用、幻覺與誤區",
+      "url": "https://www.kingstone.com.tw/basic/2013120777866/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "John Walsh, Uzi Ailon, Matt Barker",
+      "date": "2026/07/16",
+      "title": "軟體開發身分安全實務｜開發人員必須掌握的最佳做法",
+      "url": "https://www.kingstone.com.tw/basic/2013120778078/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "邱閔渝",
+      "date": "2026/07/16",
+      "title": "一本搞定Open Claw：不會寫程式的人，怎麼讓 AI 幫你把事情做完？",
+      "url": "https://www.kingstone.com.tw/basic/2013120778238/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "劉弘祥",
+      "date": "2026/07/14",
+      "title": "Claude工作術：從Chat、Projects、Skills到Cowork與Claude Code的AI自動化之路（iThome鐵人賽系列書）",
+      "url": "https://www.kingstone.com.tw/basic/2013120777286/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "鄭苑鳳",
+      "date": "2026/07/13",
+      "title": "AI影片製作工具箱：AI繪圖合成 × 智慧編輯剪片 × ChatGPT 5文案生成全攻略[第四版](暢銷回饋版)",
+      "url": "https://www.kingstone.com.tw/basic/2013120777316/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "洪錦魁",
+      "date": "2026/07/13",
+      "title": "Gemini 3.5 x NotebookLM 領軍: Nano Banana x Omni x Lyric x Flow x Gem - Google 多模態 AI 工作流",
+      "url": "https://www.kingstone.com.tw/basic/2013120778108/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "謝孟諺",
+      "date": "2026/07/09",
+      "title": "一本搞定Google AI：Gemini、NotebookLM、Workspace AI、NanoBanana到Gemini Omni，學會清晰化、結構化、規格化的AI工作法",
+      "url": "https://www.kingstone.com.tw/basic/2013120777606/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "鄧君如 總監製/文淵閣工作室 編著",
+      "date": "2026/07/08",
+      "title": "AI超神簡報術：NotebookLM×Gemini×Gamma全解鎖(附範例素材/提示詞/影音教學)",
+      "url": "https://www.kingstone.com.tw/basic/2013120777156/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "翁健豪（嗡嗡，Howard Weng）",
+      "date": "2026/07/08",
+      "title": "OpenCV 全攻略！AI 影像辨識 × 電腦視覺實戰手冊",
+      "url": "https://www.kingstone.com.tw/basic/2013120777446/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "吳應達，趙子軒，劉少清",
+      "date": "2026/07/08",
+      "title": "AIGC互動設計實戰課：產品場景觀察×Midjourney生圖操作×介面視覺整合……建立從設計判斷到成稿製作的AIGC工作流程",
+      "url": "https://www.kingstone.com.tw/basic/2013120777576/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "施威銘研究室",
+      "date": "2026/07/07",
+      "title": "Gemini 投資理財全攻略：小資族看過來！完全零門檻的 AI 智慧選股×財報分析×資金管理",
+      "url": "https://www.kingstone.com.tw/basic/2013120777026/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "邱聰倚、姚家琦、蘇千惠",
+      "date": "2026/07/06",
+      "title": "Autodesk Revit 2026建築設計入門與案例實作｜導入AI與Dynamo應用",
+      "url": "https://www.kingstone.com.tw/basic/2014410185002/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "後藤有紀",
+      "date": "2026/07/05",
+      "title": "收藏美好的時刻 多采多姿的Instagram生活美學：從攝影技法到Instagram的使用方法",
+      "url": "https://www.kingstone.com.tw/basic/2019520086690/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "Dassault Systèmes SolidWorks Corp.",
+      "date": "2026/07/03",
+      "title": "SOLIDWORKS Flow Simulation培訓教材〈繁體中文版〉(第三版)",
+      "url": "https://www.kingstone.com.tw/basic/2013120776364/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "Dassault Systèmes SolidWorks Corp.",
+      "date": "2026/07/03",
+      "title": "SOLIDWORKS Simulation基礎培訓教材〈繁體中文版〉(第三版)",
+      "url": "https://www.kingstone.com.tw/basic/2013120776494/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "台灣版工作小組、孫詠怡（Winnie Soon）、傑夫．考克斯（Geoff C",
+      "date": "2026/07/03",
+      "title": "美學程式設計：軟體研究手冊",
+      "url": "https://www.kingstone.com.tw/basic/2013120777996/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "曾慶良（阿亮老師）",
+      "date": "2026/07/02",
+      "title": "10 倍速！AI Skill 全攻略：建立 Skill 驅動 AI 系統，打造從學術研究到專案開發的自動化工作流",
+      "url": "https://www.kingstone.com.tw/basic/2013120776234/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "Al Sweigart",
+      "date": "2026/07/02",
+      "title": "Python 自動化的樂趣｜搞定重複瑣碎&單調無聊的工作 第三版",
+      "url": "https://www.kingstone.com.tw/basic/2013120776654/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "范文雄、吳進北",
+      "date": "2026/07/02",
+      "title": "電腦網路原理｜第七版(含ITS Networking網路管理與應用、CCST Networking網路管理國際認證模擬試題)",
+      "url": "https://www.kingstone.com.tw/basic/2013120776814/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "Subhash K. Shinde 等",
+      "date": "2026/07/02",
+      "title": "AI無人機技術｜開發實務全面性指南",
+      "url": "https://www.kingstone.com.tw/basic/2014480895542/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "劉滄碩",
+      "date": "2026/06/30",
+      "title": "OpenClaw超級龍蝦煉金術：活用Skills×Channels打造自動化的高效AI助理",
+      "url": "https://www.kingstone.com.tw/basic/2013120776784/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "李承翰",
+      "date": "2026/06/27",
+      "title": "老師這樣用AI就對了：明天上課就能用的教案教材、測驗評量AI工作流",
+      "url": "https://www.kingstone.com.tw/basic/2015218795486/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "鷹尾 祥",
+      "date": "2026/06/24",
+      "title": "Excel Power Pivot｜免VBA，也能讓Excel自動統計、分析資料(第二版)",
+      "url": "https://www.kingstone.com.tw/basic/2013120776074/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "林文恭、中華企業資源規劃(ERP)學會",
+      "date": "2026/06/24",
+      "title": "ERP企業資源規劃實務｜AI智慧應用",
+      "url": "https://www.kingstone.com.tw/basic/2014941940224/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "張海立、曹士圯、尹珉",
+      "date": "2026/06/19",
+      "title": "AI Agent 最強工具－LangGraph建構最新代理人系統",
+      "url": "https://www.kingstone.com.tw/basic/2013120774940/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "林兆倫（@小白debug）",
+      "date": "2026/06/19",
+      "title": "原來我也懂－誰都了解的圖解網路原理大公開",
+      "url": "https://www.kingstone.com.tw/basic/2013120775022/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "芯智智能、丁志凱",
+      "date": "2026/06/19",
+      "title": "Tool Use 一統江湖 - MCP 協定讓大模型成為變形金鋼",
+      "url": "https://www.kingstone.com.tw/basic/2013120775152/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "胡嘉璽",
+      "date": "2026/06/19",
+      "title": "工作學習生活一手包辦 - Claude Cowork 31 個超好用範例實作",
+      "url": "https://www.kingstone.com.tw/basic/2013120775282/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "程小六",
+      "date": "2026/06/19",
+      "title": "視覺慣性SLAM實作 - 原始程式剖析真正讀懂理論(好評熱銷版)",
+      "url": "https://www.kingstone.com.tw/basic/2013120775312/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "洪錦魁",
+      "date": "2026/06/19",
+      "title": "演算法 圖解原理 x Python實作 x 創意應用 王者歸來 (好評熱銷版)",
+      "url": "https://www.kingstone.com.tw/basic/2013120775442/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "董建祺、劉柔萱、劉嘉玲",
+      "date": "2026/06/19",
+      "title": "從 App 評論到商業洞察 - 零基礎打造 AI 評論洞察系統：從資料採集到雲端部署",
+      "url": "https://www.kingstone.com.tw/basic/2013120775572/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "趙珩宇 張芳瑜",
+      "date": "2026/06/19",
+      "title": "動手入門 Onshape 3D繪圖到機構製作(第三版)-附MOSME",
+      "url": "https://www.kingstone.com.tw/basic/2013120776944/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "於方仁",
+      "date": "2026/06/19",
+      "title": "親手開發推薦系統 - PyTorch全方位實作最重要演算法(好評熱銷版)",
+      "url": "https://www.kingstone.com.tw/basic/2013180006876/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "榮欽科技",
+      "date": "2026/06/18",
+      "title": "人工智慧入門與應用實作：全面了解 AI 技術與 ChatGPT 的多重應用（第五版）",
+      "url": "https://www.kingstone.com.tw/basic/2013120775862/?lid=book_new_class_prod_nnnn"
+    },
+    {
+      "author": "財團法人中華民國電腦技能基金會",
+      "date": "2026/06/18",
+      "title": "TQC 電子商務與AI應用實力養成暨評量",
+      "url": "https://www.kingstone.com.tw/basic/2014900194149/?lid=book_new_class_prod_nnnn"
+    }
+  ],
+  "07_other": [
+    {
+      "author": "余杰",
+      "date": "2026/07/17",
+      "title": "眾志成城：黑暗時代的抗爭者第六卷",
+      "url": "https://www.kingstone.com.tw/basic/2016100226163/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "每日一冷",
+      "date": "2026/07/17",
+      "title": "續‧臺灣沒說你不知道：生活在紛擾年代，七十則包山包海、愛鄉愛土的冷知識",
+      "url": "https://www.kingstone.com.tw/basic/2017330368593/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "林初梅、石井清輝、所澤潤(主編)",
+      "date": "2026/07/17",
+      "title": "告別南國：在台日人「引揚」研究",
+      "url": "https://www.kingstone.com.tw/basic/2017330368623/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "闞正宗",
+      "date": "2026/07/17",
+      "title": "臺灣農村老照片集(精裝)",
+      "url": "https://www.kingstone.com.tw/basic/2025450045003/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "George H. Kerr（葛超智）",
+      "date": "2026/07/16",
+      "title": "被出賣的台灣：經典譯校版",
+      "url": "https://www.kingstone.com.tw/basic/2017330368913/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "陳力航",
+      "date": "2026/07/16",
+      "title": "零下六十八度：シベリアに抑留された台湾人",
+      "url": "https://www.kingstone.com.tw/basic/2017330369095/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "孫實秀",
+      "date": "2026/07/15",
+      "title": "繪葉書裡的日本古城： 從往昔的明信片，回望明治時代至戰前的知名城郭，一趟穿越時空的紙上行旅",
+      "url": "https://www.kingstone.com.tw/basic/2015570145691/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "張新科，趙望秦，程永莊",
+      "date": "2026/07/15",
+      "title": "筆下留名，史記列傳英雄誌：忠臣名將×謀士辯才×隱逸智者×遊方醫家……透過三十位經典人物的命運起伏，進入司馬遷筆下的歷史現場與人性世界",
+      "url": "https://www.kingstone.com.tw/basic/2016100226033/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "約翰．胡伯",
+      "date": "2026/07/15",
+      "title": "義大利人的雙重靈魂 : 從羅馬帝國到文藝復興，從尖端時尚到黑手黨，揭開你所不知道的義大利人真實面貌",
+      "url": "https://www.kingstone.com.tw/basic/2017450027110/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "劉滴川",
+      "date": "2026/07/15",
+      "title": "問卜三千年，甲骨裡的華夏文明：從龍骨藥材到甲骨文字，從河圖洛書到靈龜占卜，重見殷商世界與華夏文明",
+      "url": "https://www.kingstone.com.tw/basic/2017920004566/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "何誠斌",
+      "date": "2026/07/15",
+      "title": "冷詞熱讀，生僻詞裡的古今人情：酺醵×僦居×契愛×軫悼……從經史子集走向鄉鎮飯桌，在詞語的本義與流變中，重讀中華文化的精神根柢",
+      "url": "https://www.kingstone.com.tw/basic/2018020634752/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "李旭東",
+      "date": "2026/07/14",
+      "title": "珠簾之後：大宋太后主政的日子",
+      "url": "https://www.kingstone.com.tw/basic/2015730253761/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "提摩西．萊貝克",
+      "date": "2026/07/14",
+      "title": "從政客到獨裁者：希特勒的終極奪權",
+      "url": "https://www.kingstone.com.tw/basic/2017430025570/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "宋秉明",
+      "date": "2026/07/14",
+      "title": "縱谷山林：一位父親的家庭田野筆記",
+      "url": "https://www.kingstone.com.tw/basic/2017830253825/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "范增達",
+      "date": "2026/07/14",
+      "title": "揢泥卵的農夫：雪霸農場的轉型與堅持",
+      "url": "https://www.kingstone.com.tw/basic/2019920584307/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "山本孝文",
+      "date": "2026/07/10",
+      "title": "文具的歷史：東亞書寫文化的前世今生",
+      "url": "https://www.kingstone.com.tw/basic/2017310270397/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "柳鏞泰",
+      "date": "2026/07/09",
+      "title": "東亞關聯史：超越國界，綜覽比較、地域、民族的新歷史",
+      "url": "https://www.kingstone.com.tw/basic/2017300049354/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "理查．考科特",
+      "date": "2026/07/09",
+      "title": "變臉的緬甸：一個由血、夢想和黃金構成的國度",
+      "url": "https://www.kingstone.com.tw/basic/2017380064162/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "譚自安",
+      "date": "2026/07/08",
+      "title": "南北朝裂土誌──蕭梁定鼎與爾朱亂世：蕭衍代齊、鍾離鏖兵、胡太后亂政、六鎮烽火、爾朱榮入洛……南梁新朝如何站穩江南，北魏帝國又如何一步步走向分裂？",
+      "url": "https://www.kingstone.com.tw/basic/2016230018546/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "張紅霞 (主編)",
+      "date": "2026/07/08",
+      "title": "泥沙裡的黃河治水史：神廟信仰×花園口決堤×小浪底工程，中原治河的關鍵轉折",
+      "url": "https://www.kingstone.com.tw/basic/2016820005529/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "余杰",
+      "date": "2026/07/17",
+      "title": "眾志成城：黑暗時代的抗爭者第六卷",
+      "url": "https://www.kingstone.com.tw/basic/2016100226163/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "每日一冷",
+      "date": "2026/07/17",
+      "title": "續‧臺灣沒說你不知道：生活在紛擾年代，七十則包山包海、愛鄉愛土的冷知識",
+      "url": "https://www.kingstone.com.tw/basic/2017330368593/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "林初梅、石井清輝、所澤潤(主編)",
+      "date": "2026/07/17",
+      "title": "告別南國：在台日人「引揚」研究",
+      "url": "https://www.kingstone.com.tw/basic/2017330368623/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "闞正宗",
+      "date": "2026/07/17",
+      "title": "臺灣農村老照片集(精裝)",
+      "url": "https://www.kingstone.com.tw/basic/2025450045003/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "George H. Kerr（葛超智）",
+      "date": "2026/07/16",
+      "title": "被出賣的台灣：經典譯校版",
+      "url": "https://www.kingstone.com.tw/basic/2017330368913/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "陳力航",
+      "date": "2026/07/16",
+      "title": "零下六十八度：シベリアに抑留された台湾人",
+      "url": "https://www.kingstone.com.tw/basic/2017330369095/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "孫實秀",
+      "date": "2026/07/15",
+      "title": "繪葉書裡的日本古城： 從往昔的明信片，回望明治時代至戰前的知名城郭，一趟穿越時空的紙上行旅",
+      "url": "https://www.kingstone.com.tw/basic/2015570145691/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "張新科，趙望秦，程永莊",
+      "date": "2026/07/15",
+      "title": "筆下留名，史記列傳英雄誌：忠臣名將×謀士辯才×隱逸智者×遊方醫家……透過三十位經典人物的命運起伏，進入司馬遷筆下的歷史現場與人性世界",
+      "url": "https://www.kingstone.com.tw/basic/2016100226033/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "約翰．胡伯",
+      "date": "2026/07/15",
+      "title": "義大利人的雙重靈魂 : 從羅馬帝國到文藝復興，從尖端時尚到黑手黨，揭開你所不知道的義大利人真實面貌",
+      "url": "https://www.kingstone.com.tw/basic/2017450027110/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "劉滴川",
+      "date": "2026/07/15",
+      "title": "問卜三千年，甲骨裡的華夏文明：從龍骨藥材到甲骨文字，從河圖洛書到靈龜占卜，重見殷商世界與華夏文明",
+      "url": "https://www.kingstone.com.tw/basic/2017920004566/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "何誠斌",
+      "date": "2026/07/15",
+      "title": "冷詞熱讀，生僻詞裡的古今人情：酺醵×僦居×契愛×軫悼……從經史子集走向鄉鎮飯桌，在詞語的本義與流變中，重讀中華文化的精神根柢",
+      "url": "https://www.kingstone.com.tw/basic/2018020634752/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "李旭東",
+      "date": "2026/07/14",
+      "title": "珠簾之後：大宋太后主政的日子",
+      "url": "https://www.kingstone.com.tw/basic/2015730253761/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "提摩西．萊貝克",
+      "date": "2026/07/14",
+      "title": "從政客到獨裁者：希特勒的終極奪權",
+      "url": "https://www.kingstone.com.tw/basic/2017430025570/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "宋秉明",
+      "date": "2026/07/14",
+      "title": "縱谷山林：一位父親的家庭田野筆記",
+      "url": "https://www.kingstone.com.tw/basic/2017830253825/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "范增達",
+      "date": "2026/07/14",
+      "title": "揢泥卵的農夫：雪霸農場的轉型與堅持",
+      "url": "https://www.kingstone.com.tw/basic/2019920584307/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "山本孝文",
+      "date": "2026/07/10",
+      "title": "文具的歷史：東亞書寫文化的前世今生",
+      "url": "https://www.kingstone.com.tw/basic/2017310270397/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "柳鏞泰",
+      "date": "2026/07/09",
+      "title": "東亞關聯史：超越國界，綜覽比較、地域、民族的新歷史",
+      "url": "https://www.kingstone.com.tw/basic/2017300049354/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "理查．考科特",
+      "date": "2026/07/09",
+      "title": "變臉的緬甸：一個由血、夢想和黃金構成的國度",
+      "url": "https://www.kingstone.com.tw/basic/2017380064162/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "譚自安",
+      "date": "2026/07/08",
+      "title": "南北朝裂土誌──蕭梁定鼎與爾朱亂世：蕭衍代齊、鍾離鏖兵、胡太后亂政、六鎮烽火、爾朱榮入洛……南梁新朝如何站穩江南，北魏帝國又如何一步步走向分裂？",
+      "url": "https://www.kingstone.com.tw/basic/2016230018546/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "張紅霞 (主編)",
+      "date": "2026/07/08",
+      "title": "泥沙裡的黃河治水史：神廟信仰×花園口決堤×小浪底工程，中原治河的關鍵轉折",
+      "url": "https://www.kingstone.com.tw/basic/2016820005529/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "來新夏",
+      "date": "2026/07/07",
+      "title": "北洋軍閥史（修訂版）（上下冊）",
+      "url": "https://www.kingstone.com.tw/basic/2016280113987/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "林孝庭、廖彥博、楊善堯、洪年建、劉曉鵬、蘇聖雄、鄭仲棠、王憲",
+      "date": "2026/07/03",
+      "title": "延續、斷裂與重生：戰後臺灣史論述Continuity, Rupture and Rebirth",
+      "url": "https://www.kingstone.com.tw/basic/2017330368463/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "劉兆珩",
+      "date": "2026/07/03",
+      "title": "楓網龍跡：加拿大第一位華裔特命全權大使回憶錄",
+      "url": "https://www.kingstone.com.tw/basic/2017520063420/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "黃仁宇",
+      "date": "2026/07/02",
+      "title": "地北天南敘古今",
+      "url": "https://www.kingstone.com.tw/basic/2016070007021/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "馬拉拉．優薩福扎伊",
+      "date": "2026/07/02",
+      "title": "我是馬拉拉，也是我自己",
+      "url": "https://www.kingstone.com.tw/basic/2017830253795/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "肖東發 主編 石錚 編著",
+      "date": "2026/07/01",
+      "title": "祠廟典範：最具人文特色的祭祠",
+      "url": "https://www.kingstone.com.tw/basic/2012270006697/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "蓋瑞．巴斯",
+      "date": "2026/07/01",
+      "title": "東京大審：二戰審判與現代亞洲的誕生（三冊不分售）",
+      "url": "https://www.kingstone.com.tw/basic/2015790031989/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "蓋瑞．巴斯",
+      "date": "2026/07/01",
+      "title": "東京大審：二戰審判與現代亞洲的誕生【限量書盒版】",
+      "url": "https://www.kingstone.com.tw/basic/2015790032061/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "岡本隆司",
+      "date": "2026/07/01",
+      "title": "反派的中國史：從隋煬帝、安祿山到萬曆皇帝，敗者史觀下的中華帝國",
+      "url": "https://www.kingstone.com.tw/basic/2016100225531/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "岡本隆司",
+      "date": "2026/07/01",
+      "title": "江南史觀下的中國：被中原史觀遮蔽的真相，中國不是一個整體，而是南北對立",
+      "url": "https://www.kingstone.com.tw/basic/2016190003323/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "陳文新",
+      "date": "2026/07/01",
+      "title": "英雄的多重宇宙，探索三國人物的生成與流變：為何我們愛劉備、恨曹操？看經典如何承載道德判斷、人物愛憎與時代想像",
+      "url": "https://www.kingstone.com.tw/basic/2016220041745/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "雲淡心遠",
+      "date": "2026/07/01",
+      "title": "盛唐也瘋狂：從安史之亂至馬嵬坡之變，從潼關一路大敗至邙山之戰，一代繁華如何墜入亂世",
+      "url": "https://www.kingstone.com.tw/basic/2016240025565/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "岡田英弘",
+      "date": "2026/07/01",
+      "title": "日本史的誕生：東亞變局如何催生日本的歷史敘事【2026年修訂版】",
+      "url": "https://www.kingstone.com.tw/basic/2017310270007/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "金錦淑",
+      "date": "2026/07/01",
+      "title": "草：活著的歷史，韓國「慰安婦」受害奶奶的證詞",
+      "url": "https://www.kingstone.com.tw/basic/2017320040492/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "切．格瓦拉",
+      "date": "2026/07/01",
+      "title": "格拉瑪號的遠征：古巴革命戰爭回憶錄",
+      "url": "https://www.kingstone.com.tw/basic/2017550004844/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "高山淳",
+      "date": "2026/07/01",
+      "title": "八卦三國，東漢末年的舊案與新聞：造神、抹黑、無中生有……關掉演義濾鏡，忠臣賊子誰還分得清？",
+      "url": "https://www.kingstone.com.tw/basic/2017820675989/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "翁灝偉",
+      "date": "2026/07/01",
+      "title": "讀 馬汀懂的水邊人生",
+      "url": "https://www.kingstone.com.tw/basic/2018630978383/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "達拉．戈德斯坦",
+      "date": "2026/06/27",
+      "title": "黑麥王國：從艱苦和飢餓中誕生的俄羅斯滋味",
+      "url": "https://www.kingstone.com.tw/basic/2015380156610/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "鄭明仁",
+      "date": "2026/06/26",
+      "title": "淪陷時期香港史雜談",
+      "url": "https://www.kingstone.com.tw/basic/2016100225401/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "吳振漢",
+      "date": "2026/06/26",
+      "title": "莫道細微(精裝)：明代政治制度再思",
+      "url": "https://www.kingstone.com.tw/basic/2025730253654/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "傅思台",
+      "date": "2026/06/25",
+      "title": "記憶的世代：台灣三代外省人的通婚與認同",
+      "url": "https://www.kingstone.com.tw/basic/2015460038447/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "陶晉生",
+      "date": "2026/06/25",
+      "title": "宋遼金史論叢",
+      "url": "https://www.kingstone.com.tw/basic/2026250028012/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "肖東發 主編 秦貝臻 編著",
+      "date": "2026/06/24",
+      "title": "人間天宮：非凡造詣的媽祖廟宇",
+      "url": "https://www.kingstone.com.tw/basic/2012720040943/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "傅小凡",
+      "date": "2026/06/24",
+      "title": "神話溯源，女媧與伏羲的遠古世界：從生殖崇拜、圖騰信仰到太陽神崇拜，追尋遠古信仰的演變",
+      "url": "https://www.kingstone.com.tw/basic/2012820013632/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "劉滴川",
+      "date": "2026/06/24",
+      "title": "史記與司馬遷，帝國的運作及崩潰：大一統、郡縣、財政、邊疆與皇權，探討《史記》中的制度批判與歷史洞察",
+      "url": "https://www.kingstone.com.tw/basic/2016100225081/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "甄雪燕",
+      "date": "2026/06/24",
+      "title": "博物館的中醫史，古人是這樣養生治病：針具×藥刀×妝奩×薰爐……從文物中看見中醫藥文化的傳承之火，走進古人的生命智慧",
+      "url": "https://www.kingstone.com.tw/basic/2016100225791/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "譚自安",
+      "date": "2026/06/24",
+      "title": "南北朝裂土誌──北魏變法與蕭氏內亂：太后臨朝、北魏南征、洛陽遷都、漢化改制、蕭氏內鬥……南北兩朝一改革一崩壞，誰能撐住亂世江山？",
+      "url": "https://www.kingstone.com.tw/basic/2016230018416/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "瑪莉莎．梅策爾",
+      "date": "2026/06/24",
+      "title": "柏金：我的名字，就是時尚─愛馬仕柏金包靈魂人物Jane Birkin的自由與反叛",
+      "url": "https://www.kingstone.com.tw/basic/2017840146391/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "莊仲平",
+      "date": "2026/06/23",
+      "title": "沙烏地 先知聖訓無所不在的國度：我在沙烏地的工程傭兵生活",
+      "url": "https://www.kingstone.com.tw/basic/2017350030579/?lid=book_new_class_prod_oooo"
+    },
+    {
+      "author": "常青",
+      "date": "2026/06/23",
+      "title": "中國石窟簡史",
+      "url": "https://www.kingstone.com.tw/basic/2017970026594/?lid=book_new_class_prod_oooo"
+    }
+  ]
+}
