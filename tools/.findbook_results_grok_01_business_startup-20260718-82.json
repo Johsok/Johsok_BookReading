@@ -1,22 +1,6 @@
 {
   "id": "01_business_startup-20260718-82",
-  "categoryId": "01_business_startup",
-  "title": "Investments(2026 Release)(14版)",
-  "author": "Alan J. Marcus,Alex Kane,Nicholas M. Racculia,Zvi Bodie",
-  "sourceName": "博客來中文書－商業理財分類頁",
-  "sourceUrl": "https://www.books.com.tw/products/0011057061",
-  "sourceDateNote": "來源頁標示出版日期為 2026-05-25；擷取日期 2026-07-18，落在 1985-06-01 至 2026-07-18 的搜尋區間內。",
-  "searchDateRange": {
-    "from": "1985-06-01",
-    "to": "2026-07-18"
-  },
-  "tags": [
-    "商業理財",
-    "中文書"
-  ],
-  "summary": "整理「Investments(2026 Release)(14版)」在商業理財領域的核心觀念、判斷方法、適用情境與可實踐行動。",
-  "updatedAt": "2026-07-19",
-  "chatgptHighlights": [
+  "highlights": [
     "001、投資決策先區分實質資產與金融資產，前者創造生產力，後者分配對現金流的請求權",
     "002、風險與期望報酬呈取捨關係，追求超額報酬必然承擔不確定性",
     "003、效用函數用來描述投資人對風險的態度，相同機會集合下選擇仍可能不同",
@@ -167,9 +151,5 @@
     "148、投資組合保險用動態複製賣權，但缺口風險在跳空時會顯現",
     "149、常數比例投資組合保險依緩衝部位調整曝險，市場連跌會鎖定低倉位",
     "150、理解模型假設邊界比背誦公式更能避免在結構轉變時誤用舊工具"
-  ],
-  "chatgptStatus": "complete",
-  "highlightsSource": "grok",
-  "workId": "findbook-20260718-160000-b5",
-  "highlightsCapturedAt": "2026-07-19T22:55:25+08:00"
+  ]
 }

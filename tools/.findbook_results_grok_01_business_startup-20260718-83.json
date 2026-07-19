@@ -1,22 +1,6 @@
 {
   "id": "01_business_startup-20260718-83",
-  "categoryId": "01_business_startup",
-  "title": "Business Driven Information Systems(2026 Release)(10版)",
-  "author": "Paige Baltzan",
-  "sourceName": "博客來中文書－商業理財分類頁",
-  "sourceUrl": "https://www.books.com.tw/products/0011057065",
-  "sourceDateNote": "來源頁標示出版日期為 2026-05-25；擷取日期 2026-07-18，落在 1985-06-01 至 2026-07-18 的搜尋區間內。",
-  "searchDateRange": {
-    "from": "1985-06-01",
-    "to": "2026-07-18"
-  },
-  "tags": [
-    "商業理財",
-    "中文書"
-  ],
-  "summary": "整理「Business Driven Information Systems(2026 Release)(10版)」在商業理財領域的核心觀念、判斷方法、適用情境與可實踐行動。",
-  "updatedAt": "2026-07-19",
-  "chatgptHighlights": [
+  "highlights": [
     "001、資訊系統價值應從商業問題倒推，技術選型是手段而非起點",
     "002、資料、資訊與商業智慧分層清楚，才能避免把報表堆砌誤認洞察",
     "003、競爭優勢來自獨特流程與資訊能力結合，單純買軟體很難持久",
@@ -167,9 +151,5 @@
     "148、會員點數負債屬於財務與系統共同議題，規則漏洞會變成無限補貼",
     "149、電商退貨逆向物流若無系統可視，會在倉儲角落形成沉默損失",
     "150、資訊領導力表現在能把技術選項翻譯成損益、風險與客戶結果語言"
-  ],
-  "chatgptStatus": "complete",
-  "highlightsSource": "grok",
-  "workId": "findbook-20260718-160000-b5",
-  "highlightsCapturedAt": "2026-07-19T22:55:25+08:00"
+  ]
 }
