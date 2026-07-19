@@ -52,10 +52,14 @@ def numbered(bodies: list[str]) -> list[str]:
 
 
 def write_and_complete(book_id: str, category_id: str, bodies: list[str]) -> None:
-    bodies = pad150(bodies, [])
-    assert len(bodies) == 150
+    bodies = [b.strip() for b in bodies]
+    if len(bodies) != 150:
+        raise ValueError(f"{book_id} need 150, got {len(bodies)}")
+    if len(set(bodies)) != 150:
+        raise ValueError(f"{book_id} has duplicate bodies")
     for b in bodies:
-        assert len(b) >= 12, b
+        if len(b) < 12:
+            raise ValueError(f"{book_id} short: {b}")
     path = TOOLS / f".findbook_results_grok_{book_id}.json"
     path.write_text(
         json.dumps({"id": book_id, "highlights": numbered(bodies)}, ensure_ascii=False, indent=2)
@@ -234,7 +238,7 @@ assert len(H16) == 150, len(H16)
 
 
 def main() -> None:
-    # Import remaining lists from companion module built next
+    sys.path.insert(0, str(TOOLS))
     from _batch38_bodies import H17, H18, H19, H20  # type: ignore
 
     jobs = [
