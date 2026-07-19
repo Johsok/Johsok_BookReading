@@ -1,0 +1,37 @@
+[
+  {
+    "id": "06_computer_info-20260718-31",
+    "categoryId": "06_computer_info",
+    "title": "超圖解 Python 程式設計--從入門、網頁應用、YOLO 到生成式 AI 實作",
+    "author": "趙英傑",
+    "file": "Books/06_computer_info/06_computer_info-20260718-31.json"
+  },
+  {
+    "id": "06_computer_info-20260718-32",
+    "categoryId": "06_computer_info",
+    "title": "深入Linux Kernel程式設計：kernel內部原理、模組開發與同步機制(第二版)",
+    "author": "Kaiwan N. Billimoria 廖明沂",
+    "file": "Books/06_computer_info/06_computer_info-20260718-32.json"
+  },
+  {
+    "id": "06_computer_info-20260718-33",
+    "categoryId": "06_computer_info",
+    "title": "內行人才知道的程式設計模式面試指南",
+    "author": "Alex Xu Shaun Gunawardane 藍子軒",
+    "file": "Books/06_computer_info/06_computer_info-20260718-33.json"
+  },
+  {
+    "id": "06_computer_info-20260718-34",
+    "categoryId": "06_computer_info",
+    "title": "Python運算思維: Google Colab x Gemini AI - 「零基礎」x「高效率」學「程式設計」",
+    "author": "洪錦魁",
+    "file": "Books/06_computer_info/06_computer_info-20260718-34.json"
+  },
+  {
+    "id": "06_computer_info-20260718-35",
+    "categoryId": "06_computer_info",
+    "title": "【中小學生必讀】數位未來百科：快速掌握AI、IoT、元宇宙、資訊安全與程式設計，培養創造力與解決問題的能力!",
+    "author": "岡嶋裕史 張嘉芬",
+    "file": "Books/06_computer_info/06_computer_info-20260718-35.json"
+  }
+]

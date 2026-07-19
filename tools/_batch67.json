@@ -1,0 +1,37 @@
+[
+  {
+    "id": "04_healthcare-20260718-31",
+    "categoryId": "04_healthcare",
+    "title": "陳志金 ICU醫師 重症醫療現場 I+II+III 套書(共3本)：勇敢而發真心話+用生命拚的生命+當個更有溫度的人",
+    "author": "陳志金",
+    "file": "Books/04_healthcare/04_healthcare-20260718-31.json"
+  },
+  {
+    "id": "04_healthcare-20260718-32",
+    "categoryId": "04_healthcare",
+    "title": "醫療緊缺的時代，醫師最強的助理──AI：病情告知×家屬溝通×罕見病例×研究選題×SCI論文，讓ChatGPT成為醫療現場的實用助手",
+    "author": "王偉強，馮曉明，壽松濤",
+    "file": "Books/04_healthcare/04_healthcare-20260718-32.json"
+  },
+  {
+    "id": "04_healthcare-20260718-33",
+    "categoryId": "04_healthcare",
+    "title": "臺大醫院減肥班8週燃脂瘦身全書：17位多科醫療專家傳授安全有效營養×運動×心理的健康減重法",
+    "author": "臺大醫院健康教育中心與營養師團隊",
+    "file": "Books/04_healthcare/04_healthcare-20260718-33.json"
+  },
+  {
+    "id": "04_healthcare-20260718-34",
+    "categoryId": "04_healthcare",
+    "title": "ON CALL隨時待命：佛奇醫師回憶錄，一段改變美國與世界公共醫療的關鍵旅程",
+    "author": "安東尼．佛奇醫師 周序諦",
+    "file": "Books/04_healthcare/04_healthcare-20260718-34.json"
+  },
+  {
+    "id": "04_healthcare-20260718-35",
+    "categoryId": "04_healthcare",
+    "title": "健康人的小習慣：全球歷時最久地區比較醫療統計 60年追蹤10000人結果大公開",
+    "author": "大平哲也 林雅惠",
+    "file": "Books/04_healthcare/04_healthcare-20260718-35.json"
+  }
+]

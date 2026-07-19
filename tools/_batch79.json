@@ -1,0 +1,37 @@
+[
+  {
+    "id": "06_computer_info-20260718-36",
+    "categoryId": "06_computer_info",
+    "title": "Python零基礎入門班(第五版)：一次打好程式設計、運算思維與邏輯訓練基本功",
+    "author": "鄧君如 總監製/文淵閣工作室 編著",
+    "file": "Books/06_computer_info/06_computer_info-20260718-36.json"
+  },
+  {
+    "id": "06_computer_info-20260718-37",
+    "categoryId": "06_computer_info",
+    "title": "快速精通iOS 26程式設計：從零開始活用Swift與SwiftUI開發技巧",
+    "author": "Simon Ng著 博碩文化 審校 王豪勳 譯",
+    "file": "Books/06_computer_info/06_computer_info-20260718-37.json"
+  },
+  {
+    "id": "06_computer_info-20260718-38",
+    "categoryId": "06_computer_info",
+    "title": "Python程式設計的樂趣|範例實作與專題研究的20堂程式設計課 第三版",
+    "author": "Eric Matthes H&C",
+    "file": "Books/06_computer_info/06_computer_info-20260718-38.json"
+  },
+  {
+    "id": "06_computer_info-20260718-39",
+    "categoryId": "06_computer_info",
+    "title": "邊玩邊學，使用Scratch學習AI程式設計 第二版",
+    "author": "石原淳也、倉本大資著、阿部和広監修 吳嘉芳",
+    "file": "Books/06_computer_info/06_computer_info-20260718-39.json"
+  },
+  {
+    "id": "06_computer_info-20260718-40",
+    "categoryId": "06_computer_info",
+    "title": "機器學習的基礎概論：Python程式設計我也可以成功做到(第1版)",
+    "author": "張任坊 張博一 張紹勳",
+    "file": "Books/06_computer_info/06_computer_info-20260718-40.json"
+  }
+]

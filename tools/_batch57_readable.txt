@@ -1,0 +1,37 @@
+[
+  {
+    "id": "04_healthcare-20260718-26",
+    "categoryId": "04_healthcare",
+    "title": "日落之那邊：通路導向的癌症精準治療與康復新思維",
+    "author": "翁一鳴",
+    "file": "Books/04_healthcare/04_healthcare-20260718-26.json"
+  },
+  {
+    "id": "04_healthcare-20260718-27",
+    "categoryId": "04_healthcare",
+    "title": "元氣滿滿!漫畫養生小日常",
+    "author": "石韋 著",
+    "file": "Books/04_healthcare/04_healthcare-20260718-27.json"
+  },
+  {
+    "id": "04_healthcare-20260718-28",
+    "categoryId": "04_healthcare",
+    "title": "《金匱要略》內科臨床學：從教室走向臨床之路",
+    "author": "張永明",
+    "file": "Books/04_healthcare/04_healthcare-20260718-28.json"
+  },
+  {
+    "id": "04_healthcare-20260718-29",
+    "categoryId": "04_healthcare",
+    "title": "內在時鐘：從癌症到憂鬱症，從學童困境到工殤意外，生理時鐘失調的最新研究與改善之道",
+    "author": "琳恩．皮普爾斯",
+    "file": "Books/04_healthcare/04_healthcare-20260718-29.json"
+  },
+  {
+    "id": "04_healthcare-20260718-30",
+    "categoryId": "04_healthcare",
+    "title": "一按就通!圖解經絡按摩全書：按對穴位，百病自癒",
+    "author": "謝文英",
+    "file": "Books/04_healthcare/04_healthcare-20260718-30.json"
+  }
+]
