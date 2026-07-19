@@ -1,0 +1,37 @@
+[
+  {
+    "id": "06_computer_info-20260718-16",
+    "categoryId": "06_computer_info",
+    "title": "n8n x AI Agent與企業導入實戰大全【基礎篇】：零基礎入門 x API串接 x 自動化工作流程設計 x 商業專題實作",
+    "author": "趙伯元,黃煒盛",
+    "file": "Books/06_computer_info/06_computer_info-20260718-16.json"
+  },
+  {
+    "id": "06_computer_info-20260718-17",
+    "categoryId": "06_computer_info",
+    "title": "圖解生成式AI|一次搞懂AI如何繪圖、寫作與協作",
+    "author": "Priyanka Vergadia,Valliappa Lakshmanan",
+    "file": "Books/06_computer_info/06_computer_info-20260718-17.json"
+  },
+  {
+    "id": "06_computer_info-20260718-18",
+    "categoryId": "06_computer_info",
+    "title": "Excel VBA × ChatGPT：基礎到AI協作開發、資料爬蟲與自動化專題實戰",
+    "author": "蔡文龍、張志成、何嘉益、張力元",
+    "file": "Books/06_computer_info/06_computer_info-20260718-18.json"
+  },
+  {
+    "id": "06_computer_info-20260718-19",
+    "categoryId": "06_computer_info",
+    "title": "10倍速Flutter App開發實戰：Cursor AI協作 × Figma UI設計",
+    "author": "孫宏明",
+    "file": "Books/06_computer_info/06_computer_info-20260718-19.json"
+  },
+  {
+    "id": "06_computer_info-20260718-20",
+    "categoryId": "06_computer_info",
+    "title": "電腦硬體裝修丙級檢定學術科解題教本(第四版)|Windows 10 + Ubuntu 18 (116年起適用)",
+    "author": "胡秋明．林文恭研究室",
+    "file": "Books/06_computer_info/06_computer_info-20260718-20.json"
+  }
+]
