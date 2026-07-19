@@ -1,12 +1,14 @@
 # -*- coding: utf-8 -*-
 import re
-import sys
 from pathlib import Path
 
-path = Path(sys.argv[1])
-text = path.read_text(encoding="utf-8")
-m = re.search(r"BODIES\s*=\s*\[(.*)\]\s*\n\n\ndef main", text, re.S)
-if not m:
-    raise SystemExit("no bodies")
-items = re.findall(r'"([^"\\]*(?:\\.[^"\\]*)*)"', m.group(1))
-print(path.name, len(items))
+text = Path(__file__).with_name("_batch38_bodies.py").read_text(encoding="utf-8")
+chunks = {
+    "H17": text.split("H17 = [")[1].split("H18 = [")[0],
+    "H18": text.split("H18 = [")[1].split("H19 = [")[0],
+    "H19": text.split("H19 = [")[1].split("H20 = [")[0],
+    "H20": text.split("H20 = [")[1].split("def _check")[0],
+}
+for name, chunk in chunks.items():
+    lines = re.findall(r'"([^"]+)"', chunk)
+    print(name, len(lines), "unique", len(set(lines)))

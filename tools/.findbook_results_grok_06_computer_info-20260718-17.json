@@ -1,22 +1,6 @@
 {
   "id": "06_computer_info-20260718-17",
-  "categoryId": "06_computer_info",
-  "title": "圖解生成式AI|一次搞懂AI如何繪圖、寫作與協作",
-  "author": "Priyanka Vergadia,Valliappa Lakshmanan",
-  "sourceName": "博客來中文書－電腦資訊分類頁",
-  "sourceUrl": "https://www.books.com.tw/products/0011058282",
-  "sourceDateNote": "來源未提供明確日期；擷取日期 2026-07-18，搜尋區間為 1985-06-01 至 2026-07-18。",
-  "searchDateRange": {
-    "from": "1985-06-01",
-    "to": "2026-07-18"
-  },
-  "tags": [
-    "電腦資訊",
-    "中文書"
-  ],
-  "summary": "整理「圖解生成式AI|一次搞懂AI如何繪圖、寫作與協作」在電腦資訊領域的核心觀念、判斷方法、適用情境與可實踐行動。",
-  "updatedAt": "2026-07-19",
-  "chatgptHighlights": [
+  "highlights": [
     "001、生成式模型學習的是資料分布，所以輸出是高機率延續，不是保證事實正確",
     "002、提示詞本質是在條件化生成分布，寫得越清楚，輸出越容易落在你要的區域",
     "003、溫度提高會增加多樣性與意外，也同步提高離題與胡謅風險",
@@ -167,9 +151,5 @@
     "148、最終交付物要用任務成功定義驗收，而不是用對話看起來很聰明當標準",
     "149、圖解讀完後自己重畫一張管線圖，畫得出來才代表真的內化而不是滑過畫面",
     "150、把常用提示與評測題存成團隊資產，比各自收藏聊天紀錄更能累積組織能力"
-  ],
-  "chatgptStatus": "complete",
-  "highlightsSource": "grok",
-  "workId": "findbook-20260718-153000-b4",
-  "highlightsCapturedAt": "2026-07-19T22:50:06+08:00"
+  ]
 }

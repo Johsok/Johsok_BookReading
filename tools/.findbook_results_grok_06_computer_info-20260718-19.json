@@ -1,22 +1,6 @@
 {
   "id": "06_computer_info-20260718-19",
-  "categoryId": "06_computer_info",
-  "title": "10倍速Flutter App開發實戰：Cursor AI協作 × Figma UI設計",
-  "author": "孫宏明",
-  "sourceName": "博客來中文書－電腦資訊分類頁",
-  "sourceUrl": "https://www.books.com.tw/products/0011058284",
-  "sourceDateNote": "來源未提供明確日期；擷取日期 2026-07-18，搜尋區間為 1985-06-01 至 2026-07-18。",
-  "searchDateRange": {
-    "from": "1985-06-01",
-    "to": "2026-07-18"
-  },
-  "tags": [
-    "電腦資訊",
-    "中文書"
-  ],
-  "summary": "整理「10倍速Flutter App開發實戰：Cursor AI協作 × Figma UI設計」在電腦資訊領域的核心觀念、判斷方法、適用情境與可實踐行動。",
-  "updatedAt": "2026-07-19",
-  "chatgptHighlights": [
+  "highlights": [
     "001、Flutter用一套程式碼接近多平台UI，但仍要在各平台驗證手勢與系統慣例",
     "002、Widget樹是宣告式UI的核心，狀態變了就重建描述，而不是手動改像素",
     "003、分清Stateless與Stateful，把可變狀態推到真正需要的節點",
@@ -167,9 +151,5 @@
     "148、Figma註解裡的決策理由要同步進程式註解或ADR，否則半年後只剩結果沒有何故",
     "149、AI生成的導航結構要用真實任務走查一遍，節點多不等於好用",
     "150、發布後盯崩潰與ANR曲線四十八小時，十倍速開發也要有十倍速止血能力"
-  ],
-  "chatgptStatus": "complete",
-  "highlightsSource": "grok",
-  "workId": "findbook-20260718-153000-b4",
-  "highlightsCapturedAt": "2026-07-19T22:50:06+08:00"
+  ]
 }
