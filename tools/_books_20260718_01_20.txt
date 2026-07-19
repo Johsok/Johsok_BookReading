@@ -1,0 +1,20 @@
+{"n": 1, "id": "01_business_startup-20260718-01", "title": "AI時代的一人創業 x 人生整理：從外在創業經營，到內在心靈覺醒的自我實現【獨家套書】", "author": "洪儒明 MING HUNG,流川美加", "hl": 150}
+{"n": 2, "id": "01_business_startup-20260718-02", "title": "史蒂文.巴列特著作限量套書《快樂性感的百萬富翁》+ 《執行長日記【耀黑燙金版】》", "author": "史蒂文．巴列特 Steven Bartlett", "hl": 150}
+{"n": 3, "id": "01_business_startup-20260718-03", "title": "在雲之上的帕蘭提爾：改變戰爭與世界的AI祕密力量Palantir", "author": "林冠群", "hl": 150}
+{"n": 4, "id": "01_business_startup-20260718-04", "title": "比特幣 風雲再起", "author": "Zac W、Dave C", "hl": 150}
+{"n": 5, "id": "01_business_startup-20260718-05", "title": "加密貨幣投資聖經：從開戶、選幣、DeFi 到風險管理的全方位指南", "author": "Zac W、Dave C", "hl": 150}
+{"n": 6, "id": "01_business_startup-20260718-06", "title": "選擇權操作全攻略 實戰演練-單式部位、價差策略與期貨避險應用", "author": "Dave C、吳西蒙、Amber", "hl": 150}
+{"n": 7, "id": "01_business_startup-20260718-07", "title": "AI一人公司：OpenClaw龍蝦兵團養成記", "author": "曾任偉，秋葉，秦陽", "hl": 150}
+{"n": 8, "id": "01_business_startup-20260718-08", "title": "AI一人公司：128種商業模式與盈利實操", "author": "胡華成，雷鳴，徐捷", "hl": 150}
+{"n": 9, "id": "01_business_startup-20260718-09", "title": "零基礎學MACD指標：背離技術分析、波段交易技巧與短線操盤實戰", "author": "馭龍識黑馬", "hl": 150}
+{"n": 10, "id": "01_business_startup-20260718-10", "title": "大數據財務分析：基於新道DBE Cloud", "author": "鍾愛軍，黃楠，李愛琴", "hl": 150}
+{"n": 11, "id": "01_business_startup-20260718-11", "title": "Stata計量經濟學與實證研究應用", "author": "張甜", "hl": 150}
+{"n": 12, "id": "01_business_startup-20260718-12", "title": "降本增效實戰：美的“3+4”卓越運營體系", "author": "陳凱歌著", "hl": 150}
+{"n": 13, "id": "01_business_startup-20260718-13", "title": "金融GPT：人工智能與全球經濟安全", "author": "（美）詹姆斯·里卡茲", "hl": 150}
+{"n": 14, "id": "01_business_startup-20260718-14", "title": "OpenClaw時代的OPC：一人公司從0到1方法論", "author": "寒樹，秋葉，易洋，吳迪，劉海峰", "hl": 150}
+{"n": 15, "id": "01_business_startup-20260718-15", "title": "銀行轉型2035：邁向智能體銀行的範式躍遷", "author": "何大勇,孫中東,譚彥", "hl": 150}
+{"n": 16, "id": "01_business_startup-20260718-16", "title": "中國近代對外貿易管理制度史研究(1840-1949)", "author": "張國義", "hl": 150}
+{"n": 17, "id": "01_business_startup-20260718-17", "title": "AI時代創新法則：AI RaaS模式重新定義企業", "author": "劉燕,彭志強", "hl": 150}
+{"n": 18, "id": "01_business_startup-20260718-18", "title": "證券暨期貨月刊(44卷7期115/07)", "author": "金融監督管理委員會證期局", "hl": 150}
+{"n": 19, "id": "01_business_startup-20260718-19", "title": "農業部農業金融署114年年報", "author": "農業部農業金融署", "hl": 150}
+{"n": 20, "id": "01_business_startup-20260718-20", "title": "組織發展與變革(12版)：(Cummings/Organization Development & Change 12e)", "author": "陳以亨", "hl": 644}

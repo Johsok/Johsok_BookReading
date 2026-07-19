@@ -1,0 +1,353 @@
+[
+  {
+    "id": "01_business_startup-20260711-07",
+    "title": "召喚錢錢來我家：從失業零存款到30歲FIRE！以斷捨離原則重整生活和財務的全方位創富提案",
+    "author": "極簡Takeru",
+    "summary": "把斷捨離延伸為財務整理，藉由辨識浪費、精準取捨與重整支出，逐步提高儲蓄與資產累積，走向財務自由。",
+    "tags": [
+      "個人理財",
+      "極簡生活",
+      "財務自由"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-07.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-08",
+    "title": "AI改變了你的客戶：大家買東西不再搜google而是問AI時，行銷該怎麼做？",
+    "author": "馬克・薛佛",
+    "summary": "分析AI如何改變搜尋、信任、認同與購買決策，並提出品牌應以真誠、同理與參與感回應新消費行為。",
+    "tags": [
+      "AI行銷",
+      "消費者行為",
+      "品牌策略"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-08.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-09",
+    "title": "你的影響力，從說重點開始：全美演說冠軍的精準表達術，帶你一句話說服、一開口聚焦，讓人聽懂、記住，更願意行動！",
+    "author": "喬爾．史瓦茲伯格",
+    "summary": "以觀點為表達核心，搭配影響加手段公式與三步驟法，協助讀者在會議、銷售、簡報與郵件中說出能促成行動的重點。",
+    "tags": [
+      "商務溝通",
+      "精準表達",
+      "影響力"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-09.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-10",
+    "title": "億萬負翁：共享辦公室帝國WeWork詐騙啟示錄",
+    "author": "里夫斯‧威德曼",
+    "summary": "追溯亞當・紐曼如何把共享辦公室包裝成科技獨角獸、取得巨額資金並失控擴張，揭示估值泡沫與公司治理失靈。",
+    "tags": [
+      "企業個案",
+      "新創治理",
+      "WeWork"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-10.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-11",
+    "title": "隱藏的世界：揭開隱沒在國界之下的金權版圖",
+    "author": "阿托莎．阿拉西亞．亞伯拉罕米安",
+    "summary": "檢視自由貿易區、購買國籍、境外拘留與特許城市等治外法權空間，說明金錢如何重畫國界並影響民主與全球治理。",
+    "tags": [
+      "全球經濟",
+      "金融權力",
+      "治外法權"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-11.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-12",
+    "title": "監管科技：數字金融時代的合規演變與治理邏輯",
+    "author": "韓斯睿、孔笑微、張俊喜",
+    "summary": "從大數據、AI、區塊鏈與雲端技術出發，解析反洗錢、交易監管、資料隱私等應用，以及演算法黑箱與系統性風險。",
+    "tags": [
+      "監管科技",
+      "數字金融",
+      "合規治理"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-12.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-13",
+    "title": "演算法：馬斯克演算法5步驟，推動特斯拉與SpaceX爆發式成長的祕密",
+    "author": "喬恩．麥克尼爾",
+    "summary": "由特斯拉前總裁拆解五步驟演算法，透過質疑要求、刪除流程、簡化與加速等原則，說明企業如何突破慣例並高速成長。",
+    "tags": [
+      "企業成長",
+      "流程改善",
+      "特斯拉"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-13.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-14",
+    "title": "高勝率的階梯理財法：FIRE運動先驅親身實證，掌握3階段×12個里程碑，28歲存第一桶金、34歲提早退休，享受有選擇權的人生",
+    "author": "山姆．杜根（Sam Dogen）",
+    "summary": "以累積財富、富足生活與財富傳承三階段及十二個里程碑，建立可依人生處境調整的儲蓄、收入與投資路徑。",
+    "tags": [
+      "財務自由",
+      "資產累積",
+      "FIRE"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-14.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-15",
+    "title": "科特勒的卓越營運新戰略：從亞洲出發，AI、數據與文化驅動的高效未來藍圖",
+    "author": "菲利浦．科特勒、陳就學、傑克．姆斯里",
+    "summary": "提出全能屋模型與品質、成本、交付、服務四大支柱，結合亞洲企業案例說明AI與數據驅動的韌性營運模式。",
+    "tags": [
+      "營運管理",
+      "企業策略",
+      "亞洲企業"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-15.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-16",
+    "title": "贏在轉折前，散戶也能看懂的江恩理論操盤法：看懂角度線與成交量密碼，你也能在趨勢反轉前冷靜布局",
+    "author": "威廉．江恩（William D.Gann）",
+    "summary": "系統整理時間循環、價格波動、成交量與江恩角度線等工具，並以圖表及案例建立進出場、停損與趨勢確認規則。",
+    "tags": [
+      "技術分析",
+      "投資交易",
+      "江恩理論"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-16.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-17",
+    "title": "逆分工：AI 時代的生產力革命，重構組織、市場到經濟的生存新賽局",
+    "author": "林之晨、蔡祈岩",
+    "summary": "主張以AI打破僵化專業分工，重估管理中介、個體產能與交易規則，讓組織轉向跨域人才和靈活的小型團隊。",
+    "tags": [
+      "組織變革",
+      "AI生產力",
+      "人才策略"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-17.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-18",
+    "title": "行銷7.0：科特勒給AI時代的心智行銷地圖，用認知科學更懂人，創造意義植入人心的新路徑",
+    "author": "菲利浦．科特勒、陳就學、伊萬．塞提亞宛",
+    "summary": "把認知科學納入行銷體系，以注意腦、社會腦與獎賞腦的認知羅盤，設計品牌敘事、價值主張與顧客決策路徑。",
+    "tags": [
+      "認知行銷",
+      "AI時代",
+      "品牌策略"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-18.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-19",
+    "title": "難走的路才是捷徑：K-WAX逆勢突圍的經營哲學",
+    "author": "KEVIn曾聖凱",
+    "summary": "記錄K-WAX從小額起家到建立汽車美容品牌的歷程，解析自主研發、財務紀律、環保標準與長期品牌價值。",
+    "tags": [
+      "創業實戰",
+      "品牌經營",
+      "產品研發"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-19.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-20",
+    "title": "劉必榮的領導筆記：上位的謀略、在位的智慧、交棒的藝術",
+    "author": "劉必榮",
+    "summary": "以權力流動為核心，從上位、在位到退位三階段，結合政商案例分析建立威信、經營組織與順利交棒的分寸。",
+    "tags": [
+      "領導力",
+      "權力管理",
+      "接班傳承"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-20.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-21",
+    "title": "20年後美夢成真：從豬舍起家到打造10億綠色工廠之路",
+    "author": "賴銀柱",
+    "summary": "以四十餘年創業歷程說明如何從學徒與農村起步，靠技術扎根、長期自律與理性規畫，投入十億元打造綠色工廠。",
+    "tags": [
+      "創業故事",
+      "製造業",
+      "永續經營"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-21.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-22",
+    "title": "大交棒時代：跨越百年的六堂企業必修課",
+    "author": "蔡鴻青",
+    "summary": "解析台灣家族企業的傳承困境，從家族治理、家族辦公室、企業成長、轉型與交棒六面向建立接班制度。",
+    "tags": [
+      "家族企業",
+      "企業接班",
+      "公司治理"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-22.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-23",
+    "title": "贏過大盤的順勢交易：不分牛熊市，股票、基金、期貨、債券都能賺，14位頂尖操盤手締造超額報酬的獲利紀律",
+    "author": "麥可．卡威爾",
+    "summary": "彙整14位操盤手的實例，說明如何依價格趨勢機械式停損、雙向交易並等待少數大行情，以紀律追求絕對報酬。",
+    "tags": [
+      "順勢交易",
+      "風險管理",
+      "投資紀律"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-23.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-24",
+    "title": "可大、可久、可敬的經營思維：保險行銷集團創辦人梁天龍給你工作與人生的30個智慧錦囊",
+    "author": "梁天龍、劉子寧／採訪整理",
+    "summary": "以做大、做久與做得可敬為經營座標，透過30則經驗引導創業者與主管建立全局視野、長期決策和可信任的組織標準。",
+    "tags": [
+      "經營思維",
+      "組織文化",
+      "長期主義"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-24.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-25",
+    "title": "AI時代的高價值人脈學：人脈格局決定命運高度，讓每次互動都在累積關係資產",
+    "author": "孫路弘",
+    "summary": "透過關係品質量表、人脈地圖、情境演練與AI工具，將被動社交轉為可管理的信任與價值共生關係。",
+    "tags": [
+      "人脈經營",
+      "關係資產",
+      "AI工具"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-25.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-26",
+    "title": "超級業務的打Game銷售術：創下業績一人抵十人紀錄的銷售祕笈，從試探、誘導到成交，每一步都有節奏，像破關一樣簡單！",
+    "author": "半沢剛",
+    "summary": "把銷售流程遊戲化，從事前裝備、情報蒐集、客戶分級到話術與成交，建立可複製且有節奏的業務攻略。",
+    "tags": [
+      "銷售技巧",
+      "成交話術",
+      "業務管理"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-26.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-27",
+    "title": "用人與帶人的問題，歷史都有答案：讀歷史可以學會什麼？領導者最常遇到的問題，九成能在中外歷史裡找到答案！",
+    "author": "增田賢作",
+    "summary": "從35位中外歷史人物的成敗提煉目標設定、改革推動、人才任用、團隊成長與信任建立等領導準則。",
+    "tags": [
+      "人才管理",
+      "領導決策",
+      "歷史案例"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-27.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-28",
+    "title": "我們是減時27%的高效率精銳：帶領一群Z世代，不加班、少開會，人人能揪出耗時與浪費，善於設目標，成為日本最年輕億萬執行長。",
+    "author": "佐上峻作",
+    "summary": "以快速上市企業的實務說明數字化指令、15分鐘會議、70分授權與高目標設定，讓組織成長同時減少工時。",
+    "tags": [
+      "效率管理",
+      "Z世代",
+      "組織成長"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-28.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-29",
+    "title": "我用四年就財富自由【隨書贈送第一金證券新開戶大禮包】：如果你有100元，如何把投資力道做到最大？ 四準則精選存股，低檔時操作槓桿，放大資產。",
+    "author": "V大（龔恬永）",
+    "summary": "分享以穩定配息金融股建立現金流，再於低檔控制槓桿與搭配成長股的策略，並用儲蓄率和投報率規畫所得替代。",
+    "tags": [
+      "存股",
+      "財務自由",
+      "槓桿風控"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-29.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-30",
+    "title": "AI商機：從導入流程、產業應用、商業實務案例，解析AI跨界創利模式",
+    "author": "荻野調、小泉信也、久保田隆至、大塚貴行",
+    "summary": "由跨領域專家建立生成式AI導入流程，並以廣告、餐飲、不動產、供應鏈與軟體開發案例評估節省工時與創造附加價值的方法。",
+    "tags": [
+      "AI商業應用",
+      "數位轉型",
+      "產業案例"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-30.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-31",
+    "title": "超圖解企業高值化（高附加價值）成功經營策略",
+    "author": "戴國良",
+    "summary": "彙整百餘個企業案例，說明高值化經營的效益與十二項核心能力，協助企業提高毛利、競爭力與永續經營能力。",
+    "tags": [
+      "高附加價值",
+      "企業轉型",
+      "競爭策略"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-31.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-32",
+    "title": "手搖飲的隱形冠軍――鮮活果汁的「守破離」管理哲學",
+    "author": "吳明憲",
+    "summary": "以鮮活果汁近三十年發展為例，用守品質與誠信、破價格競爭、離向數位與永續的三階段，解析企業治理與升級。",
+    "tags": [
+      "企業治理",
+      "供應鏈",
+      "品牌成長"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-32.json",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "id": "01_business_startup-20260711-33",
+    "title": "IP資產鍛造所─SOHO族與自由接案個人品牌創業進化指南",
+    "author": "范世華",
+    "summary": "以出書、官網、課程與加盟四條依序推進的軌道，協助SOHO族把隱性專業轉成可持續獲利的個人IP資產。",
+    "tags": [
+      "個人品牌",
+      "知識變現",
+      "自由接案"
+    ],
+    "file": "Books/01_business_startup/01_business_startup-20260711-33.json",
+    "categoryId": "01_business_startup"
+  }
+]
