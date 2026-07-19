@@ -83,29 +83,29 @@ def validate_highlights(book: dict, errors: list[str]) -> None:
     if status != "complete":
         return
     if len(lines) not in (100, 150, 200):
-        errors.append(f"{book.get('id')} Codex 完成狀態卻不是相容的 100、150 或 200 點")
+        errors.append(f"{book.get('id')} 完成狀態卻不是相容的 100、150 或 200 點")
         return
     if len(lines) in (150, 200):
-        if book.get("highlightsSource") != "codex":
-            errors.append(f"{book.get('id')} 新版 Codex 重點的 highlightsSource 必須是 codex")
+        if book.get("highlightsSource") not in ("grok", "codex"):
+            errors.append(f"{book.get('id')} 新版重點的 highlightsSource 必須是 grok（或舊版 codex）")
         if not book.get("highlightsCapturedAt"):
-            errors.append(f"{book.get('id')} 新版 Codex 重點缺少 highlightsCapturedAt")
+            errors.append(f"{book.get('id')} 新版重點缺少 highlightsCapturedAt")
     number_width = 3 if len(lines) in (150, 200) else 2
     short_colon_lines = []
     for index, line in enumerate(lines, 1):
         expected = f"{index:0{number_width}d}、"
         if not isinstance(line, str) or not line.startswith(expected):
-            errors.append(f"{book.get('id')} Codex 第 {index} 點編號錯誤")
+            errors.append(f"{book.get('id')} 第 {index} 點編號錯誤")
             continue
         if "\n" in line or "\r" in line or "｜" in line:
-            errors.append(f"{book.get('id')} Codex 第 {index} 點含禁用格式")
+            errors.append(f"{book.get('id')} 第 {index} 點含禁用格式")
         body = NUMBER_RE.sub("", line, count=1)
         match = re.match(r"^([^：:]{1,12})[：:]", body)
         if match and not match.group(1).endswith(NATURAL_COLON_SUFFIXES):
             short_colon_lines.append(index)
     if len(short_colon_lines) >= 3:
         errors.append(
-            f"{book.get('id')} Codex 有 {len(short_colon_lines)} 點疑似短標籤加冒號"
+            f"{book.get('id')} 有 {len(short_colon_lines)} 點疑似短標籤加冒號"
         )
 
 
@@ -245,9 +245,9 @@ def run_validate(args: argparse.Namespace) -> int:
     if expected is not None:
         for book in new_books:
             if book.get("chatgptStatus") != "complete":
-                errors.append(f"{book.get('id')} 本次新增書籍的 Codex 重點尚未完成")
+                errors.append(f"{book.get('id')} 本次新增書籍的 Grok 重點尚未完成")
             elif len(book.get("chatgptHighlights") or []) != 150:
-                errors.append(f"{book.get('id')} 本次新增書籍的 Codex 重點必須剛好 150 點")
+                errors.append(f"{book.get('id')} 本次新增書籍的 Grok 重點必須剛好 150 點")
 
     for category in categories:
         books = category.get("books", [])
@@ -291,7 +291,7 @@ def run_queue(args: argparse.Namespace) -> int:
     for category in categories:
         for book in category.get("books", []):
             if book.get("chatgptStatus") != "complete":
-                rows.append((category.get("categoryId"), "Codex", book))
+                rows.append((category.get("categoryId"), "Grok", book))
     if args.limit is not None:
         rows = rows[: args.limit]
     for category_id, model, book in rows:

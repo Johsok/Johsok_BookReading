@@ -83,8 +83,8 @@ def candidate_payload(candidate: dict, book_id: str, from_date: str, to_date: st
         "summary": str(candidate["summary"]).strip(),
         "updatedAt": to_date,
         "chatgptHighlights": [],
-        "chatgptStatus": "pending_codex",
-        "highlightsSource": "pending_codex",
+        "chatgptStatus": "pending_grok",
+        "highlightsSource": "pending_grok",
     }
     work_id = str(candidate.get("workId", "")).strip()
     if work_id:
@@ -228,6 +228,8 @@ def validate_highlights(
             raise ValueError(f"{book_id} 第 {index} 點正文過短")
         if any(prefix in body for prefix in forbidden_prefixes):
             raise ValueError(f"{book_id} 第 {index} 點含禁用來源前綴")
+        if re.search(r".{1,8}面第\d+步[，,]", body) or re.match(r"^第\d+步[，,]", body):
+            raise ValueError(f"{book_id} 第 {index} 點含面向／步驟贅詞")
         match = re.match(r"^([^：:]{1,12})[：:]", body)
         if match and not match.group(1).endswith(NATURAL_COLON_SUFFIXES):
             short_colon_lines.append(index)
@@ -285,7 +287,7 @@ def complete(args: argparse.Namespace) -> int:
         )
         book["chatgptHighlights"] = highlights
         book["chatgptStatus"] = "complete"
-        book["highlightsSource"] = "codex"
+        book["highlightsSource"] = "grok"
         book["highlightsCapturedAt"] = now_iso()
         book["updatedAt"] = datetime.now(TAIPEI).date().isoformat()
         write_json_atomic(book_path, book)
@@ -301,7 +303,7 @@ def complete(args: argparse.Namespace) -> int:
 
 
 def build_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(description="FindBook reservation 與 Codex 結果單一 writer")
+    parser = argparse.ArgumentParser(description="FindBook reservation 與 Cursor Grok 4.5 結果單一 writer")
     parser.add_argument("--root", default=Path(__file__).resolve().parents[1])
     subparsers = parser.add_subparsers(dest="command", required=True)
 

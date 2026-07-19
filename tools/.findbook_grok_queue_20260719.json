@@ -1,0 +1,3432 @@
+[
+  {
+    "id": "01_business_startup-20260718-21",
+    "categoryId": "01_business_startup",
+    "title": "拆商：解決人生99%難題的底層思維，專為上班族、創業者與追求自我成長者打造的問題解決實戰指南",
+    "author": "王奕迪",
+    "file": "Books/01_business_startup/01_business_startup-20260718-21.json"
+  },
+  {
+    "id": "01_business_startup-20260718-22",
+    "categoryId": "01_business_startup",
+    "title": "數據對了，為什麼你還是輸了？：【數據告訴你發生什麼，人性告訴你為什麼發生】看懂數字背後的動機、偏誤與選擇，破解最棘手的商業難題",
+    "author": "克利斯汀．麥茲伯格,米克爾．拉斯穆森",
+    "file": "Books/01_business_startup/01_business_startup-20260718-22.json"
+  },
+  {
+    "id": "01_business_startup-20260718-23",
+    "categoryId": "01_business_startup",
+    "title": "金融泡沫的底層邏輯，約翰．勞與密西西比狂熱：發行準備金×銀行券流通，對股票的期望大於價值，信用從交易工具變成投機燃料",
+    "author": "[英]約翰．勞（John Law）著,伊莉莎編譯",
+    "file": "Books/01_business_startup/01_business_startup-20260718-23.json"
+  },
+  {
+    "id": "01_business_startup-20260718-24",
+    "categoryId": "01_business_startup",
+    "title": "可以努力，但別太用力！艾默生的效率管理十二原則：檢查目標、責任、作業方法與獎酬制度，拆解現代職場常見的低效率來源，讓好成果不再只靠盲目努力",
+    "author": "[美]哈林頓．艾默生（Harrington Emerson）著,伊莉莎編譯",
+    "file": "Books/01_business_startup/01_business_startup-20260718-24.json"
+  },
+  {
+    "id": "01_business_startup-20260718-25",
+    "categoryId": "01_business_startup",
+    "title": "像巴菲特一樣看見機會",
+    "author": "管唯中編著",
+    "file": "Books/01_business_startup/01_business_startup-20260718-25.json"
+  },
+  {
+    "id": "01_business_startup-20260718-26",
+    "categoryId": "01_business_startup",
+    "title": "把別人的NO，變成你的YES",
+    "author": "林郁／主編",
+    "file": "Books/01_business_startup/01_business_startup-20260718-26.json"
+  },
+  {
+    "id": "01_business_startup-20260718-27",
+    "categoryId": "01_business_startup",
+    "title": "致富不是暴富的幻想！華勒斯．華特斯談財富科學：金錢信念×行動秩序×價值創造，從羞愧、匱乏與焦慮中找回人生選擇權",
+    "author": "[美]華勒斯．華特斯（Wallace Wattles）著,伊莉莎編譯",
+    "file": "Books/01_business_startup/01_business_startup-20260718-27.json"
+  },
+  {
+    "id": "01_business_startup-20260718-28",
+    "categoryId": "01_business_startup",
+    "title": "GDP成長肥到誰？李嘉圖帶你讀懂房價、薪資、稅負與全球貿易的成本轉嫁：從生活成本到薪資報酬，從企業獲利到全球貿易，揭開經濟成長背後的利益流向",
+    "author": "[英]大衛．李嘉圖（David Ricardo）著,伊莉莎編譯",
+    "file": "Books/01_business_startup/01_business_startup-20260718-28.json"
+  },
+  {
+    "id": "01_business_startup-20260718-29",
+    "categoryId": "01_business_startup",
+    "title": "縱橫：《戰國策》教我的人生逆襲術(限量親簽版)",
+    "author": "胡川安",
+    "file": "Books/01_business_startup/01_business_startup-20260718-29.json"
+  },
+  {
+    "id": "01_business_startup-20260718-30",
+    "categoryId": "01_business_startup",
+    "title": "別把你的錢留到死【博客來獨家限量燙金書衣】：懂得花錢，是最好的投資——理想人生的9大財務思維",
+    "author": "比爾‧柏金斯",
+    "file": "Books/01_business_startup/01_business_startup-20260718-30.json"
+  },
+  {
+    "id": "01_business_startup-20260718-31",
+    "categoryId": "01_business_startup",
+    "title": "洛克菲勒自傳 2版",
+    "author": "洛克菲勒",
+    "file": "Books/01_business_startup/01_business_startup-20260718-31.json"
+  },
+  {
+    "id": "01_business_startup-20260718-32",
+    "categoryId": "01_business_startup",
+    "title": "世界是不平衡的-無所不在的80/20",
+    "author": "帕雷托",
+    "file": "Books/01_business_startup/01_business_startup-20260718-32.json"
+  },
+  {
+    "id": "01_business_startup-20260718-33",
+    "categoryId": "01_business_startup",
+    "title": "讓努力變值錢，巴納姆的二十條致富法則：能力圈×市場位置×信用累積，避開越勤奮越窮困的收入陷阱",
+    "author": "[美]P. T. 巴納姆（P. T. Barnum）著,伊莉莎編譯",
+    "file": "Books/01_business_startup/01_business_startup-20260718-33.json"
+  },
+  {
+    "id": "01_business_startup-20260718-34",
+    "categoryId": "01_business_startup",
+    "title": "人生的五種財富【實作練習本】：打造屬於你的夢想人生，時間、社會、心理、身體、金錢財富，全方位升級",
+    "author": "薩希．布魯姆",
+    "file": "Books/01_business_startup/01_business_startup-20260718-34.json"
+  },
+  {
+    "id": "01_business_startup-20260718-35",
+    "categoryId": "01_business_startup",
+    "title": "從新主管到頂尖主管 實戰版：全球頂尖商學院必讀轉職聖經，九十天完美因應轉職、升遷、空降與接班挑戰",
+    "author": "麥克．瓦金斯",
+    "file": "Books/01_business_startup/01_business_startup-20260718-35.json"
+  },
+  {
+    "id": "01_business_startup-20260718-36",
+    "categoryId": "01_business_startup",
+    "title": "上流老人退休寶典：從容瀟灑過晚年的十二堂課",
+    "author": "葉美麗,吳俊德",
+    "file": "Books/01_business_startup/01_business_startup-20260718-36.json"
+  },
+  {
+    "id": "01_business_startup-20260718-37",
+    "categoryId": "01_business_startup",
+    "title": "理財關鍵100：學校不會教，簡單易學，為自己開創複利人生！",
+    "author": "葉怡成",
+    "file": "Books/01_business_startup/01_business_startup-20260718-37.json"
+  },
+  {
+    "id": "01_business_startup-20260718-38",
+    "categoryId": "01_business_startup",
+    "title": "人生的五種財富【實踐套書】（《人生的五種財富》+《人生的五種財富【實作練習本】》共兩冊）",
+    "author": "薩希．布魯姆",
+    "file": "Books/01_business_startup/01_business_startup-20260718-38.json"
+  },
+  {
+    "id": "01_business_startup-20260718-39",
+    "categoryId": "01_business_startup",
+    "title": "思考致富：全球3億人瘋傳的財富翻倍公式",
+    "author": "拿破崙．希爾",
+    "file": "Books/01_business_startup/01_business_startup-20260718-39.json"
+  },
+  {
+    "id": "01_business_startup-20260718-40",
+    "categoryId": "01_business_startup",
+    "title": "人腦與AI腦的新協作革命：從分析師到創造者的工作模式根本改變",
+    "author": "陳永隆,曾憲鈺,蔡承佳",
+    "file": "Books/01_business_startup/01_business_startup-20260718-40.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-21",
+    "categoryId": "02_psychology_growth",
+    "title": "黑色情緒【限量附贈讀懂我的心．情緒貼紙乙張】：我會陪著你，釐清隱藏在內心的70種真實感受",
+    "author": "Seolleda 崔敏正",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-21.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-22",
+    "categoryId": "02_psychology_growth",
+    "title": "不內傷、不吃虧，難搞魔人應對二部曲【對付難搞魔人的不內傷心理學＋對付難搞魔人的不吃虧回話術】",
+    "author": "齊藤勇,司拓也",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-22.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-23",
+    "categoryId": "02_psychology_growth",
+    "title": "想死不如健身！改變一生的超科學理由：破除99％肌力訓練迷思找到堅持健身的意義，用肌肉治癒人生的最強動力手冊【暢銷紀念版】",
+    "author": "泰史特龍,久保孝史",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-23.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-24",
+    "categoryId": "02_psychology_growth",
+    "title": "風月同天（上下冊不分售）",
+    "author": "慈濟人文志業中心",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-24.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-25",
+    "categoryId": "02_psychology_growth",
+    "title": "縫隙之歌（獨家作者祝福簽繪版）：在放逐與解放間漂泊，活在邊緣之存在的質問",
+    "author": "洪承喜（홍칼리）",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-25.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-26",
+    "categoryId": "02_psychology_growth",
+    "title": "豐富人生：一位醫生筆記及體驗分享",
+    "author": "黎炳民",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-26.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-27",
+    "categoryId": "02_psychology_growth",
+    "title": "如何用話語救活老公：即使有時候你只想掐死他",
+    "author": "安・威爾森,戴夫・威爾森",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-27.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-28",
+    "categoryId": "02_psychology_growth",
+    "title": "當你過了45歲：健康、職涯、財務、法律，必須按齡知道的事",
+    "author": "康哲偉",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-28.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-29",
+    "categoryId": "02_psychology_growth",
+    "title": "直視死亡，你會更明白「怎麼活」：《當呼吸化為空氣》＋《死亡的臉》",
+    "author": "保羅．卡拉尼提,許爾文．努蘭",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-29.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-30",
+    "categoryId": "02_psychology_growth",
+    "title": "再難過，也終會度過：總有那些迷惘、不知所措的時刻──給不知不覺成為大人的你（限量作者親簽版）",
+    "author": "吳若權",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-30.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-31",
+    "categoryId": "02_psychology_growth",
+    "title": "在落地之處開花【暢銷300萬冊，日本勵志經典】：無論在何種境遇，你都能閃耀發光（新修版）",
+    "author": "渡邊和子",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-31.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-32",
+    "categoryId": "02_psychology_growth",
+    "title": "家人使用說明書【暢銷新修版】：腦科學專家寫給總是被家人一秒惹怒的你",
+    "author": "黑川伊保子",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-32.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-33",
+    "categoryId": "02_psychology_growth",
+    "title": "退休後的孤獨入門：重建不受公司定義的人生意義",
+    "author": "河合薰",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-33.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-34",
+    "categoryId": "02_psychology_growth",
+    "title": "做自己的珍珠【作者親簽＋限量版珍煮丹╳珍奶小姐「珍珠奶茶」兌換珍藏卡】：把你的不一樣，磨成耀眼的光",
+    "author": "凱凱 Kaikai Chou",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-34.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-35",
+    "categoryId": "02_psychology_growth",
+    "title": "覺悟的力量：超譯安倍晉三精神教父「吉田松陰」的人生格言",
+    "author": "池田貴將",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-35.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-36",
+    "categoryId": "02_psychology_growth",
+    "title": "重縫人生：從罹患腦瘤、市場一坪小攤到國際伸展台，她為人生重新打版，將生命的傷口縫成了美麗的翅膀。",
+    "author": "夏筱琴",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-36.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-37",
+    "categoryId": "02_psychology_growth",
+    "title": "最初的你，早已足夠",
+    "author": "李瑜 Yu Lee",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-37.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-38",
+    "categoryId": "02_psychology_growth",
+    "title": "我的父母竟然成了老害",
+    "author": "西野みや子",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-38.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-39",
+    "categoryId": "02_psychology_growth",
+    "title": "【誰在讓你失控？】駕馭多巴胺，打造最強大腦行動力：不靠意志力！用行為科學找回專注與自控",
+    "author": "安納斯塔西雅．赫羅尼斯",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-39.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-40",
+    "categoryId": "02_psychology_growth",
+    "title": "我想了解身心科：身心科醫生寫給全家人，認識疾病、看診、治療、用藥的實用指南",
+    "author": "莊節一",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-40.json"
+  },
+  {
+    "id": "03_natural_science-20260718-11",
+    "categoryId": "03_natural_science",
+    "title": "超好懂圖解遺傳10堂課",
+    "author": "瑪麗安‧泰勒",
+    "file": "Books/03_natural_science/03_natural_science-20260718-11.json"
+  },
+  {
+    "id": "03_natural_science-20260718-12",
+    "categoryId": "03_natural_science",
+    "title": "全知睿寶＆輝寶視角1【首刷限量贈品「你好，我是睿寶」證件卡】：睿智又閃耀的出生日記，愛寶樂園官方授權！",
+    "author": "宋永寬,柳汀勳─攝影",
+    "file": "Books/03_natural_science/03_natural_science-20260718-12.json"
+  },
+  {
+    "id": "03_natural_science-20260718-13",
+    "categoryId": "03_natural_science",
+    "title": "全知睿寶＆輝寶視角2【首刷限量贈品「你好，我是輝寶」證件卡】：睿智又閃耀的成長冒險，愛寶樂園官方授權！",
+    "author": "宋永寬,柳汀勳─攝影",
+    "file": "Books/03_natural_science/03_natural_science-20260718-13.json"
+  },
+  {
+    "id": "03_natural_science-20260718-14",
+    "categoryId": "03_natural_science",
+    "title": "寶家族雙胞胎成長全紀錄套書【博客來獨家甜夢版】：《全知睿寶＆輝寶視角1》+《全知睿寶＆輝寶視角2》+博客來獨家寫真拼貼小卡",
+    "author": "宋永寬,柳汀勳─攝影",
+    "file": "Books/03_natural_science/03_natural_science-20260718-14.json"
+  },
+  {
+    "id": "03_natural_science-20260718-15",
+    "categoryId": "03_natural_science",
+    "title": "寶家族雙胞胎成長全紀錄套書【首刷限量搗蛋版】：《全知睿寶＆輝寶視角1》+《全知睿寶＆輝寶視角2》+首刷限定寫真拼貼小卡",
+    "author": "宋永寬,柳汀勳─攝影",
+    "file": "Books/03_natural_science/03_natural_science-20260718-15.json"
+  },
+  {
+    "id": "03_natural_science-20260718-16",
+    "categoryId": "03_natural_science",
+    "title": "儲能產業政策與典型專案案例解析",
+    "author": "岳芬,陳海生,劉為等編著",
+    "file": "Books/03_natural_science/03_natural_science-20260718-16.json"
+  },
+  {
+    "id": "03_natural_science-20260718-17",
+    "categoryId": "03_natural_science",
+    "title": "哎呦！我的身體：我與我身體之間的那些事",
+    "author": "阿克塞爾・哈克",
+    "file": "Books/03_natural_science/03_natural_science-20260718-17.json"
+  },
+  {
+    "id": "03_natural_science-20260718-18",
+    "categoryId": "03_natural_science",
+    "title": "機智人類的自然生活公約：從城市到山川海洋，不可不知的法律規則",
+    "author": "一日一種",
+    "file": "Books/03_natural_science/03_natural_science-20260718-18.json"
+  },
+  {
+    "id": "03_natural_science-20260718-19",
+    "categoryId": "03_natural_science",
+    "title": "我家狗狗是天生偵探（限量特典：神鼻偵探養成卡）：10週嗅聞遊戲，解放毛孩的鼻子天賦",
+    "author": "雷雷",
+    "file": "Books/03_natural_science/03_natural_science-20260718-19.json"
+  },
+  {
+    "id": "03_natural_science-20260718-20",
+    "categoryId": "03_natural_science",
+    "title": "多巴胺聖經：為什麼生活越刺激反而越空虛？自律神經失控了！三階段重設大腦快樂系統",
+    "author": "安澈雨안철우",
+    "file": "Books/03_natural_science/03_natural_science-20260718-20.json"
+  },
+  {
+    "id": "04_healthcare-20260718-06",
+    "categoryId": "04_healthcare",
+    "title": "先看見人，再談看不見的病：台灣精神醫療照護現場的思辨，從「機構全控」面向「公民賦權」的社區實踐，體悟標籤下的真實生命",
+    "author": "鄭淦元",
+    "file": "Books/04_healthcare/04_healthcare-20260718-06.json"
+  },
+  {
+    "id": "04_healthcare-20260718-07",
+    "categoryId": "04_healthcare",
+    "title": "過敏、肥胖或憂鬱？其實是腸道菌在抗議！日本醫學教授公開最新腸道菌研究，教你養出不生病的好菌體質",
+    "author": "內藤裕二,小林弘幸,中島淳",
+    "file": "Books/04_healthcare/04_healthcare-20260718-07.json"
+  },
+  {
+    "id": "04_healthcare-20260718-08",
+    "categoryId": "04_healthcare",
+    "title": "戰勝癌症：從恐懼到希望，科學與生活的雙重智慧",
+    "author": "Kevin Chen 著",
+    "file": "Books/04_healthcare/04_healthcare-20260718-08.json"
+  },
+  {
+    "id": "04_healthcare-20260718-09",
+    "categoryId": "04_healthcare",
+    "title": "中醫藥食療手冊4：食養日常 高尿酸與痛風的中醫藥防治指南",
+    "author": "區靖彤主編",
+    "file": "Books/04_healthcare/04_healthcare-20260718-09.json"
+  },
+  {
+    "id": "04_healthcare-20260718-10",
+    "categoryId": "04_healthcare",
+    "title": "她所在的山谷：豐盛、富足，鄉村醫師的生命餽贈",
+    "author": "波莉・莫蘭",
+    "file": "Books/04_healthcare/04_healthcare-20260718-10.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-06",
+    "categoryId": "05_food_wellness",
+    "title": "好好吃飯，一鍋就好：微微蔡的66道驚艷又簡單的原味料理【博客來獨家贈品版】",
+    "author": "微微蔡",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-06.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-07",
+    "categoryId": "05_food_wellness",
+    "title": "歡迎入座：12位主廚的極致餐桌，台灣精緻餐飲黃金10年：Welcome to the Table: Taiwan’s Golden Decade of Fine Dining",
+    "author": "高琹雯",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-07.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-08",
+    "categoryId": "05_food_wellness",
+    "title": "復刻台日老麵包：活用液種、中種、燙種 揉出最柔軟的經典滋味",
+    "author": "史惠麟,徐銓蔚",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-08.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-09",
+    "categoryId": "05_food_wellness",
+    "title": "高蛋白低碳水減重料理：0失敗0壓力，狂瘦22kg不復胖的87道美味瘦身食譜",
+    "author": "Mini 朴祉禹",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-09.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-10",
+    "categoryId": "05_food_wellness",
+    "title": "解酒料理：喝得像失去國家的人的隔天早晨",
+    "author": "蜜柑",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-10.json"
+  },
+  {
+    "id": "06_computer_info-20260718-06",
+    "categoryId": "06_computer_info",
+    "title": "全民版AI識讀：原理、應用、幻覺與誤區（作者親簽版）",
+    "author": "彭明輝",
+    "file": "Books/06_computer_info/06_computer_info-20260718-06.json"
+  },
+  {
+    "id": "06_computer_info-20260718-07",
+    "categoryId": "06_computer_info",
+    "title": "一本搞定Open Claw：不會寫程式的人，怎麼讓AI幫你把事情做完？",
+    "author": "邱閔渝（Marc）",
+    "file": "Books/06_computer_info/06_computer_info-20260718-07.json"
+  },
+  {
+    "id": "06_computer_info-20260718-08",
+    "categoryId": "06_computer_info",
+    "title": "室內製圖解剖：平面圖｜空間邏輯×圖面判斷×配置實務",
+    "author": "留美幸",
+    "file": "Books/06_computer_info/06_computer_info-20260718-08.json"
+  },
+  {
+    "id": "06_computer_info-20260718-09",
+    "categoryId": "06_computer_info",
+    "title": "OpenClaw超級龍蝦煉金術：活用Skills×Channels打造自動化的高效AI助理",
+    "author": "劉滄碩",
+    "file": "Books/06_computer_info/06_computer_info-20260718-09.json"
+  },
+  {
+    "id": "06_computer_info-20260718-10",
+    "categoryId": "06_computer_info",
+    "title": "ERP企業資源規劃實務｜AI智慧應用",
+    "author": "林文恭,中華企業資源規劃(ERP)學會",
+    "file": "Books/06_computer_info/06_computer_info-20260718-10.json"
+  },
+  {
+    "id": "07_other-20260718-06",
+    "categoryId": "07_other",
+    "title": "台灣的李登輝時代：意外國度的重塑【限量作家親簽版】",
+    "author": "林孝庭",
+    "file": "Books/07_other/07_other-20260718-06.json"
+  },
+  {
+    "id": "07_other-20260718-07",
+    "categoryId": "07_other",
+    "title": "嘉義被看見了：從土地到天空的閃耀",
+    "author": "許喻理",
+    "file": "Books/07_other/07_other-20260718-07.json"
+  },
+  {
+    "id": "07_other-20260718-08",
+    "categoryId": "07_other",
+    "title": "被出賣的台灣：經典譯校版",
+    "author": "葛超智",
+    "file": "Books/07_other/07_other-20260718-08.json"
+  },
+  {
+    "id": "07_other-20260718-09",
+    "categoryId": "07_other",
+    "title": "第二性（法文直譯繁體中文全譯本，三冊全新校訂版【唯一收錄萬言譯序】）",
+    "author": "西蒙．德．波娃",
+    "file": "Books/07_other/07_other-20260718-09.json"
+  },
+  {
+    "id": "07_other-20260718-10",
+    "categoryId": "07_other",
+    "title": "在看板對面，聽見人生：方念華",
+    "author": "方念華",
+    "file": "Books/07_other/07_other-20260718-10.json"
+  },
+  {
+    "id": "01_business_startup-20260718-41",
+    "categoryId": "01_business_startup",
+    "title": "迎向產業新世紀 聚焦台灣新未來：製造轉型│智慧服務│跨域文創",
+    "author": "王欣瑜、古芷諼、吳曉慧、林昀嬋、林韋葳、林家逸、施冠宇、陳玟吟、陳智豪、黃羽慈、黃科智、楊惠嵐、葉懿倫、劉靜容、蔡旻螢、蔡雅娟、賴逸芳、魏楚東",
+    "file": "Books/01_business_startup/01_business_startup-20260718-41.json"
+  },
+  {
+    "id": "01_business_startup-20260718-42",
+    "categoryId": "01_business_startup",
+    "title": "雙引擎實戰：精準數據×人心溫度，打造高效營收成長力",
+    "author": "卓致遠,陳展儀",
+    "file": "Books/01_business_startup/01_business_startup-20260718-42.json"
+  },
+  {
+    "id": "01_business_startup-20260718-43",
+    "categoryId": "01_business_startup",
+    "title": "現代工商業的自我修養",
+    "author": "南懷瑾,郭姮?",
+    "file": "Books/01_business_startup/01_business_startup-20260718-43.json"
+  },
+  {
+    "id": "01_business_startup-20260718-44",
+    "categoryId": "01_business_startup",
+    "title": "快速學會比特幣：從運作原理、技術、買賣與實際應用",
+    "author": "Zac W、Dave C",
+    "file": "Books/01_business_startup/01_business_startup-20260718-44.json"
+  },
+  {
+    "id": "01_business_startup-20260718-45",
+    "categoryId": "01_business_startup",
+    "title": "下一輪財富浪潮：加密貨幣投資全解析",
+    "author": "Zac W、Dave C",
+    "file": "Books/01_business_startup/01_business_startup-20260718-45.json"
+  },
+  {
+    "id": "01_business_startup-20260718-46",
+    "categoryId": "01_business_startup",
+    "title": "從零開始學選擇權：四大基本交易到進階價差組合",
+    "author": "Dave C、吳西蒙、Amber",
+    "file": "Books/01_business_startup/01_business_startup-20260718-46.json"
+  },
+  {
+    "id": "01_business_startup-20260718-47",
+    "categoryId": "01_business_startup",
+    "title": "比特幣的世界：存放、交易、挖礦與工具解析",
+    "author": "Zac W、Dave C",
+    "file": "Books/01_business_startup/01_business_startup-20260718-47.json"
+  },
+  {
+    "id": "01_business_startup-20260718-48",
+    "categoryId": "01_business_startup",
+    "title": "華爾街正在買進加密貨幣：穩定幣與資產上鏈如何改變全球金融秩序",
+    "author": "Zac W、Dave C",
+    "file": "Books/01_business_startup/01_business_startup-20260718-48.json"
+  },
+  {
+    "id": "01_business_startup-20260718-49",
+    "categoryId": "01_business_startup",
+    "title": "選擇權交易的世界：交易架構、定價模型與實戰策略解析",
+    "author": "Dave C、吳西蒙、Amber",
+    "file": "Books/01_business_startup/01_business_startup-20260718-49.json"
+  },
+  {
+    "id": "01_business_startup-20260718-50",
+    "categoryId": "01_business_startup",
+    "title": "上流老人退休寶典：從容瀟灑過晚年的十二堂課",
+    "author": "吳俊德,葉美麗",
+    "file": "Books/01_business_startup/01_business_startup-20260718-50.json"
+  },
+  {
+    "id": "01_business_startup-20260718-51",
+    "categoryId": "01_business_startup",
+    "title": "SPA&醫學美容產業經營與管理-美容創業教戰守冊(第四版)",
+    "author": "靳千沛",
+    "file": "Books/01_business_startup/01_business_startup-20260718-51.json"
+  },
+  {
+    "id": "01_business_startup-20260718-52",
+    "categoryId": "01_business_startup",
+    "title": "博雅管理核心課程：社會生態學的視角(中) 創新、創業精神與領導變革/領導力與激勵",
+    "author": "黃建東",
+    "file": "Books/01_business_startup/01_business_startup-20260718-52.json"
+  },
+  {
+    "id": "01_business_startup-20260718-53",
+    "categoryId": "01_business_startup",
+    "title": "博雅管理核心課程：社會生態學的視角(下) 經營與生產力/自我管理",
+    "author": "黃建東",
+    "file": "Books/01_business_startup/01_business_startup-20260718-53.json"
+  },
+  {
+    "id": "01_business_startup-20260718-54",
+    "categoryId": "01_business_startup",
+    "title": "全球菁英都在實踐的7大睡眠策略：結合腦科學與心理學，依照個人目標打造最適合的高效睡眠模式",
+    "author": "角谷Ryo",
+    "file": "Books/01_business_startup/01_business_startup-20260718-54.json"
+  },
+  {
+    "id": "01_business_startup-20260718-55",
+    "categoryId": "01_business_startup",
+    "title": "做得更少，成長更大：改變格局×提高底線×迅速聚焦，打造三年超過十倍的成長奇蹟",
+    "author": "布雷克．艾瑞可森,班傑明．哈迪博士",
+    "file": "Books/01_business_startup/01_business_startup-20260718-55.json"
+  },
+  {
+    "id": "01_business_startup-20260718-56",
+    "categoryId": "01_business_startup",
+    "title": "你需要的不是自律，而是改變行為：停止對抗大腦本能，讓對的選擇變簡單",
+    "author": "彼得．霍林斯",
+    "file": "Books/01_business_startup/01_business_startup-20260718-56.json"
+  },
+  {
+    "id": "01_business_startup-20260718-57",
+    "categoryId": "01_business_startup",
+    "title": "安靜是種超能力【全球暢銷30萬冊愛藏版】(二版)(加贈作者印簽扉頁，四款隨機出貨)：寫給內向者的職場進擊指南，話不多，但大家都會聽你說",
+    "author": "張瀞仁（Jill Chang）",
+    "file": "Books/01_business_startup/01_business_startup-20260718-57.json"
+  },
+  {
+    "id": "01_business_startup-20260718-58",
+    "categoryId": "01_business_startup",
+    "title": "交易心理學必讀二部曲【賺錢，再自然不過+交易者的超級心流訓練】",
+    "author": "布瑞特．史丁巴格,馬克．道格拉斯",
+    "file": "Books/01_business_startup/01_business_startup-20260718-58.json"
+  },
+  {
+    "id": "01_business_startup-20260718-59",
+    "categoryId": "01_business_startup",
+    "title": "用投資改寫命運的零存款大叔：穿越時空從零開始學理財，從一無所有到億萬富翁的大叔重生記",
+    "author": "堀田孝之,桶井道",
+    "file": "Books/01_business_startup/01_business_startup-20260718-59.json"
+  },
+  {
+    "id": "01_business_startup-20260718-60",
+    "categoryId": "01_business_startup",
+    "title": "濃縮10,000小時的「怪物簡報思維」：用最簡單的邏輯，講最打動人心的提案──日本廣告鬼才讓聽眾為你鼓掌的簡報魔法",
+    "author": "小西利行",
+    "file": "Books/01_business_startup/01_business_startup-20260718-60.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-41",
+    "categoryId": "02_psychology_growth",
+    "title": "不內傷、不吃虧，難搞魔人應對二部曲【對付難搞魔人的不內傷心理學+對付難搞魔人的不吃虧回話術】",
+    "author": "司拓也,齊藤勇",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-41.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-42",
+    "categoryId": "02_psychology_growth",
+    "title": "四六之間",
+    "author": "晶菱老師",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-42.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-43",
+    "categoryId": "02_psychology_growth",
+    "title": "九種頻率，同一個世界──九位聾人與聽障者的文化、選擇與生活經驗",
+    "author": "M蜥,七搖,和太,小猴,承佑,白白,菜刀,阿吉,阿秘",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-43.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-44",
+    "categoryId": "02_psychology_growth",
+    "title": "既要又要還要：與慾望共生，做個既貪婪又可愛的女人",
+    "author": "凱特王",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-44.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-45",
+    "categoryId": "02_psychology_growth",
+    "title": "決定對自己好一點，我不再討好任何人",
+    "author": "張錦花",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-45.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-46",
+    "categoryId": "02_psychology_growth",
+    "title": "心有悸動便是青春：你不是變老，只是成熟",
+    "author": "吳坪宣",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-46.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-47",
+    "categoryId": "02_psychology_growth",
+    "title": "不完美，才是恰到好處的人生─放下「必須卓越」的包袱，長成自己喜歡的模樣",
+    "author": "曾焱冰",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-47.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-48",
+    "categoryId": "02_psychology_growth",
+    "title": "懂點心理學，職場劇本我來寫：增強心理韌性，搶救安靜辭職",
+    "author": "匠英一",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-48.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-49",
+    "categoryId": "02_psychology_growth",
+    "title": "幸福壽命：光長壽還不夠!四大關鍵翻轉衰退迷思，打造超越健康的人生價值",
+    "author": "凱莉．柏奈Dr. Kerry Burnight",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-49.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-50",
+    "categoryId": "02_psychology_growth",
+    "title": "舒服做自己：日本當代國寶級禪僧，活出灑脫人生的50個禪練習",
+    "author": "枡野俊明",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-50.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-51",
+    "categoryId": "02_psychology_growth",
+    "title": "不真實的幸福：知道這點你會開心些",
+    "author": "金木水",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-51.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-52",
+    "categoryId": "02_psychology_growth",
+    "title": "厭世一點也沒關係套書：趴下篇、躺平篇【博客來獨家特裝版】",
+    "author": "吉竹伸介",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-52.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-53",
+    "categoryId": "02_psychology_growth",
+    "title": "【掌握衝突與情緒套書】(二冊)：《衝突對話，你準備好了嗎?》、《別人的情緒，你讀懂了嗎?》",
+    "author": "楊嘉玲,裘凱宇",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-53.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-54",
+    "categoryId": "02_psychology_growth",
+    "title": "性別教育 (第四版)【含相關法規附錄QR Code】",
+    "author": "邱紹一／洪福源",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-54.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-55",
+    "categoryId": "02_psychology_growth",
+    "title": "潛意識攻心術╳氣場制勝學，極致影響力套書【只要看起來很厲害，就可以了!巧妙直入人心的暗黑心理學+只要氣勢做出來，就贏大半了!巧妙掌握人心的暗黑心理術】",
+    "author": "小羅密歐‧羅德里格斯,齊藤勇",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-55.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-56",
+    "categoryId": "02_psychology_growth",
+    "title": "美好生活練習套書：《摘柿記》、《北歐時間：世界第一幸福國度教會我的事》",
+    "author": "日暮Inko,林琪香",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-56.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-57",
+    "categoryId": "02_psychology_growth",
+    "title": "【博客來獨家作者親簽明信片】當亞斯人成為家人-與先生、太太和父母的亞斯相處指南",
+    "author": "林仁廷",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-57.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-58",
+    "categoryId": "02_psychology_growth",
+    "title": "讓死亡成為盼望的記號：人的有限與恩典的無限",
+    "author": "葛哈德．安格斯伯格",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-58.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-59",
+    "categoryId": "02_psychology_growth",
+    "title": "心裡的痛，身體告訴你：運用神經可塑性，終結慢性疼痛、疲勞與焦慮【首刷限量贈品：第一本運用神經可塑性開發的《情緒日記》練習別冊】",
+    "author": "妮可．薩克斯",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-59.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-60",
+    "categoryId": "02_psychology_growth",
+    "title": "猴子不問問題：知曉他人行為，產生共鳴的內在本能，陪你幽默面對人生(啟動鏡像神經元、活化多巴胺、善用神經可塑性，在日常生活情境秒懂人類行為，不再過度反應與思考)",
+    "author": "妮蒂亞．德雷伊",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-60.json"
+  },
+  {
+    "id": "03_natural_science-20260718-21",
+    "categoryId": "03_natural_science",
+    "title": "星空大圖鑑：伽利略科學大圖鑑25(《少年伽利略 宇宙》雙書珍藏特惠版)",
+    "author": "日本Newton Press",
+    "file": "Books/03_natural_science/03_natural_science-20260718-21.json"
+  },
+  {
+    "id": "03_natural_science-20260718-22",
+    "categoryId": "03_natural_science",
+    "title": "儲能系統整合技術與工程實踐",
+    "author": "張劍輝",
+    "file": "Books/03_natural_science/03_natural_science-20260718-22.json"
+  },
+  {
+    "id": "03_natural_science-20260718-23",
+    "categoryId": "03_natural_science",
+    "title": "組織培養實習(第1版)",
+    "author": "張翔,林東信",
+    "file": "Books/03_natural_science/03_natural_science-20260718-23.json"
+  },
+  {
+    "id": "03_natural_science-20260718-24",
+    "categoryId": "03_natural_science",
+    "title": "儲能產業政策與典型專案案例解析",
+    "author": "岳芬",
+    "file": "Books/03_natural_science/03_natural_science-20260718-24.json"
+  },
+  {
+    "id": "03_natural_science-20260718-25",
+    "categoryId": "03_natural_science",
+    "title": "我發瘋的那段日子【熱銷百萬冊紀念版】：一則自體免疫腦炎患者的記錄",
+    "author": "蘇珊娜．卡哈蘭",
+    "file": "Books/03_natural_science/03_natural_science-20260718-25.json"
+  },
+  {
+    "id": "03_natural_science-20260718-26",
+    "categoryId": "03_natural_science",
+    "title": "唐宋詩人的情緒病歷書：多巴胺×血清素×腦內啡×腎上腺素，拆解古典詩詞裡的欲望、焦慮與豪情",
+    "author": "海上雲",
+    "file": "Books/03_natural_science/03_natural_science-20260718-26.json"
+  },
+  {
+    "id": "03_natural_science-20260718-27",
+    "categoryId": "03_natural_science",
+    "title": "都是大腦搞的鬼(十年紀念版)：識破生活大騙局，終結衝動消費、擺脫社恐障礙、贏得職場主動權",
+    "author": "謝伯讓",
+    "file": "Books/03_natural_science/03_natural_science-20260718-27.json"
+  },
+  {
+    "id": "03_natural_science-20260718-28",
+    "categoryId": "03_natural_science",
+    "title": "【漫畫版】30秒動力實驗：從腦科學到冥想，找回行動力的80種技巧",
+    "author": "吉本Yutanuki",
+    "file": "Books/03_natural_science/03_natural_science-20260718-28.json"
+  },
+  {
+    "id": "03_natural_science-20260718-29",
+    "categoryId": "03_natural_science",
+    "title": "多肉好時光：一盆、一罐、一畫框，我的迷你植感實驗室",
+    "author": "田邊 正則 監修",
+    "file": "Books/03_natural_science/03_natural_science-20260718-29.json"
+  },
+  {
+    "id": "03_natural_science-20260718-30",
+    "categoryId": "03_natural_science",
+    "title": "這才是真正的數學思維：金字塔數列×雞兔同籠×分數應用……從鞏固基礎到提升思考力，掌握關鍵難點，突破數學瓶頸",
+    "author": "戴祥敏",
+    "file": "Books/03_natural_science/03_natural_science-20260718-30.json"
+  },
+  {
+    "id": "04_healthcare-20260718-11",
+    "categoryId": "04_healthcare",
+    "title": "名醫親授!腎臟復健法：日本醫院採用!腎臟科權威教你在家就能強腎的復健運動×飲食策略，8週修復腎功能，遠離洗腎",
+    "author": "上月正博",
+    "file": "Books/04_healthcare/04_healthcare-20260718-11.json"
+  },
+  {
+    "id": "04_healthcare-20260718-12",
+    "categoryId": "04_healthcare",
+    "title": "華佗隱藏的手術：外科的中國醫學史(修訂二版)",
+    "author": "李建民",
+    "file": "Books/04_healthcare/04_healthcare-20260718-12.json"
+  },
+  {
+    "id": "04_healthcare-20260718-13",
+    "categoryId": "04_healthcare",
+    "title": "妳的身體沒有壞，只是在轉變：破解人們對於更年期的沉默與誤解——與荷爾蒙風暴共存的生活、心理、營養全方位照護",
+    "author": "夏莎迪．哈柏醫師,艾瑪．巴德威",
+    "file": "Books/04_healthcare/04_healthcare-20260718-13.json"
+  },
+  {
+    "id": "04_healthcare-20260718-14",
+    "categoryId": "04_healthcare",
+    "title": "90歲東大名醫的放任長壽學： 不糾結血壓血糖，守住骨本，擁抱步履從容的銀髮人生",
+    "author": "折茂 肇",
+    "file": "Books/04_healthcare/04_healthcare-20260718-14.json"
+  },
+  {
+    "id": "04_healthcare-20260718-15",
+    "categoryId": "04_healthcare",
+    "title": "失眠、焦慮、肥胖都卡在沒養好脾胃：中醫師教你吃+動+按,養出健康好體質",
+    "author": "李麗娜",
+    "file": "Books/04_healthcare/04_healthcare-20260718-15.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-11",
+    "categoryId": "05_food_wellness",
+    "title": "第一次喝見精品咖啡：究極咖啡職人的鑽研筆記與獨立觀察",
+    "author": "周正中,朱明德,許晨慧（維多夫人）",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-11.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-12",
+    "categoryId": "05_food_wellness",
+    "title": "口感科學：透視剖析食物質地，揭開舌尖美味的背後奧祕(特別收錄──50道無國界全方位料理)",
+    "author": "克拉夫斯・史帝貝克,歐雷・莫西森",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-12.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-13",
+    "categoryId": "05_food_wellness",
+    "title": "烏龍茶，原來如此：從大紅袍到東方美人，快速掌握烏龍茶的風味世界",
+    "author": "李遠華",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-13.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-14",
+    "categoryId": "05_food_wellness",
+    "title": "極小廚房輕鬆煮【美食家世界料理書大獎冠軍】：能開火就超會煮!73道超省時方便的零失敗餐桌美味",
+    "author": "杵島隆太",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-14.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-15",
+    "categoryId": "05_food_wellness",
+    "title": "常溫也好吃!日本便當美味解密：從備菜、配色到口感層次，揭開日本媽媽的便當設計學",
+    "author": "岡本愛",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-15.json"
+  },
+  {
+    "id": "06_computer_info-20260718-11",
+    "categoryId": "06_computer_info",
+    "title": "最強MINECRAFT怪物王大圖鑑：雙打錦標賽!",
+    "author": "麥塊職人組合",
+    "file": "Books/06_computer_info/06_computer_info-20260718-11.json"
+  },
+  {
+    "id": "06_computer_info-20260718-12",
+    "categoryId": "06_computer_info",
+    "title": "軟體開發身分安全實務|開發人員必須掌握的最佳做法",
+    "author": "John Walsh,Matt Barker,Uzi Ailon",
+    "file": "Books/06_computer_info/06_computer_info-20260718-12.json"
+  },
+  {
+    "id": "06_computer_info-20260718-13",
+    "categoryId": "06_computer_info",
+    "title": "44方方爆笑漫畫：我的Minecraft原生生態域生存行為研究與地層結構開鑿調查報告：簡稱挖洞日記",
+    "author": "川尻こだま",
+    "file": "Books/06_computer_info/06_computer_info-20260718-13.json"
+  },
+  {
+    "id": "06_computer_info-20260718-14",
+    "categoryId": "06_computer_info",
+    "title": "AIGC互動設計實戰課：產品場景觀察×Midjourney生圖操作×介面視覺整合……建立從設計判斷到成稿製作的AIGC工作流程",
+    "author": "劉少清,吳應達,趙子軒",
+    "file": "Books/06_computer_info/06_computer_info-20260718-14.json"
+  },
+  {
+    "id": "06_computer_info-20260718-15",
+    "categoryId": "06_computer_info",
+    "title": "美學程式設計：軟體研究手冊",
+    "author": "傑夫．考克斯（Geoff Cox）,台灣版工作小組,孫詠怡（Winnie Soon）",
+    "file": "Books/06_computer_info/06_computer_info-20260718-15.json"
+  },
+  {
+    "id": "07_other-20260718-11",
+    "categoryId": "07_other",
+    "title": "智慧型手機拆散的家庭關係：吃飯滑手機、旅行只打卡、睡前各自看影音……數位時代最安靜的危機。如何打破小螢幕控制，重拾家人間的關心與陪伴。",
+    "author": "李恩京（이은경）",
+    "file": "Books/07_other/07_other-20260718-11.json"
+  },
+  {
+    "id": "07_other-20260718-12",
+    "categoryId": "07_other",
+    "title": "巷弄裡的幸福公衛：守護臺中的34個關鍵行動",
+    "author": "朱乙真,林惠君,楊茲珺,邵冰如,陳書孜",
+    "file": "Books/07_other/07_other-20260718-12.json"
+  },
+  {
+    "id": "07_other-20260718-13",
+    "categoryId": "07_other",
+    "title": "不動產登記",
+    "author": "黃健彰",
+    "file": "Books/07_other/07_other-20260718-13.json"
+  },
+  {
+    "id": "07_other-20260718-14",
+    "categoryId": "07_other",
+    "title": "心靈科學—人類的終極學問",
+    "author": "呂應鐘",
+    "file": "Books/07_other/07_other-20260718-14.json"
+  },
+  {
+    "id": "07_other-20260718-15",
+    "categoryId": "07_other",
+    "title": "我們是特殊清潔師5",
+    "author": "沖田×華",
+    "file": "Books/07_other/07_other-20260718-15.json"
+  },
+  {
+    "id": "01_business_startup-20260718-61",
+    "categoryId": "01_business_startup",
+    "title": "該如何狠賺創新高飆股的45堂技術分析課：用超簡單的方法，打造你「一億人生」!",
+    "author": "麻道明",
+    "file": "Books/01_business_startup/01_business_startup-20260718-61.json"
+  },
+  {
+    "id": "01_business_startup-20260718-62",
+    "categoryId": "01_business_startup",
+    "title": "圖解生產與作業管理(4版)",
+    "author": "歐宗殷、蕭俊彥",
+    "file": "Books/01_business_startup/01_business_startup-20260718-62.json"
+  },
+  {
+    "id": "01_business_startup-20260718-63",
+    "categoryId": "01_business_startup",
+    "title": "駕馭AI，打造超級優勢：全球頂尖機器人權威教你透過心智之鏡，放大創意與決策力，掌握風險與機會",
+    "author": "丹妮拉．羅斯（Daniela Rus）,葛瑞格里．莫恩（Gregory Mone）",
+    "file": "Books/01_business_startup/01_business_startup-20260718-63.json"
+  },
+  {
+    "id": "01_business_startup-20260718-64",
+    "categoryId": "01_business_startup",
+    "title": "串流之戰：演算法、訂閱制與平台競爭，如何重寫整個內容產業的規則",
+    "author": "夏洛特‧亨利",
+    "file": "Books/01_business_startup/01_business_startup-20260718-64.json"
+  },
+  {
+    "id": "01_business_startup-20260718-65",
+    "categoryId": "01_business_startup",
+    "title": "一眼看出奧客的應對絕技：他們平常是普通人，怎麼瞬間變奧客?日本大律師教你第一時間拆穿話術、處理客訴的終極祕笈。",
+    "author": "島田直行",
+    "file": "Books/01_business_startup/01_business_startup-20260718-65.json"
+  },
+  {
+    "id": "01_business_startup-20260718-66",
+    "categoryId": "01_business_startup",
+    "title": "這輩子，你能擁有多少錢：發財之道就在經典著作，《蒙田隨筆全集》、《窮查理的普通常識》、《馬斯克傳》……打開錢袋子，獲取這輩子能擁有的最大財富。",
+    "author": "高明煥（고명환）",
+    "file": "Books/01_business_startup/01_business_startup-20260718-66.json"
+  },
+  {
+    "id": "01_business_startup-20260718-67",
+    "categoryId": "01_business_startup",
+    "title": "連續23年拿第一的超業：23年來不外傳的小撇步，讓你成為令人難忘的人。創造你與普通業務的巨大差距，客戶第一時間就想到你。",
+    "author": "山內誠治",
+    "file": "Books/01_business_startup/01_business_startup-20260718-67.json"
+  },
+  {
+    "id": "01_business_startup-20260718-68",
+    "categoryId": "01_business_startup",
+    "title": "當你被部屬反向霸凌：覺得自己比你厲害、指令不聽不回、怠工擺爛、愛辯、網上匿名毀謗……主管如何應對與領導?",
+    "author": "加藤京子",
+    "file": "Books/01_business_startup/01_business_startup-20260718-68.json"
+  },
+  {
+    "id": "01_business_startup-20260718-69",
+    "categoryId": "01_business_startup",
+    "title": "生意的本質：能把事情做好，未必能做好生意。關鍵不在好點子和新科技，建立「營收持續成長的系統」才是本質。",
+    "author": "羅征",
+    "file": "Books/01_business_startup/01_business_startup-20260718-69.json"
+  },
+  {
+    "id": "01_business_startup-20260718-70",
+    "categoryId": "01_business_startup",
+    "title": "創意AI指令聖經：橫掃多項國際書籍大獎，AI實戰指令全攻略，從文字、圖像、音樂到影片創作，任何需要靈感的領域都適用!",
+    "author": "德蘭妮．艾爾哈特,諾提．柯恩",
+    "file": "Books/01_business_startup/01_business_startup-20260718-70.json"
+  },
+  {
+    "id": "01_business_startup-20260718-71",
+    "categoryId": "01_business_startup",
+    "title": "巴比倫理財聖經：全球暢銷超過400萬冊!啟蒙無數「富爸爸」的致富心態，錢包與心靈都富足的跨世代寶典【經典珍藏版】",
+    "author": "喬治．山繆．克拉森",
+    "file": "Books/01_business_startup/01_business_startup-20260718-71.json"
+  },
+  {
+    "id": "01_business_startup-20260718-72",
+    "categoryId": "01_business_startup",
+    "title": "當消費變成證明，韋伯倫論炫耀經濟學：看懂有閒階級，從精品、名校、豪宅到社群晒生活，消費社會的身分競賽",
+    "author": "[美]托斯丹．韋伯倫（Thorstein Veblen）著伊莉莎 編譯",
+    "file": "Books/01_business_startup/01_business_startup-20260718-72.json"
+  },
+  {
+    "id": "01_business_startup-20260718-73",
+    "categoryId": "01_business_startup",
+    "title": "有錢到死：退休後讓財富壽命活得比你久，才能安安心心過日子",
+    "author": "麥可・莫林",
+    "file": "Books/01_business_startup/01_business_startup-20260718-73.json"
+  },
+  {
+    "id": "01_business_startup-20260718-74",
+    "categoryId": "01_business_startup",
+    "title": "策略性閒暇：數位疲勞時代，改變你人生的全新休息方式",
+    "author": "森下彰大",
+    "file": "Books/01_business_startup/01_business_startup-20260718-74.json"
+  },
+  {
+    "id": "01_business_startup-20260718-75",
+    "categoryId": "01_business_startup",
+    "title": "7天養成立即行動力",
+    "author": "赤羽雄二",
+    "file": "Books/01_business_startup/01_business_startup-20260718-75.json"
+  },
+  {
+    "id": "01_business_startup-20260718-76",
+    "categoryId": "01_business_startup",
+    "title": "打開錢意識：化解金錢焦慮，實踐富足心態，讓錢進得來、留得住、花得安心",
+    "author": "伊莉莎白．胡瑟爾",
+    "file": "Books/01_business_startup/01_business_startup-20260718-76.json"
+  },
+  {
+    "id": "01_business_startup-20260718-77",
+    "categoryId": "01_business_startup",
+    "title": "非常潛力股：尋找成長股的致富心法(暢銷新編版)",
+    "author": "菲利普．費雪",
+    "file": "Books/01_business_startup/01_business_startup-20260718-77.json"
+  },
+  {
+    "id": "01_business_startup-20260718-78",
+    "categoryId": "01_business_startup",
+    "title": "慢富學：上班族也能做到的「獨立財富」路徑",
+    "author": "李銘儒",
+    "file": "Books/01_business_startup/01_business_startup-20260718-78.json"
+  },
+  {
+    "id": "01_business_startup-20260718-79",
+    "categoryId": "01_business_startup",
+    "title": "誰搶走了你的客人：揭開餐飲業「不賠錢」的底層邏輯，建立讓客人回流的核心優勢",
+    "author": "林仁益",
+    "file": "Books/01_business_startup/01_business_startup-20260718-79.json"
+  },
+  {
+    "id": "01_business_startup-20260718-80",
+    "categoryId": "01_business_startup",
+    "title": "AI集客力!FB+IG+Threads+LINE+ChatGPT全效社群行銷術：掌握社群平台行銷宣傳訣竅，善用AI工具，以最小成本創造最大效益(第二版)",
+    "author": "ZCT 策劃,鄭苑鳳 著",
+    "file": "Books/01_business_startup/01_business_startup-20260718-80.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-61",
+    "categoryId": "02_psychology_growth",
+    "title": "你缺的不是努力，是面對情緒毫不費力：不再失控!練習不被情緒壞好事的六個心理法則",
+    "author": "和田秀樹",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-61.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-62",
+    "categoryId": "02_psychology_growth",
+    "title": "吃郵飯(FB粉專「郵戲人生」版主AKA郵局櫃檯小姐扶若芸的酸甘甜人生)",
+    "author": "扶若芸",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-62.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-63",
+    "categoryId": "02_psychology_growth",
+    "title": "活成被生活偏愛的樣子",
+    "author": "張丹茹",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-63.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-64",
+    "categoryId": "02_psychology_growth",
+    "title": "十二碼壓力學",
+    "author": "蓋爾．約德",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-64.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-65",
+    "categoryId": "02_psychology_growth",
+    "title": "不是人性自私，是你不懂等價交換",
+    "author": "王心傲",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-65.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-66",
+    "categoryId": "02_psychology_growth",
+    "title": "我的人生從三壞球後開始",
+    "author": "潘瑋杰,陳思婷",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-66.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-67",
+    "categoryId": "02_psychology_growth",
+    "title": "我在生命終點站上班：真正需要被安放的，其實是留下來的人",
+    "author": "丸編（王威）",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-67.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-68",
+    "categoryId": "02_psychology_growth",
+    "title": "微實驗：透過微小的嘗試，探索人生的無限可能",
+    "author": "安蘿爾．勒坎弗",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-68.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-69",
+    "categoryId": "02_psychology_growth",
+    "title": "大人系女子不必完美，也能活得閃閃發亮：125個告別內耗的微練習，找回「做自己」的底氣",
+    "author": "中島輝",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-69.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-70",
+    "categoryId": "02_psychology_growth",
+    "title": "霧裡仍有路：走進街友與精神障礙者的世界，社工伴侶意外看見自己的人生選擇",
+    "author": "戴雅君,陳宗仁",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-70.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-71",
+    "categoryId": "02_psychology_growth",
+    "title": "一生必讀的人際心理學雙經典：《人性的弱點》+《自卑與超越》",
+    "author": "戴爾．卡內基,阿爾弗雷德‧阿德勒",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-71.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-72",
+    "categoryId": "02_psychology_growth",
+    "title": "我相信.失敗",
+    "author": "陳文茜",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-72.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-73",
+    "categoryId": "02_psychology_growth",
+    "title": "我害怕.成功",
+    "author": "陳文茜",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-73.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-74",
+    "categoryId": "02_psychology_growth",
+    "title": "正常的迷思：理解壓力與創傷如何形塑身心，鬆動情緒困境與疾病的循環，回到完整的自己",
+    "author": "丹尼爾・麥特,嘉柏‧麥特",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-74.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-75",
+    "categoryId": "02_psychology_growth",
+    "title": "TPI天賦人格學實戰應用：看懂自己.理解他人.掌握人生節奏",
+    "author": "鄧稚勤",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-75.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-76",
+    "categoryId": "02_psychology_growth",
+    "title": "不反應的練習【博客來獨家限定金句小卡】：讓所有煩惱都消失，世界最強、最古老的心理訓練入門",
+    "author": "草薙龍瞬",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-76.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-77",
+    "categoryId": "02_psychology_growth",
+    "title": "張開的手【博客來獨家贈「順風自在 葉籤貼」】：森林智者活出身心自由的溫柔指引",
+    "author": "卡洛琳．班克勒,比約恩．納提科．林德布勞",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-77.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-78",
+    "categoryId": "02_psychology_growth",
+    "title": "回歸本善：一位普通人行走於善的生命紀錄",
+    "author": "楊白",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-78.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-79",
+    "categoryId": "02_psychology_growth",
+    "title": "當你笑不出來的時候Boo!",
+    "author": "Amanda Lin",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-79.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-80",
+    "categoryId": "02_psychology_growth",
+    "title": "AI時代的人生勝負手：創造答案的能力",
+    "author": "李世乭",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-80.json"
+  },
+  {
+    "id": "03_natural_science-20260718-31",
+    "categoryId": "03_natural_science",
+    "title": "數學女孩：黎曼猜想",
+    "author": "結城浩",
+    "file": "Books/03_natural_science/03_natural_science-20260718-31.json"
+  },
+  {
+    "id": "03_natural_science-20260718-32",
+    "categoryId": "03_natural_science",
+    "title": "看魚：台灣第一本河溪魚類水下踏查實錄",
+    "author": "周銘泰｜主述．攝影,李政霖｜編寫．繪圖",
+    "file": "Books/03_natural_science/03_natural_science-20260718-32.json"
+  },
+  {
+    "id": "03_natural_science-20260718-33",
+    "categoryId": "03_natural_science",
+    "title": "看魚【博客來獨家限量贈「黑鰭枝枒鰕虎魚影透卡」】：台灣第一本河溪魚類水下踏查實錄",
+    "author": "周銘泰｜主述．攝影,李政霖｜編寫．繪圖",
+    "file": "Books/03_natural_science/03_natural_science-20260718-33.json"
+  },
+  {
+    "id": "03_natural_science-20260718-34",
+    "categoryId": "03_natural_science",
+    "title": "高頻理論分析與量測技術(1) ─小訊號篇",
+    "author": "同孟",
+    "file": "Books/03_natural_science/03_natural_science-20260718-34.json"
+  },
+  {
+    "id": "03_natural_science-20260718-35",
+    "categoryId": "03_natural_science",
+    "title": "氣候如何影響你的大腦?：減損認知、增加暴力傾向、引發創傷……高溫與動盪的氣候怎樣改寫我們的心智和大腦?",
+    "author": "克萊頓．艾登",
+    "file": "Books/03_natural_science/03_natural_science-20260718-35.json"
+  },
+  {
+    "id": "03_natural_science-20260718-36",
+    "categoryId": "03_natural_science",
+    "title": "燒杯君和他的化學實驗：這個步驟是有道理的!",
+    "author": "上谷夫婦",
+    "file": "Books/03_natural_science/03_natural_science-20260718-36.json"
+  },
+  {
+    "id": "03_natural_science-20260718-37",
+    "categoryId": "03_natural_science",
+    "title": "從來沒有天賦優越，18位知名科學家的學習思維： 笛卡爾、達爾文、愛因斯坦……你也可以培養出屬於自己的天才思考",
+    "author": "姚建明",
+    "file": "Books/03_natural_science/03_natural_science-20260718-37.json"
+  },
+  {
+    "id": "03_natural_science-20260718-38",
+    "categoryId": "03_natural_science",
+    "title": "別讓意識型態害了你：如何讓大腦靈活思考",
+    "author": "莉奧．茲米格羅德",
+    "file": "Books/03_natural_science/03_natural_science-20260718-38.json"
+  },
+  {
+    "id": "03_natural_science-20260718-39",
+    "categoryId": "03_natural_science",
+    "title": "困境使用說明書： 關於失敗與擁抱未知，科學教我們的事",
+    "author": "卡蜜拉．彭Camilla Pang",
+    "file": "Books/03_natural_science/03_natural_science-20260718-39.json"
+  },
+  {
+    "id": "03_natural_science-20260718-40",
+    "categoryId": "03_natural_science",
+    "title": "世界原生鸚鵡手繪圖鑑(根據世界三大鳥類名錄，精細描繪全球398種原生鸚鵡)",
+    "author": "蔡錦文",
+    "file": "Books/03_natural_science/03_natural_science-20260718-40.json"
+  },
+  {
+    "id": "04_healthcare-20260718-16",
+    "categoryId": "04_healthcare",
+    "title": "睡眠障礙",
+    "author": "聰",
+    "file": "Books/04_healthcare/04_healthcare-20260718-16.json"
+  },
+  {
+    "id": "04_healthcare-20260718-17",
+    "categoryId": "04_healthcare",
+    "title": "這樣吃，喚醒燃脂天賦：擺脫「少吃多動」迷思，掌握胰島素關鍵，重啟不復胖體質",
+    "author": "蓋瑞．陶布斯(Gary Taubes)",
+    "file": "Books/04_healthcare/04_healthcare-20260718-17.json"
+  },
+  {
+    "id": "04_healthcare-20260718-18",
+    "categoryId": "04_healthcare",
+    "title": "孩子，別怕，我在!——慈濟小兒科40年的守護與接力",
+    "author": "主述者：王本榮、李明亮、鄭敬楓、朱家祥等,撰 文：吳宛霖、楊金燕",
+    "file": "Books/04_healthcare/04_healthcare-20260718-18.json"
+  },
+  {
+    "id": "04_healthcare-20260718-19",
+    "categoryId": "04_healthcare",
+    "title": "現在開始卸力訓練就不累：5個目標+3個等級+7種習慣，打造短時間消除疲勞的體質!",
+    "author": "中野崇",
+    "file": "Books/04_healthcare/04_healthcare-20260718-19.json"
+  },
+  {
+    "id": "04_healthcare-20260718-20",
+    "categoryId": "04_healthcare",
+    "title": "解身體的痛：美國疼痛名醫的非藥物減痛指南，從抗發炎飲食到正念自癒，5步驟邁向無痛人生",
+    "author": "莎羅尼‧夏瑪",
+    "file": "Books/04_healthcare/04_healthcare-20260718-20.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-16",
+    "categoryId": "05_food_wellness",
+    "title": "職人可頌研究室：配方、折疊與發酵的科學",
+    "author": "呂昇達,羅俊凱",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-16.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-17",
+    "categoryId": "05_food_wellness",
+    "title": "職人可頌研究室【博客來獨家親簽版】：配方、折疊與發酵的科學",
+    "author": "呂昇達,羅俊凱",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-17.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-18",
+    "categoryId": "05_food_wellness",
+    "title": "法國料理圖鑑：名廚拆解!從美食歷史、風味食材、烹飪技法到經典佳餚，一本掌握法式美味的完整圖解指南",
+    "author": "山口杉朗",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-18.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-19",
+    "categoryId": "05_food_wellness",
+    "title": "我為薯狂：馬鈴薯女王的101道不敗煮意",
+    "author": "帕比‧奧圖爾",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-19.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-20",
+    "categoryId": "05_food_wellness",
+    "title": "一魚百味：名廚魚料理 ×宴客菜 ×擺盤技巧×沾醬×淋醬",
+    "author": "周振文",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-20.json"
+  },
+  {
+    "id": "06_computer_info-20260718-16",
+    "categoryId": "06_computer_info",
+    "title": "n8n x AI Agent與企業導入實戰大全【基礎篇】：零基礎入門 x API串接 x 自動化工作流程設計 x 商業專題實作",
+    "author": "趙伯元,黃煒盛",
+    "file": "Books/06_computer_info/06_computer_info-20260718-16.json"
+  },
+  {
+    "id": "06_computer_info-20260718-17",
+    "categoryId": "06_computer_info",
+    "title": "圖解生成式AI|一次搞懂AI如何繪圖、寫作與協作",
+    "author": "Priyanka Vergadia,Valliappa Lakshmanan",
+    "file": "Books/06_computer_info/06_computer_info-20260718-17.json"
+  },
+  {
+    "id": "06_computer_info-20260718-18",
+    "categoryId": "06_computer_info",
+    "title": "Excel VBA × ChatGPT：基礎到AI協作開發、資料爬蟲與自動化專題實戰",
+    "author": "蔡文龍、張志成、何嘉益、張力元",
+    "file": "Books/06_computer_info/06_computer_info-20260718-18.json"
+  },
+  {
+    "id": "06_computer_info-20260718-19",
+    "categoryId": "06_computer_info",
+    "title": "10倍速Flutter App開發實戰：Cursor AI協作 × Figma UI設計",
+    "author": "孫宏明",
+    "file": "Books/06_computer_info/06_computer_info-20260718-19.json"
+  },
+  {
+    "id": "06_computer_info-20260718-20",
+    "categoryId": "06_computer_info",
+    "title": "電腦硬體裝修丙級檢定學術科解題教本(第四版)|Windows 10 + Ubuntu 18 (116年起適用)",
+    "author": "胡秋明．林文恭研究室",
+    "file": "Books/06_computer_info/06_computer_info-20260718-20.json"
+  },
+  {
+    "id": "07_other-20260718-16",
+    "categoryId": "07_other",
+    "title": "彎曲的湯匙：秦慧珠VS張忠義相對論",
+    "author": "李碧華",
+    "file": "Books/07_other/07_other-20260718-16.json"
+  },
+  {
+    "id": "07_other-20260718-17",
+    "categoryId": "07_other",
+    "title": "黃金之路：一切從古印度出發，亞洲的海上貿易之路如何透過佛教、藝術、數學、醫學，形塑現代文明的面貌",
+    "author": "威廉．達爾林普",
+    "file": "Books/07_other/07_other-20260718-17.json"
+  },
+  {
+    "id": "07_other-20260718-18",
+    "categoryId": "07_other",
+    "title": "船山易學(上)",
+    "author": "王夫之",
+    "file": "Books/07_other/07_other-20260718-18.json"
+  },
+  {
+    "id": "07_other-20260718-19",
+    "categoryId": "07_other",
+    "title": "船山易學(下)",
+    "author": "王夫之",
+    "file": "Books/07_other/07_other-20260718-19.json"
+  },
+  {
+    "id": "07_other-20260718-20",
+    "categoryId": "07_other",
+    "title": "做社區工作的人：霧裡仍有路+屋簷下的交會(2冊套書)",
+    "author": "任依島,戴雅君,陳宗仁",
+    "file": "Books/07_other/07_other-20260718-20.json"
+  },
+  {
+    "id": "01_business_startup-20260718-81",
+    "categoryId": "01_business_startup",
+    "title": "勞工機靈點，雇主睜大眼!：搞定勞資關係的速成心法(第4版)",
+    "author": "程金龍,蘇鵬翰",
+    "file": "Books/01_business_startup/01_business_startup-20260718-81.json"
+  },
+  {
+    "id": "01_business_startup-20260718-82",
+    "categoryId": "01_business_startup",
+    "title": "Investments(2026 Release)(14版)",
+    "author": "Alan J. Marcus,Alex Kane,Nicholas M. Racculia,Zvi Bodie",
+    "file": "Books/01_business_startup/01_business_startup-20260718-82.json"
+  },
+  {
+    "id": "01_business_startup-20260718-83",
+    "categoryId": "01_business_startup",
+    "title": "Business Driven Information Systems(2026 Release)(10版)",
+    "author": "Paige Baltzan",
+    "file": "Books/01_business_startup/01_business_startup-20260718-83.json"
+  },
+  {
+    "id": "01_business_startup-20260718-84",
+    "categoryId": "01_business_startup",
+    "title": "財富能量寶典：從赤字人生到金錢自由的致富攻略與心靈智慧",
+    "author": "瑪麗亞‧內梅斯",
+    "file": "Books/01_business_startup/01_business_startup-20260718-84.json"
+  },
+  {
+    "id": "01_business_startup-20260718-85",
+    "categoryId": "01_business_startup",
+    "title": "哈佛商學院新世代生涯課：我雇用了我的工作!大流動時代持續進步的職涯攻略",
+    "author": "伊森•伯恩斯坦,鮑伯‧莫伊斯塔,麥可‧霍恩",
+    "file": "Books/01_business_startup/01_business_startup-20260718-85.json"
+  },
+  {
+    "id": "01_business_startup-20260718-86",
+    "categoryId": "01_business_startup",
+    "title": "【十倍股、千倍股暴賺套書】《全力以富，買進千倍股!》+《十倍股1000%獲利聖經》(2冊)",
+    "author": "大衛．伊凡森,姜炳昱,路易斯・納維利爾",
+    "file": "Books/01_business_startup/01_business_startup-20260718-86.json"
+  },
+  {
+    "id": "01_business_startup-20260718-87",
+    "categoryId": "01_business_startup",
+    "title": "翻身致富股票投資套書：創新高投資法+社畜翻身投資筆記+價值投資翻身筆記(3冊)",
+    "author": "DUKE。,Kelvin價值投資,朴成賢",
+    "file": "Books/01_business_startup/01_business_startup-20260718-87.json"
+  },
+  {
+    "id": "01_business_startup-20260718-88",
+    "categoryId": "01_business_startup",
+    "title": "逆行者：別怕逆境 那是上天在幫你清場",
+    "author": "林國榮,龐玉華",
+    "file": "Books/01_business_startup/01_business_startup-20260718-88.json"
+  },
+  {
+    "id": "01_business_startup-20260718-89",
+    "categoryId": "01_business_startup",
+    "title": "房地產投資的底層邏輯─跨越產業、金融與稅務的獲利框架",
+    "author": "廖仁傑 教授",
+    "file": "Books/01_business_startup/01_business_startup-20260718-89.json"
+  },
+  {
+    "id": "01_business_startup-20260718-90",
+    "categoryId": "01_business_startup",
+    "title": "股市小白の第一本技術分析教科書：我用趨勢交易法，三年賺到2,000萬!(熱銷再版)",
+    "author": "郭浩",
+    "file": "Books/01_business_startup/01_business_startup-20260718-90.json"
+  },
+  {
+    "id": "01_business_startup-20260718-91",
+    "categoryId": "01_business_startup",
+    "title": "DX最強專案發包力：徹底學會數位轉型專案發包實戰全技能",
+    "author": "濵本佳史,白川克",
+    "file": "Books/01_business_startup/01_business_startup-20260718-91.json"
+  },
+  {
+    "id": "01_business_startup-20260718-92",
+    "categoryId": "01_business_startup",
+    "title": "被追趕的經濟體：先進國家與台灣如何擺脫競爭者的挑戰",
+    "author": "辜朝明",
+    "file": "Books/01_business_startup/01_business_startup-20260718-92.json"
+  },
+  {
+    "id": "01_business_startup-20260718-93",
+    "categoryId": "01_business_startup",
+    "title": "點擊成長：Meta行銷長親授，數位廣告投放、轉換、數據分析全攻略",
+    "author": "亞歷克斯．舒茲",
+    "file": "Books/01_business_startup/01_business_startup-20260718-93.json"
+  },
+  {
+    "id": "01_business_startup-20260718-94",
+    "categoryId": "01_business_startup",
+    "title": "從K線到人心​，投資應對多空變局​戰法+心法套書【短線交易日線圖大全+日股戰神年獲利千萬的投資邏輯】",
+    "author": "戸松信博,相場師朗",
+    "file": "Books/01_business_startup/01_business_startup-20260718-94.json"
+  },
+  {
+    "id": "01_business_startup-20260718-95",
+    "categoryId": "01_business_startup",
+    "title": "看漫畫學會計與財務管理【日本超人氣商業漫畫超值套書】：壽司幹嘛轉來轉去+搶救瀕死公司大作戰，第一次當老闆就該懂的不敗心法",
+    "author": "林總,石野雄一",
+    "file": "Books/01_business_startup/01_business_startup-20260718-95.json"
+  },
+  {
+    "id": "01_business_startup-20260718-96",
+    "categoryId": "01_business_startup",
+    "title": "放下「全都要」的人生：為什麼擁有更多，卻不快樂?9大翻轉心法，帶你走出成功上癮牢籠，解鎖屬於自己的人生版本",
+    "author": "艾瑪．甘儂",
+    "file": "Books/01_business_startup/01_business_startup-20260718-96.json"
+  },
+  {
+    "id": "01_business_startup-20260718-97",
+    "categoryId": "01_business_startup",
+    "title": "超犀利大腦：一天不用5分鐘，透過「神經科學」x「心理學」x「50+方法」，全面提升工作效率、改善生活品質，讓大腦潛能發揮到極致，變得超犀利!",
+    "author": "泰蕾絲‧休斯頓",
+    "file": "Books/01_business_startup/01_business_startup-20260718-97.json"
+  },
+  {
+    "id": "01_business_startup-20260718-98",
+    "categoryId": "01_business_startup",
+    "title": "北醫體系數位創新：從無縫融合轉型到永續",
+    "author": "王明德",
+    "file": "Books/01_business_startup/01_business_startup-20260718-98.json"
+  },
+  {
+    "id": "01_business_startup-20260718-99",
+    "categoryId": "01_business_startup",
+    "title": "看得見的品牌力：從人心到AI的行銷心理地圖",
+    "author": "高登第",
+    "file": "Books/01_business_startup/01_business_startup-20260718-99.json"
+  },
+  {
+    "id": "01_business_startup-20260718-100",
+    "categoryId": "01_business_startup",
+    "title": "最強3週習慣養成法：把「撐下去」變成「做得到」!高階主管教練教你讓好習慣持續一輩子",
+    "author": "名鄉根修",
+    "file": "Books/01_business_startup/01_business_startup-20260718-100.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-81",
+    "categoryId": "02_psychology_growth",
+    "title": "P.S. 我愛鮪魚罐罐，但我更愛你：一封從貓咪天堂寄回的情書【折口附贈永遠想念藏書卡】",
+    "author": "莎拉．強西(Sarah Chauncey)",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-81.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-82",
+    "categoryId": "02_psychology_growth",
+    "title": "抄寫中英韓3語，召喚各種奇蹟【博客來獨家鋼珠筆版】：每天10分鐘，不只語言變強、情緒變好，連人生都不同(限量贈「SARASA CLIP典雅風鋼珠筆」)",
+    "author": "高績效行為教練莉亞（Leah Jean Kim）",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-82.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-83",
+    "categoryId": "02_psychology_growth",
+    "title": "我要緊緊抱著你",
+    "author": "伊縫小繪子",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-83.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-84",
+    "categoryId": "02_psychology_growth",
+    "title": "情緒時鐘：從腸道、脊椎、皮膚到荷爾蒙，10個身體系統決定你的情緒狀態",
+    "author": "姜度瑩",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-84.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-85",
+    "categoryId": "02_psychology_growth",
+    "title": "台北街角解憂故事：那條路、那些夢想和感觸+社長的70幅手繪插圖",
+    "author": "王學呈",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-85.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-86",
+    "categoryId": "02_psychology_growth",
+    "title": "學員練習手冊行旅 第九冊",
+    "author": "Ph.D.）,肯尼斯‧霍布尼克博士（Kenneth Wapnick",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-86.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-87",
+    "categoryId": "02_psychology_growth",
+    "title": "學員練習手冊行旅 第十冊",
+    "author": "Ph.D.）,肯尼斯‧霍布尼克博士（Kenneth Wapnick",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-87.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-88",
+    "categoryId": "02_psychology_growth",
+    "title": "成年人的關係沒有句號：雖然各自生活，但我們並不孤單，學會在寂寞的日子裡溫柔擁抱連結",
+    "author": "金在植",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-88.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-89",
+    "categoryId": "02_psychology_growth",
+    "title": "富人的身體：成功，從改善疲憊的身體開始，功能醫學×大腦科學×潛意識，全面提升身心狀態",
+    "author": "李東桓",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-89.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-90",
+    "categoryId": "02_psychology_growth",
+    "title": "突然之間(濱口竜介執導、坎城影展競賽片《一瞬間》原著)：圍繞偶然與命運的10場對話",
+    "author": "宮野真生子、磯野真穗",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-90.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-91",
+    "categoryId": "02_psychology_growth",
+    "title": "寫給還在尋找自己的你：認識自己，也學會和世界相處",
+    "author": "DT企劃",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-91.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-92",
+    "categoryId": "02_psychology_growth",
+    "title": "波斯帝王寶鑑：信仰×慎言×交友×理財×婚姻×治國，波斯王族傳襲千年的安身立命之書卡布斯教誨錄",
+    "author": "[波斯]凱卡伍斯（Keikavus）著[英]魯本．利維（Reuben Levy）英譯遲文成 譯",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-92.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-93",
+    "categoryId": "02_psychology_growth",
+    "title": "今天也要活得有趣：當人生不如預期，我們依然可以選擇快樂生活",
+    "author": "吳淋禎,莊舒涵",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-93.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-94",
+    "categoryId": "02_psychology_growth",
+    "title": "不該想的念頭清單：史丹佛、劍橋、耶魯……世界一流大學證明，解決問題的方法不是「一直想」，而是哪些念頭「不去想」?",
+    "author": "堀田秀吾",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-94.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-95",
+    "categoryId": "02_psychology_growth",
+    "title": "102歲，一個人生活：哲代奶奶保持身心不生鏽的人生哲學",
+    "author": "中國新聞社,石井哲代",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-95.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-96",
+    "categoryId": "02_psychology_growth",
+    "title": "兩個人更孤單：走出親密疏離，重建真實的親密關係",
+    "author": "羅子琦",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-96.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-97",
+    "categoryId": "02_psychology_growth",
+    "title": "金錢治療──看懂金錢習慣背後的情緒與創傷，修復你與金錢的關係",
+    "author": "薇琪．雷納爾",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-97.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-98",
+    "categoryId": "02_psychology_growth",
+    "title": "人生永遠還有下一頁：從週末創業到財務自由的人生實踐課",
+    "author": "鍾若晴",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-98.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-99",
+    "categoryId": "02_psychology_growth",
+    "title": "動機與人格：人類需求與人性本質的追問",
+    "author": "亞伯拉罕．馬斯洛",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-99.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-100",
+    "categoryId": "02_psychology_growth",
+    "title": "存有心理學的不斷探索：從「滿足匱乏」走向「成為自己」的內在覺醒",
+    "author": "亞伯拉罕．馬斯洛",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-100.json"
+  },
+  {
+    "id": "03_natural_science-20260718-41",
+    "categoryId": "03_natural_science",
+    "title": "文明的原點：天文地理如何塑造人類歷史",
+    "author": "達奈爾",
+    "file": "Books/03_natural_science/03_natural_science-20260718-41.json"
+  },
+  {
+    "id": "03_natural_science-20260718-42",
+    "categoryId": "03_natural_science",
+    "title": "波浪下的數位命脈：看不見的科技與國安戰線，海底電纜與我們的生活",
+    "author": "薩曼斯．蘇布拉馬尼安",
+    "file": "Books/03_natural_science/03_natural_science-20260718-42.json"
+  },
+  {
+    "id": "03_natural_science-20260718-43",
+    "categoryId": "03_natural_science",
+    "title": "從人類飛出地球的那天開始(修訂版)：火箭理論、實驗突破到月球漫步的完整歷程",
+    "author": "張天蓉",
+    "file": "Books/03_natural_science/03_natural_science-20260718-43.json"
+  },
+  {
+    "id": "03_natural_science-20260718-44",
+    "categoryId": "03_natural_science",
+    "title": "圖解 遺傳大解密：身高、體重、髮色、個性……揭開默默決定你人生走向的基因祕密!",
+    "author": "安藤壽康",
+    "file": "Books/03_natural_science/03_natural_science-20260718-44.json"
+  },
+  {
+    "id": "03_natural_science-20260718-45",
+    "categoryId": "03_natural_science",
+    "title": "環境檢測基礎(第1版)",
+    "author": "社團法人中華民國環境分析學會",
+    "file": "Books/03_natural_science/03_natural_science-20260718-45.json"
+  },
+  {
+    "id": "03_natural_science-20260718-46",
+    "categoryId": "03_natural_science",
+    "title": "從無人機搶進低空經濟",
+    "author": "主筆：李定宇,策劃：中華無人機推廣協會,總編輯：謝立功",
+    "file": "Books/03_natural_science/03_natural_science-20260718-46.json"
+  },
+  {
+    "id": "03_natural_science-20260718-47",
+    "categoryId": "03_natural_science",
+    "title": "荒溪歲誌：一個野外工作者的自然手繪",
+    "author": "陳一銘",
+    "file": "Books/03_natural_science/03_natural_science-20260718-47.json"
+  },
+  {
+    "id": "03_natural_science-20260718-48",
+    "categoryId": "03_natural_science",
+    "title": "荒野之心：生態學大師Heinrich最受歡迎的35堂田野必修課【繼承梭羅湖濱散記百年精神，當代生物多樣性經典文集】(暢銷二版)",
+    "author": "伯恩德‧海恩利許",
+    "file": "Books/03_natural_science/03_natural_science-20260718-48.json"
+  },
+  {
+    "id": "03_natural_science-20260718-49",
+    "categoryId": "03_natural_science",
+    "title": "最強感謝腦【3Q每一天的奇蹟腦科學】：「一百萬人感謝計畫」實證，遠離憂鬱、慢性疼痛、提升工作學習力，啟動多巴胺幸福腦!",
+    "author": "樺澤紫苑,田代政貴",
+    "file": "Books/03_natural_science/03_natural_science-20260718-49.json"
+  },
+  {
+    "id": "03_natural_science-20260718-50",
+    "categoryId": "03_natural_science",
+    "title": "【牛津通識課11】氣候變遷：亟待解決的人類共同問題",
+    "author": "馬克．馬斯林",
+    "file": "Books/03_natural_science/03_natural_science-20260718-50.json"
+  },
+  {
+    "id": "04_healthcare-20260718-21",
+    "categoryId": "04_healthcare",
+    "title": "韓濟生的無創針灸新技術，經皮穴位電刺激療法：疼痛控制×睡眠管理×神經精神照護×內分泌調節，以無創電刺激延伸傳統針灸，涵蓋多種疾病照護與管理",
+    "author": "韓濟生 主編",
+    "file": "Books/04_healthcare/04_healthcare-20260718-21.json"
+  },
+  {
+    "id": "04_healthcare-20260718-22",
+    "categoryId": "04_healthcare",
+    "title": "老祖宗傳下來不生病的智慧：融合《黃帝內經》、《本草綱目》等中醫經典，現代醫學驗證，藥補不如食補，打造強健、不生病的體質。",
+    "author": "張燦（編著者）",
+    "file": "Books/04_healthcare/04_healthcare-20260718-22.json"
+  },
+  {
+    "id": "04_healthcare-20260718-23",
+    "categoryId": "04_healthcare",
+    "title": "圖解顏面診治",
+    "author": "李家雄",
+    "file": "Books/04_healthcare/04_healthcare-20260718-23.json"
+  },
+  {
+    "id": "04_healthcare-20260718-24",
+    "categoryId": "04_healthcare",
+    "title": "偉大的迷走神經：人體內建的修復迴路，改善發炎、免疫與情緒的關鍵",
+    "author": "凱文‧特雷西 醫師",
+    "file": "Books/04_healthcare/04_healthcare-20260718-24.json"
+  },
+  {
+    "id": "04_healthcare-20260718-25",
+    "categoryId": "04_healthcare",
+    "title": "爸媽最安心的嬰幼兒副食品【全新增訂版】─專業營養師教你養出不挑食的健康寶寶",
+    "author": "宋明樺．林俐岑 營養師",
+    "file": "Books/04_healthcare/04_healthcare-20260718-25.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-21",
+    "categoryId": "05_food_wellness",
+    "title": "綠茶，懂喝從這一杯開始：茶葉分類×名茶巡禮×文化欣賞，以生活化的角度，讀懂綠茶的知識與趣味",
+    "author": "周繼紅,王岳飛",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-21.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-22",
+    "categoryId": "05_food_wellness",
+    "title": "雄好呷【經典呷飽版】：高雄111家小吃慢食、至情至性的尋味紀錄",
+    "author": "郭銘哲",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-22.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-23",
+    "categoryId": "05_food_wellness",
+    "title": "雄好呷╳雄合味【口碑絕贊!高雄美食經典紀錄套書】",
+    "author": "郭銘哲",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-23.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-24",
+    "categoryId": "05_food_wellness",
+    "title": "粵醃愈滋味—嶺南醃菜養生食譜",
+    "author": "蔡少薇博士、區靖彤教授",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-24.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-25",
+    "categoryId": "05_food_wellness",
+    "title": "可甜可鹹!微蓬鬆的磅蛋糕：一拌就烤好!千變萬化的口味，特別鬆軟的口感!",
+    "author": "垣本晃宏",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-25.json"
+  },
+  {
+    "id": "06_computer_info-20260718-21",
+    "categoryId": "06_computer_info",
+    "title": "OpenClaw 本質論與建構工程——基礎完全攻略：誕生、本質、架構、設計與設定、控管、安全性",
+    "author": "和誠",
+    "file": "Books/06_computer_info/06_computer_info-20260718-21.json"
+  },
+  {
+    "id": "06_computer_info-20260718-22",
+    "categoryId": "06_computer_info",
+    "title": "AI超神應用術：Google Gemini × NotebookLM × Nano Banana × Omni × Flow × Gemini Live全解鎖(超級全能第三版) (附範例素材/提示詞/影音教學)",
+    "author": "鄧君如 總監製 / 文淵閣工作室 編著",
+    "file": "Books/06_computer_info/06_computer_info-20260718-22.json"
+  },
+  {
+    "id": "06_computer_info-20260718-23",
+    "categoryId": "06_computer_info",
+    "title": "Scratch從基礎到進階|打造程式思維與專題能力",
+    "author": "貝拉",
+    "file": "Books/06_computer_info/06_computer_info-20260718-23.json"
+  },
+  {
+    "id": "06_computer_info-20260718-24",
+    "categoryId": "06_computer_info",
+    "title": "從AI Agent到多代理人系統設計|架構規劃與應用開發",
+    "author": "Michael Albada",
+    "file": "Books/06_computer_info/06_computer_info-20260718-24.json"
+  },
+  {
+    "id": "06_computer_info-20260718-25",
+    "categoryId": "06_computer_info",
+    "title": "LINE Bot Side Project實戰 : 從設計思考到部署與產品變現的16堂關鍵必修課(iThome鐵人賽系列書)",
+    "author": "胡兆棨（Joseph Hu） 著",
+    "file": "Books/06_computer_info/06_computer_info-20260718-25.json"
+  },
+  {
+    "id": "07_other-20260718-21",
+    "categoryId": "07_other",
+    "title": "盛世之鑰：為何開放的社會更強大?從七個黃金時代看文明興衰的真相",
+    "author": "約翰．諾貝里",
+    "file": "Books/07_other/07_other-20260718-21.json"
+  },
+  {
+    "id": "07_other-20260718-22",
+    "categoryId": "07_other",
+    "title": "追夢者的美國歷程：18個大時代中的移民故事",
+    "author": "林志濤,黃莉翔",
+    "file": "Books/07_other/07_other-20260718-22.json"
+  },
+  {
+    "id": "07_other-20260718-23",
+    "categoryId": "07_other",
+    "title": "詐騙的14種信號：與詐欺師交手的實戰經驗祕笈，教你避開騙術陷阱",
+    "author": "強納森．沃爾頓Johnathan Walton",
+    "file": "Books/07_other/07_other-20260718-23.json"
+  },
+  {
+    "id": "07_other-20260718-24",
+    "categoryId": "07_other",
+    "title": "普通人不會扛起機關槍：一位父親、丈夫、前和平主義者對戰爭的思考",
+    "author": "阿爾特姆．查派",
+    "file": "Books/07_other/07_other-20260718-24.json"
+  },
+  {
+    "id": "07_other-20260718-25",
+    "categoryId": "07_other",
+    "title": "花香園的女兒們：被海峽分隔的兩姊妹",
+    "author": "李竹青",
+    "file": "Books/07_other/07_other-20260718-25.json"
+  },
+  {
+    "id": "01_business_startup-20260718-101",
+    "categoryId": "01_business_startup",
+    "title": "可大、可久、可敬的經營思維：保險行銷集團創辦人梁天龍給你工作與人生的30個智慧錦囊",
+    "author": "劉子寧╱採訪整理,梁天龍",
+    "file": "Books/01_business_startup/01_business_startup-20260718-101.json"
+  },
+  {
+    "id": "01_business_startup-20260718-102",
+    "categoryId": "01_business_startup",
+    "title": "AI商機：從導入流程、產業應用、商業實務案例，解析AI跨界創利模式",
+    "author": "久保田隆至,大塚貴行,小泉信也,荻野調",
+    "file": "Books/01_business_startup/01_business_startup-20260718-102.json"
+  },
+  {
+    "id": "01_business_startup-20260718-103",
+    "categoryId": "01_business_startup",
+    "title": "循環經濟(第1版)",
+    "author": "何嘉浚,張添晉,彭裕民,方偉達,梁世武,梁薺,潘述元,白子易,蔣本基,趙家瑋,趙心怡,鍾岳勳,陳映竹",
+    "file": "Books/01_business_startup/01_business_startup-20260718-103.json"
+  },
+  {
+    "id": "01_business_startup-20260718-104",
+    "categoryId": "01_business_startup",
+    "title": "商業談判：掌握交易與協商優勢(第2版)",
+    "author": "林仁和",
+    "file": "Books/01_business_startup/01_business_startup-20260718-104.json"
+  },
+  {
+    "id": "01_business_startup-20260718-105",
+    "categoryId": "01_business_startup",
+    "title": "#我的100天ChatGPT挑戰： 連續100天，每天創作一個應用程式，改變我的人生",
+    "author": "大塚亞美",
+    "file": "Books/01_business_startup/01_business_startup-20260718-105.json"
+  },
+  {
+    "id": "01_business_startup-20260718-106",
+    "categoryId": "01_business_startup",
+    "title": "金融恐慌的白芝浩原則：《倫巴底街》談存款擠兌×短期融資收縮×資產拋售",
+    "author": "[英]沃爾特．白芝浩（Walter Bagehot）著伊莉莎 編譯",
+    "file": "Books/01_business_startup/01_business_startup-20260718-106.json"
+  },
+  {
+    "id": "01_business_startup-20260718-107",
+    "categoryId": "01_business_startup",
+    "title": "英國巴菲特的成長投資之道：如何透過只買入好公司持續獲利?揭穿股市謬誤、辨識高品質公司，實現長期卓越回報的投資策略。",
+    "author": "泰瑞．史密斯",
+    "file": "Books/01_business_startup/01_business_startup-20260718-107.json"
+  },
+  {
+    "id": "01_business_startup-20260718-108",
+    "categoryId": "01_business_startup",
+    "title": "獎勵的惡果：外在激勵如何一敗塗地?震撼家庭、學校、企業界的影響力聖經",
+    "author": "艾菲．柯恩",
+    "file": "Books/01_business_startup/01_business_startup-20260718-108.json"
+  },
+  {
+    "id": "01_business_startup-20260718-109",
+    "categoryId": "01_business_startup",
+    "title": "最小阻力之路：應用創造者思維，跳出「每天重複解決問題」的無力迴圈",
+    "author": "羅勃．弗利慈",
+    "file": "Books/01_business_startup/01_business_startup-20260718-109.json"
+  },
+  {
+    "id": "01_business_startup-20260718-110",
+    "categoryId": "01_business_startup",
+    "title": "個人品牌真相大白：圖解操作邏輯與應用方式。一次做對，個人價值翻倍。",
+    "author": "黃文博",
+    "file": "Books/01_business_startup/01_business_startup-20260718-110.json"
+  },
+  {
+    "id": "01_business_startup-20260718-111",
+    "categoryId": "01_business_startup",
+    "title": "商品決勝點：全球最成功的產品設計師如何讓顧客買單",
+    "author": "傑克納普,約翰澤拉斯基",
+    "file": "Books/01_business_startup/01_business_startup-20260718-111.json"
+  },
+  {
+    "id": "01_business_startup-20260718-112",
+    "categoryId": "01_business_startup",
+    "title": "圖解致富：一張圖，打造會自己賺錢的系統",
+    "author": "邱奕霖",
+    "file": "Books/01_business_startup/01_business_startup-20260718-112.json"
+  },
+  {
+    "id": "01_business_startup-20260718-113",
+    "categoryId": "01_business_startup",
+    "title": "第三選擇經營學：導入AI、ESG永續發展的轉型策略，八十年釀造品牌味榮食品從價值創造到跨界整合的槓桿思維",
+    "author": "許立昇",
+    "file": "Books/01_business_startup/01_business_startup-20260718-113.json"
+  },
+  {
+    "id": "01_business_startup-20260718-114",
+    "categoryId": "01_business_startup",
+    "title": "超創業計畫書：從零開始提煉創意→成功獲利的技術",
+    "author": "井口嘉則",
+    "file": "Books/01_business_startup/01_business_startup-20260718-114.json"
+  },
+  {
+    "id": "01_business_startup-20260718-115",
+    "categoryId": "01_business_startup",
+    "title": "別讓話術騙到你!：38個思辨練習，教你識破新聞、廣告與日常對話中的偽邏輯，從此不被帶風向",
+    "author": "奈森尼爾．布魯頓、漢斯．布魯頓",
+    "file": "Books/01_business_startup/01_business_startup-20260718-115.json"
+  },
+  {
+    "id": "01_business_startup-20260718-116",
+    "categoryId": "01_business_startup",
+    "title": "我們為什麼要工作?一位資深經營者的職場哲學筆記",
+    "author": "田坂廣志",
+    "file": "Books/01_business_startup/01_business_startup-20260718-116.json"
+  },
+  {
+    "id": "01_business_startup-20260718-117",
+    "categoryId": "01_business_startup",
+    "title": "不必會說話，也能讓人喜歡你",
+    "author": "松田充弘",
+    "file": "Books/01_business_startup/01_business_startup-20260718-117.json"
+  },
+  {
+    "id": "01_business_startup-20260718-118",
+    "categoryId": "01_business_startup",
+    "title": "香港中小上市公司市值管理",
+    "author": "席春迎",
+    "file": "Books/01_business_startup/01_business_startup-20260718-118.json"
+  },
+  {
+    "id": "01_business_startup-20260718-119",
+    "categoryId": "01_business_startup",
+    "title": "為什麼你每天都很忙，工作卻做不完?：AI時代職場人不被取代的工作基本功",
+    "author": "井出元子",
+    "file": "Books/01_business_startup/01_business_startup-20260718-119.json"
+  },
+  {
+    "id": "01_business_startup-20260718-120",
+    "categoryId": "01_business_startup",
+    "title": "邊境甜點的奇幻旅程",
+    "author": "賴慶陽",
+    "file": "Books/01_business_startup/01_business_startup-20260718-120.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-101",
+    "categoryId": "02_psychology_growth",
+    "title": "壓力過載!身體反應背後的心理訊號：內在狀態×外在表現×健康變化，化解每一次情緒波動，找回穩定的生活節奏進的風味脈絡",
+    "author": "郭琳",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-101.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-102",
+    "categoryId": "02_psychology_growth",
+    "title": "住在我心裡的怪物",
+    "author": "阿方索・卡薩斯",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-102.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-103",
+    "categoryId": "02_psychology_growth",
+    "title": "鬆弛生活：恰到好處的馬虎讓事業與人生更順遂",
+    "author": "船見敏子",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-103.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-104",
+    "categoryId": "02_psychology_growth",
+    "title": "呵護心靈的時間：卸下心靈防彈衣，掌握情緒方向盤，練習心的減法!",
+    "author": "金慧伶",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-104.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-105",
+    "categoryId": "02_psychology_growth",
+    "title": "當世界劇烈晃動，你依然可以活得漂亮：自我覺醒、拒絕內耗、停止依賴，18個重建內在安全感的人生底層邏輯",
+    "author": "晴山",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-105.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-106",
+    "categoryId": "02_psychology_growth",
+    "title": "進入冥想的100種方法：從靜坐到行走、從發出「阿」聲到注視圖像，甚至想像自己在盪鞦韆──冥想從不拘形式，人人都能學會。",
+    "author": "龍村修",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-106.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-107",
+    "categoryId": "02_psychology_growth",
+    "title": "365天哀傷陪伴",
+    "author": "哲仁",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-107.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-108",
+    "categoryId": "02_psychology_growth",
+    "title": "不乖的勇氣：從今天開始，跟討好別人的自己劃清界線",
+    "author": "蘇妮塔．薩 博士",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-108.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-109",
+    "categoryId": "02_psychology_growth",
+    "title": "日子變簡單的微調練習：原來煩惱可以拆解，一層一層看清問題，生活就能過得剛剛好",
+    "author": "多羅西",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-109.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-110",
+    "categoryId": "02_psychology_growth",
+    "title": "精準轉富【特別加贈〈精準轉念‧覺察日記本〉】：AI時代財富新哲學，不會理財的人也能財務自由",
+    "author": "李欣頻",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-110.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-111",
+    "categoryId": "02_psychology_growth",
+    "title": "我面對自己的方式：你面對了嗎?",
+    "author": "蔡沅達",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-111.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-112",
+    "categoryId": "02_psychology_growth",
+    "title": "生活是一種態度(三版)",
+    "author": "Dottie Billington",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-112.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-113",
+    "categoryId": "02_psychology_growth",
+    "title": "沒時間化妝：飛行醫生撼動人心的故事",
+    "author": "伊莉莎白．格林醫生",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-113.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-114",
+    "categoryId": "02_psychology_growth",
+    "title": "50歲後，當自己生命執行長的七堂課",
+    "author": "傑西哥",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-114.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-115",
+    "categoryId": "02_psychology_growth",
+    "title": "停止精神內耗：Google提倡的64個微型正念，遠離煩躁情緒的練習",
+    "author": "荻野淳也",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-115.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-116",
+    "categoryId": "02_psychology_growth",
+    "title": "改變人生的說話術：榮登韓國教保文庫自我成長類暢銷榜第1名!如何用一句話贏得信任，創造機會",
+    "author": "崔映準",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-116.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-117",
+    "categoryId": "02_psychology_growth",
+    "title": "第一顆藥：從成癮到離癮，犯罪心理學家的第一手研究，看見藥物與執念之間的心理缺口",
+    "author": "戴伸峰",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-117.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-118",
+    "categoryId": "02_psychology_growth",
+    "title": "更深的靜觀：正念8週靜心計畫創始人的全新感受調子課",
+    "author": "丹尼．潘曼,馬克．威廉斯",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-118.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-119",
+    "categoryId": "02_psychology_growth",
+    "title": "失控的同理心：當「感同身受」被操弄為集體暴力與情感勒索，你必須學會收放同理心!",
+    "author": "池田清彥",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-119.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-120",
+    "categoryId": "02_psychology_growth",
+    "title": "看穿內心情緒的行為暗示心理學(暢銷特藏版)：頂尖心理學家證實，99%人能看透的50招讀心術",
+    "author": "內藤誼人",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-120.json"
+  },
+  {
+    "id": "03_natural_science-20260718-51",
+    "categoryId": "03_natural_science",
+    "title": "超級電容器儲能材料、裝置與應用",
+    "author": "張海濤",
+    "file": "Books/03_natural_science/03_natural_science-20260718-51.json"
+  },
+  {
+    "id": "03_natural_science-20260718-52",
+    "categoryId": "03_natural_science",
+    "title": "與花方作譜，宋代植物譜錄循跡：入詩、入畫也入口，花花草草如何擄獲宋人芳心?",
+    "author": "[日]久保輝幸 著羅桂環 主編",
+    "file": "Books/03_natural_science/03_natural_science-20260718-52.json"
+  },
+  {
+    "id": "03_natural_science-20260718-53",
+    "categoryId": "03_natural_science",
+    "title": "透視「進化論」(上下冊)",
+    "author": "大紀元《透視「進化論」》寫作組",
+    "file": "Books/03_natural_science/03_natural_science-20260718-53.json"
+  },
+  {
+    "id": "03_natural_science-20260718-54",
+    "categoryId": "03_natural_science",
+    "title": "世界建築圖鑑：從古文明到3D列印，跨越時代的建築美學與技術革新 人人伽利略43",
+    "author": "日本Newton Press",
+    "file": "Books/03_natural_science/03_natural_science-20260718-54.json"
+  },
+  {
+    "id": "03_natural_science-20260718-55",
+    "categoryId": "03_natural_science",
+    "title": "解藥：改變生命的八種創新藥物",
+    "author": "包惠霖",
+    "file": "Books/03_natural_science/03_natural_science-20260718-55.json"
+  },
+  {
+    "id": "03_natural_science-20260718-56",
+    "categoryId": "03_natural_science",
+    "title": "宇宙的邊界到底在哪?黑洞不是終點，而是我們與星空之間的開端",
+    "author": "姚建明",
+    "file": "Books/03_natural_science/03_natural_science-20260718-56.json"
+  },
+  {
+    "id": "03_natural_science-20260718-57",
+    "categoryId": "03_natural_science",
+    "title": "森林祕境：生物學家的自然觀察年誌(自然寫作經典，長銷慶功版，隨書附贈限量精美2026年曆小卡)",
+    "author": "大衛．喬治．哈思克",
+    "file": "Books/03_natural_science/03_natural_science-20260718-57.json"
+  },
+  {
+    "id": "03_natural_science-20260718-58",
+    "categoryId": "03_natural_science",
+    "title": "雜草管理學(第1版)",
+    "author": "王慶裕",
+    "file": "Books/03_natural_science/03_natural_science-20260718-58.json"
+  },
+  {
+    "id": "03_natural_science-20260718-59",
+    "categoryId": "03_natural_science",
+    "title": "臺灣民族植物圖鑑(增訂版)",
+    "author": "楊智凱,鍾明哲",
+    "file": "Books/03_natural_science/03_natural_science-20260718-59.json"
+  },
+  {
+    "id": "03_natural_science-20260718-60",
+    "categoryId": "03_natural_science",
+    "title": "學驗思：文化承啟與科學教育",
+    "author": "劉源俊　著",
+    "file": "Books/03_natural_science/03_natural_science-20260718-60.json"
+  },
+  {
+    "id": "04_healthcare-20260718-26",
+    "categoryId": "04_healthcare",
+    "title": "日落之那邊：通路導向的癌症精準治療與康復新思維",
+    "author": "翁一鳴",
+    "file": "Books/04_healthcare/04_healthcare-20260718-26.json"
+  },
+  {
+    "id": "04_healthcare-20260718-27",
+    "categoryId": "04_healthcare",
+    "title": "元氣滿滿!漫畫養生小日常",
+    "author": "石韋 著",
+    "file": "Books/04_healthcare/04_healthcare-20260718-27.json"
+  },
+  {
+    "id": "04_healthcare-20260718-28",
+    "categoryId": "04_healthcare",
+    "title": "《金匱要略》內科臨床學：從教室走向臨床之路",
+    "author": "張永明",
+    "file": "Books/04_healthcare/04_healthcare-20260718-28.json"
+  },
+  {
+    "id": "04_healthcare-20260718-29",
+    "categoryId": "04_healthcare",
+    "title": "內在時鐘：從癌症到憂鬱症，從學童困境到工殤意外，生理時鐘失調的最新研究與改善之道",
+    "author": "琳恩．皮普爾斯",
+    "file": "Books/04_healthcare/04_healthcare-20260718-29.json"
+  },
+  {
+    "id": "04_healthcare-20260718-30",
+    "categoryId": "04_healthcare",
+    "title": "一按就通!圖解經絡按摩全書：按對穴位，百病自癒",
+    "author": "謝文英",
+    "file": "Books/04_healthcare/04_healthcare-20260718-30.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-26",
+    "categoryId": "05_food_wellness",
+    "title": "吃貨筆記。：孤獨的美食家松重豐的人生美味清單",
+    "author": "松重豐",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-26.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-27",
+    "categoryId": "05_food_wellness",
+    "title": "素菜素湯 對症食療X養生滋補：素食與非素食者都需要，38道燉補湯品，48道藥膳素饌，讓你用美味保養自己",
+    "author": "彭惠婧,林勃攸,璞真奕睿影像工作室,高鈴蘭",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-27.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-28",
+    "categoryId": "05_food_wellness",
+    "title": "素菜素湯 樸實家常X歡喜宴客：素食與非素食者都需要，90道經典素食料理，宴客或在家吃，皆大歡喜",
+    "author": "彭惠婧,林勃攸,璞真奕睿影像工作室,高鈴蘭",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-28.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-29",
+    "categoryId": "05_food_wellness",
+    "title": "Buvons Nature 喝自然.葡萄酒生活誌no2：飄浮酵母花&台味下酒菜",
+    "author": "喝自然團隊,林裕森",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-29.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-30",
+    "categoryId": "05_food_wellness",
+    "title": "【博客來獨家套書】大象主廚教你【會開瓦斯就會煮】(1)~(3)套書三冊",
+    "author": "大象主廚",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-30.json"
+  },
+  {
+    "id": "06_computer_info-20260718-26",
+    "categoryId": "06_computer_info",
+    "title": "從 Pythonista 到 Rustacean：資料從業者的第一本 Rust 指南",
+    "author": "顏志穎",
+    "file": "Books/06_computer_info/06_computer_info-20260718-26.json"
+  },
+  {
+    "id": "06_computer_info-20260718-27",
+    "categoryId": "06_computer_info",
+    "title": "最紮實的基礎 - 使用PyTorch X Transformer X Hugging Face實作大模型",
+    "author": "凌峰",
+    "file": "Books/06_computer_info/06_computer_info-20260718-27.json"
+  },
+  {
+    "id": "06_computer_info-20260718-28",
+    "categoryId": "06_computer_info",
+    "title": "Python 大數據專案 X 工程 X 產品 資料工程師的升級攻略(第三版)",
+    "author": "林子軒",
+    "file": "Books/06_computer_info/06_computer_info-20260718-28.json"
+  },
+  {
+    "id": "06_computer_info-20260718-29",
+    "categoryId": "06_computer_info",
+    "title": "AI Agent智能工作流：設計與自動化全實戰",
+    "author": "亨利羊(楊皓霖)",
+    "file": "Books/06_computer_info/06_computer_info-20260718-29.json"
+  },
+  {
+    "id": "06_computer_info-20260718-30",
+    "categoryId": "06_computer_info",
+    "title": "深度探索Go語言：物件模型與runtime的原理特性及應用(好評熱銷版)",
+    "author": "封幼林",
+    "file": "Books/06_computer_info/06_computer_info-20260718-30.json"
+  },
+  {
+    "id": "07_other-20260718-26",
+    "categoryId": "07_other",
+    "title": "法西斯如何運作：劃分「我們」與「他們」的政治操弄",
+    "author": "傑森‧史丹利",
+    "file": "Books/07_other/07_other-20260718-26.json"
+  },
+  {
+    "id": "07_other-20260718-27",
+    "categoryId": "07_other",
+    "title": "另一種影像敘事：一個可能的攝影理論【約翰‧伯格百年誕辰紀念版】",
+    "author": "尚‧摩爾,約翰‧伯格",
+    "file": "Books/07_other/07_other-20260718-27.json"
+  },
+  {
+    "id": "07_other-20260718-28",
+    "categoryId": "07_other",
+    "title": "黑麥王國：從艱苦和飢餓中誕生的俄羅斯滋味",
+    "author": "達拉．戈德斯坦",
+    "file": "Books/07_other/07_other-20260718-28.json"
+  },
+  {
+    "id": "07_other-20260718-29",
+    "categoryId": "07_other",
+    "title": "淪陷時期香港史雜談",
+    "author": "鄭明仁",
+    "file": "Books/07_other/07_other-20260718-29.json"
+  },
+  {
+    "id": "07_other-20260718-30",
+    "categoryId": "07_other",
+    "title": "莫道細微(精裝)：明代政治制度再思",
+    "author": "吳振漢",
+    "file": "Books/07_other/07_other-20260718-30.json"
+  },
+  {
+    "id": "01_business_startup-20260718-121",
+    "categoryId": "01_business_startup",
+    "title": "康樂股漲的日股奇妙冒險：體驗食衣住行，布局優質日股!CIIA國際投資分析師的投資筆記",
+    "author": "康樂股漲",
+    "file": "Books/01_business_startup/01_business_startup-20260718-121.json"
+  },
+  {
+    "id": "01_business_startup-20260718-122",
+    "categoryId": "01_business_startup",
+    "title": "股市小白也能學會 3年賺5,000萬的 MACD趨勢線投資",
+    "author": "桂陽",
+    "file": "Books/01_business_startup/01_business_startup-20260718-122.json"
+  },
+  {
+    "id": "01_business_startup-20260718-123",
+    "categoryId": "01_business_startup",
+    "title": "蒙格之道：關於投資、閱讀、工作與幸福的普通常識",
+    "author": "查理．蒙格 RanRan",
+    "file": "Books/01_business_startup/01_business_startup-20260718-123.json"
+  },
+  {
+    "id": "01_business_startup-20260718-124",
+    "categoryId": "01_business_startup",
+    "title": "一年投資5分鐘：打造每月3萬被動收入，免看盤、不選股的最強小資理財法",
+    "author": "陳逸朴（小資YP）",
+    "file": "Books/01_business_startup/01_business_startup-20260718-124.json"
+  },
+  {
+    "id": "01_business_startup-20260718-125",
+    "categoryId": "01_business_startup",
+    "title": "刷新你的金錢腦【財富自由5階梯實戰祕笈】：你以為的財富自由可能是錯的?扭轉心態與習慣，懂得花錢、聰明投資，中產上班族也能7年滾出3,800萬元",
+    "author": "潔米菈．蘇夫蘭 鄭煥昇",
+    "file": "Books/01_business_startup/01_business_startup-20260718-125.json"
+  },
+  {
+    "id": "01_business_startup-20260718-126",
+    "categoryId": "01_business_startup",
+    "title": "華爾街操盤手的暴富公式：戒掉選股，靠「耍廢投資」就能讓資產翻倍",
+    "author": "大衛．葛芬（David Gaffen） 李璞良",
+    "file": "Books/01_business_startup/01_business_startup-20260718-126.json"
+  },
+  {
+    "id": "01_business_startup-20260718-127",
+    "categoryId": "01_business_startup",
+    "title": "【漫畫版】不炒股、不投機，1年賺1億：跟世界富豪學「實體投資法」，從負債3,400萬到上億資產的逆轉故事",
+    "author": "戶塚真由子 周若珍 蒼井アオ",
+    "file": "Books/01_business_startup/01_business_startup-20260718-127.json"
+  },
+  {
+    "id": "01_business_startup-20260718-128",
+    "categoryId": "01_business_startup",
+    "title": "翻轉月光焦慮的理財必修課：投資，是存給自己的安全感。用ETF搭配科技基金，打造3年獲利100%、資產翻倍的安心財務計畫",
+    "author": "詹璇依",
+    "file": "Books/01_business_startup/01_business_startup-20260718-128.json"
+  },
+  {
+    "id": "01_business_startup-20260718-129",
+    "categoryId": "01_business_startup",
+    "title": "投資的底層邏輯：高人氣EMBA財富管理課，帶你精準抓對全球趨勢",
+    "author": "陳超",
+    "file": "Books/01_business_startup/01_business_startup-20260718-129.json"
+  },
+  {
+    "id": "01_business_startup-20260718-130",
+    "categoryId": "01_business_startup",
+    "title": "價值投資翻身筆記：5大穩健理財觀念 × 年化報酬率50%投資心法，30歲前達成買房目標!",
+    "author": "Kelvin價值投資",
+    "file": "Books/01_business_startup/01_business_startup-20260718-130.json"
+  },
+  {
+    "id": "01_business_startup-20260718-131",
+    "categoryId": "01_business_startup",
+    "title": "我畢業五年，用ETF賺到400萬：每月1,000元就能開始!不用兼差斜槓，兩檔ETF投資組合，年賺20%以上",
+    "author": "PG財經筆記",
+    "file": "Books/01_business_startup/01_business_startup-20260718-131.json"
+  },
+  {
+    "id": "01_business_startup-20260718-132",
+    "categoryId": "01_business_startup",
+    "title": "工程師勳仔40歲前退休計畫：指數節稅多元收益投資法 低風險避開0050正2盲點",
+    "author": "勳仔",
+    "file": "Books/01_business_startup/01_business_startup-20260718-132.json"
+  },
+  {
+    "id": "01_business_startup-20260718-133",
+    "categoryId": "01_business_startup",
+    "title": "投機狂潮!查爾斯.麥凱談群眾的幻想與瘋狂：古典金融史×現代投資心理×日常防泡沫判斷，看懂人們如何把希望當成真相",
+    "author": "[英]查爾斯．麥凱（Charles Mackay）伊莉莎 編譯",
+    "file": "Books/01_business_startup/01_business_startup-20260718-133.json"
+  },
+  {
+    "id": "01_business_startup-20260718-134",
+    "categoryId": "01_business_startup",
+    "title": "散戶交易天才15萬滾10億的最強短線操作攻略：四次實戰投資大賽冠軍的低風險獲利公式，股市震盪也能猛賺不賠",
+    "author": "洪仁基 張鑫莉",
+    "file": "Books/01_business_startup/01_business_startup-20260718-134.json"
+  },
+  {
+    "id": "01_business_startup-20260718-135",
+    "categoryId": "01_business_startup",
+    "title": "錢進AI人形機器人大時代：從 AI核心技術到供應鏈全解析，掌握投資市場與全球ETF趨勢",
+    "author": "蕭毅豪",
+    "file": "Books/01_business_startup/01_business_startup-20260718-135.json"
+  },
+  {
+    "id": "01_business_startup-20260718-136",
+    "categoryId": "01_business_startup",
+    "title": "用一本書詳解實戰 MACD交易技術：透過150張圖表， 投資新手學會85%勝率指標，增加賺錢機會",
+    "author": "韓雷",
+    "file": "Books/01_business_startup/01_business_startup-20260718-136.json"
+  },
+  {
+    "id": "01_business_startup-20260718-137",
+    "categoryId": "01_business_startup",
+    "title": "破框投資，照著做就能富：八大破框武器，不論是低薪、小資或準退休族，都能靠台股、美股、ETF，翻轉人生。",
+    "author": "陳詩慧",
+    "file": "Books/01_business_startup/01_business_startup-20260718-137.json"
+  },
+  {
+    "id": "01_business_startup-20260718-138",
+    "categoryId": "01_business_startup",
+    "title": "哲哲的ETF投資絕學：「下殺買、上漲賣」，左側交易 讓我從賠500萬到賺1151萬!",
+    "author": "郭哲榮",
+    "file": "Books/01_business_startup/01_business_startup-20260718-138.json"
+  },
+  {
+    "id": "01_business_startup-20260718-139",
+    "categoryId": "01_business_startup",
+    "title": "如何賺高股息 ETF及科技基金：3年獲利100%的紀律投資術!",
+    "author": "詹璇依",
+    "file": "Books/01_business_startup/01_business_startup-20260718-139.json"
+  },
+  {
+    "id": "01_business_startup-20260718-140",
+    "categoryId": "01_business_startup",
+    "title": "每月1000元，輕鬆滾出千萬的雞尾酒投資法：6步驟打造資產自動增值系統，通膨時代也能財務自由",
+    "author": "米安．薩米Mian Sami 林信帆",
+    "file": "Books/01_business_startup/01_business_startup-20260718-140.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-121",
+    "categoryId": "02_psychology_growth",
+    "title": "{柳林經典 傾聽內心}柳林風聲+蛤蟆先生去看心理師 雙書附：諮商心理師獨家撰寫「角色問候卡」",
+    "author": "羅伯‧狄保德 肯尼斯‧葛拉罕 郭漁 張美惠 Dinner illustration",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-121.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-122",
+    "categoryId": "02_psychology_growth",
+    "title": "柳林風聲：年度暢銷書《蛤蟆先生去看心理師》故事原型，英國百年經典文學之作",
+    "author": "肯尼斯．葛拉罕 郭漁 Dinner illustration",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-122.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-123",
+    "categoryId": "02_psychology_growth",
+    "title": "【旅行特別版】蛤蟆先生去看心理師(暢銷500萬冊!英國心理諮商經典，附《蛤蟆先生旅遊去萬用卡片》)",
+    "author": "羅伯‧狄保德 張美惠 Dinner Illustration",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-123.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-124",
+    "categoryId": "02_psychology_growth",
+    "title": "【蛤蟆的冒險生活.心理三部曲】柳林風聲+河岸風景+蛤蟆先生去看心理師",
+    "author": "姬吉．強森 羅伯．狄保德 肯尼斯．葛拉罕 郭漁 張美惠 林婉婷 Dinner illustration",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-124.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-125",
+    "categoryId": "02_psychology_growth",
+    "title": "諮商與心理治療(第三版)",
+    "author": "Richard S. Sharf 林延叡 羅幼瓊 葉怡寧 馬長齡",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-125.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-126",
+    "categoryId": "02_psychology_growth",
+    "title": "悲傷輔導與悲傷治療：心理衛生實務工作者手冊(第五版)",
+    "author": "J. William Worden 張玉仕 李開敏 林方皓 葛書倫",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-126.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-127",
+    "categoryId": "02_psychology_growth",
+    "title": "瘦一輩子的本事：心理學權威的10堂知心瘦身課，跳出飲食陷阱，跟減不完的肥說ByeBye",
+    "author": "茱蒂絲．貝克 黛布拉．貝克．布西斯 劉佳澐",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-127.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-128",
+    "categoryId": "02_psychology_growth",
+    "title": "人間遊戲：「PAC模型」⤫ 36種日常心理遊戲，洞悉人的性格與心理狀態，迅速和各種人有效地互動〈人際溝通分析之父艾瑞克.伯恩經典著作〉",
+    "author": "艾瑞克．伯恩 林曉欽",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-128.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-129",
+    "categoryId": "02_psychology_growth",
+    "title": "沙發上的心理治療：圖繪治療師與個案的三階段療程故事，看見改變的發生",
+    "author": "菲莉帕．派瑞 陳莉淋 弗洛．派瑞（Flo Perry）",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-129.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-130",
+    "categoryId": "02_psychology_growth",
+    "title": "每個人都想學的焦慮課【全新修訂版】：用認知行為療法擺脫社交恐懼、黑暗心理、憂慮壓力，學習善待自己(附《焦慮自助練習本》)",
+    "author": "亞倫．T．貝克 大衛．A．克拉克 陳莉淋",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-130.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-131",
+    "categoryId": "02_psychology_growth",
+    "title": "完形諮商與心理治療技術",
+    "author": "Phil Joyce & Charlotte Sills 張莉莉",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-131.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-132",
+    "categoryId": "02_psychology_growth",
+    "title": "有病的其實是我媽，卻要我去諮商：寫給青少年和家長的心理圖文書",
+    "author": "大衛・古席翁 穆佐 Geraldine LEE",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-132.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-133",
+    "categoryId": "02_psychology_growth",
+    "title": "守護我的關係心理學：認識4種溝通類型×49個心理圈套，用英國IAPT 10週關愛課程照顧自己",
+    "author": "安潔拉・森 張召儀",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-133.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-134",
+    "categoryId": "02_psychology_growth",
+    "title": "兒童心理創傷後的遊戲治療：實務工作者應該知道的事：實務工作者應該知道的事",
+    "author": "Eliana Gil 陳信昭 陳宏儒 陳碧玲 自然就好心理諮商所",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-134.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-135",
+    "categoryId": "02_psychology_growth",
+    "title": "諮商與心理治療倫理：準則、研究與新興議題(2020年全新修訂版)",
+    "author": "Elizabeth Reynolds Welfel 廖宗慈 楊雅婷 王文秀 蔡欣憓 鍾榕芳 陳俊言",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-135.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-136",
+    "categoryId": "02_psychology_growth",
+    "title": "EMDR應用於兒童心理治療之藝術 [第二版]",
+    "author": "卡洛琳．賽圖 羅比·阿德勒－塔皮亞 余芊慧 朱品潔 楊雅婷 謝馨儀 陳美秀",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-136.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-137",
+    "categoryId": "02_psychology_growth",
+    "title": "沙游：通往靈性的心理治療取向(2版)",
+    "author": "Dora M. Kalff 朱惠英 黃宗堅",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-137.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-138",
+    "categoryId": "02_psychology_growth",
+    "title": "不和別人比較的自信心理學：卸下重重心防，用愛化解比較心態，與內在的三個自我和解",
+    "author": "伊蓮．N．艾倫 蔡心語",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-138.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-139",
+    "categoryId": "02_psychology_growth",
+    "title": "老人心理諮商與輔導",
+    "author": "Morley D. Glicken＝ 周鉦翔 李昆樺 陳佑昇等",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-139.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-140",
+    "categoryId": "02_psychology_growth",
+    "title": "心理投射技巧分析",
+    "author": "Robert C. Burns 梁漢華，黃燦瑛",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-140.json"
+  },
+  {
+    "id": "03_natural_science-20260718-61",
+    "categoryId": "03_natural_science",
+    "title": "科學實驗王第二部10：生物科技與遺傳學",
+    "author": "Story a. 徐月珠 洪鐘賢",
+    "file": "Books/03_natural_science/03_natural_science-20260718-61.json"
+  },
+  {
+    "id": "03_natural_science-20260718-62",
+    "categoryId": "03_natural_science",
+    "title": "科學發明王43：電能對決",
+    "author": "Gomdori co 許葳 洪鐘賢",
+    "file": "Books/03_natural_science/03_natural_science-20260718-62.json"
+  },
+  {
+    "id": "03_natural_science-20260718-63",
+    "categoryId": "03_natural_science",
+    "title": "【實驗王特輯】科學實驗王理科關鍵字2：生物(一)附資優學習單",
+    "author": "Story a. 徐月珠 洪鐘賢（Hong-Jong Hyun）",
+    "file": "Books/03_natural_science/03_natural_science-20260718-63.json"
+  },
+  {
+    "id": "03_natural_science-20260718-64",
+    "categoryId": "03_natural_science",
+    "title": "哆啦A夢科學任意門27：自由飛翔航空器",
+    "author": "漫畫／藤子．F．不二雄 編撰／日本小學館 游韻馨",
+    "file": "Books/03_natural_science/03_natural_science-20260718-64.json"
+  },
+  {
+    "id": "03_natural_science-20260718-65",
+    "categoryId": "03_natural_science",
+    "title": "科學發明王42：打掃神器",
+    "author": "Gomdori co 許葳 洪鐘賢（홍종현）",
+    "file": "Books/03_natural_science/03_natural_science-20260718-65.json"
+  },
+  {
+    "id": "03_natural_science-20260718-66",
+    "categoryId": "03_natural_science",
+    "title": "哆啦A夢科學任意門26：科學入門魔法環",
+    "author": "日本小學館 藤子．F．不二雄 黃薇嬪",
+    "file": "Books/03_natural_science/03_natural_science-20260718-66.json"
+  },
+  {
+    "id": "03_natural_science-20260718-67",
+    "categoryId": "03_natural_science",
+    "title": "科學實驗王第二部9：氣候危機與碳中和",
+    "author": "Story a. 徐月珠 洪鐘賢（Hong-Jong Hyun）",
+    "file": "Books/03_natural_science/03_natural_science-20260718-67.json"
+  },
+  {
+    "id": "03_natural_science-20260718-68",
+    "categoryId": "03_natural_science",
+    "title": "【實驗王特輯】科學實驗王理科關鍵字1：地球科學(附資優學習單)",
+    "author": "Story a. 徐月珠 洪鐘賢",
+    "file": "Books/03_natural_science/03_natural_science-20260718-68.json"
+  },
+  {
+    "id": "03_natural_science-20260718-69",
+    "categoryId": "03_natural_science",
+    "title": "小學生的第一套科學輕百科：哆啦A夢科學任意門3冊(科學入門魔法環+科學記憶吐司+神奇道具大解密)",
+    "author": "日本小學館 藤子‧F‧不二雄",
+    "file": "Books/03_natural_science/03_natural_science-20260718-69.json"
+  },
+  {
+    "id": "03_natural_science-20260718-70",
+    "categoryId": "03_natural_science",
+    "title": "科學發明王41：多合一功能",
+    "author": "Gomdori co 許葳 洪鐘賢(홍종현)",
+    "file": "Books/03_natural_science/03_natural_science-20260718-70.json"
+  },
+  {
+    "id": "04_healthcare-20260718-31",
+    "categoryId": "04_healthcare",
+    "title": "陳志金 ICU醫師 重症醫療現場 I+II+III 套書(共3本)：勇敢而發真心話+用生命拚的生命+當個更有溫度的人",
+    "author": "陳志金",
+    "file": "Books/04_healthcare/04_healthcare-20260718-31.json"
+  },
+  {
+    "id": "04_healthcare-20260718-32",
+    "categoryId": "04_healthcare",
+    "title": "醫療緊缺的時代，醫師最強的助理──AI：病情告知×家屬溝通×罕見病例×研究選題×SCI論文，讓ChatGPT成為醫療現場的實用助手",
+    "author": "王偉強，馮曉明，壽松濤",
+    "file": "Books/04_healthcare/04_healthcare-20260718-32.json"
+  },
+  {
+    "id": "04_healthcare-20260718-33",
+    "categoryId": "04_healthcare",
+    "title": "臺大醫院減肥班8週燃脂瘦身全書：17位多科醫療專家傳授安全有效營養×運動×心理的健康減重法",
+    "author": "臺大醫院健康教育中心與營養師團隊",
+    "file": "Books/04_healthcare/04_healthcare-20260718-33.json"
+  },
+  {
+    "id": "04_healthcare-20260718-34",
+    "categoryId": "04_healthcare",
+    "title": "ON CALL隨時待命：佛奇醫師回憶錄，一段改變美國與世界公共醫療的關鍵旅程",
+    "author": "安東尼．佛奇醫師 周序諦",
+    "file": "Books/04_healthcare/04_healthcare-20260718-34.json"
+  },
+  {
+    "id": "04_healthcare-20260718-35",
+    "categoryId": "04_healthcare",
+    "title": "健康人的小習慣：全球歷時最久地區比較醫療統計 60年追蹤10000人結果大公開",
+    "author": "大平哲也 林雅惠",
+    "file": "Books/04_healthcare/04_healthcare-20260718-35.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-31",
+    "categoryId": "05_food_wellness",
+    "title": "主廚的療癒餐桌：118盤讓細胞開心的料理",
+    "author": "羅勻吟",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-31.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-32",
+    "categoryId": "05_food_wellness",
+    "title": "食材123!聰明煮好菜：只須1~3樣，用最少的主食材，煮出無需繁複備料的省時料理、美味翻倍的主廚級好料，從此輕鬆上菜!",
+    "author": "楊勝凱 蔡萬利",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-32.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-33",
+    "categoryId": "05_food_wellness",
+    "title": "Superfood!地瓜不簡單：料理點心七十二變，國民美食好吃good!",
+    "author": "拓蔬人料理團隊（施建瑋、蔡長志、曾秀微）",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-33.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-34",
+    "categoryId": "05_food_wellness",
+    "title": "冷菜料理：汆燙、涼拌、冰鎮63道清爽夏日料理【附贈真冰涼~書籤小卡2張，用最簡單的步驟做最好吃料理】",
+    "author": "蓮池陽子 連雪雅",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-34.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-35",
+    "categoryId": "05_food_wellness",
+    "title": "「名店秘製調味料&料理」：跨越法義日中，專業Chef傳授獨家的風味關鍵，帶你深入瞭解星級餐廳色香味的176種秘訣與技巧",
+    "author": "加藤順一 國居 優 岩坪 滋 田村亮介 野田雄紀 音羽 元",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-35.json"
+  },
+  {
+    "id": "06_computer_info-20260718-31",
+    "categoryId": "06_computer_info",
+    "title": "超圖解 Python 程式設計--從入門、網頁應用、YOLO 到生成式 AI 實作",
+    "author": "趙英傑",
+    "file": "Books/06_computer_info/06_computer_info-20260718-31.json"
+  },
+  {
+    "id": "06_computer_info-20260718-32",
+    "categoryId": "06_computer_info",
+    "title": "深入Linux Kernel程式設計：kernel內部原理、模組開發與同步機制(第二版)",
+    "author": "Kaiwan N. Billimoria 廖明沂",
+    "file": "Books/06_computer_info/06_computer_info-20260718-32.json"
+  },
+  {
+    "id": "06_computer_info-20260718-33",
+    "categoryId": "06_computer_info",
+    "title": "內行人才知道的程式設計模式面試指南",
+    "author": "Alex Xu Shaun Gunawardane 藍子軒",
+    "file": "Books/06_computer_info/06_computer_info-20260718-33.json"
+  },
+  {
+    "id": "06_computer_info-20260718-34",
+    "categoryId": "06_computer_info",
+    "title": "Python運算思維: Google Colab x Gemini AI - 「零基礎」x「高效率」學「程式設計」",
+    "author": "洪錦魁",
+    "file": "Books/06_computer_info/06_computer_info-20260718-34.json"
+  },
+  {
+    "id": "06_computer_info-20260718-35",
+    "categoryId": "06_computer_info",
+    "title": "【中小學生必讀】數位未來百科：快速掌握AI、IoT、元宇宙、資訊安全與程式設計，培養創造力與解決問題的能力!",
+    "author": "岡嶋裕史 張嘉芬",
+    "file": "Books/06_computer_info/06_computer_info-20260718-35.json"
+  },
+  {
+    "id": "07_other-20260718-31",
+    "categoryId": "07_other",
+    "title": "圖解易讀版中國歷史年表",
+    "author": "李光欣 ADee",
+    "file": "Books/07_other/07_other-20260718-31.json"
+  },
+  {
+    "id": "07_other-20260718-32",
+    "categoryId": "07_other",
+    "title": "毛澤東時代和後毛澤東時代(1949-2009)：另一種歷史書寫(上、下)",
+    "author": "錢理群",
+    "file": "Books/07_other/07_other-20260718-32.json"
+  },
+  {
+    "id": "07_other-20260718-33",
+    "categoryId": "07_other",
+    "title": "圖解易讀版臺灣歷史年表",
+    "author": "陳映勳 ADee",
+    "file": "Books/07_other/07_other-20260718-33.json"
+  },
+  {
+    "id": "07_other-20260718-34",
+    "categoryId": "07_other",
+    "title": "歐美近代史原來很有事(3冊合售)：OSSO~歐美近代史原來很有事+這樣的歷史課我可以+世界是怎麼長成現在的樣子",
+    "author": "吳宜蓉",
+    "file": "Books/07_other/07_other-20260718-34.json"
+  },
+  {
+    "id": "07_other-20260718-35",
+    "categoryId": "07_other",
+    "title": "一本就懂【歷史的轉換期】：全新手繪人物插畫、地圖，輕鬆跨越2200年歷史長河",
+    "author": "歷史的轉換期譯者群 世界の転換期を知る11章編集部",
+    "file": "Books/07_other/07_other-20260718-35.json"
+  },
+  {
+    "id": "01_business_startup-20260718-141",
+    "categoryId": "01_business_startup",
+    "title": "矽谷創投啟示錄：一場由離經叛道的金融家所發起的瘋狂投資遊戲，如何徹底顛覆你我的生活、工作與娛樂方式",
+    "author": "塞巴斯蒂安‧馬拉比 曹嬿恆 林怡婷",
+    "file": "Books/01_business_startup/01_business_startup-20260718-141.json"
+  },
+  {
+    "id": "01_business_startup-20260718-142",
+    "categoryId": "01_business_startup",
+    "title": "頂尖操盤手的美股攻略大全：價值投資╳財報分析╳選股策略，全面解析獲利法則",
+    "author": "紐約居民",
+    "file": "Books/01_business_startup/01_business_startup-20260718-142.json"
+  },
+  {
+    "id": "01_business_startup-20260718-143",
+    "categoryId": "01_business_startup",
+    "title": "一本書讀懂匯率： 44個匯率關鍵概念，看懂全球經濟脈動，做對投資理財決策",
+    "author": "盧泳佑 趙慶燁 陳柏蓁",
+    "file": "Books/01_business_startup/01_business_startup-20260718-143.json"
+  },
+  {
+    "id": "01_business_startup-20260718-144",
+    "categoryId": "01_business_startup",
+    "title": "非理性效應：行為金融學家專家帶你洞悉人性本能，突破投資盲點",
+    "author": "丹尼爾．克羅斯比 陳重亨",
+    "file": "Books/01_business_startup/01_business_startup-20260718-144.json"
+  },
+  {
+    "id": "01_business_startup-20260718-145",
+    "categoryId": "01_business_startup",
+    "title": "通膨時代的投資思維：長銷20年股市經典!法人交易員揭露市場心理與超額報酬原則",
+    "author": "田渕直也",
+    "file": "Books/01_business_startup/01_business_startup-20260718-145.json"
+  },
+  {
+    "id": "01_business_startup-20260718-146",
+    "categoryId": "01_business_startup",
+    "title": "正念財務自由計畫：結合禪的智慧與財商素養，從記帳、呼吸到投資，7週輕鬆打造一輩子不為錢煩惱的致富心態",
+    "author": "7美元百萬富翁 呂佩憶",
+    "file": "Books/01_business_startup/01_business_startup-20260718-146.json"
+  },
+  {
+    "id": "01_business_startup-20260718-147",
+    "categoryId": "01_business_startup",
+    "title": "投資前最重要的事",
+    "author": "班‧卡爾森 陳儀",
+    "file": "Books/01_business_startup/01_business_startup-20260718-147.json"
+  },
+  {
+    "id": "01_business_startup-20260718-148",
+    "categoryId": "01_business_startup",
+    "title": "超級散戶的獲利模式：韓國股票投資大會冠軍的實戰交易法，短中長線都能賺!(二版)",
+    "author": "南錫官 蔡佩君",
+    "file": "Books/01_business_startup/01_business_startup-20260718-148.json"
+  },
+  {
+    "id": "01_business_startup-20260718-149",
+    "categoryId": "01_business_startup",
+    "title": "頂尖財務顧問的48堂財商素養課：收支X保險X投資，人生4階段富足全攻略",
+    "author": "洪哲茗 邱茂恒",
+    "file": "Books/01_business_startup/01_business_startup-20260718-149.json"
+  },
+  {
+    "id": "01_business_startup-20260718-150",
+    "categoryId": "01_business_startup",
+    "title": "美股投資大週期：從關稅、美債、升降息到AI浪潮，解讀川普2.0時代的致富訊號",
+    "author": "成尚泫 呂昀蔚",
+    "file": "Books/01_business_startup/01_business_startup-20260718-150.json"
+  },
+  {
+    "id": "01_business_startup-20260718-151",
+    "categoryId": "01_business_startup",
+    "title": "隱性財富：掌控市場變局的6大事件投資法",
+    "author": "艾席夫．蘇利亞 呂佩憶",
+    "file": "Books/01_business_startup/01_business_startup-20260718-151.json"
+  },
+  {
+    "id": "01_business_startup-20260718-152",
+    "categoryId": "01_business_startup",
+    "title": "法拍屋實戰寶典【暢銷萬冊紀念】：法拍教父黃正雄教你投資法拍賺千萬",
+    "author": "黃正雄",
+    "file": "Books/01_business_startup/01_business_startup-20260718-152.json"
+  },
+  {
+    "id": "01_business_startup-20260718-153",
+    "categoryId": "01_business_startup",
+    "title": "先鋒榮譽董事長談投資：精煉40年投資智慧，關於儲蓄、複利和人生的致富金律",
+    "author": "傑克‧布倫南 約翰‧沃斯 吳書榆",
+    "file": "Books/01_business_startup/01_business_startup-20260718-153.json"
+  },
+  {
+    "id": "01_business_startup-20260718-154",
+    "categoryId": "01_business_startup",
+    "title": "3天搞懂權證買賣(最新增訂版)：1000元就能投資，獲利最多15倍，存款簿多一個0!",
+    "author": "梁亦鴻",
+    "file": "Books/01_business_startup/01_business_startup-20260718-154.json"
+  },
+  {
+    "id": "01_business_startup-20260718-155",
+    "categoryId": "01_business_startup",
+    "title": "諸葛亮的買進投資日記：我用程式科學，躺賺存股、期貨、加密貨幣、ETF 的獲利公式!",
+    "author": "JH 諸葛亮",
+    "file": "Books/01_business_startup/01_business_startup-20260718-155.json"
+  },
+  {
+    "id": "01_business_startup-20260718-156",
+    "categoryId": "01_business_startup",
+    "title": "小資理財90秒【圖卡小劇場】：一看就懂的新手理財課，學會「儲蓄+保險+投資」，擺脫窮忙、存到第一桶金",
+    "author": "趙柏凱",
+    "file": "Books/01_business_startup/01_business_startup-20260718-156.json"
+  },
+  {
+    "id": "01_business_startup-20260718-157",
+    "categoryId": "01_business_startup",
+    "title": "【圖解】地表最簡單的利率教科書：想讀懂財經新聞、掌握經濟趨勢、投資理財不犯錯，你要先學會利率!",
+    "author": "角川總一 方瑜",
+    "file": "Books/01_business_startup/01_business_startup-20260718-157.json"
+  },
+  {
+    "id": "01_business_startup-20260718-158",
+    "categoryId": "01_business_startup",
+    "title": "元趨勢投資：找出未來狂漲十倍、百倍的潛力股",
+    "author": "中島聰 林佩瑾",
+    "file": "Books/01_business_startup/01_business_startup-20260718-158.json"
+  },
+  {
+    "id": "01_business_startup-20260718-159",
+    "categoryId": "01_business_startup",
+    "title": "技術分析大師的心理操盤術：拆解李佛摩、巴菲特等投資大師的常勝心法，避開買賣決策的情緒陷阱",
+    "author": "馬丁．普林 呂佩憶",
+    "file": "Books/01_business_startup/01_business_startup-20260718-159.json"
+  },
+  {
+    "id": "01_business_startup-20260718-160",
+    "categoryId": "01_business_startup",
+    "title": "護城河投資優勢：巴菲特獲利的唯一法則",
+    "author": "派特‧多爾西 黃嘉斌",
+    "file": "Books/01_business_startup/01_business_startup-20260718-160.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-141",
+    "categoryId": "02_psychology_growth",
+    "title": "逆思維：華頓商學院最具影響力的教授，突破人生盲點的全局思考",
+    "author": "亞當．格蘭特 簡秀如",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-141.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-142",
+    "categoryId": "02_psychology_growth",
+    "title": "我，刀槍不入：從街頭魯蛇到海豹突擊隊，掌控心智、力抗萬難的奇蹟",
+    "author": "大衛・哥金斯 甘鎮隴",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-142.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-143",
+    "categoryId": "02_psychology_growth",
+    "title": "隱性潛能：華頓商學院最具影響力教授，突破天賦極限的實證科學【附潛能提升秘訣卡】",
+    "author": "亞當．格蘭特 洪慧芳",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-143.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-144",
+    "categoryId": "02_psychology_growth",
+    "title": "超速學習：我這樣做，一個月學會素描，一年學會四種語言，完成MIT四年課程",
+    "author": "史考特‧楊 林慈敏",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-144.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-145",
+    "categoryId": "02_psychology_growth",
+    "title": "打造你要的人生：歐普拉與哈佛教授談「更幸福」的藝術與科學",
+    "author": "亞瑟．布魯克斯 歐普拉．溫弗蕾 鍾玉玨",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-145.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-146",
+    "categoryId": "02_psychology_growth",
+    "title": "6分鐘日記的魔法：最簡單的書寫，改變你的一生【1書+1日記本】",
+    "author": "多明尼克．斯賓斯特 吳宜蓁",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-146.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-147",
+    "categoryId": "02_psychology_growth",
+    "title": "換框思維力：把OS轉成SO，不內耗不糾結，重啟人生只需改變視角",
+    "author": "賴婷婷",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-147.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-148",
+    "categoryId": "02_psychology_growth",
+    "title": "第二座山：當世俗成就不再滿足你，你要如何為生命找到意義?",
+    "author": "大衛．布魯克斯 廖建容",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-148.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-149",
+    "categoryId": "02_psychology_growth",
+    "title": "來談談那些痛苦的事吧!：商務人士的父親為孩子所寫下的「工作本質」!",
+    "author": "森岡毅 陳亦苓",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-149.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-150",
+    "categoryId": "02_psychology_growth",
+    "title": "與成功有約最後一堂課：柯維的向上心態",
+    "author": "史蒂芬．柯維 辛希雅．柯維．海勒 顧淑馨",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-150.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-151",
+    "categoryId": "02_psychology_growth",
+    "title": "生存的12條法則：當代最具影響力的公共知識分子，對混亂生活開出的解方",
+    "author": "喬登．彼得森 何雪綾 劉思潔",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-151.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-152",
+    "categoryId": "02_psychology_growth",
+    "title": "第3選擇：解決人生所有難題的關鍵思維",
+    "author": "史蒂芬．柯維 姜雪影 蘇偉信",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-152.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-153",
+    "categoryId": "02_psychology_growth",
+    "title": "越工作越自由：最大的探索，最豐盛的人生(全新探索版)",
+    "author": "Emily Liu",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-153.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-154",
+    "categoryId": "02_psychology_growth",
+    "title": "挫折逆轉勝：認知×行動×意志，32個聰明應對困境的心理技巧",
+    "author": "萊恩．霍利得 張斐喬",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-154.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-155",
+    "categoryId": "02_psychology_growth",
+    "title": "調校心態：舉起手，伸開5指，跟自己擊掌，做自己最強的啦啦隊!全球千萬網友實證的轉念習慣",
+    "author": "梅爾．羅賓斯 謝佳真",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-155.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-156",
+    "categoryId": "02_psychology_growth",
+    "title": "每天寫一張神可貼，九成願望都能實現!【博客來獨家限量贈夢想便利貼】",
+    "author": "坂下仁 林詠純",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-156.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-157",
+    "categoryId": "02_psychology_growth",
+    "title": "喚醒你心中的大師：偷學48位大師精進的藝術，做個厲害的人",
+    "author": "羅伯．葛林 謝佳真",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-157.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-158",
+    "categoryId": "02_psychology_growth",
+    "title": "起床後的黃金1小時：揭開64位成功人士培養高效率的祕密時光，從他們的創意晨型活動中，建立屬於自己的高生產力、高抗壓生活習慣",
+    "author": "班傑明．史鮑 麥可・桑德 郭庭瑄",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-158.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-159",
+    "categoryId": "02_psychology_growth",
+    "title": "成功的原則",
+    "author": "瑞‧達利歐 諶悠文",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-159.json"
+  },
+  {
+    "id": "02_psychology_growth-20260718-160",
+    "categoryId": "02_psychology_growth",
+    "title": "正確努力法：解鎖高效人生的100個關鍵",
+    "author": "野村礼雄 李婉寧",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20260718-160.json"
+  },
+  {
+    "id": "03_natural_science-20260718-71",
+    "categoryId": "03_natural_science",
+    "title": "爆笑科學王19：煮泡麵要先放麵?還是調味粉?",
+    "author": "辛泰勳 王宥丞 羅承暈",
+    "file": "Books/03_natural_science/03_natural_science-20260718-71.json"
+  },
+  {
+    "id": "03_natural_science-20260718-72",
+    "categoryId": "03_natural_science",
+    "title": "普通兄妹怪奇科學家4：我不要打針",
+    "author": "原著 普通兄妹、作者 安致賢 徐小為 柳蘭姬",
+    "file": "Books/03_natural_science/03_natural_science-20260718-72.json"
+  },
+  {
+    "id": "03_natural_science-20260718-73",
+    "categoryId": "03_natural_science",
+    "title": "普通兄妹怪奇科學家3：春眠不覺曉",
+    "author": "普通兄妹、安致賢 徐小為 柳蘭姬",
+    "file": "Books/03_natural_science/03_natural_science-20260718-73.json"
+  },
+  {
+    "id": "03_natural_science-20260718-74",
+    "categoryId": "03_natural_science",
+    "title": "科學破案王【套書全3冊】：聲音+力+光+電+熱，獨家頭條大公開!(懂點科學就是超級有用!)",
+    "author": "童未 垂垂",
+    "file": "Books/03_natural_science/03_natural_science-20260718-74.json"
+  },
+  {
+    "id": "03_natural_science-20260718-75",
+    "categoryId": "03_natural_science",
+    "title": "紅衣亞可：不讀會危險的科學常識書 1 日常生活中的危機!!!",
+    "author": "原著：紅衣亞可；作者：朴鍾恩 施孝臻 李鈴兒",
+    "file": "Books/03_natural_science/03_natural_science-20260718-75.json"
+  },
+  {
+    "id": "03_natural_science-20260718-76",
+    "categoryId": "03_natural_science",
+    "title": "普通兄妹怪奇科學家2：明天帶雨傘",
+    "author": "安致賢 普通兄妹 徐小為 柳蘭姬（유난희）",
+    "file": "Books/03_natural_science/03_natural_science-20260718-76.json"
+  },
+  {
+    "id": "03_natural_science-20260718-77",
+    "categoryId": "03_natural_science",
+    "title": "普通兄妹怪奇科學家1：味覺大驚奇",
+    "author": "安致賢 普通兄妹 徐小為 柳蘭姬（유난희）",
+    "file": "Books/03_natural_science/03_natural_science-20260718-77.json"
+  },
+  {
+    "id": "03_natural_science-20260718-78",
+    "categoryId": "03_natural_science",
+    "title": "酷哆啦的科學課：什麼是人工智慧",
+    "author": "叁川上 介于",
+    "file": "Books/03_natural_science/03_natural_science-20260718-78.json"
+  },
+  {
+    "id": "03_natural_science-20260718-79",
+    "categoryId": "03_natural_science",
+    "title": "爆笑科學王18：惡犬隱藏的真相",
+    "author": "辛泰勳 方佳琦 羅承暈",
+    "file": "Books/03_natural_science/03_natural_science-20260718-79.json"
+  },
+  {
+    "id": "03_natural_science-20260718-80",
+    "categoryId": "03_natural_science",
+    "title": "酷哆啦的科學課：人工智慧可以做什麼",
+    "author": "叁川上 介于",
+    "file": "Books/03_natural_science/03_natural_science-20260718-80.json"
+  },
+  {
+    "id": "04_healthcare-20260718-36",
+    "categoryId": "04_healthcare",
+    "title": "激素平衡瘦身課(限量附贈【14天代謝調整課表】)：啟動代謝重建，瘦得健康持久",
+    "author": "許書華",
+    "file": "Books/04_healthcare/04_healthcare-20260718-36.json"
+  },
+  {
+    "id": "04_healthcare-20260718-37",
+    "categoryId": "04_healthcare",
+    "title": "看透醫學謊言，找到代謝真相：逆轉肥胖、高血壓、脂肪肝，讓身體健康長壽的自救指南",
+    "author": "羅伯特．勒夫金 丁亦",
+    "file": "Books/04_healthcare/04_healthcare-20260718-37.json"
+  },
+  {
+    "id": "04_healthcare-20260718-38",
+    "categoryId": "04_healthcare",
+    "title": "輕鬆當爸媽，孩子更健康【最新增修版】：超人氣小兒科醫師黃瑽寧教你安心育兒",
+    "author": "黃瑽寧",
+    "file": "Books/04_healthcare/04_healthcare-20260718-38.json"
+  },
+  {
+    "id": "04_healthcare-20260718-39",
+    "categoryId": "04_healthcare",
+    "title": "讀懂身體的訊號：基因醫師教你逆轉健康危機",
+    "author": "張家銘",
+    "file": "Books/04_healthcare/04_healthcare-20260718-39.json"
+  },
+  {
+    "id": "04_healthcare-20260718-40",
+    "categoryId": "04_healthcare",
+    "title": "科學實證有效的休息100招攻略：用最短時間快速提升專注力、恢復體力和身心健康",
+    "author": "加藤浩晃 陳欣如",
+    "file": "Books/04_healthcare/04_healthcare-20260718-40.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-36",
+    "categoryId": "05_food_wellness",
+    "title": "1次煮5天便當：營養師親自設計健康又美味的料理",
+    "author": "阿杉(Osugi) 黃詩婷",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-36.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-37",
+    "categoryId": "05_food_wellness",
+    "title": "肉の料理科學超圖解【暢銷修訂版】 ：大廚不外傳的雞豬牛羊306個部位烹調密技，從選對肉到出好菜一本搞定!",
+    "author": "朝日新聞出版 鄭睿芝",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-37.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-38",
+    "categoryId": "05_food_wellness",
+    "title": "高代謝地中海日常菜：早午餐X便當菜X常備菜，「全球最佳飲食法」75道減醣低卡速簡料理",
+    "author": "謝長鴻（馬可）",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-38.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-39",
+    "categoryId": "05_food_wellness",
+    "title": "貝姬的韓式瘦身微波爐食譜：狂瘦35公斤!100道低熱量、高蛋白、高膳食纖維料理",
+    "author": "貝姬（金炫京） 林季妤",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-39.json"
+  },
+  {
+    "id": "05_food_wellness-20260718-40",
+    "categoryId": "05_food_wellness",
+    "title": "今天煮什麼?：型男主廚吳秉承的百搭美味方程式，活用15種食材╳6種鍋具小家電，教你又快又省錢，搞定一桌超營養料理!",
+    "author": "吳秉承",
+    "file": "Books/05_food_wellness/05_food_wellness-20260718-40.json"
+  },
+  {
+    "id": "06_computer_info-20260718-36",
+    "categoryId": "06_computer_info",
+    "title": "Python零基礎入門班(第五版)：一次打好程式設計、運算思維與邏輯訓練基本功",
+    "author": "鄧君如 總監製/文淵閣工作室 編著",
+    "file": "Books/06_computer_info/06_computer_info-20260718-36.json"
+  },
+  {
+    "id": "06_computer_info-20260718-37",
+    "categoryId": "06_computer_info",
+    "title": "快速精通iOS 26程式設計：從零開始活用Swift與SwiftUI開發技巧",
+    "author": "Simon Ng著 博碩文化 審校 王豪勳 譯",
+    "file": "Books/06_computer_info/06_computer_info-20260718-37.json"
+  },
+  {
+    "id": "06_computer_info-20260718-38",
+    "categoryId": "06_computer_info",
+    "title": "Python程式設計的樂趣|範例實作與專題研究的20堂程式設計課 第三版",
+    "author": "Eric Matthes H&C",
+    "file": "Books/06_computer_info/06_computer_info-20260718-38.json"
+  },
+  {
+    "id": "06_computer_info-20260718-39",
+    "categoryId": "06_computer_info",
+    "title": "邊玩邊學，使用Scratch學習AI程式設計 第二版",
+    "author": "石原淳也、倉本大資著、阿部和広監修 吳嘉芳",
+    "file": "Books/06_computer_info/06_computer_info-20260718-39.json"
+  },
+  {
+    "id": "06_computer_info-20260718-40",
+    "categoryId": "06_computer_info",
+    "title": "機器學習的基礎概論：Python程式設計我也可以成功做到(第1版)",
+    "author": "張任坊 張博一 張紹勳",
+    "file": "Books/06_computer_info/06_computer_info-20260718-40.json"
+  },
+  {
+    "id": "07_other-20260718-36",
+    "categoryId": "07_other",
+    "title": "喵的!歷史哪有那麼難(套書1-3)：(限量贈三國豪傑戰鬥閃卡)夏商周到魏晉南北朝",
+    "author": "白茶",
+    "file": "Books/07_other/07_other-20260718-36.json"
+  },
+  {
+    "id": "07_other-20260718-37",
+    "categoryId": "07_other",
+    "title": "歷史的瞬間：從宋遼金人物談到三寸金蓮",
+    "author": "陶晉生",
+    "file": "Books/07_other/07_other-20260718-37.json"
+  },
+  {
+    "id": "07_other-20260718-38",
+    "categoryId": "07_other",
+    "title": "OKINAWA沖繩二部曲(《砂之劍》+《魂魄 Mabui》，以沖繩視角反映日本二戰後歷史的非虛構漫畫代表作)",
+    "author": "比嘉慂 黃鴻硯",
+    "file": "Books/07_other/07_other-20260718-38.json"
+  },
+  {
+    "id": "07_other-20260718-39",
+    "categoryId": "07_other",
+    "title": "軸心文明與現代社會：探索大歷史的結構(平裝)",
+    "author": "金觀濤",
+    "file": "Books/07_other/07_other-20260718-39.json"
+  },
+  {
+    "id": "07_other-20260718-40",
+    "categoryId": "07_other",
+    "title": "條條大路：羅馬古道與羅馬之旅的歷史探索",
+    "author": "凱瑟琳．芙萊徹 韓翔中",
+    "file": "Books/07_other/07_other-20260718-40.json"
+  }
+]

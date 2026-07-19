@@ -1,0 +1,37 @@
+[
+  {
+    "id": "01_business_startup-20260718-31",
+    "categoryId": "01_business_startup",
+    "title": "洛克菲勒自傳 2版",
+    "author": "洛克菲勒",
+    "file": "Books/01_business_startup/01_business_startup-20260718-31.json"
+  },
+  {
+    "id": "01_business_startup-20260718-32",
+    "categoryId": "01_business_startup",
+    "title": "世界是不平衡的-無所不在的80/20",
+    "author": "帕雷托",
+    "file": "Books/01_business_startup/01_business_startup-20260718-32.json"
+  },
+  {
+    "id": "01_business_startup-20260718-33",
+    "categoryId": "01_business_startup",
+    "title": "讓努力變值錢，巴納姆的二十條致富法則：能力圈×市場位置×信用累積，避開越勤奮越窮困的收入陷阱",
+    "author": "[美]P. T. 巴納姆（P. T. Barnum）著,伊莉莎編譯",
+    "file": "Books/01_business_startup/01_business_startup-20260718-33.json"
+  },
+  {
+    "id": "01_business_startup-20260718-34",
+    "categoryId": "01_business_startup",
+    "title": "人生的五種財富【實作練習本】：打造屬於你的夢想人生，時間、社會、心理、身體、金錢財富，全方位升級",
+    "author": "薩希．布魯姆",
+    "file": "Books/01_business_startup/01_business_startup-20260718-34.json"
+  },
+  {
+    "id": "01_business_startup-20260718-35",
+    "categoryId": "01_business_startup",
+    "title": "從新主管到頂尖主管 實戰版：全球頂尖商學院必讀轉職聖經，九十天完美因應轉職、升遷、空降與接班挑戰",
+    "author": "麥克．瓦金斯",
+    "file": "Books/01_business_startup/01_business_startup-20260718-35.json"
+  }
+]

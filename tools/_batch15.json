@@ -1,0 +1,37 @@
+[
+  {
+    "id": "01_business_startup-20260718-46",
+    "categoryId": "01_business_startup",
+    "title": "從零開始學選擇權：四大基本交易到進階價差組合",
+    "author": "Dave C、吳西蒙、Amber",
+    "file": "Books/01_business_startup/01_business_startup-20260718-46.json"
+  },
+  {
+    "id": "01_business_startup-20260718-47",
+    "categoryId": "01_business_startup",
+    "title": "比特幣的世界：存放、交易、挖礦與工具解析",
+    "author": "Zac W、Dave C",
+    "file": "Books/01_business_startup/01_business_startup-20260718-47.json"
+  },
+  {
+    "id": "01_business_startup-20260718-48",
+    "categoryId": "01_business_startup",
+    "title": "華爾街正在買進加密貨幣：穩定幣與資產上鏈如何改變全球金融秩序",
+    "author": "Zac W、Dave C",
+    "file": "Books/01_business_startup/01_business_startup-20260718-48.json"
+  },
+  {
+    "id": "01_business_startup-20260718-49",
+    "categoryId": "01_business_startup",
+    "title": "選擇權交易的世界：交易架構、定價模型與實戰策略解析",
+    "author": "Dave C、吳西蒙、Amber",
+    "file": "Books/01_business_startup/01_business_startup-20260718-49.json"
+  },
+  {
+    "id": "01_business_startup-20260718-50",
+    "categoryId": "01_business_startup",
+    "title": "上流老人退休寶典：從容瀟灑過晚年的十二堂課",
+    "author": "吳俊德,葉美麗",
+    "file": "Books/01_business_startup/01_business_startup-20260718-50.json"
+  }
+]

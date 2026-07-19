@@ -1,0 +1,18 @@
+﻿python : Traceback (most recent call last):
+位於 C:\Users\johso\AppData\Local\Temp\ps-script-d1d05d0b-4d0c-440c-aaae-d79fc8b94950.ps1:106 字元:32
++ ... NG='utf-8'; python tools/findbook_writer.py complete --category-id 03 ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\johso\OneDrive\Desktop\Johsok_BookReading\tools\findbook_writer.py", line 333, in <module>
+    raise SystemExit(main())
+                     ~~~~^^
+  File "C:\Users\johso\OneDrive\Desktop\Johsok_BookReading\tools\findbook_writer.py", line 329, in main
+    return args.func(args)
+           ~~~~~~~~~^^^^^^
+  File "C:\Users\johso\OneDrive\Desktop\Johsok_BookReading\tools\findbook_writer.py", line 261, in complete
+    highlights = validate_highlights(book_id, result.get("highlights"))
+  File "C:\Users\johso\OneDrive\Desktop\Johsok_BookReading\tools\findbook_writer.py", line 237, in validate_highlights
+    raise ValueError(f"{book_id} ??{len(short_colon_lines)} 暺?隡潛璅惜????)
+ValueError: 03_natural_science-20260718-13 ??6 暺?隡潛璅惜????
