@@ -184,11 +184,18 @@
       color: var(--accent);
       font-size: 1rem;
     }
+    .book-row {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 6px;
+      align-items: stretch;
+      margin: 0 0 8px;
+    }
     .book-button {
       display: block;
       width: 100%;
       min-height: 42px;
-      margin: 0 0 8px;
+      margin: 0;
       border: 1px solid var(--line);
       border-radius: 6px;
       background: rgba(255, 255, 255, .76);
@@ -205,6 +212,19 @@
       display: block;
       color: var(--muted);
       word-break: break-word;
+    }
+    .book-delete {
+      min-width: 42px;
+      border: 1px solid color-mix(in srgb, var(--danger), #000 8%);
+      border-radius: 6px;
+      background: var(--danger);
+      color: #fff;
+      padding: 4px 8px;
+      font-weight: 900;
+      cursor: pointer;
+    }
+    .book-delete:hover {
+      filter: brightness(.94);
     }
     .json-panel {
       display: grid;
@@ -305,6 +325,7 @@
       <button id="validateButton" class="button" type="button">驗證</button>
       <button id="saveButton" class="button primary" type="button">儲存</button>
       <button id="downloadButton" class="button" type="button">下載</button>
+      <button id="deleteBookButton" class="button danger" type="button">刪除本書</button>
     </nav>
 
     <section class="header" aria-labelledby="pageTitle">
@@ -361,6 +382,7 @@
         validateButton: document.getElementById("validateButton"),
         saveButton: document.getElementById("saveButton"),
         downloadButton: document.getElementById("downloadButton"),
+        deleteBookButton: document.getElementById("deleteBookButton"),
         bookCount: document.getElementById("bookCount"),
         bookList: document.getElementById("bookList"),
         editorTitle: document.getElementById("editorTitle"),
@@ -398,6 +420,9 @@
         els.validateButton.addEventListener("click", validateEditor);
         els.saveButton.addEventListener("click", saveEditor);
         els.downloadButton.addEventListener("click", downloadEditor);
+        els.deleteBookButton.addEventListener("click", function () {
+          deleteBook().catch(showError);
+        });
         els.jsonEditor.addEventListener("input", function () {
           els.editorMeta.textContent = "已修改";
         });
@@ -475,10 +500,13 @@
         }
         els.bookList.innerHTML = books.map(function (book, index) {
           return `
-            <button class="book-button" type="button" data-book-id="${escapeAttr(book.id)}" data-book-file="${escapeAttr(book.file || "")}" aria-pressed="${book.id === state.selectedBookId}">
-              ${index + 1}. ${escapeHtml(book.title || book.id)}
-              <small>${escapeHtml(book.author || "")}</small>
-            </button>
+            <div class="book-row">
+              <button class="book-button" type="button" data-book-id="${escapeAttr(book.id)}" data-book-file="${escapeAttr(book.file || "")}" aria-pressed="${book.id === state.selectedBookId}">
+                ${index + 1}. ${escapeHtml(book.title || book.id)}
+                <small>${escapeHtml(book.author || "")}</small>
+              </button>
+              <button class="book-delete" type="button" data-book-id="${escapeAttr(book.id)}" title="從索引刪除" aria-label="刪除 ${escapeAttr(book.title || book.id)}">刪</button>
+            </div>
           `;
         }).join("");
         els.bookList.querySelectorAll(".book-button").forEach(function (button) {
@@ -495,6 +523,68 @@
             focusBookInEditor(state.selectedBookId);
           });
         });
+        els.bookList.querySelectorAll(".book-delete").forEach(function (button) {
+          button.addEventListener("click", function (event) {
+            event.stopPropagation();
+            deleteBook(button.dataset.bookId || "").catch(showError);
+          });
+        });
+      }
+
+      /**
+       * 從 data.json 索引移除指定書籍；瀏覽器無法刪除站內 JSON 檔，需手動處理。
+       * @param {string} [bookId] 要刪除的書籍 id；省略時依目前選取或單書內容判斷。
+       */
+      async function deleteBook(bookId) {
+        const editorData = parseEditorJson();
+        const targetId = bookId || state.selectedBookId || (editorData && editorData.id) || "";
+        if (!targetId) {
+          setStatus("請先選取要刪除的書籍。", "bad");
+          return;
+        }
+
+        let indexData;
+        let editingIndex = Array.isArray(editorData.books) && Array.isArray(editorData.categories);
+        if (editingIndex) {
+          indexData = editorData;
+        } else {
+          indexData = await loadJson(manifestUrl);
+        }
+
+        const book = (indexData.books || []).find(function (item) {
+          return item && item.id === targetId;
+        });
+        if (!book) {
+          setStatus(`索引中找不到 id「${targetId}」。`, "bad");
+          return;
+        }
+
+        const filePath = book.file || "";
+        const confirmed = window.confirm(
+          `確定從索引刪除《${book.title || book.id}》？\n\n` +
+          `會從 data.json 移除這本書。\n` +
+          (filePath ? `儲存後請手動刪除檔案：\n${filePath}` : "若有對應單書 JSON，請一併手動刪除。")
+        );
+        if (!confirmed) {
+          setStatus("已取消刪除。", "");
+          return;
+        }
+
+        indexData.books = (indexData.books || []).filter(function (item) {
+          return !(item && item.id === targetId);
+        });
+        if (typeof indexData.totalBooks === "number") {
+          indexData.totalBooks = indexData.books.length;
+        }
+
+        state.manifest = indexData;
+        state.selectedBookId = "";
+        state.currentFile = "data.json";
+        state.currentHandle = null;
+        populateFileSelect();
+        els.fileSelect.value = "data.json";
+        setEditorData(indexData, "data.json", `已從索引移除《${book.title || book.id}》；請按「儲存」寫入 data.json` + (filePath ? `，並手動刪除 ${filePath}` : "") + "。");
+        els.editorMeta.textContent = "已修改";
       }
 
       function focusBookInEditor(bookId) {
