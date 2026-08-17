@@ -1,0 +1,91 @@
+pending=90 done_grok=58 other=63
+001	06_computer_info-20260716-15	AI超神筆記術：NotebookLM高效資料整理與分析280技(最強全面進化版) (附範例素材/提示詞/6大影音教學)
+002	06_computer_info-20260716-24	精通JavaScript 第四版
+003	06_computer_info-20260716-25	內行人才知道的生成式 AI系統設計面試指南
+004	06_computer_info-20260716-30	Vibe Coding 提示詞全攻略! 從概念到業界實戰：提示工程 / 程式碼維護 / Cursor / ChatGPT Codex / Lovable
+005	06_computer_info-20260716-31	商務人士一定要懂的ChatGPT活用術
+006	06_computer_info-20260716-32	軟體架構原理 第二版|現代工程方法
+007	06_computer_info-20260716-33	混合雲安全架構|零信任原則的安全設計方法與實作
+008	06_computer_info-20260716-34	網頁設計丙級檢定學術科解題教本|2026版
+009	06_computer_info-20260716-35	跟著實務學習HTML、CSS、JavaScript、Bootstrap、jQuery網頁設計
+010	06_computer_info-20260716-36	7天上手!駭客特訓班-使用TryHackMe
+011	06_computer_info-20260716-37	大模型時代：從 ChatGPT 一枝獨秀到全面開戰的 AI 賽局
+012	06_computer_info-20260716-38	讓 LLM 飛起來的工具使用 - AI Agent MCP 協議開發、標準、應用
+013	06_computer_info-20260716-39	AI Agent智能工作流：設計與自動化全實戰
+014	06_computer_info-20260716-40	深度探索Go語言：物件模型與runtime的原理特性及應用
+015	06_computer_info-20260716-41	ChatGPT原理，從PyTorch中的NLP功能讓你一腳跨入自然語言
+016	06_computer_info-20260716-57	文科生也能輕鬆實現!自建自用大語言模型：無痛操作Ollama本機端模型管理器
+017	06_computer_info-20260716-58	零花費上手!Gemini 3、NotebookLM、Nano Banana Pro、Veo 3.x最強AI組合技
+018	06_computer_info-20260716-59	Python運算思維：Google Colab x Gemini AI
+019	06_computer_info-20260716-60	ChatGPT 5萬用手冊：自動化AI agent、提示詞技巧、研究推理與工具連接
+020	06_computer_info-20260716-61	白話拆解×認證實戰：鑑別式與生成式AI
+021	06_computer_info-20260716-62	秒懂AI提問：讓人工智慧提升你的工作效率
+022	06_computer_info-20260716-63	迎戰APCS!C++從零開始的PBL實戰學習法
+023	06_computer_info-20260716-64	一學就會的AI影像生成術
+024	06_computer_info-20260716-65	BMduino程式設計篇：基礎篇
+025	06_computer_info-20260716-66	Effective Python中文版第三版：寫出良好Python程式的125個具體做法
+026	06_computer_info-20260716-67	資料科學學習手冊：Python資料處理、探索、視覺化與建模實作
+027	06_computer_info-20260716-68	Statistical Tableau：活用統計模型與科學決策力
+028	06_computer_info-20260716-69	VRoid Studio超入門講座3D人物建模技巧指南
+029	06_computer_info-20260716-70	Python 3程式設計基礎含GLAD ICTP計算機程式語言國際認證
+030	06_computer_info-20260716-71	LLMOps打造穩定運行的大型語言模型系統
+031	06_computer_info-20260717-01	雲端原生資安指南：CNAPP打造DevSecOps零死角防護
+032	06_computer_info-20260717-02	AI時代的Side Project全攻略：產品思維、專案管理、變現路徑
+033	06_computer_info-20260717-03	Excel × Tableau成功晉升資料分析師
+034	06_computer_info-20260717-04	白話人工智慧：矽谷科學家帶你看懂AI黑科技
+035	06_computer_info-20260717-05	程式人的第一本Python量化投資筆記
+036	06_computer_info-20260717-06	生成式AI工作流：從提示到自動化
+037	06_computer_info-20260717-07	Python資料分析的實戰方法
+038	06_computer_info-20260717-08	雲端架構設計入門
+039	06_computer_info-20260717-09	資安思維：數位生活的防護原則
+040	06_computer_info-20260717-10	資料庫設計的核心觀念
+041	06_computer_info-20260717-11	Nano Banana藝術宇宙：Veo x Sora多模態AI創作時代
+042	06_computer_info-20260717-12	零花費上手！Gemini 3、NotebookLM、Nano Banana Pro與Veo 3.x最強AI組合技
+043	06_computer_info-20260717-13	Gemini x NotebookLM領軍：Google多模態AI工作流
+044	06_computer_info-20260717-14	命運演算法：八字與AI的人生使用說明書
+045	06_computer_info-20260717-15	最強AI組合技：NotebookLM、Gemini、Nano Banana與Veo 3
+046	06_computer_info-20260717-16	LLM提示工程技術：打造兼具藝術與科學的高效應用
+047	06_computer_info-20260717-17	使用FastAPI建構生成式AI服務
+048	06_computer_info-20260717-18	AI健康養生長壽書
+049	06_computer_info-20260717-19	更少GPU卻更強：LLM輕量化壓縮及加速訓練
+050	06_computer_info-20260717-20	邊玩邊學，使用Scratch學習AI程式設計 第二版
+051	06_computer_info-20260717-21	全民版AI識讀：原理、應用、幻覺與誤區
+052	06_computer_info-20260717-22	AI超神簡報術：NotebookLM×Gemini×Gamma全解鎖
+053	06_computer_info-20260717-23	10倍速！AI Skill全攻略：建立Skill驅動AI系統，打造從學術研究到專案開發的自動化工作流
+054	06_computer_info-20260717-24	我的AI機器人大百科：卡內基美隆大學教授帶你認識機器人如何改變世界
+055	06_computer_info-20260717-25	PC home電腦家庭07月號／2026第366期
+056	06_computer_info-20260717-26	Codex Vibe Coding 開發手冊
+057	06_computer_info-20260717-27	全民版AI識讀：原理、應用、幻覺與誤區
+058	06_computer_info-20260717-28	軟體開發身分安全實務｜開發人員必須掌握的最佳做法
+059	06_computer_info-20260717-29	一本搞定Open Claw：不會寫程式的人，怎麼讓 AI 幫你把事情做完？
+060	06_computer_info-20260717-30	Claude工作術：從Chat、Projects、Skills到Cowork與Claude Code的AI自動化之路（iThome鐵人賽系列書）
+061	06_computer_info-20260717-31	AI影片製作工具箱：AI繪圖合成 × 智慧編輯剪片 × ChatGPT 5文案生成全攻略[第四版](暢銷回饋版)
+062	06_computer_info-20260717-32	OpenCV 全攻略！AI 影像辨識 × 電腦視覺實戰手冊
+063	06_computer_info-20260717-33	Autodesk Revit 2026建築設計入門與案例實作｜導入AI與Dynamo應用
+064	06_computer_info-20260717-34	收藏美好的時刻 多采多姿的Instagram生活美學：從攝影技法到Instagram的使用方法
+065	06_computer_info-20260717-35	SOLIDWORKS Flow Simulation培訓教材〈繁體中文版〉(第三版)
+066	06_computer_info-20260717-36	美學程式設計：軟體研究手冊
+067	06_computer_info-20260717-37	SOLIDWORKS Simulation基礎培訓教材〈繁體中文版〉(第三版)
+068	06_computer_info-20260717-38	Python 自動化的樂趣｜搞定重複瑣碎&單調無聊的工作 第三版
+069	06_computer_info-20260717-39	電腦網路原理｜第七版(含ITS Networking網路管理與應用、CCST Networking網路管理國際認證模擬試題)
+070	06_computer_info-20260717-40	Python零基礎入門班【最新ITS認證版】(含ITS Python國際認證模擬試題)
+071	06_computer_info-20260717-41	世界第一簡單的演算法：圖解 ✕ 程式 ✕ 刷題機器人
+072	06_computer_info-20260717-42	C 語言教學手冊 第 4 版
+073	06_computer_info-20260717-43	一步到位! Python 程式設計-最強入門教科書第四版
+074	06_computer_info-20260717-44	這樣寫code好不好？辨識、分析、改善，寫出易讀易維護的程式碼
+075	06_computer_info-20260717-45	Unity 遊戲設計：程式基礎、操作祕訣、製作流程、關卡設計全攻略
+076	06_computer_info-20260717-46	最新 Java 7 程式語言
+077	06_computer_info-20260717-47	Python 技術者們：實踐！帶你一步一腳印由初學到精通 第二版
+078	06_computer_info-20260717-48	Python 資料結構×演算法 刷題鍛鍊班：234 題帶你突破 Coding 面試的難關
+079	06_computer_info-20260717-49	Python 技術者們 ： 實踐！ 帶你一步一腳印由初學到精通
+080	06_computer_info-20260717-50	一步到位！Python 程式設計 – 最強入門教科書 第五版
+081	06_computer_info-20260717-51	最新 Java 程式語言(第5版)
+082	06_computer_info-20260717-52	最新 Java 程式語言 修訂第七版
+083	06_computer_info-20260717-53	最新 Java 程式設計 第六版
+084	06_computer_info-20260717-54	Python 教學手冊 第二版
+085	06_computer_info-20260717-55	Java 教學手冊 第六版
+086	06_computer_info-20260718-01	SDD實戰：規範驅動開發之道
+087	06_computer_info-20260718-02	數據結構教程(微課視頻·題庫·AI賦能版)(第7版)(附練習冊)
+088	06_computer_info-20260718-03	Windows安全內幕：身份驗證、授權與審計(AAA)核心技術詳解
+089	06_computer_info-20260718-04	AIGC賦能AutoCAD輔助設計
+090	06_computer_info-20260718-05	LLaMA+ChatGLM大模型實戰

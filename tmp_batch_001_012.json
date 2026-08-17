@@ -1,0 +1,157 @@
+[
+  {
+    "id": "06_computer_info-20260716-15",
+    "title": "AI超神筆記術：NotebookLM高效資料整理與分析280技(最強全面進化版) (附範例素材/提示詞/6大影音教學)",
+    "author": "鄧君如、文淵閣工作室",
+    "file": "Books/06_computer_info/06_computer_info-20260716-15.json",
+    "tags": [
+      "電腦資訊",
+      "電腦資訊",
+      "碁峯資訊"
+    ],
+    "summary": "本書由鄧君如、文淵閣工作室撰寫，來源標示主題與電腦資訊、電腦資訊相關；本次整理聚焦核心觀念、方法脈絡與可實踐的閱讀重點。"
+  },
+  {
+    "id": "06_computer_info-20260716-24",
+    "title": "精通JavaScript 第四版",
+    "author": "Marijn Haverbeke",
+    "file": "Books/06_computer_info/06_computer_info-20260716-24.json",
+    "tags": [
+      "電腦資訊",
+      "JavaScript",
+      "程式設計",
+      "Web"
+    ],
+    "summary": "本書由Marijn Haverbeke撰寫，內容聚焦JavaScript、程式設計、Web；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。"
+  },
+  {
+    "id": "06_computer_info-20260716-25",
+    "title": "內行人才知道的生成式 AI系統設計面試指南",
+    "author": "Ali Aminian、Hao Sheng",
+    "file": "Books/06_computer_info/06_computer_info-20260716-25.json",
+    "tags": [
+      "電腦資訊",
+      "生成式AI",
+      "系統設計",
+      "面試"
+    ],
+    "summary": "本書由Ali Aminian、Hao Sheng撰寫，內容聚焦生成式AI、系統設計、面試；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。"
+  },
+  {
+    "id": "06_computer_info-20260716-30",
+    "title": "Vibe Coding 提示詞全攻略! 從概念到業界實戰：提示工程 / 程式碼維護 / Cursor / ChatGPT Codex / Lovable",
+    "author": "卓昌憲 Penguin Cho 著",
+    "file": "Books/06_computer_info/06_computer_info-20260716-30.json",
+    "tags": [
+      "電腦資訊",
+      "Vibe Coding",
+      "提示工程",
+      "AI開發"
+    ],
+    "summary": "本書由卓昌憲 Penguin Cho 著撰寫，內容聚焦Vibe Coding、提示工程、AI開發；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。"
+  },
+  {
+    "id": "06_computer_info-20260716-31",
+    "title": "商務人士一定要懂的ChatGPT活用術",
+    "author": "國本知里",
+    "file": "Books/06_computer_info/06_computer_info-20260716-31.json",
+    "tags": [
+      "電腦資訊",
+      "ChatGPT",
+      "商務應用",
+      "生產力"
+    ],
+    "summary": "本書由國本知里撰寫，內容聚焦ChatGPT、商務應用、生產力；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。"
+  },
+  {
+    "id": "06_computer_info-20260716-32",
+    "title": "軟體架構原理 第二版|現代工程方法",
+    "author": "Mark Richards、Neal Ford",
+    "file": "Books/06_computer_info/06_computer_info-20260716-32.json",
+    "tags": [
+      "電腦資訊",
+      "軟體架構",
+      "工程方法",
+      "系統設計"
+    ],
+    "summary": "本書由Mark Richards、Neal Ford撰寫，內容聚焦軟體架構、工程方法、系統設計；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。"
+  },
+  {
+    "id": "06_computer_info-20260716-33",
+    "title": "混合雲安全架構|零信任原則的安全設計方法與實作",
+    "author": "Carsten Horst、Mark Buckwell、Stefaan Van daele",
+    "file": "Books/06_computer_info/06_computer_info-20260716-33.json",
+    "tags": [
+      "電腦資訊",
+      "混合雲",
+      "零信任",
+      "資訊安全"
+    ],
+    "summary": "本書由Carsten Horst、Mark Buckwell、Stefaan Van daele撰寫，內容聚焦混合雲、零信任、資訊安全；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。"
+  },
+  {
+    "id": "06_computer_info-20260716-34",
+    "title": "網頁設計丙級檢定學術科解題教本|2026版",
+    "author": "林文恭、葉冠君",
+    "file": "Books/06_computer_info/06_computer_info-20260716-34.json",
+    "tags": [
+      "電腦資訊",
+      "網頁設計",
+      "技能檢定",
+      "前端"
+    ],
+    "summary": "本書由林文恭、葉冠君撰寫，內容聚焦網頁設計、技能檢定、前端；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。"
+  },
+  {
+    "id": "06_computer_info-20260716-35",
+    "title": "跟著實務學習HTML、CSS、JavaScript、Bootstrap、jQuery網頁設計",
+    "author": "蔡文龍、歐志信、曾芷琳、蔡捷雲",
+    "file": "Books/06_computer_info/06_computer_info-20260716-35.json",
+    "tags": [
+      "電腦資訊",
+      "HTML",
+      "JavaScript",
+      "網頁設計"
+    ],
+    "summary": "本書由蔡文龍、歐志信、曾芷琳、蔡捷雲撰寫，內容聚焦HTML、JavaScript、網頁設計；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。"
+  },
+  {
+    "id": "06_computer_info-20260716-36",
+    "title": "7天上手!駭客特訓班-使用TryHackMe",
+    "author": "野溝のみぞう",
+    "file": "Books/06_computer_info/06_computer_info-20260716-36.json",
+    "tags": [
+      "電腦資訊",
+      "TryHackMe",
+      "滲透測試",
+      "資安"
+    ],
+    "summary": "本書由野溝のみぞう撰寫，內容聚焦TryHackMe、滲透測試、資安；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。"
+  },
+  {
+    "id": "06_computer_info-20260716-37",
+    "title": "大模型時代：從 ChatGPT 一枝獨秀到全面開戰的 AI 賽局",
+    "author": "Kevin Chen",
+    "file": "Books/06_computer_info/06_computer_info-20260716-37.json",
+    "tags": [
+      "電腦資訊",
+      "大型語言模型",
+      "ChatGPT",
+      "AI賽局"
+    ],
+    "summary": "本書由Kevin Chen撰寫，內容聚焦大型語言模型、ChatGPT、AI賽局；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。"
+  },
+  {
+    "id": "06_computer_info-20260716-38",
+    "title": "讓 LLM 飛起來的工具使用 - AI Agent MCP 協議開發、標準、應用",
+    "author": "凌峰、王伊凝",
+    "file": "Books/06_computer_info/06_computer_info-20260716-38.json",
+    "tags": [
+      "電腦資訊",
+      "LLM",
+      "AI Agent",
+      "MCP"
+    ],
+    "summary": "本書由凌峰、王伊凝撰寫，內容聚焦LLM、AI Agent、MCP；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。"
+  }
+]
