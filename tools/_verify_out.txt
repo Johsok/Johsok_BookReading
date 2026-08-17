@@ -1,5 +1,5 @@
-01_business_startup-20260716-223	ok=True	source=grok	count=150
-01_business_startup-20260716-224	ok=True	source=grok	count=150
-01_business_startup-20260716-225	ok=True	source=grok	count=150
-01_business_startup-20260716-226	ok=True	source=grok	count=150
-01_business_startup-20260716-227	ok=True	source=grok	count=150
+02_psychology_growth-20260716-183	complete	grok	150	001、象徵語言以感官形象承載內在感受與	150、若解釋讓人更依賴神奇對應而更少面
+02_psychology_growth-20260716-184	complete	grok	150	001、好運往往從注意到微小機會開始，而	150、記錄一行好事之後合上本子，等於告
+02_psychology_growth-20260716-185	complete	grok	150	001、人生樣貌多半不是被單一關鍵時刻決	150、對自己無條件的支持，不是說你永遠
+02_psychology_growth-20260716-186	complete	grok	150	001、痛苦常被說成「對方不理解我」，委	150、模式要破，先從最小的不重複開始，
+02_psychology_growth-20260716-187	complete	grok	150	001、大腦不是為單任務設計，史前若只顧	150、外部漏洞修補的最後一步才是耳機與

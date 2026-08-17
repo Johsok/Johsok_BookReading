@@ -1,15 +1,20 @@
 # -*- coding: utf-8 -*-
-import importlib.util
+import ast
 import re
 from pathlib import Path
 
-p = Path("tools/_gen_chunk02_highlights.py")
-spec = importlib.util.spec_from_file_location("g", p)
-m = importlib.util.module_from_spec(spec)
-spec.loader.exec_module(m)
+src = Path("tools/_gen_43_highlights.py").read_text(encoding="utf-8")
+tree = ast.parse(src)
+bodies = None
+for node in tree.body:
+    if isinstance(node, ast.Assign):
+        for t in node.targets:
+            if isinstance(t, ast.Name) and t.id == "BODIES":
+                bodies = ast.literal_eval(node.value)
 
-NATURAL = ("是", "為", "在於", "說", "問", "提醒", "表示", "指出")
-for i, body in enumerate(m.BOOK68, 1):
-    match = re.match(r"^([^：:]{1,12})[：:]", body)
-    if match and not match.group(1).endswith(NATURAL):
-        print(f"{i:03d}|{body}")
+NATURAL = ("是", "說", "在於", "表示", "等於", "就像", "好比", "意味著")
+for i, body in enumerate(bodies, 1):
+    m = re.match(r"^([^：:]{1,12})[：:]", body)
+    if m and not m.group(1).endswith(NATURAL):
+        print(f"{i:03d} LABEL={m.group(1)!r} :: {body}")
+print("total", len(bodies))

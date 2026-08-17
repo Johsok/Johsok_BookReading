@@ -1,0 +1,60 @@
+bad	02_psychology_growth-20260714-01	02_psychology_growth-20260714-01 有 8 點疑似短標籤加冒號
+bad	02_psychology_growth-20260714-02	02_psychology_growth-20260714-02 有 9 點疑似短標籤加冒號
+ok	02_psychology_growth-20260714-03
+ok	02_psychology_growth-20260714-04
+ok	02_psychology_growth-20260714-05
+ok	02_psychology_growth-20260714-06
+bad	02_psychology_growth-20260714-07	02_psychology_growth-20260714-07 有 7 點疑似短標籤加冒號
+bad	02_psychology_growth-20260714-08	02_psychology_growth-20260714-08 有 11 點疑似短標籤加冒號
+bad	02_psychology_growth-20260714-09	02_psychology_growth-20260714-09 有 33 點疑似短標籤加冒號
+bad	02_psychology_growth-20260714-10	02_psychology_growth-20260714-10 有 22 點疑似短標籤加冒號
+bad	02_psychology_growth-20260714-11	02_psychology_growth-20260714-11 有 11 點疑似短標籤加冒號
+bad	02_psychology_growth-20260714-12	02_psychology_growth-20260714-12 有 32 點疑似短標籤加冒號
+bad	02_psychology_growth-20260714-13	02_psychology_growth-20260714-13 有 4 點疑似短標籤加冒號
+bad	02_psychology_growth-20260714-14	02_psychology_growth-20260714-14 有 9 點疑似短標籤加冒號
+ok	02_psychology_growth-20260714-15
+bad	02_psychology_growth-20260714-16	02_psychology_growth-20260714-16 第 70 點含禁用來源前綴
+ok	02_psychology_growth-20260714-17
+bad	02_psychology_growth-20260714-18	02_psychology_growth-20260714-18 有 4 點疑似短標籤加冒號
+bad	02_psychology_growth-20260714-19	02_psychology_growth-20260714-19 有 13 點疑似短標籤加冒號
+bad	02_psychology_growth-20260714-20	02_psychology_growth-20260714-20 有 21 點疑似短標籤加冒號
+bad	02_psychology_growth-20260714-21	02_psychology_growth-20260714-21 有 16 點疑似短標籤加冒號
+bad	02_psychology_growth-20260714-22	02_psychology_growth-20260714-22 有 23 點疑似短標籤加冒號
+bad	02_psychology_growth-20260714-23	02_psychology_growth-20260714-23 有 17 點疑似短標籤加冒號
+bad	02_psychology_growth-20260714-24	02_psychology_growth-20260714-24 有 18 點疑似短標籤加冒號
+bad	02_psychology_growth-20260714-25	02_psychology_growth-20260714-25 有 14 點疑似短標籤加冒號
+bad	02_psychology_growth-20260714-26	02_psychology_growth-20260714-26 有 18 點疑似短標籤加冒號
+ok	02_psychology_growth-20260714-27
+bad	02_psychology_growth-20260714-28	02_psychology_growth-20260714-28 有 5 點疑似短標籤加冒號
+ok	02_psychology_growth-20260714-29
+ok	02_psychology_growth-20260714-30
+bad	02_psychology_growth-20260715-01	02_psychology_growth-20260715-01 第 49 點含禁用來源前綴
+bad	02_psychology_growth-20260715-02	02_psychology_growth-20260715-02 有 18 點疑似短標籤加冒號
+bad	02_psychology_growth-20260715-03	02_psychology_growth-20260715-03 有 23 點疑似短標籤加冒號
+bad	02_psychology_growth-20260715-04	02_psychology_growth-20260715-04 有 9 點疑似短標籤加冒號
+bad	02_psychology_growth-20260715-05	02_psychology_growth-20260715-05 有 3 點疑似短標籤加冒號
+bad	02_psychology_growth-20260715-06	02_psychology_growth-20260715-06 有 4 點疑似短標籤加冒號
+missing_results	02_psychology_growth-20260715-07
+missing_results	02_psychology_growth-20260715-08
+missing_results	02_psychology_growth-20260715-09
+missing_results	02_psychology_growth-20260715-10
+missing_results	02_psychology_growth-20260715-11
+missing_results	02_psychology_growth-20260715-12
+missing_results	02_psychology_growth-20260715-13
+missing_results	02_psychology_growth-20260715-14
+missing_results	02_psychology_growth-20260715-15
+missing_results	02_psychology_growth-20260715-16
+missing_results	02_psychology_growth-20260715-17
+missing_results	02_psychology_growth-20260715-18
+missing_results	02_psychology_growth-20260715-19
+missing_results	02_psychology_growth-20260715-20
+missing_results	02_psychology_growth-20260715-21
+missing_results	02_psychology_growth-20260715-22
+missing_results	02_psychology_growth-20260715-23
+missing_results	02_psychology_growth-20260715-24
+missing_results	02_psychology_growth-20260715-25
+missing_results	02_psychology_growth-20260715-26
+missing_results	02_psychology_growth-20260715-27
+missing_results	02_psychology_growth-20260715-28
+missing_results	02_psychology_growth-20260715-29
+missing_results	02_psychology_growth-20260715-30

@@ -1,35 +1,43 @@
 # -*- coding: utf-8 -*-
-import importlib.util
-import json
 import re
 import sys
 from pathlib import Path
 
-spec = importlib.util.spec_from_file_location("fw", "tools/findbook_writer.py")
-fw = importlib.util.module_from_spec(spec)
-spec.loader.exec_module(fw)
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from _gen_pg_141_145 import BOOKS
+from findbook_writer import NATURAL_COLON_SUFFIXES
 
-path = Path(sys.argv[1])
-title = sys.argv[2] if len(sys.argv) > 2 else ""
-author = sys.argv[3] if len(sys.argv) > 3 else ""
-d = json.loads(path.read_text(encoding="utf-8-sig"))
-highlights = d["highlights"]
-NATURAL = ("是", "為", "在於", "說", "問", "提醒", "表示", "指出")
-for i, line in enumerate(highlights, 1):
-    body = re.sub(r"^\d{3}、", "", line, count=1).strip()
-    m = re.match(r"^([^：:]{1,12})[：:]", body)
-    if m and not m.group(1).endswith(NATURAL):
-        print(f"COLON {i}: {body[:40]}")
-starts = {}
-for body in [re.sub(r"^\d{3}、", "", x, count=1).strip() for x in highlights]:
-    if len(body) >= 18:
-        k = body[:18]
-        starts[k] = starts.get(k, 0) + 1
-for k, v in sorted(starts.items(), key=lambda x: -x[1]):
-    if v >= 3:
-        print(f"START x{v}: {k}")
-try:
-    fw.validate_highlights(d["id"], highlights, title, author)
-    print("OK")
-except Exception as e:
-    print("FAIL", e)
+for book in BOOKS:
+    print("====", book["id"], len(book["bodies"]))
+    short = []
+    for i, body in enumerate(book["bodies"], 1):
+        match = re.match(r"^([^：:]{1,12})[：:]", body)
+        if match and not match.group(1).endswith(NATURAL_COLON_SUFFIXES):
+            short.append((i, match.group(1), body[:40]))
+    if short:
+        print(" short-colon", len(short))
+        for row in short:
+            print(" ", row)
+    starts = {}
+    for body in book["bodies"]:
+        if len(body) >= 18:
+            k = body[:18]
+            starts[k] = starts.get(k, 0) + 1
+    bad = [(k, n) for k, n in starts.items() if n >= 4]
+    if bad:
+        print(" repeated starts", bad)
+    dups = [b for b in book["bodies"] if book["bodies"].count(b) > 1]
+    if dups:
+        print(" dups", set(dups))
+    for label, value in (("title", book["title"]), ("author", book["author"])):
+        n = sum(value in b for b in book["bodies"])
+        if n:
+            print(f" {label} hits {n}")
+    forbidden = ("本書", "作者指出", "本章", "這一章")
+    for i, b in enumerate(book["bodies"], 1):
+        if any(p in b for p in forbidden):
+            print(" forbidden", i, b[:40])
+        if "｜" in b or "\n" in b:
+            print(" format", i)
+        if len(b) < 12:
+            print(" short", i, b)

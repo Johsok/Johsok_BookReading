@@ -1,0 +1,856 @@
+{
+  "01_business_startup": [
+    {
+      "title": "財富升級套書(《持續買進》+《財富階梯》共兩冊)",
+      "author": "尼克．馬朱利、李芳齡",
+      "sourceUrl": "https://www.books.com.tw/products/0011053783",
+      "sourceName": "博客來「商業理財」搜尋結果",
+      "sourcePage": ".findbook_candidates_01_20260716.json"
+    },
+    {
+      "title": "納瓦爾寶典：從白手起家到財務自由， 矽谷傳奇創投家的投資哲學與人生智慧",
+      "author": "艾瑞克．喬根森、謝佩妏、傑克．布徹(Jack Butcher)",
+      "sourceUrl": "https://www.books.com.tw/products/0010977461",
+      "sourceName": "博客來「商業理財」搜尋結果",
+      "sourcePage": ".findbook_candidates_01_20260716.json"
+    },
+    {
+      "title": "粗糙：一本書解決拖延症，求有也求好的終極心態",
+      "author": "陳海瀅",
+      "sourceUrl": "https://www.books.com.tw/products/0011053297",
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourcePage": ".findbook_candidates_01_business_startup_20260719.json"
+    },
+    {
+      "title": "勝者心態：像征服者一樣思考，把逆境變成墊腳石",
+      "author": "彼得．霍林斯",
+      "sourceUrl": "https://www.books.com.tw/products/0011052290",
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourcePage": ".findbook_candidates_01_business_startup_20260719.json"
+    },
+    {
+      "title": "學會走圖SOP：讓技術分析養我一輩子",
+      "author": "林穎",
+      "sourceUrl": "https://www.books.com.tw/products/0010959468",
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourcePage": ".findbook_candidates_01_business_startup_20260719.json"
+    },
+    {
+      "title": "一如既往：不變的人性法則與致富心態",
+      "author": "摩根．豪瑟",
+      "sourceUrl": "https://www.books.com.tw/products/0010980022",
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourcePage": ".findbook_candidates_01_business_startup_20260719.json"
+    },
+    {
+      "title": "邊境甜點的奇幻旅程（親簽贈品版）",
+      "author": "賴慶陽",
+      "sourceUrl": "https://www.books.com.tw/products/0011053243",
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourcePage": ".findbook_candidates_01_business_startup_20260719.json"
+    },
+    {
+      "title": "信念的魔力",
+      "author": "克萊德・布里斯托",
+      "sourceUrl": "https://www.books.com.tw/products/0011053536",
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourcePage": ".findbook_candidates_01_business_startup_20260719.json"
+    },
+    {
+      "title": "博雅管理核心課程：社會生態學的視角（上）︰杜拉克論管理／企業的目的與戰略",
+      "author": "黃建東",
+      "sourceUrl": "https://www.taaze.tw/products/11101090944.html",
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／商業／管理學）",
+      "sourcePage": ".findbook_candidates_01_otherstores_20260711.json"
+    },
+    {
+      "title": "別想了，人生就是一本財報",
+      "author": "潘思璇",
+      "sourceUrl": "https://www.taaze.tw/products/11101088478.html",
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／商業）",
+      "sourcePage": ".findbook_candidates_01_otherstores_20260711.json"
+    },
+    {
+      "title": "人比AI凶：AI再強，你的微決策才是關鍵！",
+      "author": "萬維鋼",
+      "sourceUrl": "https://www.taaze.tw/products/11101084471.html",
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／商業／科技管理）",
+      "sourcePage": ".findbook_candidates_01_otherstores_20260711.json"
+    },
+    {
+      "title": "挑戰蘋果規則：揭開數位帝國的致勝戰略和危機，科技巨頭的全面圍攻和地緣政治勢力的權力交鋒",
+      "author": "提姆・希金斯",
+      "sourceUrl": "https://www.taaze.tw/products/11101085121.html",
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／商業）",
+      "sourcePage": ".findbook_candidates_01_otherstores_20260711.json"
+    },
+    {
+      "title": "信任效應：AI時代駕馭演算法的勝出關鍵",
+      "author": "陳顯立",
+      "sourceUrl": "https://www.taaze.tw/products/11101086439.html",
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／商業／市場行銷）",
+      "sourcePage": ".findbook_candidates_01_otherstores_20260711.json"
+    },
+    {
+      "title": "啟動成就引擎：打造動態賽道上的職場影響力",
+      "author": "薛雅齡",
+      "sourceUrl": "https://www.taaze.tw/products/11101084687.html",
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／商業／職場成功法）",
+      "sourcePage": ".findbook_candidates_01_otherstores_20260711.json"
+    },
+    {
+      "title": "AI時代的一人公司經營學：拒絕All-in豪賭，用一杯咖啡的代價，開啟你的創業路！",
+      "author": "洪儒明",
+      "sourceUrl": "https://www.taaze.tw/products/11101086005.html",
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／商業／創業）",
+      "sourcePage": ".findbook_candidates_01_otherstores_20260711.json"
+    },
+    {
+      "title": "設計即戰略，為品牌創造競爭優勢的設計思考",
+      "author": "黃懷德",
+      "sourceUrl": "https://www.taaze.tw/products/11101085619.html",
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／商業）",
+      "sourcePage": ".findbook_candidates_01_otherstores_20260711.json"
+    },
+    {
+      "title": "會想的人，先有錢【限量獨有永豐金證券股票禮品卡「200元財富啟動金」】：《華爾街日報》最受歡迎財經作家的",
+      "author": "喬納森．克雷蒙、吳凱琳",
+      "sourceUrl": "https://www.books.com.tw/products/0011050310",
+      "sourceName": "既有候選池複查－.findbook_candidates_books_20260716.json",
+      "sourcePage": ".findbook_candidates_01_business_startup_20260719.json"
+    },
+    {
+      "title": "高效經理人的管理備忘錄：18個實戰情境與解方，主管路上的必備素養",
+      "author": "蔡恩全、盧智芳、陳建銘",
+      "sourceUrl": "https://books.cw.com.tw/book/456",
+      "sourceName": "天下雜誌出版官方書頁",
+      "sourcePage": ".findbook_candidates_01_batch2_20260711.json"
+    },
+    {
+      "title": "尋找CEO接班人：掌握成為企業接班人的關鍵",
+      "author": "許書揚、金慧婉、林知明、彭成基、柯維華、賴遠烽、丁蔓玫、許慈芳",
+      "sourceUrl": "https://books.cw.com.tw/book/399",
+      "sourceName": "天下雜誌出版官方書頁",
+      "sourcePage": ".findbook_candidates_01_batch2_20260711.json"
+    },
+    {
+      "title": "馬斯克傳：唯一不設限、全公開傳記",
+      "author": "華特．艾薩克森",
+      "sourceUrl": "https://books.cw.com.tw/book/872",
+      "sourceName": "天下雜誌出版官方書頁",
+      "sourcePage": ".findbook_candidates_01_batch2_20260711.json"
+    },
+    {
+      "title": "深思考的鍛鍊：透視本質，化繁為簡，建立觀點，從根源提升解決問題的能力",
+      "author": "杜書伍",
+      "sourceUrl": "https://books.cw.com.tw/book/490",
+      "sourceName": "天下雜誌出版官方書頁",
+      "sourcePage": ".findbook_candidates_01_batch2_20260711.json"
+    },
+    {
+      "title": "恆久卓越的修煉：掌握永續藍圖，厚植營運韌性，在挑戰與變動中躍升",
+      "author": "詹姆．柯林斯、比爾．雷吉爾",
+      "sourceUrl": "https://books.cw.com.tw/book/452",
+      "sourceName": "天下雜誌出版官方書頁",
+      "sourcePage": ".findbook_candidates_01_batch2_20260711.json"
+    },
+    {
+      "title": "經理人的實務：管理大師杜拉克最重要的經典II 帶你打造高績效團隊",
+      "author": "彼得．杜拉克",
+      "sourceUrl": "https://books.cw.com.tw/book/368",
+      "sourceName": "天下雜誌出版官方書頁",
+      "sourcePage": ".findbook_candidates_01_batch2_20260711.json"
+    },
+    {
+      "title": "阿甘投資法系列套書【規劃篇+執行篇】",
+      "author": "優惠價: 870 元",
+      "sourceUrl": "https://www.books.com.tw/products/0011055106",
+      "sourceName": "博客來「商業理財」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    }
+  ],
+  "02_psychology_growth": [
+    {
+      "title": "壓力過載!身體反應背後的心理訊號：內在狀態×外在表現×健康變化，化解每一次情緒波動，找回穩定的生活節奏",
+      "author": "郭琳",
+      "sourceUrl": "https://www.books.com.tw/products/0011052998",
+      "sourceName": "博客來中文書新書－心理勵志",
+      "sourcePage": ".findbook_candidates_02_20260713.json"
+    },
+    {
+      "title": "癮行時代：諮商心理師帶你認識癮、離開癮、解開心裡那個「隱」",
+      "author": "蘇琮祺",
+      "sourceUrl": "https://www.books.com.tw/products/0011047703",
+      "sourceName": "博客來「心理勵志」搜尋結果",
+      "sourcePage": ".findbook_candidates_02_20260716.json"
+    },
+    {
+      "title": "「想太多」只會偷走快樂：跳脫情緒鏈的思維陷阱！折磨你的從來不是事情本身，而是失控的內心戲",
+      "author": "理察．卡爾森",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2011760426922/?lid=book_new_class_prod_aaaa",
+      "sourceName": "既有候選池複查－.findbook_browser_candidates_20260717_b6.json",
+      "sourcePage": ".findbook_candidates_02_psychology_growth_20260719.json"
+    },
+    {
+      "title": "第一本脈輪身心修復診療經典【限量贈送「脈輪能量流動」、「脈輪身分意義」典藏書卡】",
+      "author": "艾諾蒂．朱迪斯、心意",
+      "sourceUrl": "https://www.books.com.tw/products/0011044398",
+      "sourceName": "既有候選池複查－.findbook_candidates_books_20260716.json",
+      "sourcePage": ".findbook_candidates_02_psychology_growth_20260719.json"
+    },
+    {
+      "title": "童年現象學：孩子活出的世界——生命早期的身體、關係、空間與時間經驗",
+      "author": "伊娃．西姆斯",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2011730293899/?lid=book_new_class_prod_aaaa",
+      "sourceName": "既有候選池複查－.findbook_browser_candidates_20260717_b6.json",
+      "sourcePage": ".findbook_candidates_02_psychology_growth_20260719.json"
+    },
+    {
+      "title": "數位時代的情緒療癒：在過載的情緒疲勞中練習排毒，得到真正的休息",
+      "author": "潔西卡．豪爾",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2014180409551/?lid=book_new_class_prod_aaaa",
+      "sourceName": "既有候選池複查－.findbook_browser_candidates_20260717_b6.json",
+      "sourcePage": ".findbook_candidates_02_psychology_growth_20260719.json"
+    },
+    {
+      "title": "做自己的珍珠【作者親簽版】：把你的不一樣，磨成耀眼的光",
+      "author": "凱凱 Kaikai Chou",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2015440651307/?lid=book_new_class_prod_aaaa",
+      "sourceName": "既有候選池複查－.findbook_browser_candidates_20260717_b6.json",
+      "sourcePage": ".findbook_candidates_02_psychology_growth_20260719.json"
+    },
+    {
+      "title": "內在力量的指引：榮格心理學自我探索的21個智慧",
+      "author": "詹姆斯・霍利斯、廖建容",
+      "sourceUrl": "https://www.books.com.tw/products/0011035669",
+      "sourceName": "既有候選池複查－.findbook_candidates_books_20260716.json",
+      "sourcePage": ".findbook_candidates_02_psychology_growth_20260719.json"
+    },
+    {
+      "title": "心靈化學：「吸引力法則之父」最核心的思想精隨",
+      "author": "查爾斯．哈奈爾",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2011750132970/?lid=book_new_class_prod_aaaa",
+      "sourceName": "既有候選池複查－.findbook_browser_candidates_20260717_b6.json",
+      "sourcePage": ".findbook_candidates_02_psychology_growth_20260719.json"
+    },
+    {
+      "title": "逆轉白內障、青光眼，養出使用100年的好視力：日本名醫教你5項自我檢測、3大黃金護眼法則，掌握新型眼疾治療，輕鬆預防眼睛老化",
+      "author": "深作秀春",
+      "sourceUrl": "https://www.books.com.tw/products/0011053475",
+      "sourceName": "博客來中文書－醫療保健分類頁",
+      "sourcePage": ".findbook_candidates_04_healthcare_20260719.json"
+    },
+    {
+      "title": "第一本針對情緒、創傷與壓力的穴位按壓聖經：焦慮、悲傷、恐懼、憤怒、麻木、憂鬱……其實都有「對應的身體開關」！",
+      "author": "麥可．里德．加赫,貝絲．安．亨寧",
+      "sourceUrl": "https://www.books.com.tw/products/0011054379",
+      "sourceName": "博客來中文書－醫療保健分類頁",
+      "sourcePage": ".findbook_candidates_04_healthcare_20260719.json"
+    },
+    {
+      "title": "超高效正向育兒 搞定睡眠 調整作息 100道副食品套書(共2本)：鈞媽快樂育兒經+營養師&兒科醫師副食品配方",
+      "author": "鈞媽,湯國廷,廖嘉音",
+      "sourceUrl": "https://www.books.com.tw/products/0011054244",
+      "sourceName": "博客來中文書－醫療保健分類頁",
+      "sourcePage": ".findbook_candidates_04_healthcare_20260719.json"
+    },
+    {
+      "title": "【三分鐘就有用的高效懶人瑜伽套書】（二冊）：《懶人瑜伽 【漫畫解剖‧人氣暢銷版】》、《懶人瑜伽之0壓力修復》",
+      "author": "崎田美菜",
+      "sourceUrl": "https://www.books.com.tw/products/0011053207",
+      "sourceName": "博客來中文書－醫療保健分類頁",
+      "sourcePage": ".findbook_candidates_04_healthcare_20260719.json"
+    },
+    {
+      "title": "「一品完結！炊飯革命」蛋白質充足、省時少步驟、保證美味，只做1道，無壓力輕鬆上菜！",
+      "author": "岩﨑啓子",
+      "sourceUrl": "https://www.books.com.tw/products/0011050675",
+      "sourceName": "博客來中文書－飲食養生分類頁",
+      "sourcePage": ".findbook_candidates_05_food_wellness_20260719.json"
+    },
+    {
+      "title": "1922之後，武力改組的北洋政府：軍閥對峙、派系重組、國會紛爭、外交壓力……在社會與政治雙重震盪中，中國如何逐步走向另一條道路？",
+      "author": "趙焰",
+      "sourceUrl": "https://www.books.com.tw/products/0011054456",
+      "sourceName": "博客來中文書－其他分類頁",
+      "sourcePage": ".findbook_candidates_07_other_20260719.json"
+    },
+    {
+      "title": "分齡照片×安心指引×專業建議 0〜3歲全方位育兒聖經：從成長發育、副食品製備到疾病預防，用專業知識守護寶寶的每一天",
+      "author": "土屋惠司、王盈潔",
+      "sourceUrl": "https://www.books.com.tw/products/0010924741",
+      "sourceName": "博客來「疾病預防」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    },
+    {
+      "title": "脂肪的療癒力——從預防到治療，全面對抗疾病、老化、情緒的革命性營養新知",
+      "author": "安娜．傅雷克醫學博士Dr. med. Anne Fleck、彭意梅",
+      "sourceUrl": "https://www.books.com.tw/products/0010855978",
+      "sourceName": "博客來「疾病預防」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    },
+    {
+      "title": "根治飲食：0~18歲成長學習關鍵食育篇(59種兒童青少年疾病╳130種生長發育問題全面預防療癒對策)",
+      "author": "賴宇凡",
+      "sourceUrl": "https://www.books.com.tw/products/0010830988",
+      "sourceName": "博客來「疾病預防」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    },
+    {
+      "title": "28天得舒飲食健康輕體計畫：結合100道營養低鈉食譜、睡眠、運動和壓力管理，全方位降低血壓與預防心血管疾病的終生受用減重法",
+      "author": "安荻•德•桑蒂斯、茱莉•安德魯斯、王心宇",
+      "sourceUrl": "https://www.books.com.tw/products/0010873148",
+      "sourceName": "博客來「疾病預防」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    },
+    {
+      "title": "命運由頻率決定！「量子力學式」願望實現法則",
+      "author": "村松大輔",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2011750133052/?lid=book_new_class_prod_aaaa",
+      "sourceName": "既有候選池複查－.findbook_browser_candidates_20260717_b6.json",
+      "sourcePage": ".findbook_browser_candidates_20260717_b6.json"
+    },
+    {
+      "title": "諾伊曼：開拓榮格未竟之路──跨越神話、原型與意識演化的心靈旅程",
+      "author": "莉達．謝倪",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2017840146681/?lid=book_new_class_prod_dddd",
+      "sourceName": "既有候選池複查－.findbook_browser_candidates_20260717_b6.json",
+      "sourcePage": ".findbook_browser_candidates_20260717_b6.json"
+    },
+    {
+      "title": "第一本針對情緒、創傷與壓力的穴位按壓聖經：焦慮、悲傷、恐懼、憤怒、麻木、憂鬱……其實都有「對應的身體開關」！",
+      "author": "麥可．里德．加赫",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2014130525218/?lid=book_new_class_prod_iiii",
+      "sourceName": "既有候選池複查－.findbook_browser_candidates_20260717_b6.json",
+      "sourcePage": ".findbook_browser_candidates_20260717_b6.json"
+    },
+    {
+      "title": "清血管、防中風，生活習慣２選１！ [修訂版]：－日本名醫教您預防三高、中風、失智症的健康祕訣！",
+      "author": "池谷敏郎",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2014150613124/?lid=book_new_class_prod_iiii",
+      "sourceName": "既有候選池複查－.findbook_browser_candidates_20260717_b6.json",
+      "sourcePage": ".findbook_browser_candidates_20260717_b6.json"
+    },
+    {
+      "title": "梳子的療癒力量：從梳開始的健康革命．頭頂健康密碼，用梳子喚醒頭部能量",
+      "author": "黃中平",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2014130525508/?lid=book_new_class_prod_iiii",
+      "sourceName": "既有候選池複查－.findbook_browser_candidates_20260717_b6.json",
+      "sourcePage": ".findbook_browser_candidates_20260717_b6.json"
+    },
+    {
+      "title": "蛤蟆先生去看心理師(暢銷300萬冊!英國心理諮商經典) (電子書)",
+      "author": "作者未詳",
+      "sourceUrl": "https://search.books.com.tw/redirect/move/key/%E5%BF%83%E7%90%86%E5%8B%B5%E5%BF%97/area/mid_name/item/E050119888/page/1/idx/3/cat/E05/pdf/1/spell/3",
+      "sourceName": "博客來「心理勵志」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    },
+    {
+      "title": "分齡照片×安心指引×專業建議 0〜3歲全方位育兒聖經：從成長發育、副食品製備到疾病預防，用專業知識守護寶寶的每一天 (電子書)",
+      "author": "作者未詳",
+      "sourceUrl": "https://search.books.com.tw/redirect/move/key/%E7%96%BE%E7%97%85%E9%A0%90%E9%98%B2/area/mid_name/item/E050140990/page/1/idx/3/cat/E05/pdf/1/spell/3",
+      "sourceName": "博客來「疾病預防」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    }
+  ],
+  "03_natural_science": [
+    {
+      "title": "Big Science大科學兒童自然科學月刊(全套60冊)(附USB)",
+      "author": "大科學雜誌社編輯部",
+      "sourceUrl": "https://www.books.com.tw/products/0010868025",
+      "sourceName": "博客來「自然科學」搜尋結果",
+      "sourcePage": ".findbook_candidates_03_20260716.json"
+    },
+    {
+      "title": "直覺失準！破解日常的邏輯迷思：資訊判讀×條件整合×結果檢驗，460道題目抽絲剝繭，在多重線索中建立清晰判斷",
+      "author": "于雷",
+      "sourceUrl": "https://www.taaze.tw/products/11101090980.html",
+      "sourceName": "TAAZE 讀冊生活商品頁（數學與邏輯科普）",
+      "sourcePage": ".findbook_candidates_03_source1_20260711.json"
+    },
+    {
+      "title": "數之軌跡Ⅱ：數學的交流與轉化",
+      "author": "英家銘、黃俊瑋、博佳佳、林倉億、琅元、于靖、林炎全、單維彰",
+      "sourceUrl": "https://www.taaze.tw/products/11101026875.html",
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／科學／數學）",
+      "sourcePage": ".findbook_candidates_03_source1_20260711.json"
+    },
+    {
+      "title": "生活中的數學魔法：動手做幾何，激發數感能力（培養STEAM，隨書附贈限量多面體元件）",
+      "author": "陳玉芬、洪萬生",
+      "sourceUrl": "https://www.taaze.tw/products/11101051990.html",
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／科學／數學）",
+      "sourcePage": ".findbook_candidates_03_source1_20260711.json"
+    },
+    {
+      "title": "培養生活數學素養：透過生活實例與益智解謎提升數學能力 人人伽利略42",
+      "author": "日本Newton Press",
+      "sourceUrl": "https://www.taaze.tw/products/11101060188.html",
+      "sourceName": "TAAZE 讀冊生活商品頁（中文書／科學／數學）",
+      "sourcePage": ".findbook_candidates_03_source1_20260711.json"
+    },
+    {
+      "title": "前進108課綱：學校課本自然科普大探索【LED魔法科學手電筒遊戲書】",
+      "author": "韓國桂林出版社、林佩君、柳熙錫",
+      "sourceUrl": "https://www.books.com.tw/products/0011004208",
+      "sourceName": "既有候選池複查－.findbook_candidates_books_20260716.json",
+      "sourcePage": ".findbook_candidates_03_natural_science_20260719.json"
+    },
+    {
+      "title": "科學玩很大1：輕鬆理解學校自然課，激發孩子創意滿滿的科展魂暢銷修訂版",
+      "author": "米村傳治郎、王薇婷",
+      "sourceUrl": "https://www.books.com.tw/products/0010950753",
+      "sourceName": "既有候選池複查－.findbook_candidates_books_20260716.json",
+      "sourcePage": ".findbook_candidates_03_natural_science_20260719.json"
+    },
+    {
+      "title": "1000 NATURE WORDS 兒童英漢圖解自然科學1000字",
+      "author": "朱爾斯‧波特、羅睿琪",
+      "sourceUrl": "https://www.books.com.tw/products/0010938945",
+      "sourceName": "既有候選池複查－.findbook_candidates_books_20260716.json",
+      "sourcePage": ".findbook_candidates_03_natural_science_20260719.json"
+    },
+    {
+      "title": "為什麼是這樣(第2彈)?超有趣自然生活科學圖解一點通!",
+      "author": "Old Stairs Editorial Team、賴毓棻",
+      "sourceUrl": "https://www.books.com.tw/products/0010932518",
+      "sourceName": "既有候選池複查－.findbook_candidates_books_20260716.json",
+      "sourcePage": ".findbook_candidates_03_natural_science_20260719.json"
+    },
+    {
+      "title": "給小學生的地球漫畫小百科：發現自然和文明的祕密",
+      "author": "史蒂夫．法提尼、史蒂芬妮．樂居、嚴慧瑩、亞列斯．朗洛瓦（Alex Langlois）、馬修．歐達（Mathieu Roda）",
+      "sourceUrl": "https://www.books.com.tw/products/0010990445",
+      "sourceName": "既有候選池複查－.findbook_candidates_books_20260716.json",
+      "sourcePage": ".findbook_candidates_03_natural_science_20260719.json"
+    },
+    {
+      "title": "用積木學科學知識 1 跟著阿基米德玩自然動力車",
+      "author": "宋德震",
+      "sourceUrl": "https://www.books.com.tw/products/0010891588",
+      "sourceName": "既有候選池複查－.findbook_candidates_books_20260716.json",
+      "sourcePage": ".findbook_candidates_03_natural_science_20260719.json"
+    },
+    {
+      "title": "甲蟲日記簿（增訂版）",
+      "author": "黃仕傑",
+      "sourceUrl": "https://www.cite.com.tw/book?id=103935",
+      "sourceName": "城邦出版集團官方商品頁（紅樹林）",
+      "sourcePage": ".findbook_candidates_03_source2_20260711.json"
+    },
+    {
+      "title": "半個地球：探尋生物多樣性及其保存之道",
+      "author": "愛德華．威爾森",
+      "sourceUrl": "https://www.cite.com.tw/book?id=72858",
+      "sourceName": "城邦出版集團官方商品頁（商周出版）",
+      "sourcePage": ".findbook_candidates_03_source2_20260711.json"
+    },
+    {
+      "title": "小小觀察家的自然筆記 1",
+      "author": "學習樹研究發展總部",
+      "sourceUrl": "https://www.books.com.tw/products/0010742579",
+      "sourceName": "博客來「自然科學」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    },
+    {
+      "title": "恐龍蛋誕恐龍[精裝]",
+      "author": "李雲龍、楊中信、謝俊芳、金幸生、Cheryl Robbins",
+      "sourceUrl": "https://www.books.com.tw/products/0010664924",
+      "sourceName": "博客來「自然科學」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    },
+    {
+      "title": "一天一則，發現366個自然和科學有趣知識",
+      "author": "主婦之友社、黃詩婷",
+      "sourceUrl": "https://www.books.com.tw/products/0011011121",
+      "sourceName": "博客來「自然科學」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    },
+    {
+      "title": "歡迎光臨!怪獸科學實驗室1：化學自然篇",
+      "author": "易彥廷、李映璇、沈郁芷、韓斯、小比",
+      "sourceUrl": "https://www.books.com.tw/products/0010910446",
+      "sourceName": "博客來「自然科學」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    },
+    {
+      "title": "3D自然科學立體有聲書：動物星球",
+      "author": "羽奕、華碩文化編輯群",
+      "sourceUrl": "https://www.books.com.tw/products/0010882233",
+      "sourceName": "博客來「自然科學」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    }
+  ],
+  "04_healthcare": [
+    {
+      "title": "110年工業及服務業普查報告第9卷 教育業、醫療保健及社會工作服務業、藝術娛樂及休閒服務業與其他服務業",
+      "author": "行政院主計總處",
+      "sourceUrl": "https://www.books.com.tw/products/0011008287",
+      "sourceName": "博客來「醫療保健」搜尋結果",
+      "sourcePage": ".findbook_candidates_04_20260716.json"
+    },
+    {
+      "title": "農畜牧養殖業及醫療保健服務業抗生素抗藥性生物性危害及感染監測研究ILOSH111-H323",
+      "author": "徐雅媛、詹長權、陳其欣",
+      "sourceUrl": "https://www.books.com.tw/products/0010961850",
+      "sourceName": "博客來「醫療保健」搜尋結果",
+      "sourcePage": ".findbook_candidates_04_20260716.json"
+    },
+    {
+      "title": "醫療保健服務業扎傷危害管理指引 ILOSH109-T-168",
+      "author": "蕭淑銖、謝曼麗",
+      "sourceUrl": "https://www.books.com.tw/products/0010889708",
+      "sourceName": "博客來「醫療保健」搜尋結果",
+      "sourcePage": ".findbook_candidates_04_20260716.json"
+    },
+    {
+      "title": "工資與工時精選判決評釋：航空、運輸及醫療保健業",
+      "author": "侯岳宏、傅柏翔、李柏毅、李瑞敏、林佳和、程居威、蔡正廷、蔡菘萍、蘇文生、邱羽凡、郭玲惠、陳業鑫、黃朝琮",
+      "sourceUrl": "https://www.books.com.tw/products/0010833443",
+      "sourceName": "博客來「醫療保健」搜尋結果",
+      "sourcePage": ".findbook_candidates_04_20260716.json"
+    },
+    {
+      "title": "105年工業及服務業普查報告第9卷教育業、醫療保健及社會工作服務業、藝術娛樂及休閒服務業與其他服務業",
+      "author": "行政院主計總處",
+      "sourceUrl": "https://www.books.com.tw/products/0010835686",
+      "sourceName": "博客來「醫療保健」搜尋結果",
+      "sourcePage": ".findbook_candidates_04_20260716.json"
+    },
+    {
+      "title": "大腸直腸癌診治照護 與 植物性蛋白質抗癌飲食套書(共2本)：全彩圖解 大腸直腸癌診治照護全書+逆轉癌症，一日三餐對症蔬療飲食",
+      "author": "和信治癌中心醫院．大腸直腸癌治療團隊,張金堅、柳秀乖◎合著",
+      "sourceUrl": "https://www.books.com.tw/products/0011054242",
+      "sourceName": "博客來中文書－醫療保健分類頁",
+      "sourcePage": ".findbook_candidates_04_healthcare_20260719.json"
+    },
+    {
+      "title": "易經與中醫，道法自然的醫道智慧：草木藥性、經絡藏象、陰陽五行……以天人合一、陰陽中和為線索，讀懂中醫背後的國學精神與文化生命",
+      "author": "張其成",
+      "sourceUrl": "https://www.books.com.tw/products/0011053982",
+      "sourceName": "博客來中文書－醫療保健分類頁",
+      "sourcePage": ".findbook_candidates_04_healthcare_20260719.json"
+    },
+    {
+      "title": "女人的病，99%是「氣」造成的：女人都能學會的凍齡易瘦法：簡養。那些困擾妳一生的氣血問題，30年臨床中醫教妳這樣調。",
+      "author": "李軍紅",
+      "sourceUrl": "https://www.books.com.tw/products/0011051785",
+      "sourceName": "博客來中文書－醫療保健分類頁",
+      "sourcePage": ".findbook_candidates_04_healthcare_20260719.json"
+    },
+    {
+      "title": "科學刮痧修復全書〔熱銷回饋版〕：【圖解】8大部位X 34個對症手法，從痧圖回推傷害，讓身體再也不疼痛（隨書",
+      "author": "黃卉君",
+      "sourceUrl": "https://www.books.com.tw/products/0011054282",
+      "sourceName": "博客來中文書－醫療保健分類頁",
+      "sourcePage": ".findbook_candidates_04_healthcare_20260719.json"
+    },
+    {
+      "title": "日本金牌貓醫生的圖解貓咪學：愛貓行為解讀X日常飼育指南X疾病預防照顧，喵皇的疑難雜症全解析",
+      "author": "服部幸、蔡斐如、卵山玉子",
+      "sourceUrl": "https://www.books.com.tw/products/0010901867",
+      "sourceName": "博客來「疾病預防」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    },
+    {
+      "title": "健康養兔子【全新修訂版】：朱哲助院長的疾病預防與照護大公開",
+      "author": "朱哲助、PATA",
+      "sourceUrl": "https://www.books.com.tw/products/0010996105",
+      "sourceName": "博客來「疾病預防」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    },
+    {
+      "title": "蜜袋鼯完全飼養手冊：從認識理解、互動照顧到疾病預防，飼主必學知識全收錄",
+      "author": "大野瑞繪、童小芳",
+      "sourceUrl": "https://www.books.com.tw/products/0010906128",
+      "sourceName": "博客來「疾病預防」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    },
+    {
+      "title": "造船廠勞工健康促進暨疾病預防之流行病學研究ILOSH113-A302",
+      "author": "吳威德、陳保中、陳正堯",
+      "sourceUrl": "https://www.books.com.tw/products/0011032207",
+      "sourceName": "博客來「疾病預防」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    }
+  ],
+  "05_food_wellness": [
+    {
+      "title": "烘焙之書：「美食界奧斯卡」飲食書大獎100道食譜，名廚教你在廚房玩出一流烘焙的要素！（台灣限定：作者親簽精印扉頁版）",
+      "author": "妮可拉．蘭姆（Nicola Lamb）",
+      "sourceUrl": "https://www.books.com.tw/products/0011048527",
+      "sourceName": "博客來中文書－飲食養生分類頁",
+      "sourcePage": ".findbook_candidates_05_food_wellness_20260719.json"
+    },
+    {
+      "title": "餐桌上的臺灣史： 歷經荷蘭、明清、日治到民國，是什麼形塑了臺灣味？你最熟悉的臺菜，「道地」跟你想的不一樣。",
+      "author": "鞭神老師（李廼澔）",
+      "sourceUrl": "https://www.books.com.tw/products/0010991802",
+      "sourceName": "博客來中文書－飲食養生分類頁",
+      "sourcePage": ".findbook_candidates_05_food_wellness_20260719.json"
+    },
+    {
+      "title": "冷菜料理：汆燙、涼拌、冰鎮63道清爽夏日料理【附贈真冰涼~書籤小卡2張，用最簡單的步驟做最好吃料理】",
+      "author": "蓮池陽子",
+      "sourceUrl": "https://www.books.com.tw/products/0011052626",
+      "sourceName": "博客來中文書－飲食養生分類頁",
+      "sourcePage": ".findbook_candidates_05_food_wellness_20260719.json"
+    },
+    {
+      "title": "輕熟系冷甜點：醇厚口感餘韻無窮！不管天氣冷或熱，一年365天，每天都想吃的冷甜點",
+      "author": "Yuka*cm",
+      "sourceUrl": "https://www.books.com.tw/products/0011046077",
+      "sourceName": "博客來中文書－飲食養生分類頁",
+      "sourcePage": ".findbook_candidates_05_food_wellness_20260719.json"
+    },
+    {
+      "title": "屋台：第一本「日本路邊攤」繪典！深入最接地氣的街頭飲食文化，復刻52種定番美食",
+      "author": "洛兒．琪耶",
+      "sourceUrl": "https://www.books.com.tw/products/0011052144",
+      "sourceName": "博客來中文書－飲食養生分類頁",
+      "sourcePage": ".findbook_candidates_05_food_wellness_20260719.json"
+    },
+    {
+      "title": "英式家庭經典烘焙：燕麥在北，小麥在南，大不列顛甜鹹糕點發展及100道家庭食譜",
+      "author": "瑞胡菈．依絲文",
+      "sourceUrl": "https://www.books.com.tw/products/0011047120",
+      "sourceName": "博客來中文書－飲食養生分類頁",
+      "sourcePage": ".findbook_candidates_05_food_wellness_20260719.json"
+    },
+    {
+      "title": "每天來碗腸活湯：腸道好人不老，輕鬆提升免疫力！免熬高湯55道美味湯品",
+      "author": "奧薗壽子",
+      "sourceUrl": "https://www.books.com.tw/products/0011053158",
+      "sourceName": "博客來中文書－飲食養生分類頁",
+      "sourcePage": ".findbook_candidates_05_food_wellness_20260719.json"
+    },
+    {
+      "title": "史上最強五穀雜糧養生完整圖鑑：選購、保存、營養成分到料理，各體質絕配的五穀雜糧對症速查!",
+      "author": "好食材研究團隊",
+      "sourceUrl": "https://www.books.com.tw/products/0011030976",
+      "sourceName": "博客來「飲食養生」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    },
+    {
+      "title": "餐桌上的節氣美味：中醫、名廚教你一鍋搞定健康養生菜",
+      "author": "武建設",
+      "sourceUrl": "https://www.books.com.tw/products/0011037251",
+      "sourceName": "博客來「飲食養生」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    },
+    {
+      "title": "空腹力 與 擺脫洗髮精 超過40萬人都在用的日本名醫養生法套書(共2本)",
+      "author": "宇津木 龍一、青木厚",
+      "sourceUrl": "https://www.books.com.tw/products/0011044976",
+      "sourceName": "博客來「飲食養生」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    },
+    {
+      "title": "藥食同源：中醫傳承千年「寓醫於食」的養生智慧，破解八十八味中藥食療密碼",
+      "author": "蔡宛如、毛郎中",
+      "sourceUrl": "https://www.books.com.tw/products/0010901577",
+      "sourceName": "博客來「飲食養生」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    },
+    {
+      "title": "《本草綱目》對症藥膳：不生病的千年養生智慧(二版)",
+      "author": "王永榮、辛海",
+      "sourceUrl": "https://www.books.com.tw/products/0010728221",
+      "sourceName": "博客來「飲食養生」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    },
+    {
+      "title": "養生食療全書：居家外食都OK!184種常見排毒食材，調整體質從「吃」開始",
+      "author": "藥日本堂（監修）、林姿呈",
+      "sourceUrl": "https://www.books.com.tw/products/0010918606",
+      "sourceName": "博客來「飲食養生」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    }
+  ],
+  "06_computer_info": [
+    {
+      "title": "AIGC互動設計實戰課：產品場景觀察×Midjourney生圖操作×介面視覺整合",
+      "author": "劉少清,吳應達,趙子軒",
+      "sourceUrl": "https://www.books.com.tw/products/0011057169",
+      "sourceName": "博客來中文書新書－電腦資訊",
+      "sourcePage": ".findbook_candidates_06_20260713.json"
+    },
+    {
+      "title": "職安一點通|職業安全衛生管理乙級檢定完勝攻略|2026版(套書)",
+      "author": "蕭中剛、劉鈞傑、鄭技師、賴秋琴、徐英洲、江軍、葉日宏",
+      "sourceUrl": "https://www.books.com.tw/products/0011044088",
+      "sourceName": "博客來「電腦資訊」搜尋結果",
+      "sourcePage": ".findbook_candidates_06_20260716.json"
+    },
+    {
+      "title": "超實用！Word．Excel．PowerPoint辦公室Office必備50招省時技[2016/2019/2021](ChatGPT加強版)(暢銷回饋版)",
+      "author": "張雯燕",
+      "sourceUrl": "https://www.books.com.tw/products/0011053589",
+      "sourceName": "博客來中文書－電腦資訊分類頁",
+      "sourcePage": ".findbook_candidates_06_computer_info_20260719.json"
+    },
+    {
+      "title": "一本搞定 AI數位員工實戰：ChatGPT Agent、Gemini、Nanobanana、Manus、Skywork等各家AI代理人，幫你打造虛擬工團隊",
+      "author": "謝孟諺（Mr.GOGO）",
+      "sourceUrl": "https://www.books.com.tw/products/0011041650",
+      "sourceName": "博客來中文書－電腦資訊分類頁",
+      "sourcePage": ".findbook_candidates_06_computer_info_20260719.json"
+    },
+    {
+      "title": "資訊安全概論與實務-第五版(含ITS Network Security網路安全管理、CCST Cybersecurity資訊安全國際認證)",
+      "author": "蔡一郎",
+      "sourceUrl": "https://www.books.com.tw/products/0011052701",
+      "sourceName": "博客來中文書－電腦資訊分類頁",
+      "sourcePage": ".findbook_candidates_06_computer_info_20260719.json"
+    },
+    {
+      "title": "AIGC工業設計實戰課：Midjourney提示詞應用×產品風格探索×造型方案生成，打開工業產品設計的新實作路徑",
+      "author": "宋一煊,林宏秋,劉少清",
+      "sourceUrl": "https://www.books.com.tw/products/0011053781",
+      "sourceName": "博客來中文書－電腦資訊分類頁",
+      "sourcePage": ".findbook_candidates_06_computer_info_20260719.json"
+    },
+    {
+      "title": "Microsoft 365 Copilot｜CopilotｘOffice完整應用術：工作學習效率大提升(第二版)",
+      "author": "林文恭、林易民",
+      "sourceUrl": "https://www.books.com.tw/products/0011052702",
+      "sourceName": "博客來中文書－電腦資訊分類頁",
+      "sourcePage": ".findbook_candidates_06_computer_info_20260719.json"
+    },
+    {
+      "title": "AI 研究寫作全攻略：NotebookLM × Gemini × ChatGPT × Perplexity",
+      "author": "洪兆祥,黃聖方,漫新知 (MINDWAY 教育品牌)",
+      "sourceUrl": "https://www.books.com.tw/products/0011044193",
+      "sourceName": "博客來中文書－電腦資訊分類頁",
+      "sourcePage": ".findbook_candidates_06_computer_info_20260719.json"
+    },
+    {
+      "title": "Harness 強大應用 - Codex App 超越 Coding Agent 實戰大全",
+      "author": "胡嘉璽",
+      "sourceUrl": "https://www.books.com.tw/products/0011057102",
+      "sourceName": "博客來中文書－電腦資訊分類頁",
+      "sourcePage": ".findbook_candidates_06_computer_info_20260719.json"
+    },
+    {
+      "title": "Excel Power Pivot｜免VBA，也能讓Excel自動統計、分析資料(第二版)",
+      "author": "鷹尾 祥",
+      "sourceUrl": "https://www.books.com.tw/products/0011055007",
+      "sourceName": "博客來中文書－電腦資訊分類頁",
+      "sourcePage": ".findbook_candidates_06_computer_info_20260719.json"
+    },
+    {
+      "title": "TQC+ AutoCAD 2026特訓教材-基礎篇(附102個精彩繪圖心法動態教學檔)",
+      "author": "吳永進、林美櫻",
+      "sourceUrl": "https://www.books.com.tw/products/0011028568",
+      "sourceName": "博客來「電腦資訊」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    },
+    {
+      "title": "技術士技能檢定|電腦軟體應用丙級學科試題解析(第二版)",
+      "author": "林文恭研究室",
+      "sourceUrl": "https://www.books.com.tw/products/0011044439",
+      "sourceName": "博客來「電腦資訊」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    },
+    {
+      "title": "網路規劃與管理實務 - 協助考取國際網管證照(第三版)",
+      "author": "蕭志明",
+      "sourceUrl": "https://www.books.com.tw/products/0010904700",
+      "sourceName": "博客來「電腦資訊」搜尋結果",
+      "sourcePage": ".findbook_candidates_books_20260716.json"
+    }
+  ],
+  "07_other": [
+    {
+      "title": "辛齋易學(上)",
+      "author": "杭辛齋",
+      "sourceUrl": "https://www.books.com.tw/products/0011056082",
+      "sourceName": "博客來中文書新書－其他",
+      "sourcePage": ".findbook_candidates_07_20260713.json"
+    },
+    {
+      "title": "辛齋易學(下)",
+      "author": "杭辛齋",
+      "sourceUrl": "https://www.books.com.tw/products/0011056083",
+      "sourceName": "博客來中文書新書－其他",
+      "sourcePage": ".findbook_candidates_07_20260713.json"
+    },
+    {
+      "title": "日威酒徒時光：工頭堅X威士忌鎮長，歷史/文化/製程，日本百年三代酒廠的豐盛之旅",
+      "author": "工頭堅、邱德夫",
+      "sourceUrl": "https://www.books.com.tw/products/0011045016",
+      "sourceName": "博客來「歷史文化」搜尋結果",
+      "sourcePage": ".findbook_candidates_07_20260716.json"
+    },
+    {
+      "title": "美食祕境【大快朵頤精裝版】：用味蕾品嘗全世界!500道歷史、文化、旅行、慶典佳餚驚喜上菜",
+      "author": "狄倫．圖拉斯、瑟希莉．王、李郁淳、蔡宜真、趙睿音",
+      "sourceUrl": "https://www.books.com.tw/products/0011047543",
+      "sourceName": "博客來「歷史文化」搜尋結果",
+      "sourcePage": ".findbook_candidates_07_20260716.json"
+    },
+    {
+      "title": "世界地方特色料理圖鑑：集結300個國家、地區，藉著食譜認識各地歷史、文化、宗教飲食規則",
+      "author": "青木百合子、洪于琇",
+      "sourceUrl": "https://www.books.com.tw/products/0011021573",
+      "sourceName": "博客來「歷史文化」搜尋結果",
+      "sourcePage": ".findbook_candidates_07_20260716.json"
+    },
+    {
+      "title": "歷史文化專業華語教學: 場域創新、教材設計與CLIL實踐",
+      "author": "杜昭玫",
+      "sourceUrl": "https://www.books.com.tw/products/0011047835",
+      "sourceName": "博客來「歷史文化」搜尋結果",
+      "sourcePage": ".findbook_candidates_07_20260716.json"
+    },
+    {
+      "title": "和古人一起過節!--不可不知9大傳統節日裡的歷史文化 (知識漫畫讀本/節慶習俗)",
+      "author": "我是小魔",
+      "sourceUrl": "https://www.books.com.tw/products/0011044304",
+      "sourceName": "博客來「歷史文化」搜尋結果",
+      "sourcePage": ".findbook_candidates_07_20260716.json"
+    },
+    {
+      "title": "東市一曲廣陵散，竹林名士嵇康：以老莊為心、以琴聲寄志、以絕交明志……從正始名士到司馬氏眼中的異端，從魏晉易代看一代奇才的自由與悲劇",
+      "author": "劉芸 著張宇光，朱晉平 主編",
+      "sourceUrl": "https://www.books.com.tw/products/0011058122",
+      "sourceName": "博客來中文書－其他分類頁",
+      "sourcePage": ".findbook_candidates_07_other_20260719.json"
+    },
+    {
+      "title": "大江東去浪淘盡，赤壁詞客蘇東坡：烏臺詩案、嶺南流放、黨爭風波、赤壁弔古……從少年才名到晚年流放，一代詞人蘇軾在宦海沉浮中寫盡人間",
+      "author": "杜萌 著張宇光，朱晉平 主編",
+      "sourceUrl": "https://www.books.com.tw/products/0011055067",
+      "sourceName": "博客來中文書－其他分類頁",
+      "sourcePage": ".findbook_candidates_07_other_20260719.json"
+    },
+    {
+      "title": "南北朝裂土誌──北魏變法與蕭氏內亂：太后臨朝、北魏南征、洛陽遷都、漢化改制、蕭氏內鬥……南北兩朝一改革一崩壞，誰能撐住亂世江山？",
+      "author": "譚自安",
+      "sourceUrl": "https://www.books.com.tw/products/0011055066",
+      "sourceName": "博客來中文書－其他分類頁",
+      "sourcePage": ".findbook_candidates_07_other_20260719.json"
+    },
+    {
+      "title": "南北朝裂土誌──劉宋內亂與蕭齊開國：叔姪猜忌、兄弟相殘、邊將降魏、權臣入主……劉宋皇族連番自毀，蕭道成如何從亂局中奪得天下？",
+      "author": "譚自安",
+      "sourceUrl": "https://www.books.com.tw/products/0011053439",
+      "sourceName": "博客來中文書－其他分類頁",
+      "sourcePage": ".findbook_candidates_07_other_20260719.json"
+    },
+    {
+      "title": "三國演義翻車現場，比小說更扯的硬核正史：資治通鑑、三國志、魏書……十多本正史考證蒐集，誰的評價遭冤枉？誰的表現被誇大？",
+      "author": "拂羅",
+      "sourceUrl": "https://www.books.com.tw/products/0011057103",
+      "sourceName": "博客來中文書－其他分類頁",
+      "sourcePage": ".findbook_candidates_07_other_20260719.json"
+    },
+    {
+      "title": "戰國日本，割據的幕府時代：幕府失勢×大名混戰×京都內亂……一部簡史看懂日本戰國分裂、霸權更替與德川幕府奠定的天下秩序",
+      "author": "周華龍",
+      "sourceUrl": "https://www.books.com.tw/products/0011054458",
+      "sourceName": "博客來中文書－其他分類頁",
+      "sourcePage": ".findbook_candidates_07_other_20260719.json"
+    }
+  ]
+}

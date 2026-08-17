@@ -1,0 +1,33 @@
+03_natural_science-20260710-09 n=150 keys=['id', 'highlights']
+  minlen=24
+  dups=0
+  本書=0
+  費曼=1 start=0
+  十大關鍵=0
+  Challenger=False
+  simp=[]
+  maxstart=[('修理收音機、開保險櫃與巴西課堂貫串《', 1), ('法拉卡威的鄰居把壞掉收音機送來時，少', 1), ('父親帶他看鳥，先講完習性與飛行方式才', 1)]
+  numbering=True
+  newline=False
+03_natural_science-20260710-10 n=150 keys=['id', 'highlights']
+  minlen=21
+  dups=0
+  本書=0
+  費曼=0 start=0
+  十大關鍵=0
+  Challenger=False
+  simp=[(77, '后', '紅皇后隱喻描述宿主與寄生者的軍備競賽，停止變換基因型就等於站著挨打。')]
+  maxstart=[('生命最可能在鹼性海底熱泉的礦物微孔裡', 1), ('二氧化碳與氫可在鐵硫礦物表面被催化，', 1), ('熱泉岩石的奈米孔隙能濃縮反應物，等於', 1)]
+  numbering=True
+  newline=False
+03_natural_science-20260710-11 n=150 keys=['id', 'highlights']
+  minlen=21
+  dups=0
+  本書=0
+  費曼=0 start=0
+  十大關鍵=0
+  Challenger=False
+  simp=[]
+  maxstart=[('心理健康是大腦持續建構的狀態，而不是', 1), ('它依賴近似體內恆定的調節，使大腦能隨', 1), ('真正的平衡不是永遠平靜，而是被打亂後', 1)]
+  numbering=True
+  newline=False

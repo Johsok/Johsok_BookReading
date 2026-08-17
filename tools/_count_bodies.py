@@ -1,9 +1,11 @@
 # -*- coding: utf-8 -*-
+import re
 from pathlib import Path
 
-d = Path(__file__).with_name("_batch77_bodies")
-for p in sorted(d.glob("*.txt")):
-    lines = [ln.strip() for ln in p.read_text(encoding="utf-8").splitlines() if ln.strip()]
-    print(p.name, len(lines), "bad" if any(x in ("thrush",) or "�" in x for x in lines) else "ok")
-    if len(lines) != 150:
-        print("  last3:", lines[-3:])
+text = Path(__file__).with_name("_gen_highlights_186_190.py").read_text(encoding="utf-8")
+parts = text.split('"bodies": [')
+print("lists", len(parts) - 1)
+for i, part in enumerate(parts[1:], 1):
+    chunk = part.split("],", 1)[0]
+    n = len(re.findall(r'^\s+".+",?\s*$', chunk, re.M))
+    print(i, n)

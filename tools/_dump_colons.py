@@ -1,20 +1,17 @@
 # -*- coding: utf-8 -*-
-import importlib.util
 import re
 from pathlib import Path
+import sys
 
-path = Path("tools/_gen_chunk02_highlights.py")
-spec = importlib.util.spec_from_file_location("g", path)
-mod = importlib.util.module_from_spec(spec)
-spec.loader.exec_module(mod)
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from _build_hl_0610 import BOOKS
+
 NATURAL = ("是", "為", "在於", "說", "問", "提醒", "表示", "指出")
-COLON_RE = re.compile(r"^([^：:]{1,12})[：:](.*)$")
 out = []
-for name in ("BOOK69", "BOOK70"):
-    out.append(f"## {name}")
-    for i, body in enumerate(getattr(mod, name), 1):
-        match = COLON_RE.match(body)
+for book_id, title, author, bodies in BOOKS:
+    for i, body in enumerate(bodies, 1):
+        match = re.match(r"^([^：:]{1,12})[：:]", body)
         if match and not match.group(1).endswith(NATURAL):
-            out.append(f"{i}|{body}")
-Path("tools/_colon_dump.txt").write_text("\n".join(out), encoding="utf-8")
+            out.append(f"{book_id}\t{i:03d}\t{body}")
+Path(__file__).with_name("_colon_hits.txt").write_text("\n".join(out), encoding="utf-8")
 print("wrote", len(out))

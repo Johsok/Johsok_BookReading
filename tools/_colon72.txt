@@ -1,0 +1,3 @@
+n=150
+short_colon_count=0 []
+VALIDATE 02_psychology_growth-20260717-72 第 127 點含禁用來源前綴

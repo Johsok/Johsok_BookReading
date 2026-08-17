@@ -1,0 +1,1966 @@
+{
+  "count": 280,
+  "missing": [],
+  "books": [
+    {
+      "n": 3,
+      "id": "02_psychology_growth-20260716-03",
+      "title": "蛤蟆先生去看心理師(暢銷300萬冊!英國心理諮商經典，附《蛤蟆先生勇氣藏書卡》組)",
+      "author": "羅伯．狄保德、張美惠、Dinner Illustration",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-03.json"
+    },
+    {
+      "n": 4,
+      "id": "02_psychology_growth-20260716-04",
+      "title": "正念靜觀繁盛之路：牛津學派大師衛林.凱肯開創性全球十二堂日常實踐課",
+      "author": "衛林．凱肯、胡慧芳",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-04.json"
+    },
+    {
+      "n": 5,
+      "id": "02_psychology_growth-20260716-05",
+      "title": "孩子的「問題」在說話：順勢而為的艾瑞克森取向兒童青少年催眠治療",
+      "author": "王佑筠、黃天豪",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-05.json"
+    },
+    {
+      "n": 6,
+      "id": "02_psychology_growth-20260716-06",
+      "title": "癮行時代(限量親簽版)：諮商心理師帶你認識癮、離開癮、解開心裡那個「隱」",
+      "author": "蘇琮祺",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-06.json"
+    },
+    {
+      "n": 7,
+      "id": "02_psychology_growth-20260716-07",
+      "title": "那些傷，住進我身體：精神科醫師從大腦與神經系統，剖析家庭創傷如何傷身與療癒",
+      "author": "吳依倫",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-07.json"
+    },
+    {
+      "n": 8,
+      "id": "02_psychology_growth-20260716-08",
+      "title": "正向心念引導卡：停止內耗，打造內在穩定與韌性的自我練習(附指導手冊與25張隨身牌卡)",
+      "author": "普琪．奈特史密斯、金．戴維斯、何禾",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-08.json"
+    },
+    {
+      "n": 9,
+      "id": "02_psychology_growth-20260716-09",
+      "title": "更深的靜觀：正念8週靜心計畫創始人的全新感受調子課",
+      "author": "丹尼．潘曼、馬克．威廉斯、丁家浚、王蓓恩、胡慧芳、陳鑑忠",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-09.json"
+    },
+    {
+      "n": 10,
+      "id": "02_psychology_growth-20260716-10",
+      "title": "你不可不知的心理治療話術：破解40個網路瘋傳的諮商迷思，掌握心理健康的真相!",
+      "author": "喬．努奇（Joe Nucci）、林金源",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-10.json"
+    },
+    {
+      "n": 11,
+      "id": "02_psychology_growth-20260716-11",
+      "title": "人為什麼要自殺?：從真實遺書、臨床案例到心理剖析，拆解絕望背後的行為邏輯",
+      "author": "春日武彥、林佩玟",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-11.json"
+    },
+    {
+      "n": 12,
+      "id": "02_psychology_growth-20260716-12",
+      "title": "EMDR與悲傷療癒：轉化失落，重建與摯愛的內在連結",
+      "author": "羅傑．所羅門（Roger M. Solomon）、徐語珞、朱柏翰、羅瑞芬、蔡昕皓、陳慧敏",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-12.json"
+    },
+    {
+      "n": 13,
+      "id": "02_psychology_growth-20260716-13",
+      "title": "童年的傷，情緒都知道：擁抱內在陰鬱小孩，掙脫家庭創傷陰影，找回信任與愛(經典暢銷新版)",
+      "author": "史蒂芬妮‧史塔爾、王榮輝",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-13.json"
+    },
+    {
+      "n": 14,
+      "id": "02_psychology_growth-20260716-14",
+      "title": "與孩子一起克服焦慮：臨床心理學家陪你引導孩子，重拾生活主動權",
+      "author": "凱西・克雷斯威爾、露西．威雷茲、杜恩年",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-14.json"
+    },
+    {
+      "n": 15,
+      "id": "02_psychology_growth-20260716-15",
+      "title": "活出意義來：從集中營說到存在主義",
+      "author": "弗蘭克、趙可式、沈錦惠",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-15.json"
+    },
+    {
+      "n": 16,
+      "id": "02_psychology_growth-20260716-16",
+      "title": "關係黑洞：「不安全感」如何宰制我們的人生，如何突圍?(2024暢銷經典版)",
+      "author": "周慕姿",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-16.json"
+    },
+    {
+      "n": 17,
+      "id": "02_psychology_growth-20260716-17",
+      "title": "聊癒的力量：接住對方、也不內耗自己，化陪伴為勇氣的對話練習",
+      "author": "伊麗絲．桑德、邱思華",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-17.json"
+    },
+    {
+      "n": 18,
+      "id": "02_psychology_growth-20260716-18",
+      "title": "高敏感是種天賦【暢銷經典版】：肯定自己的獨特，感受更多、想像更多、創造更多",
+      "author": "伊麗絲．桑德、呂盈璇",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-18.json"
+    },
+    {
+      "n": 19,
+      "id": "02_psychology_growth-20260716-19",
+      "title": "諮商與心理治療：理論與實務(五版)",
+      "author": "Gerald Corey、余振民、修慧蘭、江文賢、王淳弘",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-19.json"
+    },
+    {
+      "n": 20,
+      "id": "02_psychology_growth-20260716-20",
+      "title": "揭開潛意識面紗：古典阿德勒深度治療",
+      "author": "曾端真",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-20.json"
+    },
+    {
+      "n": 21,
+      "id": "02_psychology_growth-20260716-21",
+      "title": "擁抱你的內在家庭：運用IFS，重新愛你的內在人格，療癒過去受的傷",
+      "author": "留佩萱",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-21.json"
+    },
+    {
+      "n": 22,
+      "id": "02_psychology_growth-20260716-22",
+      "title": "喚醒安全感的多重迷走神經練習：50個重建身心連結的實用方案",
+      "author": "黛比．黛娜、謝汝萱",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-22.json"
+    },
+    {
+      "n": 23,
+      "id": "02_psychology_growth-20260716-23",
+      "title": "自卑與超越：陪你走過生命幽谷、啟發動能的阿德勒勇氣心理學",
+      "author": "阿爾弗雷德．阿德勒",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-23.json"
+    },
+    {
+      "n": 24,
+      "id": "02_psychology_growth-20260716-24",
+      "title": "七週遇見對的人：擴展愛的能力，聽從內心的指引，尋回值得的人生【暢銷修訂版】 (二手書)",
+      "author": "凱薩琳．伍沃德．湯瑪斯",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-24.json"
+    },
+    {
+      "n": 25,
+      "id": "02_psychology_growth-20260716-25",
+      "title": "自我成長GPS (二手書)",
+      "author": "鄭篤定、曹德芳",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-25.json"
+    },
+    {
+      "n": 26,
+      "id": "02_psychology_growth-20260716-26",
+      "title": "安靜是種超能力：寫給內向者的職場進擊指南，話不多，但大家都會聽你說 (二手書)",
+      "author": "張瀞仁",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-26.json"
+    },
+    {
+      "n": 27,
+      "id": "02_psychology_growth-20260716-27",
+      "title": "拖延心理學：為什麼我老是愛拖延？是與生俱來的壞習慣，還是身不由己？（暢銷35週年增修新版） (二手書)",
+      "author": "珍‧博克、萊諾拉‧袁",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-27.json"
+    },
+    {
+      "n": 28,
+      "id": "02_psychology_growth-20260716-28",
+      "title": "用大腦喜歡的方式「1人學習」：運用腦科學原理x掌握五大原則，制霸考場、錄取公職、順利考取證照的速效讀書法 (二手書)",
+      "author": "韓在佑",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-28.json"
+    },
+    {
+      "n": 29,
+      "id": "02_psychology_growth-20260716-29",
+      "title": "未來預演（二版）：切斷情緒成癮神經鏈結，四週改變慣性腦迴路，換一個新未來",
+      "author": "喬．迪斯本札",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-29.json"
+    },
+    {
+      "n": 30,
+      "id": "02_psychology_growth-20260716-30",
+      "title": "最小阻力之路：以創造力修練取代「不斷解決問題」的人生結構革命 (二手書)",
+      "author": "羅勃．弗利慈",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-30.json"
+    },
+    {
+      "n": 31,
+      "id": "02_psychology_growth-20260716-31",
+      "title": "圖解自我探索與成長 (二手書)",
+      "author": "邱珍琬",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-31.json"
+    },
+    {
+      "n": 32,
+      "id": "02_psychology_growth-20260716-32",
+      "title": "人性的弱點：暢銷不墜的成功學經典，向卡內基學習交心溝通術與好感度人際學 (二手書)",
+      "author": "戴爾．卡內基",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-32.json"
+    },
+    {
+      "n": 33,
+      "id": "02_psychology_growth-20260716-33",
+      "title": "搜尋你內心的關鍵字：Google最熱門的自我成長課程！幫助你創造健康、快樂、成功的人生，在工作、生活上脫胎換骨！ (二手書)",
+      "author": "陳一鳴",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-33.json"
+    },
+    {
+      "n": 34,
+      "id": "02_psychology_growth-20260716-34",
+      "title": "內向心理學【25週年暢銷經典版•特別收錄「精華圖解拉頁」】：享受一個人的空間，安靜地發揮影響力，內向者也能在外向的世界嶄露鋒芒！ (二手書)",
+      "author": "瑪蒂．蘭妮",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-34.json"
+    },
+    {
+      "n": 35,
+      "id": "02_psychology_growth-20260716-35",
+      "title": "原子習慣：細微改變帶來巨大成就的實證法則 (二手書)",
+      "author": "詹姆斯．克利爾",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-35.json"
+    },
+    {
+      "n": 36,
+      "id": "02_psychology_growth-20260716-36",
+      "title": "為什麼我們這樣生活，那樣工作？全球瘋行的習慣改造指南 (二手書)",
+      "author": "查爾斯．杜希格",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-36.json"
+    },
+    {
+      "n": 37,
+      "id": "02_psychology_growth-20260716-37",
+      "title": "6分鐘日記的魔法：最簡單的書寫，改變你的一生 (二手書)",
+      "author": "多明尼克．斯賓斯特",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-37.json"
+    },
+    {
+      "n": 38,
+      "id": "02_psychology_growth-20260716-38",
+      "title": "心智升維：思考力躍遷的底層邏輯",
+      "author": "約翰・保羅・明達",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-38.json"
+    },
+    {
+      "n": 39,
+      "id": "02_psychology_growth-20260716-39",
+      "title": "榮格心理學入門：自我重生的人生旅程",
+      "author": "山根久美子",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-39.json"
+    },
+    {
+      "n": 40,
+      "id": "02_psychology_growth-20260716-40",
+      "title": "卡倫．荷妮之精神官能症與人的成長（筆記版）：拒絕強迫性追求與社會期待，直面真實自我的心理重建之路！",
+      "author": "卡倫．荷妮",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-40.json"
+    },
+    {
+      "n": 41,
+      "id": "02_psychology_growth-20260716-41",
+      "title": "內在力量的指引：榮格心理學自我探索的21個智慧",
+      "author": "詹姆斯・霍利斯",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-41.json"
+    },
+    {
+      "n": 42,
+      "id": "02_psychology_growth-20260716-42",
+      "title": "半熟人格：榮格 × MBTI 心理指南，實現真正成熟的人生",
+      "author": "王凱琳",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-42.json"
+    },
+    {
+      "n": 43,
+      "id": "02_psychology_growth-20260716-43",
+      "title": "全球人才搶著學！密涅瓦的思考習慣訓練",
+      "author": "李佳達、劉劭穎、黃禮宏",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-43.json"
+    },
+    {
+      "n": 44,
+      "id": "02_psychology_growth-20260716-44",
+      "title": "原子習慣WORKBOOK【實踐本‧附練習別冊】",
+      "author": "詹姆斯．克利爾",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-44.json"
+    },
+    {
+      "n": 45,
+      "id": "02_psychology_growth-20260716-45",
+      "title": "我們為什麼對好事麻木、對壞事容忍？：習慣化如何左右人生 (二手書)",
+      "author": "塔莉．沙羅特、凱斯．桑思坦",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-45.json"
+    },
+    {
+      "n": 46,
+      "id": "02_psychology_growth-20260716-46",
+      "title": "鬆綁你的焦慮習慣：善用好奇心打破擔憂與恐懼的迴圈，有效戒除壞習慣的實證法則 (二手書)",
+      "author": "賈德森．布魯爾",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-46.json"
+    },
+    {
+      "n": 47,
+      "id": "02_psychology_growth-20260716-47",
+      "title": "與成功有約：高效能人士的七個習慣（30週年全新增訂版） (二手書)",
+      "author": "史蒂芬．柯維、西恩．柯維",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-47.json"
+    },
+    {
+      "n": 48,
+      "id": "02_psychology_growth-20260716-48",
+      "title": "從習慣洞察人心：學會識人術， 解決人際關係的所有煩惱 (二手書)",
+      "author": "林萃芬",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-48.json"
+    },
+    {
+      "n": 49,
+      "id": "02_psychology_growth-20260716-49",
+      "title": "Rewire-神經可塑性：用神經科學突破行為模式迴圈，終結焦慮、恐慌和憂鬱，實現最佳的心理健康 (二手書)",
+      "author": "妮可．維諾拉",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-49.json"
+    },
+    {
+      "n": 50,
+      "id": "02_psychology_growth-20260716-50",
+      "title": "與焦慮和解：克服過度完美主義、拖延症、害怕批評，從自我檢測中找回生活平衡的實用指南 (二手書)",
+      "author": "愛麗絲．博耶斯",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-50.json"
+    },
+    {
+      "n": 51,
+      "id": "02_psychology_growth-20260716-51",
+      "title": "拯救手機腦：每天5分鐘，終結數位焦慮，找回快樂與專注力 (二手書)",
+      "author": "安德斯．韓森",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-51.json"
+    },
+    {
+      "n": 52,
+      "id": "02_psychology_growth-20260716-52",
+      "title": "大腦喜歡這樣學：先認識自己的大腦，找到正確的思考路徑，就能專注、不拖延，提高記憶力，學會如何學習（二版） (二手書)",
+      "author": "芭芭拉‧歐克莉",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-52.json"
+    },
+    {
+      "n": 53,
+      "id": "02_psychology_growth-20260716-53",
+      "title": "Headspace冥想正念手冊 (二手書)",
+      "author": "安迪．帕帝康",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-53.json"
+    },
+    {
+      "n": 54,
+      "id": "02_psychology_growth-20260716-54",
+      "title": "正念療育的實踐與理論與33個正念練習 (二手書)",
+      "author": "呂凱文",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-54.json"
+    },
+    {
+      "n": 55,
+      "id": "02_psychology_growth-20260716-55",
+      "title": "正念飲食：舒壓、瘦身、慢活的23個健康飲食療法 (二手書)",
+      "author": "珍．裘森．貝斯",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-55.json"
+    },
+    {
+      "n": 56,
+      "id": "02_psychology_growth-20260716-56",
+      "title": "正念飲食：覺察自己為什麼吃，比吃什麼、怎麼吃更重要！ (二手書)",
+      "author": "珍・克里斯特勒博士、艾莉莎．鮑曼",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-56.json"
+    },
+    {
+      "n": 57,
+      "id": "02_psychology_growth-20260716-57",
+      "title": "正念跑步 (二手書)",
+      "author": "麥肯琪．L．哈維",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-57.json"
+    },
+    {
+      "n": 58,
+      "id": "02_psychology_growth-20260716-58",
+      "title": "正念幸福力 (二手書)",
+      "author": "琳達．哈雷普特、佩特拉．邁貝特",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-58.json"
+    },
+    {
+      "n": 59,
+      "id": "02_psychology_growth-20260716-59",
+      "title": "走進自然：滋養身心的正念幸福手冊 (二手書)",
+      "author": "歐騰．圖同、亞里珊卓．凡瑞",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-59.json"
+    },
+    {
+      "n": 60,
+      "id": "02_psychology_growth-20260716-60",
+      "title": "靜心冥想的練習：28天在家自修的正念課程 (二手書)",
+      "author": "雪倫．薩爾茲堡",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-60.json"
+    },
+    {
+      "n": 61,
+      "id": "02_psychology_growth-20260716-61",
+      "title": "正念減壓自學全書：美國麻大正念中心CFM認證導師、華人正念減壓中心創始人「胡君梅」不藏私解惑書（MBSR課程│圖解加強版） (二手書)",
+      "author": "胡君梅",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-61.json"
+    },
+    {
+      "n": 62,
+      "id": "02_psychology_growth-20260716-62",
+      "title": "和自己，相愛不相礙：好好吃飯、好好睡覺、好好愛的正念生活 (二手書)",
+      "author": "郭葉珍",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-62.json"
+    },
+    {
+      "n": 63,
+      "id": "02_psychology_growth-20260716-63",
+      "title": "從負債2000萬到逆轉現實每一天：56個解鎖困境、終結內耗的強運心法，回應宇宙法則，活出天命，自然內外富裕！",
+      "author": "小池浩",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-63.json"
+    },
+    {
+      "n": 64,
+      "id": "02_psychology_growth-20260716-64",
+      "title": "我媽已經三天沒打我了：喵！大膽點，貓咪哪有不出錯的呢！",
+      "author": "老楊的貓頭鷹",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-64.json"
+    },
+    {
+      "n": 65,
+      "id": "02_psychology_growth-20260716-65",
+      "title": "銀髮川柳9：原來我的手機，忘在冰箱裡",
+      "author": "POPLAR社、日本公益社團法人全國自費老人之家協會",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-65.json"
+    },
+    {
+      "n": 66,
+      "id": "02_psychology_growth-20260716-66",
+      "title": "刪掉容易，忘掉很難",
+      "author": "林思齊",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-66.json"
+    },
+    {
+      "n": 67,
+      "id": "02_psychology_growth-20260716-67",
+      "title": "自卑與超越：生命對你意味著什麼（全新修訂二版）",
+      "author": "阿爾弗雷德‧阿德勒",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-67.json"
+    },
+    {
+      "n": 68,
+      "id": "02_psychology_growth-20260716-68",
+      "title": "哇賽！心理學：48個超實用建議，讓你從此告別卡卡人生",
+      "author": "蔡宇哲",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-68.json"
+    },
+    {
+      "n": 69,
+      "id": "02_psychology_growth-20260716-69",
+      "title": "明明沒病，一看到老公就不舒服：妳的「丈夫在家壓力症候群」該化解了",
+      "author": "和田秀樹",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-69.json"
+    },
+    {
+      "n": 70,
+      "id": "02_psychology_growth-20260716-70",
+      "title": "成為自己的貴人：不內耗、不強求，順應變化的49個人生提醒",
+      "author": "阿飛",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-70.json"
+    },
+    {
+      "n": 71,
+      "id": "02_psychology_growth-20260716-71",
+      "title": "攻心操控說服術（暢銷新版）：從「眼神表情」與「姿勢」看穿內心想法，活用「暗示與問話五技術」，無論誰都甘心聽你的",
+      "author": "葛瑞格利‧哈特萊、瑪莉安‧卡琳屈",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-71.json"
+    },
+    {
+      "n": 72,
+      "id": "02_psychology_growth-20260716-72",
+      "title": "亨利識人術：用八種臉型洞悉人性的奧秘",
+      "author": "周亨利",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-72.json"
+    },
+    {
+      "n": 73,
+      "id": "02_psychology_growth-20260716-73",
+      "title": "不過度努力，不為難自己的減法哲學：捨去不必要的執著，只做擅長的事，更容易成功的41個轉念練習",
+      "author": "伊庭正康",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-73.json"
+    },
+    {
+      "n": 74,
+      "id": "02_psychology_growth-20260716-74",
+      "title": "用指尖聊出好關係：從職場溝通到日常互動，網聊時代的好感對話術",
+      "author": "瑪那熊（陳家維）",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-74.json"
+    },
+    {
+      "n": 75,
+      "id": "02_psychology_growth-20260716-75",
+      "title": "生活賽局學，日常選擇中的心理與策略：囚徒困境×納許均衡×重複博弈……打破零和思維、看懂人性陷阱，用心理學找出你的最優解",
+      "author": "崔英勝",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-75.json"
+    },
+    {
+      "n": 76,
+      "id": "02_psychology_growth-20260716-76",
+      "title": "讓聲音被聽見：小金老師的20堂打動人心說話課",
+      "author": "張金蘭",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-76.json"
+    },
+    {
+      "n": 77,
+      "id": "02_psychology_growth-20260716-77",
+      "title": "逆轉不和諧人際關係，從此難受、痛苦全數終結！",
+      "author": "松村亞里",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-77.json"
+    },
+    {
+      "n": 78,
+      "id": "02_psychology_growth-20260716-78",
+      "title": "玩的就是心計：一本書講透人際交往中的心理博弈學！有心計，懂套路，牢牢掌控人生的主動權",
+      "author": "路天章",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-78.json"
+    },
+    {
+      "n": 79,
+      "id": "02_psychology_growth-20260716-79",
+      "title": "對你親切，不代表我好欺負：學會精準表達，讓心意不被誤解的31個提案",
+      "author": "鄭文正",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-79.json"
+    },
+    {
+      "n": 80,
+      "id": "02_psychology_growth-20260716-80",
+      "title": "WIN-WIN！美國人的雙贏溝通法：「說真話也不傷人」的聰明人際學！",
+      "author": "小林音子",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-80.json"
+    },
+    {
+      "n": 81,
+      "id": "02_psychology_growth-20260716-81",
+      "title": "關係免疫力：人際排毒、建立強連結與非暴力溝通的哈佛心理學課（長銷新版）",
+      "author": "梅樂妮．喬伊",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-81.json"
+    },
+    {
+      "n": 82,
+      "id": "02_psychology_growth-20260716-82",
+      "title": "看人要準，防人要快：FBI資深顧問教你一眼認出危險人物，避開身邊的隱形炸彈",
+      "author": "大衛．李柏曼",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-82.json"
+    },
+    {
+      "n": 83,
+      "id": "02_psychology_growth-20260716-83",
+      "title": "孤獨是一種狀態，寂寞是一種心情",
+      "author": "植西聰",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-83.json"
+    },
+    {
+      "n": 84,
+      "id": "02_psychology_growth-20260716-84",
+      "title": "不老青春",
+      "author": "Ｗ．Ｒ．史班斯、鮑伯．達頓",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-84.json"
+    },
+    {
+      "n": 85,
+      "id": "02_psychology_growth-20260716-85",
+      "title": "關於富足，我們應該要……：你賺的是錢，還是你想要的生活?",
+      "author": "費勇",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-85.json"
+    },
+    {
+      "n": 86,
+      "id": "02_psychology_growth-20260716-86",
+      "title": "偶然間來到江南站小吃店(隨書贈 勇敢面對生活書籤)",
+      "author": "尹昣善",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-86.json"
+    },
+    {
+      "n": 87,
+      "id": "02_psychology_growth-20260716-87",
+      "title": "做自己的太陽，去看你想看的星星和月亮+一個人，你也要活得晴空萬里︰陽光幸福套組",
+      "author": "角子",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-87.json"
+    },
+    {
+      "n": 88,
+      "id": "02_psychology_growth-20260716-88",
+      "title": "大人的半日禪：弘一大師的修心筆記",
+      "author": "慈心",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-88.json"
+    },
+    {
+      "n": 89,
+      "id": "02_psychology_growth-20260716-89",
+      "title": "爆發式成長",
+      "author": "木沐",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-89.json"
+    },
+    {
+      "n": 90,
+      "id": "02_psychology_growth-20260716-90",
+      "title": "心書",
+      "author": "諸葛亮",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-90.json"
+    },
+    {
+      "n": 91,
+      "id": "02_psychology_growth-20260716-91",
+      "title": "做自己的太陽，去看你想看的星星和月亮：幸福路上，50個對自己的訴說、和解與釋懷",
+      "author": "角子",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-91.json"
+    },
+    {
+      "n": 92,
+      "id": "02_psychology_growth-20260716-92",
+      "title": "因為你們，我們相信光：創造抗癌力，設計你的運動菜單",
+      "author": "財團法人台灣癌症基金會",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-92.json"
+    },
+    {
+      "n": 93,
+      "id": "02_psychology_growth-20260716-93",
+      "title": "了解自我心理學 漫畫圖解版(全新修訂版)",
+      "author": "Yuuki Yuu",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-93.json"
+    },
+    {
+      "n": 94,
+      "id": "02_psychology_growth-20260716-94",
+      "title": "跨越脊病，生命前行：脊髓傷友與醫療團隊攜手重建的生命記事",
+      "author": "李政道、傑米、Sam Chang、阿翰等、吳立萍",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-94.json"
+    },
+    {
+      "n": 95,
+      "id": "02_psychology_growth-20260716-95",
+      "title": "奇蹟的起點：透過量子法則，改寫人生",
+      "author": "田畑誠",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-95.json"
+    },
+    {
+      "n": 96,
+      "id": "02_psychology_growth-20260716-96",
+      "title": "想你時，終於可以笑著流淚：從理解他人、世界到理解自己，關於愛與告別的生死課",
+      "author": "郭憲鴻（小冬瓜）",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-96.json"
+    },
+    {
+      "n": 97,
+      "id": "02_psychology_growth-20260716-97",
+      "title": "這一生所為何來：麥可．喬丹的人生導師，傳奇教練喬治．瑞夫林的永恆智慧",
+      "author": "喬治．瑞夫林、萊恩．霍利得",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-97.json"
+    },
+    {
+      "n": 98,
+      "id": "02_psychology_growth-20260716-98",
+      "title": "我是不是想太多?關於「隱性高敏感族」",
+      "author": "時田HISAKO",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-98.json"
+    },
+    {
+      "n": 99,
+      "id": "02_psychology_growth-20260716-99",
+      "title": "把天聊死，不如把愛聊活：看懂伴侶關係賽局，開展有效溝通的活局對話",
+      "author": "大心診所、王家齊",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-99.json"
+    },
+    {
+      "n": 100,
+      "id": "02_psychology_growth-20260716-100",
+      "title": "712件可寫的事",
+      "author": "舊金山寫作社",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-100.json"
+    },
+    {
+      "n": 101,
+      "id": "02_psychology_growth-20260716-101",
+      "title": "從不怕輸開始贏：世界第一的心態管理法，金牌選手致勝的「無懼失敗」韌性練習",
+      "author": "金美善",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-101.json"
+    },
+    {
+      "n": 102,
+      "id": "02_psychology_growth-20260716-102",
+      "title": "學習人生的雲淡風輕：弘一大師的七部人生禪(三版)",
+      "author": "弘一大師、舒硯",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-102.json"
+    },
+    {
+      "n": 103,
+      "id": "02_psychology_growth-20260716-103",
+      "title": "面對老，我有備而來",
+      "author": "簡靜惠",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-103.json"
+    },
+    {
+      "n": 104,
+      "id": "02_psychology_growth-20260716-104",
+      "title": "日日放鬆：100種安頓身心的入口",
+      "author": "胡展誥",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-104.json"
+    },
+    {
+      "n": 105,
+      "id": "02_psychology_growth-20260716-105",
+      "title": "身體記憶52講(重拾記憶版)",
+      "author": "蔣勳",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-105.json"
+    },
+    {
+      "n": 106,
+      "id": "02_psychology_growth-20260716-106",
+      "title": "卡內基夫人說女人〖暢銷勵志經典〗：全球超過60個國家，2000多所教育機構指定必讀!",
+      "author": "桃樂絲．卡內基",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-106.json"
+    },
+    {
+      "n": 107,
+      "id": "02_psychology_growth-20260716-107",
+      "title": "如果死期將至：最後的道別不是再見，而是另一個世界見",
+      "author": "四宮敏章",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-107.json"
+    },
+    {
+      "n": 108,
+      "id": "02_psychology_growth-20260716-108",
+      "title": "停止情緒內耗的39個練習：日本人氣心理師破解內耗源頭，教你快速告別自我批判和焦慮",
+      "author": "池田由芽",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-108.json"
+    },
+    {
+      "n": 109,
+      "id": "02_psychology_growth-20260716-109",
+      "title": "重新發明自己的工作：不心累、不瞎忙的無限職涯地圖",
+      "author": "林浩賢Terence Lam",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-109.json"
+    },
+    {
+      "n": 110,
+      "id": "02_psychology_growth-20260716-110",
+      "title": "松浦彌太郎寫給凌晨五點的你： 不想一個人、不想上班、覺得人生進度落後了……美學大師的微建議，關於生活中那些不美的事",
+      "author": "松浦彌太郎",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-110.json"
+    },
+    {
+      "n": 111,
+      "id": "02_psychology_growth-20260716-111",
+      "title": "你的所有不安，時間一吹就散：99%你擔心的事，放著不管就會消失",
+      "author": "高恩美",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-111.json"
+    },
+    {
+      "n": 112,
+      "id": "02_psychology_growth-20260716-112",
+      "title": "八十歲，還能跑跳碰：歲月會增心不必老",
+      "author": "葉金川",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-112.json"
+    },
+    {
+      "n": 113,
+      "id": "02_psychology_growth-20260716-113",
+      "title": "彈性界限：結合腦科學x認知心理學x日常練習，建立心靈防護罩",
+      "author": "金賢",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-113.json"
+    },
+    {
+      "n": 114,
+      "id": "02_psychology_growth-20260716-114",
+      "title": "花甲男孩嬉遊記：六個朋友六十年的故事",
+      "author": "劉仲康、方力行、林俊希、蔣炳煜、郭英敏、陳振文",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-114.json"
+    },
+    {
+      "n": 115,
+      "id": "02_psychology_growth-20260716-115",
+      "title": "讓人生穩定快樂的心理學公式：用「擁有的>期望的」找回生活的平衡與快樂",
+      "author": "劉志軍",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-115.json"
+    },
+    {
+      "n": 116,
+      "id": "02_psychology_growth-20260716-116",
+      "title": "世界上最溫暖的內向人說明書：一定會是你的最後一本內向人書籍!獻給I人的人生使用說明!",
+      "author": "井上由香里",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-116.json"
+    },
+    {
+      "n": 117,
+      "id": "02_psychology_growth-20260716-117",
+      "title": "性侵害團體治療",
+      "author": "李靜宜、魏瑋柔",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-117.json"
+    },
+    {
+      "n": 118,
+      "id": "02_psychology_growth-20260716-118",
+      "title": "沒有人等過我：兒少照護者的陪伴與生命紀事",
+      "author": "吳方芳",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-118.json"
+    },
+    {
+      "n": 119,
+      "id": "02_psychology_growth-20260716-119",
+      "title": "你不是破碎，而是入口：身心療癒師的身體療癒筆記",
+      "author": "趙耕樂",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-119.json"
+    },
+    {
+      "n": 120,
+      "id": "02_psychology_growth-20260716-120",
+      "title": "想念的日子：給失去摯愛者的告別練習",
+      "author": "坂口幸弘、赤田ちづる",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-120.json"
+    },
+    {
+      "n": 121,
+      "id": "02_psychology_growth-20260716-121",
+      "title": "心理韌性：重建挫折復原力的132個強效練習大全",
+      "author": "琳達．格拉翰",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-121.json"
+    },
+    {
+      "n": 122,
+      "id": "02_psychology_growth-20260716-122",
+      "title": "一個人的武林：分享生命分享愛",
+      "author": "劉千瑤",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-122.json"
+    },
+    {
+      "n": 123,
+      "id": "02_psychology_growth-20260716-123",
+      "title": "找到自己，懂你自己，做你自己(心玲精裝燙金愛藏套書)",
+      "author": "心玲",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-123.json"
+    },
+    {
+      "n": 124,
+      "id": "02_psychology_growth-20260716-124",
+      "title": "治癒的構圖，繪畫心理治療統合應用：看見情緒、理解內在、重塑行為",
+      "author": "郝學敏",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-124.json"
+    },
+    {
+      "n": 125,
+      "id": "02_psychology_growth-20260716-125",
+      "title": "我和好運綁定了：心理學×吸引力法則養出開運體質",
+      "author": "masa",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-125.json"
+    },
+    {
+      "n": 126,
+      "id": "02_psychology_growth-20260716-126",
+      "title": "2026人類圖覺察曆&宇宙日誌",
+      "author": "喬宜思",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-126.json"
+    },
+    {
+      "n": 127,
+      "id": "02_psychology_growth-20260716-127",
+      "title": "不完美，才自由：學會與自己和解，從人生谷底到CEO的幸福逆襲心法",
+      "author": "貝姬Becky",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-127.json"
+    },
+    {
+      "n": 128,
+      "id": "02_psychology_growth-20260716-128",
+      "title": "世界盡頭的咖啡館套書〖生命思考暢銷經典〗(2冊)",
+      "author": "約翰‧史崔勒基",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-128.json"
+    },
+    {
+      "n": 129,
+      "id": "02_psychology_growth-20260716-129",
+      "title": "抉擇的智慧：轉化心靈的52篇生命故事，陪你走過一整年的豐盛平安",
+      "author": "蘇拾瑩",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-129.json"
+    },
+    {
+      "n": 130,
+      "id": "02_psychology_growth-20260716-130",
+      "title": "你的不快樂+勇敢告別的人 (溫柔修復．重新開始雙書套組2冊合售)",
+      "author": "Peter Su",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-130.json"
+    },
+    {
+      "n": 131,
+      "id": "02_psychology_growth-20260716-131",
+      "title": "我選擇自私的先愛自己(套書)：討好自己就夠了、喜歡自己就夠了、顧好自己就夠了",
+      "author": "藤野智哉",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-131.json"
+    },
+    {
+      "n": 132,
+      "id": "02_psychology_growth-20260716-132",
+      "title": "天下第一奇書厚黑學",
+      "author": "李宗吾",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-132.json"
+    },
+    {
+      "n": 133,
+      "id": "02_psychology_growth-20260716-133",
+      "title": "顧好自己就夠了：勇於宣告底線、停止消耗情緒和時間的忍耐",
+      "author": "藤野智哉",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-133.json"
+    },
+    {
+      "n": 134,
+      "id": "02_psychology_growth-20260716-134",
+      "title": "那些日子，我一直想要變得更好",
+      "author": "J",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-134.json"
+    },
+    {
+      "n": 135,
+      "id": "02_psychology_growth-20260716-135",
+      "title": "轉逆境為喜悅﹝全新修訂版﹞：勇敢，從擁抱恐懼開始",
+      "author": "佩瑪．丘卓",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-135.json"
+    },
+    {
+      "n": 136,
+      "id": "02_psychology_growth-20260716-136",
+      "title": "擺脫無效親密：9堂教養心理課，讓父母學會從「給予愛」到「給對愛」",
+      "author": "黃啟團",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-136.json"
+    },
+    {
+      "n": 137,
+      "id": "02_psychology_growth-20260716-137",
+      "title": "不擅長，也能閃閃發光：學會克服恥辱，而非隱藏脆弱",
+      "author": "凱倫．里納迪",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-137.json"
+    },
+    {
+      "n": 138,
+      "id": "02_psychology_growth-20260716-138",
+      "title": "溫暖的力量，向光而行：走過時尚關鍵時刻",
+      "author": "溫筱鴻",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-138.json"
+    },
+    {
+      "n": 139,
+      "id": "02_psychology_growth-20260716-139",
+      "title": "好好活著：不再受負面情緒綁架的14個練習(二版)",
+      "author": "約翰．辛德勒",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-139.json"
+    },
+    {
+      "n": 140,
+      "id": "02_psychology_growth-20260716-140",
+      "title": "回收人生：相遇在黎明",
+      "author": "徐璟宜",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-140.json"
+    },
+    {
+      "n": 141,
+      "id": "02_psychology_growth-20260716-141",
+      "title": "當手機遇上演算法：從依附理論拆解手機成癮、社交焦慮與永遠在線的疲勞",
+      "author": "佩特拉．維爾澤波爾",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-141.json"
+    },
+    {
+      "n": 142,
+      "id": "02_psychology_growth-20260716-142",
+      "title": "喔!原來我們都痛裡學會了愛",
+      "author": "陳薇",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-142.json"
+    },
+    {
+      "n": 143,
+      "id": "02_psychology_growth-20260716-143",
+      "title": "情商",
+      "author": "喬潔",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-143.json"
+    },
+    {
+      "n": 144,
+      "id": "02_psychology_growth-20260716-144",
+      "title": "態度",
+      "author": "高文斐",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-144.json"
+    },
+    {
+      "n": 145,
+      "id": "02_psychology_growth-20260716-145",
+      "title": "策略",
+      "author": "戈旭皎",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-145.json"
+    },
+    {
+      "n": 146,
+      "id": "02_psychology_growth-20260716-146",
+      "title": "你只是看起來很努力：累積銷量突破3,000,000冊的經典勵志書",
+      "author": "李尚龍",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-146.json"
+    },
+    {
+      "n": 147,
+      "id": "02_psychology_growth-20260716-147",
+      "title": "別再用「我很好」，偽裝創傷的自己：每一次的過度努力，都是創傷反應",
+      "author": "鈴木裕介",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-147.json"
+    },
+    {
+      "n": 148,
+      "id": "02_psychology_growth-20260716-148",
+      "title": "心靈的蹄印：人馬聯結在馬輔助心理治療中的機制與應用",
+      "author": "王挽華",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-148.json"
+    },
+    {
+      "n": 149,
+      "id": "02_psychology_growth-20260716-149",
+      "title": "不知該努力或得過且過，那就在自己的花期前，活出想要的",
+      "author": "Eleven",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-149.json"
+    },
+    {
+      "n": 150,
+      "id": "02_psychology_growth-20260716-150",
+      "title": "找男人，請走這邊：慾望城市單身女性指南",
+      "author": "珍妮佛．包頓",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-150.json"
+    },
+    {
+      "n": 151,
+      "id": "02_psychology_growth-20260716-151",
+      "title": "我在這裡：陪伴，時代最安靜的力量",
+      "author": "蕭宜佳",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-151.json"
+    },
+    {
+      "n": 152,
+      "id": "02_psychology_growth-20260716-152",
+      "title": "那些不務正業的律師都去哪裏了？",
+      "author": "趙少圖",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-152.json"
+    },
+    {
+      "n": 153,
+      "id": "02_psychology_growth-20260716-153",
+      "title": "別對每件事都有反應2：不執著的練習〖2026限量暢銷特典版〗",
+      "author": "枡野俊明",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-153.json"
+    },
+    {
+      "n": 154,
+      "id": "02_psychology_growth-20260716-154",
+      "title": "你可以不完美，但一定要完整：一位律師父親寫給女兒的五十封信",
+      "author": "杜韓念律師",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-154.json"
+    },
+    {
+      "n": 155,
+      "id": "02_psychology_growth-20260716-155",
+      "title": "漫畫 面對不解的人與事，就用心理學戰鬥：掌握76個實用心理技巧",
+      "author": "YUUKI YUU",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-155.json"
+    },
+    {
+      "n": 156,
+      "id": "02_psychology_growth-20260716-156",
+      "title": "你需要的自在關係(套書)：《彈性界限》+《人際斷捨離》",
+      "author": "辛華、金賢",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-156.json"
+    },
+    {
+      "n": 157,
+      "id": "02_psychology_growth-20260716-157",
+      "title": "睡前，把心放回原位：一本溫柔接住所有負面情緒的睡前療癒書",
+      "author": "富書",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-157.json"
+    },
+    {
+      "n": 158,
+      "id": "02_psychology_growth-20260716-158",
+      "title": "用正向思維創造正向人生",
+      "author": "林樸夫",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-158.json"
+    },
+    {
+      "n": 159,
+      "id": "02_psychology_growth-20260716-159",
+      "title": "自我啟發的人生格局",
+      "author": "林達夫",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-159.json"
+    },
+    {
+      "n": 160,
+      "id": "02_psychology_growth-20260716-160",
+      "title": "潛意識的致富思考",
+      "author": "于珊主編",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-160.json"
+    },
+    {
+      "n": 161,
+      "id": "02_psychology_growth-20260716-161",
+      "title": "沒有退路時，前面反而都是機會",
+      "author": "林郁主編",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-161.json"
+    },
+    {
+      "n": 162,
+      "id": "02_psychology_growth-20260716-162",
+      "title": "耶魯最受歡迎的人氣心理學：解密幸福與成功的社交力量",
+      "author": "米契・普林斯汀",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-162.json"
+    },
+    {
+      "n": 163,
+      "id": "02_psychology_growth-20260716-163",
+      "title": "未來預演（二版）：切斷情緒成癮神經鏈結，四週改變慣性腦迴路，換一個新未來 (二手書)",
+      "author": "喬．迪斯本札",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-163.json"
+    },
+    {
+      "n": 164,
+      "id": "02_psychology_growth-20260716-164",
+      "title": "失控的焦慮世代︰手機餵養的世代，如何面對心理疾病的瘟疫",
+      "author": "強納森．海德特",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-164.json"
+    },
+    {
+      "n": 165,
+      "id": "02_psychology_growth-20260716-165",
+      "title": "拚教養：全球化、親職焦慮與不平等童年 (二手書)",
+      "author": "藍佩嘉",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-165.json"
+    },
+    {
+      "n": 166,
+      "id": "02_psychology_growth-20260716-166",
+      "title": "藝術療癒悲傷：啟發創意、將悲傷練習應用於實務的50個表達性藝術活動",
+      "author": "艾莉西亞・西摩、劉怡伶",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-166.json"
+    },
+    {
+      "n": 167,
+      "id": "02_psychology_growth-20260716-167",
+      "title": "給不小心就會太焦慮的你：摘下「窮忙濾鏡」X擺脫「不安迴圈」，找回自己的人生 (二手書)",
+      "author": "水島廣子",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-167.json"
+    },
+    {
+      "n": 168,
+      "id": "02_psychology_growth-20260716-168",
+      "title": "我們住在焦慮星球 (二手書)",
+      "author": "麥特．海格",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-168.json"
+    },
+    {
+      "n": 169,
+      "id": "02_psychology_growth-20260716-169",
+      "title": "正念減壓初學者手冊 (二手書)",
+      "author": "喬‧卡巴金",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-169.json"
+    },
+    {
+      "n": 170,
+      "id": "02_psychology_growth-20260716-170",
+      "title": "為什麼幫助別人的你，卻幫不了自己？──用正念與基模療法療癒自我 (二手書)",
+      "author": "伊藤繪美",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-170.json"
+    },
+    {
+      "n": 171,
+      "id": "02_psychology_growth-20260716-171",
+      "title": "我們為何成為這樣的大人：感知、情緒與愛，決定你的人生",
+      "author": "史蒂芬妮‧史塔爾、林硯芬",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-171.json"
+    },
+    {
+      "n": 172,
+      "id": "02_psychology_growth-20260716-172",
+      "title": "早安，我心中的怪物：一個心理師與五顆破碎心靈的相互啟蒙，看他們從情感失能到學會感受、走出童年創傷的重生之路",
+      "author": "凱瑟琳‧吉爾迪娜（Catherine Gildiner）、吳妍儀",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-172.json"
+    },
+    {
+      "n": 173,
+      "id": "02_psychology_growth-20260716-173",
+      "title": "女兒是吸收媽媽情緒長大的【暢銷特典版】：即使不曾被愛，也能愛人。獻給世上所有女兒、母親、女性的自我修復心理學",
+      "author": "朴又蘭、林侑毅",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-173.json"
+    },
+    {
+      "n": 174,
+      "id": "02_psychology_growth-20260716-174",
+      "title": "過度努力：每個「過度」，都是傷的證明",
+      "author": "周慕姿",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-174.json"
+    },
+    {
+      "n": 175,
+      "id": "02_psychology_growth-20260716-175",
+      "title": "懷疑人生為什麼是件好事?25年心理學實證研究，13個關鍵提問，帶你找到屬於自己的意義",
+      "author": "克立安•陀提爾、塔特雅娜•旭奈爾、江雯娟",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-175.json"
+    },
+    {
+      "n": 176,
+      "id": "02_psychology_growth-20260716-176",
+      "title": "情緒的力量：EFIT情緒取向個體治療的理論與實務案例",
+      "author": "劉婷",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-176.json"
+    },
+    {
+      "n": 177,
+      "id": "02_psychology_growth-20260716-177",
+      "title": "我不是想死，我是想結束痛苦：人為什麼會自殺?從動機到行為的研究探索，溫柔而理性地全面了解自殺",
+      "author": "羅里‧奧康納、林巧棠",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-177.json"
+    },
+    {
+      "n": 178,
+      "id": "02_psychology_growth-20260716-178",
+      "title": "停止孤獨內耗：每個人的孤獨都是量身訂製，從閱己、越己到悅己的人生必經之路【孤獨內耗者的自癒小本本】",
+      "author": "若杉",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-178.json"
+    },
+    {
+      "n": 179,
+      "id": "02_psychology_growth-20260716-179",
+      "title": "從低谷突破：40年精神科權威史塔茲的療癒之道",
+      "author": "菲爾．史塔茲、姚怡平",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-179.json"
+    },
+    {
+      "n": 180,
+      "id": "02_psychology_growth-20260716-180",
+      "title": "羞辱創傷：最日常，卻最椎心的痛楚",
+      "author": "周慕姿",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-180.json"
+    },
+    {
+      "n": 181,
+      "id": "02_psychology_growth-20260716-181",
+      "title": "寫給生命困境的解答之書：沒什麼過不去的!面對人生的狂風暴雨，你也能安然度過",
+      "author": "茱莉‧史密斯、鍾榕芳",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-181.json"
+    },
+    {
+      "n": 182,
+      "id": "02_psychology_growth-20260716-182",
+      "title": "第一本複雜性創傷後壓力症候群自我療癒聖經(長銷典藏)：在童年創傷中求生到茁壯的恢復指南",
+      "author": "佩特‧沃克、陳思含",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-182.json"
+    },
+    {
+      "n": 183,
+      "id": "02_psychology_growth-20260716-183",
+      "title": "被遺忘的語言：理解夢、童話與神話中的象徵語言",
+      "author": "埃里希．佛洛姆",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-183.json"
+    },
+    {
+      "n": 184,
+      "id": "02_psychology_growth-20260716-184",
+      "title": "今天，你會有好事發生：願我們的好運，可以抵抗世間所有的堅硬",
+      "author": "序詩",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-184.json"
+    },
+    {
+      "n": 185,
+      "id": "02_psychology_growth-20260716-185",
+      "title": "人生每件事，都是取捨的練習",
+      "author": "吳若權",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-185.json"
+    },
+    {
+      "n": 186,
+      "id": "02_psychology_growth-20260716-186",
+      "title": "不是別人不懂你，而是你不懂得愛自己",
+      "author": "叢非從",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-186.json"
+    },
+    {
+      "n": 187,
+      "id": "02_psychology_growth-20260716-187",
+      "title": "誰也偷不走你的專注力：堵住分心漏洞，做得更好，犯錯更少",
+      "author": "奧斯卡．德．博斯、馬克．提赫拉爾",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-187.json"
+    },
+    {
+      "n": 188,
+      "id": "02_psychology_growth-20260716-188",
+      "title": "轉逆境為喜悅：勇敢，從擁抱恐懼開始",
+      "author": "佩瑪．丘卓",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-188.json"
+    },
+    {
+      "n": 189,
+      "id": "02_psychology_growth-20260716-189",
+      "title": "條條大路通羅馬，但你可以不去羅馬：選擇所愛，享受所選",
+      "author": "萬特特",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-189.json"
+    },
+    {
+      "n": 190,
+      "id": "02_psychology_growth-20260716-190",
+      "title": "人生是活給自己的，心煩意亂就留給別人",
+      "author": "宋曉東",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-190.json"
+    },
+    {
+      "n": 191,
+      "id": "02_psychology_growth-20260716-191",
+      "title": "心智節流的放空鍛鍊：終結過勞迴圈，學會正確休息",
+      "author": "約瑟．傑貝利",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-191.json"
+    },
+    {
+      "n": 192,
+      "id": "02_psychology_growth-20260716-192",
+      "title": "我跟門薩學的用腦好習慣：聰明可以後天訓練",
+      "author": "中野信子",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-192.json"
+    },
+    {
+      "n": 193,
+      "id": "02_psychology_growth-20260716-193",
+      "title": "賤招拆招：面對PUA、人身攻擊、貼標籤、偷換概念的說話策略",
+      "author": "伊麗絲・加夫里奇、馬提亞斯・倫格",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-193.json"
+    },
+    {
+      "n": 194,
+      "id": "02_psychology_growth-20260716-194",
+      "title": "放肆．放試",
+      "author": "CareER",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-194.json"
+    },
+    {
+      "n": 195,
+      "id": "02_psychology_growth-20260716-195",
+      "title": "人際關係的思維槓桿：打造深刻連結的26個支點",
+      "author": "王宏嘉、陳卓凡",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-195.json"
+    },
+    {
+      "n": 196,
+      "id": "02_psychology_growth-20260716-196",
+      "title": "你可以不再以傷止傷：為什麼他們若無其事攻擊你？",
+      "author": "加藤諦三",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-196.json"
+    },
+    {
+      "n": 197,
+      "id": "02_psychology_growth-20260716-197",
+      "title": "使用大叔說明書：銀座女王的大叔完全駕馭術",
+      "author": "鈴木Serena",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-197.json"
+    },
+    {
+      "n": 198,
+      "id": "02_psychology_growth-20260716-198",
+      "title": "那個年代的日子：跨越時代的女人力量，仍在我們心裡延續",
+      "author": "陳玉梅",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-198.json"
+    },
+    {
+      "n": 199,
+      "id": "02_psychology_growth-20260716-199",
+      "title": "我在中年重啟人生",
+      "author": "蘿瑞娜",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-199.json"
+    },
+    {
+      "n": 200,
+      "id": "02_psychology_growth-20260716-200",
+      "title": "漫畫：面對不解的人與事，就用心理學戰鬥",
+      "author": "YUUKI YUU",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-200.json"
+    },
+    {
+      "n": 201,
+      "id": "02_psychology_growth-20260716-201",
+      "title": "逆襲思維：打破自我設限的高效行動法則",
+      "author": "任白",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-201.json"
+    },
+    {
+      "n": 202,
+      "id": "02_psychology_growth-20260716-202",
+      "title": "安慰的藝術：為人療傷止痛的話語與行動",
+      "author": "芙爾．沃克",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-202.json"
+    },
+    {
+      "n": 203,
+      "id": "02_psychology_growth-20260716-203",
+      "title": "格局",
+      "author": "喬潔",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-203.json"
+    },
+    {
+      "n": 204,
+      "id": "02_psychology_growth-20260716-204",
+      "title": "逆商",
+      "author": "陌漠",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-204.json"
+    },
+    {
+      "n": 205,
+      "id": "02_psychology_growth-20260716-205",
+      "title": "眼界",
+      "author": "陌漠",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-205.json"
+    },
+    {
+      "n": 206,
+      "id": "02_psychology_growth-20260716-206",
+      "title": "細節",
+      "author": "高文斐",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-206.json"
+    },
+    {
+      "n": 207,
+      "id": "02_psychology_growth-20260716-207",
+      "title": "說服",
+      "author": "牛克錦",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-207.json"
+    },
+    {
+      "n": 208,
+      "id": "02_psychology_growth-20260716-208",
+      "title": "找到你的甜蜜點：尋找人生隱藏機會的9種洞察力",
+      "author": "山姆．理查德",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-208.json"
+    },
+    {
+      "n": 209,
+      "id": "02_psychology_growth-20260716-209",
+      "title": "人類圖財賦密碼：個人職場及賺錢天賦使用說明書",
+      "author": "林福益",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-209.json"
+    },
+    {
+      "n": 210,
+      "id": "02_psychology_growth-20260716-210",
+      "title": "從肢體洞察人心：運用直覺訓練法，從肢體語言與微表情快速洞察真實意圖",
+      "author": "林萃芬",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-210.json"
+    },
+    {
+      "n": 211,
+      "id": "02_psychology_growth-20260716-211",
+      "title": "從裝扮洞察人心：從穿搭配件與外在細節，快速判斷性格、情緒與人際角色",
+      "author": "林萃芬",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-211.json"
+    },
+    {
+      "n": 212,
+      "id": "02_psychology_growth-20260716-212",
+      "title": "不委屈自己的善良小聰明：把日子過成舒服的樣子，學會更自在的貓式機智人生",
+      "author": "心屋仁之助",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-212.json"
+    },
+    {
+      "n": 213,
+      "id": "02_psychology_growth-20260716-213",
+      "title": "如果「問題不是從你開始的」，你可以怎麼做?打破家族創傷循環，找到核心語言、建立自我連結的內在療癒",
+      "author": "馬克．渥林",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-213.json"
+    },
+    {
+      "n": 214,
+      "id": "02_psychology_growth-20260716-214",
+      "title": "正向自信：打破懷疑與恐懼，喚醒內在力量，培養不被情緒左右的明智自信",
+      "author": "喬瓦尼・迪恩斯特曼",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-214.json"
+    },
+    {
+      "n": 215,
+      "id": "02_psychology_growth-20260716-215",
+      "title": "優雅開戰(三版)：聰明選戰場、精準控情緒的建設性衝突策略",
+      "author": "喬恩．塔弗",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-215.json"
+    },
+    {
+      "n": 216,
+      "id": "02_psychology_growth-20260716-216",
+      "title": "毒性優越：踩低你，他才顯得很強大!日本暢銷心理作家剖析炫耀、比較、下馬威行為背後的隱性攻擊",
+      "author": "片田珠美",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-216.json"
+    },
+    {
+      "n": 217,
+      "id": "02_psychology_growth-20260716-217",
+      "title": "你以為的偶然，都是人生的必然3：看懂人生的困局，解開內心的糾結(作者印簽)",
+      "author": "千里淳風",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-217.json"
+    },
+    {
+      "n": 218,
+      "id": "02_psychology_growth-20260716-218",
+      "title": "寧夏璐陪你看世界：在人生最忙的時候，不要忘記了自己",
+      "author": "夏嘉璐,黃瑽寧",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-218.json"
+    },
+    {
+      "n": 219,
+      "id": "02_psychology_growth-20260716-219",
+      "title": "原子習慣WORKBOOK〖官方版‧附練習別冊〗",
+      "author": "詹姆斯‧克利爾",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-219.json"
+    },
+    {
+      "n": 220,
+      "id": "02_psychology_growth-20260716-220",
+      "title": "要愛自己沒錯，但方法對了嗎?──哈佛博士揭祕古老印藏幸福學的最深奧義",
+      "author": "蔣揚仁欽",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-220.json"
+    },
+    {
+      "n": 221,
+      "id": "02_psychology_growth-20260716-221",
+      "title": "AI做不到的事：打造提問與思辨能力的親子哲學課",
+      "author": "苫野一德",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-221.json"
+    },
+    {
+      "n": 222,
+      "id": "02_psychology_growth-20260716-222",
+      "title": "冷讀術：瞬間抓住人心的溝通技巧。暢銷10餘年的職場社交寶典，精確洞察他人內心所想，快速打開對方心扉",
+      "author": "石真語,廖成龍",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-222.json"
+    },
+    {
+      "n": 223,
+      "id": "02_psychology_growth-20260716-223",
+      "title": "人生好難，怎麼笑著走下去?16則諮商室裡的復原練習，讓心理師陪你走到「我可以」",
+      "author": "朱芯儀",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-223.json"
+    },
+    {
+      "n": 224,
+      "id": "02_psychology_growth-20260716-224",
+      "title": "用正念改寫你的人生劇本：一趟深入內在、探索自我的轉化之旅",
+      "author": "趙安安",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-224.json"
+    },
+    {
+      "n": 225,
+      "id": "02_psychology_growth-20260716-225",
+      "title": "情緒界線：剛剛好的情緒化，不內耗也不外傷",
+      "author": "吳娟瑜",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-225.json"
+    },
+    {
+      "n": 226,
+      "id": "02_psychology_growth-20260716-226",
+      "title": "人生沒有長到可以用忍耐來浪費：坦誠面對內心、不再偽裝壓抑，你該活在適合自己的規則中",
+      "author": "鈴木裕介",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-226.json"
+    },
+    {
+      "n": 227,
+      "id": "02_psychology_growth-20260716-227",
+      "title": "青年的四個大夢(跨世代英雄之旅珍藏版)",
+      "author": "吳靜吉",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-227.json"
+    },
+    {
+      "n": 228,
+      "id": "02_psychology_growth-20260716-228",
+      "title": "環境危機下的社會心理：從逃避到參與，揭開環境焦慮背後的行動難題",
+      "author": "張玥、李娟",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-228.json"
+    },
+    {
+      "n": 229,
+      "id": "02_psychology_growth-20260716-229",
+      "title": "看透人性：從認知到掌控的76堂人性解碼課",
+      "author": "明道",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-229.json"
+    },
+    {
+      "n": 230,
+      "id": "02_psychology_growth-20260716-230",
+      "title": "博弈論",
+      "author": "明道",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-230.json"
+    },
+    {
+      "n": 231,
+      "id": "02_psychology_growth-20260716-231",
+      "title": "羊皮卷大全集",
+      "author": "奧格．曼狄諾",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-231.json"
+    },
+    {
+      "n": 232,
+      "id": "02_psychology_growth-20260716-232",
+      "title": "人生底層邏輯",
+      "author": "林祥",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-232.json"
+    },
+    {
+      "n": 233,
+      "id": "02_psychology_growth-20260716-233",
+      "title": "給還撐得住，但快沒電的你：心累時代的內在安定練習",
+      "author": "艾瑪．赫本博士",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-233.json"
+    },
+    {
+      "n": 234,
+      "id": "02_psychology_growth-20260716-234",
+      "title": "你的生命就是一場喜樂的量子遊戲：用意念創造想要的人生!",
+      "author": "克里斯強‧布利",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-234.json"
+    },
+    {
+      "n": 235,
+      "id": "02_psychology_growth-20260716-235",
+      "title": "只想你從全世界的煩惱路過(2)",
+      "author": "蒼海笑",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-235.json"
+    },
+    {
+      "n": 236,
+      "id": "02_psychology_growth-20260716-236",
+      "title": "彈性習慣：釋放壓力、克服拖延、輕鬆保持意志力(韌性新版)",
+      "author": "史蒂芬．蓋斯",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-236.json"
+    },
+    {
+      "n": 237,
+      "id": "02_psychology_growth-20260716-237",
+      "title": "力量來自渴望：在最壞的時代，做最好的自己(暢銷12年紀念版)",
+      "author": "戴晨志",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-237.json"
+    },
+    {
+      "n": 238,
+      "id": "02_psychology_growth-20260716-238",
+      "title": "鬆開糾結 停止內耗 找到如何與父母相處的情緒解藥",
+      "author": "寢子",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-238.json"
+    },
+    {
+      "n": 239,
+      "id": "02_psychology_growth-20260716-239",
+      "title": "隨心所欲：跟隨直覺，活出你專屬的自在豐盛",
+      "author": "殷采霏",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-239.json"
+    },
+    {
+      "n": 240,
+      "id": "02_psychology_growth-20260716-240",
+      "title": "我是一個還不錯的人〖學會放過自己的勇氣、無須解釋的人際關係〗",
+      "author": "金在植",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-240.json"
+    },
+    {
+      "n": 241,
+      "id": "02_psychology_growth-20260716-241",
+      "title": "讓強項綻放的自我觀察：你以為的弱項、你沒在意的能力，都能轉變成強項",
+      "author": "稻垣榮洋",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-241.json"
+    },
+    {
+      "n": 242,
+      "id": "02_psychology_growth-20260716-242",
+      "title": "漫談人性",
+      "author": "鄭孟忠",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-242.json"
+    },
+    {
+      "n": 243,
+      "id": "02_psychology_growth-20260716-243",
+      "title": "人性的教育",
+      "author": "黃秀文",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-243.json"
+    },
+    {
+      "n": 244,
+      "id": "02_psychology_growth-20260716-244",
+      "title": "人性論",
+      "author": "紀湧泉",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-244.json"
+    },
+    {
+      "n": 245,
+      "id": "02_psychology_growth-20260716-245",
+      "title": "我們，怎麼了?——修補愛的裂縫，找回親密的溫度",
+      "author": "許瑞云、鄭先安",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-245.json"
+    },
+    {
+      "n": 246,
+      "id": "02_psychology_growth-20260716-246",
+      "title": "日常生活中 再思創造",
+      "author": "孫寶年",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-246.json"
+    },
+    {
+      "n": 247,
+      "id": "02_psychology_growth-20260716-247",
+      "title": "你的活力，他們六個全都罩!：讓你精神百倍的六種物質",
+      "author": "大衛．JP．菲利浦斯",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-247.json"
+    },
+    {
+      "n": 248,
+      "id": "02_psychology_growth-20260716-248",
+      "title": "給總是微笑卻很累的你：25個心理測驗，帶你剖析情緒，讀懂自己",
+      "author": "周小鵬、陳照瑞",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-248.json"
+    },
+    {
+      "n": 249,
+      "id": "02_psychology_growth-20260716-249",
+      "title": "心理是關鍵，從人心出發的公共關係學：群體情緒、輿論風向、品牌形象",
+      "author": "謝蘭舟",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-249.json"
+    },
+    {
+      "n": 250,
+      "id": "02_psychology_growth-20260716-250",
+      "title": "抉擇的智慧：轉化心靈的52篇生命故事",
+      "author": "蘇拾瑩",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-250.json"
+    },
+    {
+      "n": 251,
+      "id": "02_psychology_growth-20260716-251",
+      "title": "如何顯化你想要的一切：愛情、財富、事業與一切願望的終極解答",
+      "author": "維多利亞．傑克森",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-251.json"
+    },
+    {
+      "n": 252,
+      "id": "02_psychology_growth-20260716-252",
+      "title": "該你的都在路上",
+      "author": "艾莉",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-252.json"
+    },
+    {
+      "n": 253,
+      "id": "02_psychology_growth-20260716-253",
+      "title": "別太把別人當回事：活得心安理得，從容自在的禪練習",
+      "author": "枡野俊明",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-253.json"
+    },
+    {
+      "n": 254,
+      "id": "02_psychology_growth-20260716-254",
+      "title": "找到自己，懂你自己，做你自己",
+      "author": "心玲",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-254.json"
+    },
+    {
+      "n": 255,
+      "id": "02_psychology_growth-20260716-255",
+      "title": "和尚賣了法拉利：圓滿人生的七個祕密",
+      "author": "羅賓．夏瑪",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-255.json"
+    },
+    {
+      "n": 256,
+      "id": "02_psychology_growth-20260716-256",
+      "title": "從不怕輸開始贏：世界第一的心態管理法",
+      "author": "金美善",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-256.json"
+    },
+    {
+      "n": 257,
+      "id": "02_psychology_growth-20260716-257",
+      "title": "學習人生的雲淡風輕：弘一大師的七部人生禪",
+      "author": "弘一大師、舒硯",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-257.json"
+    },
+    {
+      "n": 258,
+      "id": "02_psychology_growth-20260716-258",
+      "title": "治癒的構圖，繪畫心理治療統合應用",
+      "author": "郝學敏",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-258.json"
+    },
+    {
+      "n": 259,
+      "id": "02_psychology_growth-20260716-259",
+      "title": "馴服多巴胺：在縱欲時代抗拒無止境想要更多的誘惑",
+      "author": "麥可．隆",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-259.json"
+    },
+    {
+      "n": 260,
+      "id": "02_psychology_growth-20260716-260",
+      "title": "我選擇自私的先愛自己：討好自己就夠了、喜歡自己就夠了、顧好自己就夠了",
+      "author": "藤野智哉",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-260.json"
+    },
+    {
+      "n": 261,
+      "id": "02_psychology_growth-20260716-261",
+      "title": "心智節流的放空鍛鍊：終結過勞迴圈",
+      "author": "約瑟．傑貝利",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-261.json"
+    },
+    {
+      "n": 262,
+      "id": "02_psychology_growth-20260716-262",
+      "title": "隱性內耗：看不見的傷，如何消磨你的能量？",
+      "author": "蘇絢慧",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-262.json"
+    },
+    {
+      "n": 263,
+      "id": "02_psychology_growth-20260716-263",
+      "title": "條條大路通羅馬，但你可以不去羅馬",
+      "author": "萬特特",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-263.json"
+    },
+    {
+      "n": 264,
+      "id": "02_psychology_growth-20260716-264",
+      "title": "正向自信：打破懷疑與恐懼，喚醒內在力量",
+      "author": "喬瓦尼・迪恩斯特曼",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-264.json"
+    },
+    {
+      "n": 265,
+      "id": "02_psychology_growth-20260716-265",
+      "title": "中年後的我，不孤單也不委屈：32堂人際關係心理課",
+      "author": "李湖仙",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-265.json"
+    },
+    {
+      "n": 266,
+      "id": "02_psychology_growth-20260716-266",
+      "title": "鍵結效應：少數人的念力，可以改變多數人的生活",
+      "author": "琳恩．麥塔格特",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-266.json"
+    },
+    {
+      "n": 267,
+      "id": "02_psychology_growth-20260716-267",
+      "title": "學校不會教的人生課：怡慧老師的實踐成長學",
+      "author": "宋怡慧",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-267.json"
+    },
+    {
+      "n": 268,
+      "id": "02_psychology_growth-20260716-268",
+      "title": "你的心值得好好安放：六祖壇經的輕禪練習",
+      "author": "費勇",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-268.json"
+    },
+    {
+      "n": 269,
+      "id": "02_psychology_growth-20260716-269",
+      "title": "以終為始的思考：日本百年塾100則處世智慧",
+      "author": "高野登",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-269.json"
+    },
+    {
+      "n": 270,
+      "id": "02_psychology_growth-20260716-270",
+      "title": "顧好自己就夠了：暖男身心科醫生教你35個立下界線的課題",
+      "author": "藤野智哉",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-270.json"
+    },
+    {
+      "n": 271,
+      "id": "02_psychology_growth-20260716-271",
+      "title": "擺脫無效親密：9堂教養心理課",
+      "author": "黃啟團",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-271.json"
+    },
+    {
+      "n": 272,
+      "id": "02_psychology_growth-20260716-272",
+      "title": "好好活著：不再受負面情緒綁架的14個練習",
+      "author": "約翰．辛德勒",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-272.json"
+    },
+    {
+      "n": 273,
+      "id": "02_psychology_growth-20260716-273",
+      "title": "推理心理學：怎樣透過幻象看清真相",
+      "author": "阿爾弗雷德·比奈",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-273.json"
+    },
+    {
+      "n": 274,
+      "id": "02_psychology_growth-20260716-274",
+      "title": "內心強大 情緒穩定：不焦慮不抑鬱不內耗的心理學",
+      "author": "劉暢、程社明、魯晨慧",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-274.json"
+    },
+    {
+      "n": 275,
+      "id": "02_psychology_growth-20260716-275",
+      "title": "和好心情做室友：管理內心噪音，打造內心秩序",
+      "author": "索妮婭·溫格爾",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-275.json"
+    },
+    {
+      "n": 276,
+      "id": "02_psychology_growth-20260716-276",
+      "title": "壞信念：為什麼人們會相信那些不合理的謬論",
+      "author": "尼爾·利維",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-276.json"
+    },
+    {
+      "n": 277,
+      "id": "02_psychology_growth-20260716-277",
+      "title": "青春期心理養育",
+      "author": "宋立",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-277.json"
+    },
+    {
+      "n": 278,
+      "id": "02_psychology_growth-20260716-278",
+      "title": "當女兒決定不乖：告別好女兒綜合征",
+      "author": "凱瑟琳·法布里齊奧",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-278.json"
+    },
+    {
+      "n": 279,
+      "id": "02_psychology_growth-20260716-279",
+      "title": "隨他們去：擺脫控制欲、奪回能量的行動指南",
+      "author": "梅爾·羅賓斯、索耶·羅賓斯",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-279.json"
+    },
+    {
+      "n": 280,
+      "id": "02_psychology_growth-20260716-280",
+      "title": "1分鐘冥想",
+      "author": "馬丁·保羅森",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-280.json"
+    },
+    {
+      "n": 281,
+      "id": "02_psychology_growth-20260716-281",
+      "title": "向內生長：81個心理學概念讀懂自己",
+      "author": "顏妍、朱佳旭",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-281.json"
+    },
+    {
+      "n": 282,
+      "id": "02_psychology_growth-20260716-282",
+      "title": "刺蝟的距離：親密關係中的愛與傷",
+      "author": "德波拉·安娜·盧普尼茨",
+      "file": "C:\\Users\\johso\\OneDrive\\Desktop\\Johsok_BookReading\\Books\\02_psychology_growth\\02_psychology_growth-20260716-282.json"
+    }
+  ]
+}
