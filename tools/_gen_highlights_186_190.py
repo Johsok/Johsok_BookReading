@@ -9,6 +9,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from findbook_writer import validate_highlights  # noqa: E402
+from _hl_188_190 import MORE  # noqa: E402
 
 
 BOOKS = {
@@ -327,9 +328,12 @@ BOOKS = {
 }
 
 
-def numbered(bodies: list[str]) -> list[str]:
+BOOKS.update(MORE)
+
+
+def numbered(book_id: str, bodies: list[str]) -> list[str]:
     if len(bodies) != 150:
-        raise SystemExit(f"need 150, got {len(bodies)}")
+        raise SystemExit(f"{book_id} need 150, got {len(bodies)}")
     return [f"{i:03d}、{body}" for i, body in enumerate(bodies, 1)]
 
 
@@ -337,7 +341,7 @@ def main() -> None:
     out_dir = Path(__file__).resolve().parent
     results = []
     for book_id, meta in BOOKS.items():
-        highlights = numbered(meta["bodies"])
+        highlights = numbered(book_id, meta["bodies"])
         validate_highlights(book_id, highlights, meta["title"], meta["author"])
         payload = {"id": book_id, "highlights": highlights}
         path = out_dir / f".findbook_results_grok_{book_id}.json"
