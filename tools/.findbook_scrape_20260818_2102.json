@@ -1,0 +1,141 @@
+{
+  "log": [
+    "existing=3488",
+    "FAIL\t01_business_startup\thttps://www.books.com.tw/web/books_nbtopm_02/?o=5&v=1\tHTTP Error 403: Forbidden",
+    "FAIL\t01_business_startup\thttps://www.books.com.tw/web/books_nbtopm_02/?o=5&page=2&v=1\tHTTP Error 403: Forbidden",
+    "FAIL\t01_business_startup\thttps://www.books.com.tw/web/books_nbtopm_02/?o=5&page=3&v=1\tHTTP Error 403: Forbidden",
+    "FAIL\t01_business_startup\thttps://www.books.com.tw/web/sys_nbmidme/books/02/?o=1&page=1&v=1\tHTTP Error 403: Forbidden",
+    "FAIL\t01_business_startup\thttps://www.books.com.tw/web/sys_nbmidme/books/02/?o=1&page=2&v=1\tHTTP Error 403: Forbidden",
+    "FAIL\t01_business_startup\thttps://www.books.com.tw/web/sys_nbmidme/books/02/?o=1&page=3&v=1\tHTTP Error 403: Forbidden",
+    "FAIL\t01_business_startup\thttps://www.books.com.tw/web/books_topm_02/?o=5&v=1\tHTTP Error 403: Forbidden",
+    "page\t01_business_startup\tparsed=10\tadded=10\ttotal=10",
+    "CAT\t01_business_startup\t10",
+    "FAIL\t02_psychology_growth\thttps://www.books.com.tw/web/books_nbtopm_07/?o=5&v=1\tHTTP Error 403: Forbidden",
+    "FAIL\t02_psychology_growth\thttps://www.books.com.tw/web/books_nbtopm_07/?o=5&page=2&v=1\tHTTP Error 403: Forbidden",
+    "FAIL\t02_psychology_growth\thttps://www.books.com.tw/web/sys_nbmidme/books/07/?o=1&page=1&v=1\tHTTP Error 403: Forbidden",
+    "FAIL\t02_psychology_growth\thttps://www.books.com.tw/web/sys_nbmidme/books/07/?o=1&page=2&v=1\tHTTP Error 403: Forbidden",
+    "FAIL\t02_psychology_growth\thttps://www.books.com.tw/web/books_topm_07/?o=5&v=1\tHTTP Error 403: Forbidden",
+    "FAIL\t02_psychology_growth\thttps://www.books.com.tw/web/china_nbtopm_07/?o=5&v=1\tHTTP Error 403: Forbidden",
+    "CAT\t02_psychology_growth\t0",
+    "FAIL\t03_natural_science\thttps://www.books.com.tw/web/books_nbtopm_06/?o=5&v=1\tHTTP Error 403: Forbidden",
+    "FAIL\t03_natural_science\thttps://www.books.com.tw/web/books_nbtopm_06/?o=5&page=2&v=1\tHTTP Error 403: Forbidden",
+    "FAIL\t03_natural_science\thttps://www.books.com.tw/web/sys_nbmidme/books/06/?o=1&page=1&v=1\tHTTP Error 403: Forbidden",
+    "FAIL\t03_natural_science\thttps://www.books.com.tw/web/sys_nbmidme/books/06/?o=1&page=2&v=1\tHTTP Error 403: Forbidden",
+    "FAIL\t03_natural_science\thttps://www.books.com.tw/web/books_topm_06/?o=5&v=1\tHTTP Error 403: Forbidden",
+    "FAIL\t03_natural_science\thttps://www.books.com.tw/web/china_nbtopm_10/?o=5&v=1\tHTTP Error 403: Forbidden",
+    "CAT\t03_natural_science\t0",
+    "DETAIL_FAIL\thttps://www.books.com.tw/products/CN18132587\tHTTP Error 403: Forbidden",
+    "DETAIL_FAIL\thttps://www.books.com.tw/products/CN18131691\tHTTP Error 403: Forbidden",
+    "DETAIL_FAIL\thttps://www.books.com.tw/products/CN18124120\tHTTP Error 403: Forbidden",
+    "DETAIL_FAIL\thttps://www.books.com.tw/products/CN18127218\tHTTP Error 403: Forbidden",
+    "DETAIL_FAIL\thttps://www.books.com.tw/products/CN18127960\tHTTP Error 403: Forbidden",
+    "DETAIL_FAIL\thttps://www.books.com.tw/products/CN18129430\tHTTP Error 403: Forbidden",
+    "DETAIL_FAIL\thttps://www.books.com.tw/products/CN18129812\tHTTP Error 403: Forbidden",
+    "DETAIL_FAIL\thttps://www.books.com.tw/products/CN18130290\tHTTP Error 403: Forbidden",
+    "DETAIL_FAIL\thttps://www.books.com.tw/products/CN18131342\tHTTP Error 403: Forbidden",
+    "DETAIL_FAIL\thttps://www.books.com.tw/products/CN18131357\tHTTP Error 403: Forbidden",
+    "KEPT\t01_business_startup\t10",
+    "KEPT\t02_psychology_growth\t0",
+    "KEPT\t03_natural_science\t0",
+    "KS_FAIL\t02_psychology_growth\thttps://www.kingstone.com.tw/newbook/book/psycho/\t<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1082)>",
+    "KS_FAIL\t02_psychology_growth\thttps://www.kingstone.com.tw/monthpublish/book/eg/\t<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1082)>",
+    "KS_FAIL\t03_natural_science\thttps://www.kingstone.com.tw/newbook/book/nature/\t<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1082)>",
+    "KS_FAIL\t03_natural_science\thttps://www.kingstone.com.tw/monthpublish/book/ei/\t<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1082)>"
+  ],
+  "results": {
+    "01_business_startup": [
+      {
+        "title": "企業出海戰略：供應鏈破局與重構",
+        "author": "鄭翔予",
+        "sourceUrl": "https://www.books.com.tw/products/CN18132587",
+        "published": "",
+        "sourceSite": "博客來",
+        "sourcePage": "https://www.books.com.tw/web/china_nbtopm_06/?o=5&v=1",
+        "sourceName": "博客來中文書－商業理財新書／分類頁"
+      },
+      {
+        "title": "賦能石油",
+        "author": "王一端等",
+        "sourceUrl": "https://www.books.com.tw/products/CN18131691",
+        "published": "",
+        "sourceSite": "博客來",
+        "sourcePage": "https://www.books.com.tw/web/china_nbtopm_06/?o=5&v=1",
+        "sourceName": "博客來中文書－商業理財新書／分類頁"
+      },
+      {
+        "title": "外貿單證操作(第三版)",
+        "author": "戈雪梅",
+        "sourceUrl": "https://www.books.com.tw/products/CN18124120",
+        "published": "",
+        "sourceSite": "博客來",
+        "sourcePage": "https://www.books.com.tw/web/china_nbtopm_06/?o=5&v=1",
+        "sourceName": "博客來中文書－商業理財新書／分類頁"
+      },
+      {
+        "title": "與生命和解",
+        "author": "葉檀",
+        "sourceUrl": "https://www.books.com.tw/products/CN18127218",
+        "published": "",
+        "sourceSite": "博客來",
+        "sourcePage": "https://www.books.com.tw/web/china_nbtopm_06/?o=5&v=1",
+        "sourceName": "博客來中文書－商業理財新書／分類頁"
+      },
+      {
+        "title": "ERP供應鏈管理系統實訓教程(第6版)",
+        "author": "宋士顯,曹方林,牛永芹",
+        "sourceUrl": "https://www.books.com.tw/products/CN18127960",
+        "published": "",
+        "sourceSite": "博客來",
+        "sourcePage": "https://www.books.com.tw/web/china_nbtopm_06/?o=5&v=1",
+        "sourceName": "博客來中文書－商業理財新書／分類頁"
+      },
+      {
+        "title": "財富與權利：經濟平等興衰史",
+        "author": "（英）喬茜·珂絲",
+        "sourceUrl": "https://www.books.com.tw/products/CN18129430",
+        "published": "",
+        "sourceSite": "博客來",
+        "sourcePage": "https://www.books.com.tw/web/china_nbtopm_06/?o=5&v=1",
+        "sourceName": "博客來中文書－商業理財新書／分類頁"
+      },
+      {
+        "title": "被愛過的孩子，不會猶豫去愛別人",
+        "author": "（日）黑柳徹子，（日）鐮田實",
+        "sourceUrl": "https://www.books.com.tw/products/CN18129812",
+        "published": "",
+        "sourceSite": "博客來",
+        "sourcePage": "https://www.books.com.tw/web/china_nbtopm_06/?o=5&v=1",
+        "sourceName": "博客來中文書－商業理財新書／分類頁"
+      },
+      {
+        "title": "旅遊概論(第三版)",
+        "author": "邵世剛，何山（主編）",
+        "sourceUrl": "https://www.books.com.tw/products/CN18130290",
+        "published": "",
+        "sourceSite": "博客來",
+        "sourcePage": "https://www.books.com.tw/web/china_nbtopm_06/?o=5&v=1",
+        "sourceName": "博客來中文書－商業理財新書／分類頁"
+      },
+      {
+        "title": "家庭調查分析：發展政策的微觀計量方法",
+        "author": "（英）安格斯·迪頓",
+        "sourceUrl": "https://www.books.com.tw/products/CN18131342",
+        "published": "",
+        "sourceSite": "博客來",
+        "sourcePage": "https://www.books.com.tw/web/china_nbtopm_06/?o=5&v=1",
+        "sourceName": "博客來中文書－商業理財新書／分類頁"
+      },
+      {
+        "title": "量價異動與漲停操盤戰法",
+        "author": "股震子",
+        "sourceUrl": "https://www.books.com.tw/products/CN18131357",
+        "published": "",
+        "sourceSite": "博客來",
+        "sourcePage": "https://www.books.com.tw/web/china_nbtopm_06/?o=5&v=1",
+        "sourceName": "博客來中文書－商業理財新書／分類頁"
+      }
+    ],
+    "02_psychology_growth": [],
+    "03_natural_science": []
+  }
+}

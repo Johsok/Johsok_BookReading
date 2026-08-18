@@ -1,0 +1,26 @@
+01_business_startup-20260818-01	01_business_startup	智慧通膨下的新商機：AI時代的稀缺能力與新護城河	程世嘉、蕭玉品	findbook-20260818-160700
+01_business_startup-20260818-02	01_business_startup	走出金錢焦慮：理解現實真相，真正消除不安	田內學	findbook-20260818-160700
+02_psychology_growth-20260818-01	02_psychology_growth	正是時候讀康德：寫給擁有愈多就愈不安的人，跟著康德活出平靜規律的人生	姜芝誾	findbook-20260818-160700
+02_psychology_growth-20260818-02	02_psychology_growth	該是脫困的時候了：臨床心理師帶你鬆開死結，重啟人生	劉仲彬	findbook-20260818-160700
+03_natural_science-20260818-01	03_natural_science	有一種田野報告叫植物獵人	洪信介	findbook-20260818-160700
+03_natural_science-20260818-02	03_natural_science	熵之道：高熵合金之父葉均蔚解密週期表與人生	葉均蔚、王惠英	findbook-20260818-160700
+01_business_startup-20260818-03	01_business_startup	財富護城河：立足台股、接軌美股，打造散戶穿越牛熊的全球財富系統	施雅棠	findbook-20260818-193800
+01_business_startup-20260818-04	01_business_startup	不只0050：黃金＆白銀ETF交易配置實戰	元大投信團隊策畫	findbook-20260818-193800
+01_business_startup-20260818-05	01_business_startup	學會理財，世界開始發光：不委屈、不求人、不盲從～從零基礎開始妳的「經濟獨立」之路	安藤真由美	findbook-20260818-193800
+01_business_startup-20260818-06	01_business_startup	你的人生需要新收入！：25堂揭露財富和人生真相的商業洞察課，用51分的勇氣，專心快樂發展自己！	錢婧	findbook-20260818-193800
+01_business_startup-20260818-07	01_business_startup	不用猜市場，也能安心變有錢	吳佳駿、劉詠廷	findbook-20260818-193800
+02_psychology_growth-20260818-03	02_psychology_growth	最有企圖心的一天：如何刻意行動，讓每個目標都有始有終	克里斯．貝利	findbook-20260818-193800
+02_psychology_growth-20260818-04	02_psychology_growth	讓焦慮隨風而去：吹散執念，讓人生更輕盈的禪思考	枡野俊明	findbook-20260818-193800
+02_psychology_growth-20260818-05	02_psychology_growth	想成功，但在那之前好像會先死掉：那些成功人士的準則，真的適合你嗎？以生理節奏重新探索生活路徑，設計屬於你的人生再造計畫。	崔怡帥	findbook-20260818-193800
+02_psychology_growth-20260818-06	02_psychology_growth	讓自己休息的練習：拋開效率崇拜，東大急診名醫寫給焦慮世代的心靈指南	矢作直樹	findbook-20260818-193800
+02_psychology_growth-20260818-07	02_psychology_growth	療傷的勇氣：走過外遇、關係修復和自我療癒的陪伴筆記	欣西亞	findbook-20260818-193800
+01_business_startup-20260818-08	01_business_startup	花錢的藝術：打造富足人生的金錢心理學【博客來獨家附贈財富透析．互動金句透卡】	摩根．豪瑟	findbook-20260818-2014
+01_business_startup-20260818-09	01_business_startup	高薪賽道：選擇比努力重要！走對路徑的職場換軌與談薪心法	抹布（Moboo）	findbook-20260818-2014
+01_business_startup-20260818-10	01_business_startup	致富思維——不是你不夠努力，而是一直用錯方法在賺錢；生命不能重來，但思維可以重新彩排！	董耀慶（Max）、周君樺（Ginger）	findbook-20260818-2014
+01_business_startup-20260818-11	01_business_startup	你不是不夠好，只是站錯了位置：找到對的定位，不再耗損、不必硬撐，活出真正自我成就的人生	陳世明	findbook-20260818-2014
+01_business_startup-20260818-12	01_business_startup	我們可以好好Feedback嗎？職場回饋為何可怕？怎樣變成有益對話？	貝琪．維斯特伍德	findbook-20260818-2014
+02_psychology_growth-20260818-08	02_psychology_growth	覺察之道：任何時候都能回到當下、降伏煩惱的8個修心練習	藍獅子	findbook-20260818-2014
+02_psychology_growth-20260818-09	02_psychology_growth	如果MBTI是隻貓：11個觀察主題 、20篇超萌漫畫、超過200張MBTI貓插畫，帶你輕鬆認識16型人格的思考模式、性格差異與內心世界！	都曉珍	findbook-20260818-2014
+02_psychology_growth-20260818-10	02_psychology_growth	菇蛙小姐的不用力生活練習1：慢慢來，這樣照顧自己也可以	梅貝兒．伊奎	findbook-20260818-2014
+02_psychology_growth-20260818-11	02_psychology_growth	北歐式的自由生活提案〔暢銷新版〕：工作在都市，生活在鄉間，世界第一幸福國度的「減速日常」	本田直之	findbook-20260818-2014
+02_psychology_growth-20260818-12	02_psychology_growth	菇蛙小姐的不用力生活練習2：慢慢來，把平凡的日子過得有點可愛	梅貝兒．伊奎	findbook-20260818-2014

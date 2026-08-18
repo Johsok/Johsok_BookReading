@@ -51363,13 +51363,308 @@
       "sourceUrl": "https://www.bookrep.com.tw/?at=bookcontent&cl=book&id=21777&md=gwindex",
       "file": "Books/02_psychology_growth/02_psychology_growth-20260818-12.json",
       "workId": "findbook-20260818-2014"
+    },
+    {
+      "id": "01_business_startup-20260818-13",
+      "title": "打開無路之路：放棄600萬年薪，前麥肯錫、BCG顧問的職涯覺醒，重新定義屬於你的「好工作」，找到真正值得投入的人生",
+      "author": "保羅．米勒",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "商業理財",
+        "職涯選擇",
+        "顧問工作",
+        "人生轉向"
+      ],
+      "sourceName": "博客來中文書新書列表－商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011058643",
+      "file": "Books/01_business_startup/01_business_startup-20260818-13.json",
+      "workId": "findbook-20260818-2102"
+    },
+    {
+      "id": "01_business_startup-20260818-14",
+      "title": "AI時代的資本真相：泡沫、週期與投資紀律",
+      "author": "林裕豐",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "商業理財",
+        "投資週期",
+        "資本市場",
+        "泡沫風險"
+      ],
+      "sourceName": "博客來中文書新書列表－商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011058626",
+      "file": "Books/01_business_startup/01_business_startup-20260818-14.json",
+      "workId": "findbook-20260818-2102"
+    },
+    {
+      "id": "01_business_startup-20260818-15",
+      "title": "超級代理效應：AI全面賦能時代！矽谷傳奇創業家霍夫曼寫給每個人的關鍵行動原則",
+      "author": "雷德．霍夫曼、葛雷格．比托",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "商業理財",
+        "AI代理",
+        "創業原則",
+        "人機協作"
+      ],
+      "sourceName": "博客來中文書新書列表－商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011059149",
+      "file": "Books/01_business_startup/01_business_startup-20260818-15.json",
+      "workId": "findbook-20260818-2102"
+    },
+    {
+      "id": "01_business_startup-20260818-16",
+      "title": "重壓的技術：個人資產800億！25年達成93倍報酬的操盤法",
+      "author": "清原達郎",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "商業理財",
+        "避險基金",
+        "集中持股",
+        "投資紀律"
+      ],
+      "sourceName": "博客來中文書新書列表－商業理財；商品頁改查三民網路書店",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015597722",
+      "file": "Books/01_business_startup/01_business_startup-20260818-16.json",
+      "workId": "findbook-20260818-2102"
+    },
+    {
+      "id": "01_business_startup-20260818-17",
+      "title": "才賦自由：打造選擇權，實踐屬於你的成就樣貌",
+      "author": "黃瑞仁",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "商業理財",
+        "職涯定位",
+        "才賦整合",
+        "選擇權"
+      ],
+      "sourceName": "博客來中文書新書列表－商業理財",
+      "sourceUrl": "https://www.books.com.tw/web/books_nbtopm_02/?o=5&v=1",
+      "file": "Books/01_business_startup/01_business_startup-20260818-17.json",
+      "workId": "findbook-20260818-2102"
+    },
+    {
+      "id": "02_psychology_growth-20260818-13",
+      "title": "留白：少即是富，活出成熟大人的餘裕",
+      "author": "橫田真由子",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "心理勵志",
+        "餘裕",
+        "減法生活",
+        "自我界線"
+      ],
+      "sourceName": "博客來中文書新書列表－心理勵志",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=1&page=1&v=1",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260818-13.json",
+      "workId": "findbook-20260818-2102"
+    },
+    {
+      "id": "02_psychology_growth-20260818-14",
+      "title": "戀愛課金：不管付出多大代價，永遠不要對愛失去信心",
+      "author": "洪培芸",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "心理勵志",
+        "親密關係",
+        "自尊",
+        "情感代價"
+      ],
+      "sourceName": "博客來中文書新書列表－心理勵志",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=1&page=1&v=1",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260818-14.json",
+      "workId": "findbook-20260818-2102"
+    },
+    {
+      "id": "02_psychology_growth-20260818-15",
+      "title": "自我批評也是愛，但不是我們要的愛：一步一步克服自我懷疑，接納你就是你的美好和信心",
+      "author": "戴蒙．札哈里斯",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "心理勵志",
+        "自我批評",
+        "自我接納",
+        "內在聲音"
+      ],
+      "sourceName": "金石堂新書－心理勵志",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2011771640362/",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260818-15.json",
+      "workId": "findbook-20260818-2102"
+    },
+    {
+      "id": "02_psychology_growth-20260818-16",
+      "title": "你的人生，可以活在答案之外：韓國百萬學子信賴的「讀書之神」寫給迷惘世代──如何用學習打造人生選擇權",
+      "author": "姜聲泰",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "心理勵志",
+        "學習意義",
+        "迷惘",
+        "人生選擇權"
+      ],
+      "sourceName": "博客來中文書新書列表－心理勵志",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=1&page=1&v=1",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260818-16.json",
+      "workId": "findbook-20260818-2102"
+    },
+    {
+      "id": "02_psychology_growth-20260818-17",
+      "title": "惡意是怎麼形成的？：從霸凌、劈腿到仇恨言論，歷時15年、全球超過250萬筆研究數據，心理學家教你揪出身邊有問題的人！",
+      "author": "班雅明‧E‧席比、英格‧策特勒、莫頓‧摩沙根",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "心理勵志",
+        "黑暗人格",
+        "人際風險",
+        "惡意形成"
+      ],
+      "sourceName": "博客來中文書新書列表－心理勵志",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=1&page=1&v=1",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260818-17.json",
+      "workId": "findbook-20260818-2102"
+    },
+    {
+      "id": "03_natural_science-20260818-03",
+      "title": "藝數摺學2：20堂用指尖探索幾何規律的藝數美學課，從對稱全等到比例相似，動手體驗數學之用與藝術之美",
+      "author": "李政憲",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "自然科學",
+        "幾何",
+        "摺紙",
+        "數學教育"
+      ],
+      "sourceName": "博客來中文書新書列表－自然科普",
+      "sourceUrl": "https://www.books.com.tw/products/0011057978",
+      "file": "Books/03_natural_science/03_natural_science-20260818-03.json",
+      "workId": "findbook-20260818-2102"
+    },
+    {
+      "id": "03_natural_science-20260818-04",
+      "title": "哺乳類王朝：從恐龍陰影下竄出的邊緣生物，如何接手稱霸地球？",
+      "author": "史提夫．布魯薩特",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "自然科學",
+        "演化",
+        "化石",
+        "哺乳類"
+      ],
+      "sourceName": "博客來中文書新書列表－自然科普",
+      "sourceUrl": "https://www.books.com.tw/products/0011058997",
+      "file": "Books/03_natural_science/03_natural_science-20260818-04.json",
+      "workId": "findbook-20260818-2102"
+    },
+    {
+      "id": "03_natural_science-20260818-05",
+      "title": "蝴蝶誌：一部關於人類迷戀、收藏狂熱與蝴蝶生存的自然史",
+      "author": "蘿賽",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "自然科學",
+        "蝴蝶",
+        "自然史",
+        "生態復育"
+      ],
+      "sourceName": "博客來中文書新書列表－自然科普",
+      "sourceUrl": "https://www.books.com.tw/products/0011059166",
+      "file": "Books/03_natural_science/03_natural_science-20260818-05.json",
+      "workId": "findbook-20260818-2102"
+    },
+    {
+      "id": "03_natural_science-20260818-06",
+      "title": "細胞演化簡史，從能量到免疫系統：RNA拓荒、DNA登場、膜形成邊界、粒線體加入分工……從生命起源到癌症、免疫與人工智慧，重看細胞如何組成我們所知的生命",
+      "author": "徐鑫",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "自然科學",
+        "細胞",
+        "演化",
+        "生命起源"
+      ],
+      "sourceName": "博客來中文書新書列表－自然科普",
+      "sourceUrl": "https://www.books.com.tw/products/0011059128",
+      "file": "Books/03_natural_science/03_natural_science-20260818-06.json",
+      "workId": "findbook-20260818-2102"
+    },
+    {
+      "id": "03_natural_science-20260818-07",
+      "title": "地球生命大歷史：發現45億年的演化故事",
+      "author": "安西亞．拉奇亞",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "自然科學",
+        "地球史",
+        "演化",
+        "古生物"
+      ],
+      "sourceName": "博客來中文書新書列表－自然科普",
+      "sourceUrl": "https://www.books.com.tw/products/0011059605",
+      "file": "Books/03_natural_science/03_natural_science-20260818-07.json",
+      "workId": "findbook-20260818-2102"
     }
   ],
-  "totalBooks": 3488,
+  "totalBooks": 3503,
   "searchDateRange": {
     "from": "2026-07-19",
     "to": "2026-08-18"
   },
   "generatedFrom": "FindBook_Skill.md reservation checkpoint",
-  "generatedAt": "2026-08-18T20:24:54+08:00"
+  "generatedAt": "2026-08-18T21:12:06+08:00"
 }
