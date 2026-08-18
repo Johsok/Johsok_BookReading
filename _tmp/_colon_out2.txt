@@ -1,0 +1,5 @@
+B06 count=150 unique=150
+B07 count=149 unique=149
+B08 count=149 unique=149
+B09 count=149 unique=149
+B10 count=150 unique=150

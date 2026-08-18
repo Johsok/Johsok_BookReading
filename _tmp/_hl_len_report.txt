@@ -1,0 +1,6 @@
+B27 count=150 min=25 max=38 bad=0 dups=0
+B28 count=150 min=25 max=49 bad=0 dups=0
+B29 count=150 min=21 max=38 bad=2 dups=0
+  146 [21] 雞蓉燉冬瓜剩菜可變粥，粉鹹已夠，米水要淡。
+  147 [24] 梅香醋蓮藕可當便當酸口，粉醋汁另盒，拌了會出水。
+B30 count=150 min=25 max=39 bad=0 dups=0

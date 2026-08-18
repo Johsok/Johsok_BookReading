@@ -1,0 +1,20 @@
+21: n=150 status=complete src=grok generic=False last150=True updated=2026-08-18
+    001、沒有編輯在旁時，創作者必須同時當寫手、第一讀者與專案經理，否則稿件會停在「感覺還沒寫完」。
+22: n=150 status=complete src=grok generic=False last150=True updated=2026-08-18
+    001、棄屋地窖從外側上鎖，死者卻在裡面活過一段時間，調查必須同時處理空間邏輯與時間邏輯。
+23: n=150 status=complete src=grok generic=False last150=True updated=2026-08-18
+    001、雙線敘事把國父與年輕妻子並列，歷史不再只是他的功績年表，而變成兩具身體同艙旅行的近距離。
+24: n=150 status=complete src=grok generic=False last150=True updated=2026-08-18
+    001、大明星死於一九九五年五月八日清邁旅館的氣喘，官方時間戳一落下，其他可能就被關進檔案櫃。
+25: n=150 status=complete src=grok generic=False last150=True updated=2026-08-18
+    001、帕梅拉．舒馬赫在聯誼會被闖入的那一夜，成為少數能把入侵者臉孔帶回人間的目擊證人。
+26: n=150 status=complete src=grok generic=False last150=True updated=2026-08-18
+    001、邦霍費爾對抗希特勒的抉擇，被用來對照今日抵抗中共極權時同樣要付上性命與名譽。
+27: n=150 status=complete src=grok generic=False last150=True updated=2026-08-18
+    001、讀冷知識先拆句：能指向公報、銘牌、地圖或判決的，才是可核對事實；只靠諧音與笑點撐住的，先當都市傳說。
+28: n=150 status=complete src=grok generic=False last150=True updated=2026-08-18
+    001、1945年日本戰敗，在臺日人的離開被稱為引揚：不是旅遊回國，而是帝國解體後的強制與半強制移動。
+29: n=150 status=complete src=grok generic=False last150=True updated=2026-08-18
+    001、翻開這冊約一百三十張影像，先問誰在拍、為誰拍、拍給哪套知識體制看，再談鄉愁。
+30: n=150 status=complete src=grok generic=False last150=True updated=2026-08-18
+    001、書名「被出賣」要問誰賣、賣給誰、拿島上人民當什麼籌碼，而不是停在憤怒標語。

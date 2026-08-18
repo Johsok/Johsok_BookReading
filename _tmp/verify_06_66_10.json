@@ -1,0 +1,162 @@
+[
+  {
+    "file": "06_computer_info-20260716-66.json",
+    "n": 150,
+    "status": "complete",
+    "src": "grok",
+    "issues": [
+      "ok"
+    ],
+    "sample": "先確認執行環境是哪個 Python 小版號，再決定能否使用新語法與標準庫行為差異"
+  },
+  {
+    "file": "06_computer_info-20260716-67.json",
+    "n": 150,
+    "status": "complete",
+    "src": "grok",
+    "issues": [
+      "ok"
+    ],
+    "sample": "資料科學流程從問題定義開始，沒有可檢驗的問題陳述就先別急著開表清洗。"
+  },
+  {
+    "file": "06_computer_info-20260716-68.json",
+    "n": 150,
+    "status": "complete",
+    "src": "grok",
+    "issues": [
+      "ok"
+    ],
+    "sample": "統計思維進 Tableau 的第一步是問清楚母體與樣本，圖上的點代表誰被觀察到。"
+  },
+  {
+    "file": "06_computer_info-20260716-69.json",
+    "n": 150,
+    "status": "complete",
+    "src": "grok",
+    "issues": [
+      "ok"
+    ],
+    "sample": "先選定體型與年齡感基準模組，後續臉與服裝比例才有統一錨點。"
+  },
+  {
+    "file": "06_computer_info-20260716-70.json",
+    "n": 150,
+    "status": "complete",
+    "src": "grok",
+    "issues": [
+      "ok"
+    ],
+    "sample": "ICTP Essentials Level 把 Python 定位成可考的基礎能"
+  },
+  {
+    "file": "06_computer_info-20260716-71.json",
+    "n": 150,
+    "status": "complete",
+    "src": "grok",
+    "issues": [
+      "ok"
+    ],
+    "sample": "LLMOps 處理的是上線後仍會幻覺、漂移與成本失控的生成式系統，傳統 MLOp"
+  },
+  {
+    "file": "06_computer_info-20260717-01.json",
+    "n": 150,
+    "status": "complete",
+    "src": "grok",
+    "issues": [
+      "ok"
+    ],
+    "sample": "雲端原生資安不是單一掃描器的工作，而是開發、維運與資安共用脈絡後才能縮小攻擊面。"
+  },
+  {
+    "file": "06_computer_info-20260717-02.json",
+    "n": 150,
+    "status": "complete",
+    "src": "grok",
+    "issues": [
+      "ok"
+    ],
+    "sample": "Side Project 在 AI 時代可當職涯加速器，目標是做出可展示、可講述"
+  },
+  {
+    "file": "06_computer_info-20260717-03.json",
+    "n": 150,
+    "status": "complete",
+    "src": "grok",
+    "issues": [
+      "ok"
+    ],
+    "sample": "資料分析師的晉升起點是把業務問題翻譯成可量測指標，而不是一開始就開 Excel "
+  },
+  {
+    "file": "06_computer_info-20260717-04.json",
+    "n": 150,
+    "status": "complete",
+    "src": "grok",
+    "issues": [
+      "ok"
+    ],
+    "sample": "人工智慧本質是用資料與目標函數逼近有用行為，不是科幻裡的全知意識。"
+  },
+  {
+    "file": "06_computer_info-20260717-05.json",
+    "n": 150,
+    "status": "complete",
+    "src": "grok",
+    "issues": [
+      "ok"
+    ],
+    "sample": "量化投資把交易想法寫成可回測的規則，情緒衝動就較難偷偷混進部位。"
+  },
+  {
+    "file": "06_computer_info-20260717-06.json",
+    "n": 150,
+    "status": "complete",
+    "src": "grok",
+    "issues": [
+      "ok"
+    ],
+    "sample": "生成式 AI 工作流的起點是定義可驗收輸出，而不是先打開聊天視窗亂試。"
+  },
+  {
+    "file": "06_computer_info-20260717-07.json",
+    "n": 150,
+    "status": "complete",
+    "src": "grok",
+    "issues": [
+      "ok"
+    ],
+    "sample": "分析前先寫清要回答的商業問題與可量測成功條件，避免一開始就陷入工具選型。"
+  },
+  {
+    "file": "06_computer_info-20260717-08.json",
+    "n": 150,
+    "status": "complete",
+    "src": "grok",
+    "issues": [
+      "ok"
+    ],
+    "sample": "雲端架構從業務負載特性出發，先釐清延遲、吞吐、一致性與成本上限。"
+  },
+  {
+    "file": "06_computer_info-20260717-09.json",
+    "n": 150,
+    "status": "complete",
+    "src": "grok",
+    "issues": [
+      "ok"
+    ],
+    "sample": "日常資安起點是盤點你真正在保護什麼，帳戶、裝置與雲端檔案要分開看風險。"
+  },
+  {
+    "file": "06_computer_info-20260717-10.json",
+    "n": 150,
+    "status": "complete",
+    "src": "grok",
+    "issues": [
+      "ok"
+    ],
+    "sample": "資料庫設計先釐清業務實體與關係，表結構是對現實的可查詢模型。"
+  }
+]

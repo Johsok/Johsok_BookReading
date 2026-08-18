@@ -50704,13 +50704,672 @@
       "sourceUrl": "https://www.kingstone.com.tw/basic/2012720040943/?lid=book_new_class_prod_oooo",
       "file": "Books/07_other/07_other-20260724-10.json",
       "workId": "findbook-20260724-073000"
+    },
+    {
+      "id": "01_business_startup-20260818-01",
+      "title": "智慧通膨下的新商機：AI時代的稀缺能力與新護城河",
+      "author": "程世嘉、蕭玉品",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "商業理財",
+        "AI商機",
+        "護城河",
+        "人機協作"
+      ],
+      "sourceName": "博客來中文書商品頁－商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011057622",
+      "file": "Books/01_business_startup/01_business_startup-20260818-01.json",
+      "workId": "findbook-20260818-160700"
+    },
+    {
+      "id": "01_business_startup-20260818-02",
+      "title": "走出金錢焦慮：理解現實真相，真正消除不安",
+      "author": "田內學",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "商業理財",
+        "金錢焦慮",
+        "財務安全感",
+        "社會資本"
+      ],
+      "sourceName": "灰熊愛讀書／金石堂新書－商業理財",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2015500204726/",
+      "file": "Books/01_business_startup/01_business_startup-20260818-02.json",
+      "workId": "findbook-20260818-160700"
+    },
+    {
+      "id": "02_psychology_growth-20260818-01",
+      "title": "正是時候讀康德：寫給擁有愈多就愈不安的人，跟著康德活出平靜規律的人生",
+      "author": "姜芝誾",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "心理勵志",
+        "自律",
+        "日常規律",
+        "不安"
+      ],
+      "sourceName": "灰熊愛讀書／金石堂新書－心理勵志",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2011771638161/",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260818-01.json",
+      "workId": "findbook-20260818-160700"
+    },
+    {
+      "id": "02_psychology_growth-20260818-02",
+      "title": "該是脫困的時候了：臨床心理師帶你鬆開死結，重啟人生",
+      "author": "劉仲彬",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "心理勵志",
+        "人際困局",
+        "自尊",
+        "自我成長"
+      ],
+      "sourceName": "博客來中文書新書列表－心理勵志",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260818-02.json",
+      "workId": "findbook-20260818-160700"
+    },
+    {
+      "id": "03_natural_science-20260818-01",
+      "title": "有一種田野報告叫植物獵人",
+      "author": "洪信介",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "自然科學",
+        "植物",
+        "田野調查",
+        "生態"
+      ],
+      "sourceName": "灰熊愛讀書／金石堂新書－自然科學",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2018630986296/",
+      "file": "Books/03_natural_science/03_natural_science-20260818-01.json",
+      "workId": "findbook-20260818-160700"
+    },
+    {
+      "id": "03_natural_science-20260818-02",
+      "title": "熵之道：高熵合金之父葉均蔚解密週期表與人生",
+      "author": "葉均蔚、王惠英",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "自然科學",
+        "高熵合金",
+        "材料科學",
+        "週期表"
+      ],
+      "sourceName": "博客來中文書新書列表－自然科普",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/06",
+      "file": "Books/03_natural_science/03_natural_science-20260818-02.json",
+      "workId": "findbook-20260818-160700"
+    },
+    {
+      "id": "04_healthcare-20260818-01",
+      "title": "你的AI諮商師上線了：正確理解，安心使用，照顧自己的心",
+      "author": "益田裕介",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "醫療保健",
+        "心理健康",
+        "生成式AI",
+        "自我照護"
+      ],
+      "sourceName": "博客來中文書新書列表－醫療保健",
+      "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/08",
+      "file": "Books/04_healthcare/04_healthcare-20260818-01.json",
+      "workId": "findbook-20260818-160700"
+    },
+    {
+      "id": "04_healthcare-20260818-02",
+      "title": "我們都有小憂鬱：作者親身實測！利用療鬱象限圖的33種情緒解方，找回失去的快樂與活力",
+      "author": "Hossy",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "醫療保健",
+        "憂鬱",
+        "情緒復原",
+        "生活調整"
+      ],
+      "sourceName": "灰熊愛讀書／金石堂新書－醫療保健",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2014150616590/",
+      "file": "Books/04_healthcare/04_healthcare-20260818-02.json",
+      "workId": "findbook-20260818-160700"
+    },
+    {
+      "id": "05_food_wellness-20260818-01",
+      "title": "來炊粿：軟糯的古早糕＆Ｑ潤的在地粿",
+      "author": "王景茹",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "養生",
+        "飲食養生",
+        "糕粿",
+        "米食",
+        "家常食譜"
+      ],
+      "sourceName": "灰熊愛讀書／金石堂新書－飲食養生",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2014271702714/",
+      "file": "Books/05_food_wellness/05_food_wellness-20260818-01.json",
+      "workId": "findbook-20260818-160700"
+    },
+    {
+      "id": "05_food_wellness-20260818-02",
+      "title": "精準抗癌湯：【日本癌症權威八大飲食法實踐版】天天這樣吃，讓癌細胞消失！120道強化免疫力、改善代謝異常的食療湯粥",
+      "author": "濟陽高穗、上尾美由紀",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "養生",
+        "飲食養生",
+        "食療湯粥",
+        "代謝"
+      ],
+      "sourceName": "灰熊愛讀書／金石堂新書－飲食養生",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2014180410250/",
+      "file": "Books/05_food_wellness/05_food_wellness-20260818-02.json",
+      "workId": "findbook-20260818-160700"
+    },
+    {
+      "id": "06_computer_info-20260818-01",
+      "title": "StatQuest圖解神經網路與深度學習",
+      "author": "Josh Starmer",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦",
+        "程式",
+        "AI",
+        "電腦資訊",
+        "神經網路",
+        "深度學習",
+        "PyTorch"
+      ],
+      "sourceName": "灰熊愛讀書／金石堂新書－電腦資訊",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2013120781191/",
+      "file": "Books/06_computer_info/06_computer_info-20260818-01.json",
+      "workId": "findbook-20260818-160700"
+    },
+    {
+      "id": "06_computer_info-20260818-02",
+      "title": "AI Agent新紀元",
+      "author": "孫大千",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦",
+        "程式",
+        "AI",
+        "電腦資訊",
+        "AI代理人",
+        "世界模型",
+        "工作流程"
+      ],
+      "sourceName": "灰熊愛讀書／金石堂新書－電腦資訊",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2013120781931/",
+      "file": "Books/06_computer_info/06_computer_info-20260818-02.json",
+      "workId": "findbook-20260818-160700"
+    },
+    {
+      "id": "07_other-20260818-01",
+      "title": "從土地到餐桌的哲學思考：探尋全球十七種糧食系統的思辨之旅",
+      "author": "朱立安．巴吉尼",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "文化",
+        "生活",
+        "其他",
+        "糧食系統",
+        "飲食文化",
+        "永續"
+      ],
+      "sourceName": "灰熊愛讀書／金石堂新書－其他",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2014271702424/",
+      "file": "Books/07_other/07_other-20260818-01.json",
+      "workId": "findbook-20260818-160700"
+    },
+    {
+      "id": "07_other-20260818-02",
+      "title": "趣讀臺灣史套書：《開箱臺灣史》＋《穿越臺灣趣歷史》",
+      "author": "吳宜蓉、賴祥蔚",
+      "categoryId": "07_other",
+      "tags": [
+        "歷史",
+        "文化",
+        "生活",
+        "其他",
+        "臺灣史",
+        "歷史敘事",
+        "在地文化"
+      ],
+      "sourceName": "灰熊愛讀書／金石堂新書－其他",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2017330369545/",
+      "file": "Books/07_other/07_other-20260818-02.json",
+      "workId": "findbook-20260818-160700"
+    },
+    {
+      "id": "01_business_startup-20260818-03",
+      "title": "財富護城河：立足台股、接軌美股，打造散戶穿越牛熊的全球財富系統",
+      "author": "施雅棠",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "商業理財",
+        "台股",
+        "美股",
+        "資產配置"
+      ],
+      "sourceName": "金石堂新書－商業理財",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2015630848746/",
+      "file": "Books/01_business_startup/01_business_startup-20260818-03.json",
+      "workId": "findbook-20260818-193800"
+    },
+    {
+      "id": "01_business_startup-20260818-04",
+      "title": "不只0050：黃金＆白銀ETF交易配置實戰",
+      "author": "元大投信團隊策畫",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "商業理財",
+        "ETF",
+        "黃金",
+        "資產配置"
+      ],
+      "sourceName": "金石堂新書－商業理財",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2015630848166/",
+      "file": "Books/01_business_startup/01_business_startup-20260818-04.json",
+      "workId": "findbook-20260818-193800"
+    },
+    {
+      "id": "01_business_startup-20260818-05",
+      "title": "學會理財，世界開始發光：不委屈、不求人、不盲從～從零基礎開始妳的「經濟獨立」之路",
+      "author": "安藤真由美",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "商業理財",
+        "經濟獨立",
+        "儲蓄",
+        "金融素養"
+      ],
+      "sourceName": "讀書共和國／大牌出版新書－商業理財",
+      "sourceUrl": "https://www.bookrep.com.tw/?at=bookcontent&cl=book&id=21750&md=gwindex",
+      "file": "Books/01_business_startup/01_business_startup-20260818-05.json",
+      "workId": "findbook-20260818-193800"
+    },
+    {
+      "id": "01_business_startup-20260818-06",
+      "title": "你的人生需要新收入！：25堂揭露財富和人生真相的商業洞察課，用51分的勇氣，專心快樂發展自己！",
+      "author": "錢婧",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "商業理財",
+        "新收入",
+        "個人IP",
+        "副業"
+      ],
+      "sourceName": "三民網路書店新書－商業理財",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015616010",
+      "file": "Books/01_business_startup/01_business_startup-20260818-06.json",
+      "workId": "findbook-20260818-193800"
+    },
+    {
+      "id": "01_business_startup-20260818-07",
+      "title": "不用猜市場，也能安心變有錢",
+      "author": "吳佳駿、劉詠廷",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "商業理財",
+        "黃金",
+        "資產配置",
+        "投資心理"
+      ],
+      "sourceName": "ISBN資料庫／財經傳訊新書－商業理財",
+      "sourceUrl": "https://isbn.tw/9786267888193",
+      "file": "Books/01_business_startup/01_business_startup-20260818-07.json",
+      "workId": "findbook-20260818-193800"
+    },
+    {
+      "id": "02_psychology_growth-20260818-03",
+      "title": "最有企圖心的一天：如何刻意行動，讓每個目標都有始有終",
+      "author": "克里斯．貝利",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "心理勵志",
+        "習慣",
+        "刻意行動",
+        "生產力"
+      ],
+      "sourceName": "金石堂新書－心理勵志",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2014941944192/",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260818-03.json",
+      "workId": "findbook-20260818-193800"
+    },
+    {
+      "id": "02_psychology_growth-20260818-04",
+      "title": "讓焦慮隨風而去：吹散執念，讓人生更輕盈的禪思考",
+      "author": "枡野俊明",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "心理勵志",
+        "焦慮",
+        "禪",
+        "放下執念"
+      ],
+      "sourceName": "金石堂新書－心理勵志",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2011910297839/",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260818-04.json",
+      "workId": "findbook-20260818-193800"
+    },
+    {
+      "id": "02_psychology_growth-20260818-05",
+      "title": "想成功，但在那之前好像會先死掉：那些成功人士的準則，真的適合你嗎？以生理節奏重新探索生活路徑，設計屬於你的人生再造計畫。",
+      "author": "崔怡帥",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "心理勵志",
+        "自我節奏",
+        "成功迷思",
+        "人生設計"
+      ],
+      "sourceName": "FindBook／金石堂新書－心理勵志",
+      "sourceUrl": "https://findbook.com.tw/%E5%B4%94%E6%80%A1%E5%B8%A5",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260818-05.json",
+      "workId": "findbook-20260818-193800"
+    },
+    {
+      "id": "02_psychology_growth-20260818-06",
+      "title": "讓自己休息的練習：拋開效率崇拜，東大急診名醫寫給焦慮世代的心靈指南",
+      "author": "矢作直樹",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "心理勵志",
+        "休息",
+        "效率崇拜",
+        "正念"
+      ],
+      "sourceName": "金石堂／灰熊愛讀書新書－心理勵志",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2011771640072",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260818-06.json",
+      "workId": "findbook-20260818-193800"
+    },
+    {
+      "id": "02_psychology_growth-20260818-07",
+      "title": "療傷的勇氣：走過外遇、關係修復和自我療癒的陪伴筆記",
+      "author": "欣西亞",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "心理勵志",
+        "人際",
+        "關係修復",
+        "自我療癒"
+      ],
+      "sourceName": "金石堂新書－心理勵志",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2015440652519/",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260818-07.json",
+      "workId": "findbook-20260818-193800"
+    },
+    {
+      "id": "01_business_startup-20260818-08",
+      "title": "花錢的藝術：打造富足人生的金錢心理學【博客來獨家附贈財富透析．互動金句透卡】",
+      "author": "摩根．豪瑟",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "商業理財",
+        "金錢心理學",
+        "消費決策"
+      ],
+      "sourceName": "博客來商業理財新書暢銷榜 TOP 1／30日暢銷榜 TOP 1",
+      "sourceUrl": "https://www.books.com.tw/products/0011057581",
+      "file": "Books/01_business_startup/01_business_startup-20260818-08.json",
+      "workId": "findbook-20260818-2014"
+    },
+    {
+      "id": "01_business_startup-20260818-09",
+      "title": "高薪賽道：選擇比努力重要！走對路徑的職場換軌與談薪心法",
+      "author": "抹布（Moboo）",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "商業理財",
+        "職涯",
+        "談薪"
+      ],
+      "sourceName": "博客來商業理財新書暢銷榜 TOP 5／30日暢銷榜 TOP 10",
+      "sourceUrl": "https://www.books.com.tw/products/0011057716",
+      "file": "Books/01_business_startup/01_business_startup-20260818-09.json",
+      "workId": "findbook-20260818-2014"
+    },
+    {
+      "id": "01_business_startup-20260818-10",
+      "title": "致富思維——不是你不夠努力，而是一直用錯方法在賺錢；生命不能重來，但思維可以重新彩排！",
+      "author": "董耀慶（Max）、周君樺（Ginger）",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "商業理財",
+        "致富思維",
+        "金錢信念"
+      ],
+      "sourceName": "博客來中文書新書列表－商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011058793",
+      "file": "Books/01_business_startup/01_business_startup-20260818-10.json",
+      "workId": "findbook-20260818-2014"
+    },
+    {
+      "id": "01_business_startup-20260818-11",
+      "title": "你不是不夠好，只是站錯了位置：找到對的定位，不再耗損、不必硬撐，活出真正自我成就的人生",
+      "author": "陳世明",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "商業理財",
+        "職涯定位",
+        "教練"
+      ],
+      "sourceName": "博客來中文書新書列表－商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011059161",
+      "file": "Books/01_business_startup/01_business_startup-20260818-11.json",
+      "workId": "findbook-20260818-2014"
+    },
+    {
+      "id": "01_business_startup-20260818-12",
+      "title": "我們可以好好Feedback嗎？職場回饋為何可怕？怎樣變成有益對話？",
+      "author": "貝琪．維斯特伍德",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "商業理財",
+        "職場回饋",
+        "組織心理學"
+      ],
+      "sourceName": "博客來中文書新書列表－商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011059957",
+      "file": "Books/01_business_startup/01_business_startup-20260818-12.json",
+      "workId": "findbook-20260818-2014"
+    },
+    {
+      "id": "02_psychology_growth-20260818-08",
+      "title": "覺察之道：任何時候都能回到當下、降伏煩惱的8個修心練習",
+      "author": "藍獅子",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "心理勵志",
+        "覺察",
+        "修心"
+      ],
+      "sourceName": "三民網路書店／金石堂新書－心理勵志",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015623112",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260818-08.json",
+      "workId": "findbook-20260818-2014"
+    },
+    {
+      "id": "02_psychology_growth-20260818-09",
+      "title": "如果MBTI是隻貓：11個觀察主題 、20篇超萌漫畫、超過200張MBTI貓插畫，帶你輕鬆認識16型人格的思考模式、性格差異與內心世界！",
+      "author": "都曉珍",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "心理勵志",
+        "MBTI",
+        "人格"
+      ],
+      "sourceName": "金石堂新書－心理勵志",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2011730294391/",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260818-09.json",
+      "workId": "findbook-20260818-2014"
+    },
+    {
+      "id": "02_psychology_growth-20260818-10",
+      "title": "菇蛙小姐的不用力生活練習1：慢慢來，這樣照顧自己也可以",
+      "author": "梅貝兒．伊奎",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "心理勵志",
+        "自我照顧",
+        "內耗"
+      ],
+      "sourceName": "金石堂新書－心理勵志",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2021910297982/",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260818-10.json",
+      "workId": "findbook-20260818-2014"
+    },
+    {
+      "id": "02_psychology_growth-20260818-11",
+      "title": "北歐式的自由生活提案〔暢銷新版〕：工作在都市，生活在鄉間，世界第一幸福國度的「減速日常」",
+      "author": "本田直之",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "心理勵志",
+        "生活哲學",
+        "幸福感"
+      ],
+      "sourceName": "聯經出版新書－心理勵志",
+      "sourceUrl": "https://store.linkingbooks.com.tw/product/11712801",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260818-11.json",
+      "workId": "findbook-20260818-2014"
+    },
+    {
+      "id": "02_psychology_growth-20260818-12",
+      "title": "菇蛙小姐的不用力生活練習2：慢慢來，把平凡的日子過得有點可愛",
+      "author": "梅貝兒．伊奎",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "心理勵志",
+        "慢生活",
+        "自我價值"
+      ],
+      "sourceName": "讀書共和國／行路出版新書－心理勵志",
+      "sourceUrl": "https://www.bookrep.com.tw/?at=bookcontent&cl=book&id=21777&md=gwindex",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260818-12.json",
+      "workId": "findbook-20260818-2014"
     }
   ],
-  "totalBooks": 3454,
+  "totalBooks": 3488,
   "searchDateRange": {
-    "from": "1985-06-01",
-    "to": "2026-07-24"
+    "from": "2026-07-19",
+    "to": "2026-08-18"
   },
   "generatedFrom": "FindBook_Skill.md reservation checkpoint",
-  "generatedAt": "2026-07-24T15:39:33+08:00"
+  "generatedAt": "2026-08-18T20:24:54+08:00"
 }

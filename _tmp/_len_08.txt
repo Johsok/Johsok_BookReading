@@ -1,0 +1,2 @@
+OK 03_natural_science-20260724-08 n=150 in28-70=150 worst=('星球詞先對上地球、太陽與月亮，才能把', 1)
+short=0 long=0

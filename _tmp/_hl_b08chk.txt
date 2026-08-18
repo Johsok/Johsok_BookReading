@@ -1,0 +1,6 @@
+=== b08 n=150 unique=150 ===
+len 28-39 dup18=[] bad8=[]
+=== b09 n=150 unique=150 ===
+len 28-39 dup18=[] bad8=[]
+=== b10 n=150 unique=150 ===
+len 28-41 dup18=[] bad8=[]

@@ -1,0 +1,38 @@
+[
+  {
+    "title": "StatQuest圖解神經網路與深度學習",
+    "author": "Josh Starmer",
+    "sourceName": "灰熊愛讀書／金石堂新書－電腦資訊",
+    "sourceUrl": "https://www.kingstone.com.tw/basic/2013120781191/",
+    "sourceDateNote": "來源標示出版日期為 2026-08-01；擷取日期 2026-08-18，落在 2026-07-19 至 2026-08-18 的搜尋區間內。",
+    "tags": [
+      "電腦",
+      "程式",
+      "AI",
+      "電腦資訊",
+      "神經網路",
+      "深度學習",
+      "PyTorch"
+    ],
+    "summary": "本書由Josh Starmer撰寫，內容聚焦神經網路、深度學習、PyTorch；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。",
+    "workId": "findbook-20260818-160700"
+  },
+  {
+    "title": "AI Agent新紀元",
+    "author": "孫大千",
+    "sourceName": "灰熊愛讀書／金石堂新書－電腦資訊",
+    "sourceUrl": "https://www.kingstone.com.tw/basic/2013120781931/",
+    "sourceDateNote": "來源標示出版日期為 2026-08-14；擷取日期 2026-08-18，落在 2026-07-19 至 2026-08-18 的搜尋區間內。",
+    "tags": [
+      "電腦",
+      "程式",
+      "AI",
+      "電腦資訊",
+      "AI代理人",
+      "世界模型",
+      "工作流程"
+    ],
+    "summary": "本書由孫大千撰寫，內容聚焦AI代理人、世界模型、工作流程；本次整理涵蓋核心觀念、論證脈絡與可實踐的閱讀重點。",
+    "workId": "findbook-20260818-160700"
+  }
+]

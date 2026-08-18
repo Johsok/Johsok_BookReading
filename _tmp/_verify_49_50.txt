@@ -1,0 +1,22 @@
+FILE 07_other-20260717-49.json
+ID 07_other-20260717-49
+COUNT 150
+FIRST 001、關掉演義濾鏡不是掃興，而是把話本情節從史文剝離，才看得見造神與抹黑怎麼接力完成。
+LAST 150、賈詡屢換門庭卻能善終，謀臣無節的生存術最直接挑戰忠奸二分那套臉譜，史文與話本在此分叉。
+STATUS complete
+SOURCE grok
+CAPTURED 2026-08-18T09:10:00+08:00
+UPDATED 2026-08-18
+CJK_MIN 32 CJK_MAX 40
+ERRORS none
+FILE 07_other-20260717-50.json
+ID 07_other-20260717-50
+COUNT 150
+FIRST 001、從此君王不早朝不是情詩點綴，而是朝會停擺後，決策改在溫柔鄉與少數近臣之間完成。
+LAST 150、繁華墜入亂世不是一夜霓裳停擺，而是從不早朝到潼關空、從認親到藩鎮的連串結構斷裂。
+STATUS complete
+SOURCE grok
+CAPTURED 2026-08-18T09:10:00+08:00
+UPDATED 2026-08-18
+CJK_MIN 32 CJK_MAX 40
+ERRORS none

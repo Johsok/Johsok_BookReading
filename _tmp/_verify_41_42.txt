@@ -1,0 +1,26 @@
+FILE C:\Users\johso\OneDrive\Desktop\Johsok_BookReading\Books\07_other\07_other-20260717-41.json
+id 07_other-20260717-41
+len 150
+first 001、殖民時代伊洛瓦底三角洲的稻米出口，曾讓此地躋身東南亞最富出口經濟體之列。
+last 150、樂觀敘事必須對照憲法鎖，否則會把軍方讓步誤認成民主竣工，即使時間落在二〇一五年前後。
+chatgptStatus complete
+highlightsSource grok
+highlightsCapturedAt 2026-08-18T09:10:00+08:00
+updatedAt 2026-08-18
+num_ok True
+kept_title 變臉的緬甸：一個由血、夢想和黃金構成的國度
+kept_workId findbook-20260717-151327-b9
+---
+FILE C:\Users\johso\OneDrive\Desktop\Johsok_BookReading\Books\07_other\07_other-20260717-42.json
+id 07_other-20260717-42
+len 150
+first 001、關聯比較的地域史拒絕單國年表，也拒絕以歐洲斷代硬套東亞的近代起點。
+last 150、目標不是再造一個新的中心帝國，而是練習互相看見傷害與連帶的區域寫法。
+chatgptStatus complete
+highlightsSource grok
+highlightsCapturedAt 2026-08-18T09:10:00+08:00
+updatedAt 2026-08-18
+num_ok True
+kept_title 東亞關聯史：超越國界，綜覽比較、地域、民族的新歷史
+kept_workId findbook-20260717-151327-b9
+---

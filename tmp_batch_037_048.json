@@ -1,0 +1,134 @@
+[
+  {
+    "id": "06_computer_info-20260717-07",
+    "title": "Python資料分析的實戰方法",
+    "author": "程式學習編輯部",
+    "file": "Books/06_computer_info/06_computer_info-20260717-07.json",
+    "tags": [
+      "電腦資訊",
+      "中文書"
+    ],
+    "summary": "整理「Python資料分析的實戰方法」在電腦資訊領域的核心觀念、判斷方法、適用情境與可實踐行動。"
+  },
+  {
+    "id": "06_computer_info-20260717-08",
+    "title": "雲端架構設計入門",
+    "author": "資訊工程研究室",
+    "file": "Books/06_computer_info/06_computer_info-20260717-08.json",
+    "tags": [
+      "電腦資訊",
+      "中文書"
+    ],
+    "summary": "整理「雲端架構設計入門」在電腦資訊領域的核心觀念、判斷方法、適用情境與可實踐行動。"
+  },
+  {
+    "id": "06_computer_info-20260717-09",
+    "title": "資安思維：數位生活的防護原則",
+    "author": "網路安全編輯團隊",
+    "file": "Books/06_computer_info/06_computer_info-20260717-09.json",
+    "tags": [
+      "電腦資訊",
+      "中文書"
+    ],
+    "summary": "整理「資安思維：數位生活的防護原則」在電腦資訊領域的核心觀念、判斷方法、適用情境與可實踐行動。"
+  },
+  {
+    "id": "06_computer_info-20260717-10",
+    "title": "資料庫設計的核心觀念",
+    "author": "軟體開發研究室",
+    "file": "Books/06_computer_info/06_computer_info-20260717-10.json",
+    "tags": [
+      "電腦資訊",
+      "中文書"
+    ],
+    "summary": "整理「資料庫設計的核心觀念」在電腦資訊領域的核心觀念、判斷方法、適用情境與可實踐行動。"
+  },
+  {
+    "id": "06_computer_info-20260717-11",
+    "title": "Nano Banana藝術宇宙：Veo x Sora多模態AI創作時代",
+    "author": "洪錦魁",
+    "file": "Books/06_computer_info/06_computer_info-20260717-11.json",
+    "tags": [
+      "電腦資訊",
+      "中文書"
+    ],
+    "summary": "整理「Nano Banana藝術宇宙：Veo x Sora多模態AI創作時代」在電腦資訊領域的核心觀念、判斷方法、適用情境與可實踐行動。"
+  },
+  {
+    "id": "06_computer_info-20260717-12",
+    "title": "零花費上手！Gemini 3、NotebookLM、Nano Banana Pro與Veo 3.x最強AI組合技",
+    "author": "施威銘研究室",
+    "file": "Books/06_computer_info/06_computer_info-20260717-12.json",
+    "tags": [
+      "電腦資訊",
+      "中文書"
+    ],
+    "summary": "整理「零花費上手！Gemini 3、NotebookLM、Nano Banana Pro與Veo 3.x最強AI組合技」在電腦資訊領域的核心觀念、判斷方法、適用情境與可實踐行動。"
+  },
+  {
+    "id": "06_computer_info-20260717-13",
+    "title": "Gemini x NotebookLM領軍：Google多模態AI工作流",
+    "author": "洪錦魁",
+    "file": "Books/06_computer_info/06_computer_info-20260717-13.json",
+    "tags": [
+      "電腦資訊",
+      "中文書"
+    ],
+    "summary": "整理「Gemini x NotebookLM領軍：Google多模態AI工作流」在電腦資訊領域的核心觀念、判斷方法、適用情境與可實踐行動。"
+  },
+  {
+    "id": "06_computer_info-20260717-14",
+    "title": "命運演算法：八字與AI的人生使用說明書",
+    "author": "柳絮、段采伶",
+    "file": "Books/06_computer_info/06_computer_info-20260717-14.json",
+    "tags": [
+      "電腦資訊",
+      "中文書"
+    ],
+    "summary": "整理「命運演算法：八字與AI的人生使用說明書」在電腦資訊領域的核心觀念、判斷方法、適用情境與可實踐行動。"
+  },
+  {
+    "id": "06_computer_info-20260717-15",
+    "title": "最強AI組合技：NotebookLM、Gemini、Nano Banana與Veo 3",
+    "author": "施威銘研究室",
+    "file": "Books/06_computer_info/06_computer_info-20260717-15.json",
+    "tags": [
+      "電腦資訊",
+      "中文書"
+    ],
+    "summary": "整理「最強AI組合技：NotebookLM、Gemini、Nano Banana與Veo 3」在電腦資訊領域的核心觀念、判斷方法、適用情境與可實踐行動。"
+  },
+  {
+    "id": "06_computer_info-20260717-16",
+    "title": "LLM提示工程技術：打造兼具藝術與科學的高效應用",
+    "author": "John Berryman、Albert Ziegler",
+    "file": "Books/06_computer_info/06_computer_info-20260717-16.json",
+    "tags": [
+      "電腦資訊",
+      "中文書"
+    ],
+    "summary": "整理「LLM提示工程技術：打造兼具藝術與科學的高效應用」在電腦資訊領域的核心觀念、判斷方法、適用情境與可實踐行動。"
+  },
+  {
+    "id": "06_computer_info-20260717-17",
+    "title": "使用FastAPI建構生成式AI服務",
+    "author": "Alireza Parandeh",
+    "file": "Books/06_computer_info/06_computer_info-20260717-17.json",
+    "tags": [
+      "電腦資訊",
+      "中文書"
+    ],
+    "summary": "整理「使用FastAPI建構生成式AI服務」在電腦資訊領域的核心觀念、判斷方法、適用情境與可實踐行動。"
+  },
+  {
+    "id": "06_computer_info-20260717-18",
+    "title": "AI健康養生長壽書",
+    "author": "洪錦魁",
+    "file": "Books/06_computer_info/06_computer_info-20260717-18.json",
+    "tags": [
+      "電腦資訊",
+      "中文書"
+    ],
+    "summary": "整理「AI健康養生長壽書」在電腦資訊領域的核心觀念、判斷方法、適用情境與可實踐行動。"
+  }
+]
