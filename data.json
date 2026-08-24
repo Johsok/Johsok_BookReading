@@ -51658,13 +51658,305 @@
       "sourceUrl": "https://www.books.com.tw/products/0011059605",
       "file": "Books/03_natural_science/03_natural_science-20260818-07.json",
       "workId": "findbook-20260818-2102"
+    },
+    {
+      "id": "01_business_startup-20260824-01",
+      "title": "【解析美元霸權的基礎結構】美元憑什麼？：左右全球金融的貨幣",
+      "author": "何思因",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "商業理財",
+        "美元",
+        "金融體系",
+        "地緣政治"
+      ],
+      "sourceName": "聯經出版商品頁－商業理財（博客來連線異常後改查）",
+      "sourceUrl": "https://store.linkingbooks.com.tw/product/149450",
+      "file": "Books/01_business_startup/01_business_startup-20260824-01.json",
+      "workId": "findbook-20260824-1520"
+    },
+    {
+      "id": "01_business_startup-20260824-02",
+      "title": "從地理看經濟！破譯全球局勢的56個關鍵問題",
+      "author": "宮路秀作",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "商業理財",
+        "地理",
+        "經濟趨勢",
+        "地緣政治"
+      ],
+      "sourceName": "博客來中文書暢銷榜－商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011059442",
+      "file": "Books/01_business_startup/01_business_startup-20260824-02.json",
+      "workId": "findbook-20260824-1520"
+    },
+    {
+      "id": "01_business_startup-20260824-03",
+      "title": "藏在股市金句裡的88個投資祕密：張真卿教你看圖秒懂股市實況與投資策略",
+      "author": "張真卿",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "商業理財",
+        "股市",
+        "技術分析"
+      ],
+      "sourceName": "ISBN資料庫／讀冊新書－商業理財",
+      "sourceUrl": "https://isbn.tw/9786267888162",
+      "file": "Books/01_business_startup/01_business_startup-20260824-03.json",
+      "workId": "findbook-20260824-1520"
+    },
+    {
+      "id": "01_business_startup-20260824-04",
+      "title": "進化的力量4：逆勢增長",
+      "author": "劉潤",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "商業理財",
+        "經營",
+        "成長策略",
+        "AI應用"
+      ],
+      "sourceName": "博客來中文書暢銷榜－商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011060471",
+      "file": "Books/01_business_startup/01_business_startup-20260824-04.json",
+      "workId": "findbook-20260824-1520"
+    },
+    {
+      "id": "01_business_startup-20260824-05",
+      "title": "超乎常理的款待式領導：打造卓越團隊的實戰策略",
+      "author": "威爾．吉達拉",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "商業理財",
+        "領導",
+        "服務",
+        "團隊"
+      ],
+      "sourceName": "博客來中文書暢銷榜－商業理財",
+      "sourceUrl": "https://www.books.com.tw/products/0011057518",
+      "file": "Books/01_business_startup/01_business_startup-20260824-05.json",
+      "workId": "findbook-20260824-1520"
+    },
+    {
+      "id": "02_psychology_growth-20260824-01",
+      "title": "鬆綁表現焦慮：為什麼愈想證明自己，愈容易搞砸？",
+      "author": "史蒂夫．麥格尼斯",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "心理勵志",
+        "焦慮",
+        "表現",
+        "心智"
+      ],
+      "sourceName": "三民網路書店新書－心理勵志",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015600813",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260824-01.json",
+      "workId": "findbook-20260824-1520"
+    },
+    {
+      "id": "02_psychology_growth-20260824-02",
+      "title": "無處不在的阿焦：看見焦慮背後的自己",
+      "author": "蜜蜂醫生、LEO醫生",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "心理勵志",
+        "焦慮",
+        "精神健康",
+        "自我覺察"
+      ],
+      "sourceName": "三民網路書店新書－心理勵志",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015749441",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260824-02.json",
+      "workId": "findbook-20260824-1520"
+    },
+    {
+      "id": "02_psychology_growth-20260824-03",
+      "title": "沒有理由的焦慮：找回內在安定感",
+      "author": "林允哲",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "心理勵志",
+        "焦慮",
+        "認知重構",
+        "安定"
+      ],
+      "sourceName": "三民網路書店新書－心理勵志",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015764325",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260824-03.json",
+      "workId": "findbook-20260824-1520"
+    },
+    {
+      "id": "02_psychology_growth-20260824-04",
+      "title": "你的成敗，大腦說了算！告別焦慮內耗，打造成功體質",
+      "author": "周夫亞",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "心理勵志",
+        "大腦",
+        "內耗",
+        "習慣"
+      ],
+      "sourceName": "三民網路書店新書－心理勵志",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015764401",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260824-04.json",
+      "workId": "findbook-20260824-1520"
+    },
+    {
+      "id": "02_psychology_growth-20260824-05",
+      "title": "情緒能量：AI無法取代的頂級成交力",
+      "author": "維琪",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "心理勵志",
+        "溝通",
+        "人際"
+      ],
+      "sourceName": "ISBN資料庫／金石堂新書－心理勵志",
+      "sourceUrl": "https://isbn.tw/9786264449021",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260824-05.json",
+      "workId": "findbook-20260824-1520"
+    },
+    {
+      "id": "03_natural_science-20260824-01",
+      "title": "基因圖鑑：長壽祕密×基因編輯×再生科技，生命如何無限延續?",
+      "author": "海上雲",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "自然科學",
+        "基因",
+        "DNA",
+        "生命科學"
+      ],
+      "sourceName": "三民網路書店新書－自然科學",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015623273",
+      "file": "Books/03_natural_science/03_natural_science-20260824-01.json",
+      "workId": "findbook-20260824-1520"
+    },
+    {
+      "id": "03_natural_science-20260824-02",
+      "title": "狗狗宇宙博物館：600+種犬類，從純種、地方犬到米克斯，一起進入牠們無敵可愛的世界！",
+      "author": "程麗蓮",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "自然科學",
+        "動物",
+        "演化",
+        "犬類"
+      ],
+      "sourceName": "城邦讀書花園新書－自然科學",
+      "sourceUrl": "https://www.cite.com.tw/bestseller/citelibrary/new/201",
+      "file": "Books/03_natural_science/03_natural_science-20260824-02.json",
+      "workId": "findbook-20260824-1520"
+    },
+    {
+      "id": "03_natural_science-20260824-03",
+      "title": "有趣到睡不著的腦科學：大腦是個好東西，請好好使用",
+      "author": "毛內擴",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "自然科學",
+        "腦科學",
+        "神經"
+      ],
+      "sourceName": "讀冊生活新書－自然科學",
+      "sourceUrl": "https://www.silkbook.com/book_detail.asp?goods_ser=kk0611494",
+      "file": "Books/03_natural_science/03_natural_science-20260824-03.json",
+      "workId": "findbook-20260824-1520"
+    },
+    {
+      "id": "03_natural_science-20260824-04",
+      "title": "黑武士林鵰",
+      "author": "張素卿、周見信",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "自然科學",
+        "生態",
+        "猛禽",
+        "自然觀察"
+      ],
+      "sourceName": "三民網路書店新書－自然科學",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015747117",
+      "file": "Books/03_natural_science/03_natural_science-20260824-04.json",
+      "workId": "findbook-20260824-1520"
+    },
+    {
+      "id": "03_natural_science-20260824-05",
+      "title": "看懂訊號，重塑大腦修復力：破解腦霧、失智與憂鬱，遠離大腦慢性發炎",
+      "author": "張家銘",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "自然科學",
+        "腦科學",
+        "神經",
+        "發炎"
+      ],
+      "sourceName": "三民網路書店新書－自然科學",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015628931",
+      "file": "Books/03_natural_science/03_natural_science-20260824-05.json",
+      "workId": "findbook-20260824-1520"
     }
   ],
-  "totalBooks": 3503,
+  "totalBooks": 3518,
   "searchDateRange": {
-    "from": "2026-07-19",
-    "to": "2026-08-18"
+    "from": "2026-07-25",
+    "to": "2026-08-24"
   },
   "generatedFrom": "FindBook_Skill.md reservation checkpoint",
-  "generatedAt": "2026-08-18T21:12:06+08:00"
+  "generatedAt": "2026-08-24T11:16:54+08:00"
 }

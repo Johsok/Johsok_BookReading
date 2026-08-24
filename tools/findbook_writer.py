@@ -5,6 +5,7 @@ import json
 import os
 import re
 import tempfile
+import threading
 import time
 import unicodedata
 from collections import Counter
@@ -143,38 +144,73 @@ def update_manifest_metadata(manifest: dict, from_date: str, to_date: str) -> No
     manifest["generatedFrom"] = "FindBook_Skill.md reservation checkpoint"
 
 
-def reserve(args: argparse.Namespace) -> int:
-    root = Path(args.root).resolve()
-    manifest_path = root / "data.json"
-    candidates = read_json(Path(args.candidates).resolve())
-    if not isinstance(candidates, list):
-        raise ValueError("candidates 必須是 JSON 陣列")
+_RESERVE_LOCK = threading.Lock()
 
-    committed = []
-    skipped = []
-    for candidate in candidates:
-        if len(committed) >= args.limit:
-            break
+
+def check_index_link(root: Path, book_id: str) -> None:
+    """Check one index row against its book JSON. Not a content QA step."""
+    root = Path(root).resolve()
+    manifest = read_json(root / "data.json")
+    matches = [item for item in manifest.get("books", []) if item.get("id") == book_id]
+    if len(matches) != 1:
+        raise RuntimeError(f"{book_id} 在 data.json 必須剛好出現一次")
+    index_book = matches[0]
+    category_id = str(index_book.get("categoryId", ""))
+    relative_file = str(index_book.get("file", "")).replace("\\", "/")
+    expected_file = book_relative_path(category_id, book_id)
+    if relative_file != expected_file:
+        raise RuntimeError(f"{book_id} 的 file 必須是 {expected_file}")
+    book_path = root / relative_file
+    if not book_path.is_file():
+        raise RuntimeError(f"{book_id} 單書檔不存在：{relative_file}")
+    book = read_json(book_path)
+    for field in ("id", "categoryId", "title", "author"):
+        if book.get(field) != index_book.get(field):
+            raise RuntimeError(f"{book_id} 索引與單書的 {field} 不一致")
+    files = [str(item.get("file", "")).replace("\\", "/") for item in manifest.get("books", [])]
+    if files.count(relative_file) != 1:
+        raise RuntimeError(f"{book_id} 的 file 在 data.json 不是唯一")
+
+
+def reserve_one(
+    root: Path,
+    category_id: str,
+    candidate: dict,
+    from_date: str,
+    to_date: str,
+) -> dict:
+    """Reload data.json, dedupe, allocate ID, write pending book, then index."""
+    root = Path(root).resolve()
+    with _RESERVE_LOCK:
+        manifest_path = root / "data.json"
         manifest = read_json(manifest_path)
-        category_id = resolve_category_id(args, manifest)
-        manifest_books = manifest.get("books", [])
+        valid_ids = {str(item.get("id", "")) for item in manifest.get("categories", [])}
+        if category_id not in valid_ids:
+            raise ValueError(f"未知主題 categoryId：{category_id}")
         key = normalized_key(str(candidate.get("title", "")), str(candidate.get("author", "")))
+        manifest_books = manifest.get("books", [])
         existing_keys = {
             normalized_key(str(book.get("title", "")), str(book.get("author", "")))
             for book in manifest_books
         }
         if key in existing_keys:
-            skipped.append(str(candidate.get("title", "")))
-            continue
+            return {
+                "status": "skipped",
+                "reason": "duplicate",
+                "title": str(candidate.get("title", "")),
+                "author": str(candidate.get("author", "")),
+                "categoryId": category_id,
+            }
 
         book_directory = root / "Books" / category_id
         all_ids = {str(book.get("id", "")) for book in manifest_books}
         if book_directory.exists():
             all_ids.update(path.stem for path in book_directory.glob("*.json"))
-        book_id = allocate_id(category_id, args.to_date, all_ids)
-        book = candidate_payload(candidate, book_id, args.from_date, args.to_date)
+        book_id = allocate_id(category_id, to_date, all_ids)
+        book = candidate_payload(candidate, book_id, from_date, to_date)
         book["categoryId"] = category_id
-        book_path = root / book_relative_path(category_id, book_id)
+        relative_file = book_relative_path(category_id, book_id)
+        book_path = root / relative_file
 
         write_json_atomic(book_path, book)
         check_book = read_json(book_path)
@@ -189,13 +225,41 @@ def reserve(args: argparse.Namespace) -> int:
         if key in latest_keys:
             raise RuntimeError(f"{book_id} 單書檔已寫入，但 data.json 出現 reservation 衝突")
         manifest.setdefault("books", []).append(manifest_payload(book, category_id))
-        update_manifest_metadata(manifest, args.from_date, args.to_date)
+        update_manifest_metadata(manifest, from_date, to_date)
         write_json_atomic(manifest_path, manifest)
         check_manifest = read_json(manifest_path)
         if sum(item.get("id") == book_id for item in check_manifest.get("books", [])) != 1:
             raise RuntimeError(f"{book_id} data.json 寫後驗證失敗")
-        committed.append(book_id)
-        print(f"committed\t{book_id}")
+        check_index_link(root, book_id)
+        return {
+            "status": "committed",
+            "id": book_id,
+            "file": relative_file,
+            "title": book["title"],
+            "author": book["author"],
+            "categoryId": category_id,
+        }
+
+
+def reserve(args: argparse.Namespace) -> int:
+    root = Path(args.root).resolve()
+    manifest = read_json(root / "data.json")
+    category_id = resolve_category_id(args, manifest)
+    candidates = read_json(Path(args.candidates).resolve())
+    if not isinstance(candidates, list):
+        raise ValueError("candidates 必須是 JSON 陣列")
+
+    committed = []
+    skipped = []
+    for candidate in candidates:
+        if len(committed) >= args.limit:
+            break
+        result = reserve_one(root, category_id, candidate, args.from_date, args.to_date)
+        if result.get("status") == "committed":
+            committed.append(result["id"])
+            print(f"committed\t{result['id']}")
+        else:
+            skipped.append(str(candidate.get("title", "")))
 
     print(f"committed={len(committed)} skipped={len(skipped)} requested={args.limit}")
     if len(committed) != args.limit:
@@ -329,6 +393,15 @@ def build_parser() -> argparse.ArgumentParser:
 def main() -> int:
     args = build_parser().parse_args()
     return args.func(args)
+
+
+read_json = read_json
+write_json_atomic = write_json_atomic
+now_iso = now_iso
+normalized_key = normalized_key
+reserve_one = reserve_one
+book_relative_path = book_relative_path
+check_index_link = check_index_link
 
 
 if __name__ == "__main__":
