@@ -1,2 +1,0 @@
-OK 03_natural_science-20260724-07 n=150 in28-70=150 worst=('廚房與回收箱就能湊齊多數材料，科展不', 1)
-short=0 long=0

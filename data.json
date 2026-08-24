@@ -51950,13 +51950,359 @@
       "sourceUrl": "https://www.sanmin.com.tw/product/index/015628931",
       "file": "Books/03_natural_science/03_natural_science-20260824-05.json",
       "workId": "findbook-20260824-1520"
+    },
+    {
+      "id": "01_business_startup-20260824-06",
+      "title": "最高明的管理，不是二選一：從Netflix、Google到微軟，都在實踐的對合智慧",
+      "author": "林文政",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "管理",
+        "領導"
+      ],
+      "sourceName": "三民網路書店新書－商業理財",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015629834",
+      "file": "Books/01_business_startup/01_business_startup-20260824-06.json",
+      "workId": "findbook-20260824-1442"
+    },
+    {
+      "id": "01_business_startup-20260824-07",
+      "title": "企業創生3‧台灣新賽道",
+      "author": "黃日燦",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "產業",
+        "台灣"
+      ],
+      "sourceName": "城邦讀書花園新書－商業理財",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108601",
+      "file": "Books/01_business_startup/01_business_startup-20260824-07.json",
+      "workId": "findbook-20260824-1442"
+    },
+    {
+      "id": "01_business_startup-20260824-08",
+      "title": "組織教練學：以教練領導力打造高韌性組織的實踐指南",
+      "author": "陳恆霖",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "組織",
+        "教練"
+      ],
+      "sourceName": "城邦讀書花園新書－商業理財",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108681",
+      "file": "Books/01_business_startup/01_business_startup-20260824-08.json",
+      "workId": "findbook-20260824-1442"
+    },
+    {
+      "id": "01_business_startup-20260824-09",
+      "title": "超級業務員必備的好感溝通術：遠距成交女王教你用情緒價值，贏得客戶的信任與成交",
+      "author": "黃明楓",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "業務",
+        "溝通"
+      ],
+      "sourceName": "城邦讀書花園新書－商業理財",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108600",
+      "file": "Books/01_business_startup/01_business_startup-20260824-09.json",
+      "workId": "findbook-20260824-1442"
+    },
+    {
+      "id": "01_business_startup-20260824-10",
+      "title": "老錢思維：告別表面富貴，從你開始活出富過三代的安穩之道與處世風格",
+      "author": "拜倫．塔利",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "財富",
+        "價值觀"
+      ],
+      "sourceName": "城邦讀書花園新書－商業理財",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108412",
+      "file": "Books/01_business_startup/01_business_startup-20260824-10.json",
+      "workId": "findbook-20260824-1442"
+    },
+    {
+      "id": "02_psychology_growth-20260824-06",
+      "title": "心理治療師都在做的正向改變練習：運用神經可塑性打破負面思考慣性，找回人生主動權",
+      "author": "丹．托馬蘇洛",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "正向心理學"
+      ],
+      "sourceName": "城邦讀書花園新書－心理勵志",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108687",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260824-06.json",
+      "workId": "findbook-20260824-1442"
+    },
+    {
+      "id": "02_psychology_growth-20260824-07",
+      "title": "自律的陷阱：停止盲從，別再硬撐，少做一點，成就更多",
+      "author": "克雷格．巴蘭坦、丹尼爾．伍德倫",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "習慣",
+        "自律"
+      ],
+      "sourceName": "三民網路書店新書－心理勵志",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015610255",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260824-07.json",
+      "workId": "findbook-20260824-1442"
+    },
+    {
+      "id": "02_psychology_growth-20260824-08",
+      "title": "創作之路：通往更高創造力的靈性道路",
+      "author": "茱莉亞．卡麥隆",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "創造力"
+      ],
+      "sourceName": "城邦讀書花園新書－心理勵志",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108604",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260824-08.json",
+      "workId": "findbook-20260824-1442"
+    },
+    {
+      "id": "02_psychology_growth-20260824-09",
+      "title": "內觀禪修，其實很簡單：全球暢銷近四十年，最具影響力的正念經典【繁體中文版暢銷23週年紀念版】",
+      "author": "德寶法師",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "正念",
+        "禪修"
+      ],
+      "sourceName": "城邦讀書花園新書－心理勵志",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108603",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260824-09.json",
+      "workId": "findbook-20260824-1442"
+    },
+    {
+      "id": "02_psychology_growth-20260824-10",
+      "title": "死亡，就是這樣嗎？孩子們忍不住想知道的38個生死問題",
+      "author": "艾倫．杜席、安娜．胡安．坎塔維拉",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "生死",
+        "對話"
+      ],
+      "sourceName": "城邦讀書花園新書－心理勵志",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108670",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260824-10.json",
+      "workId": "findbook-20260824-1442"
+    },
+    {
+      "id": "03_natural_science-20260824-06",
+      "title": "動物百科圖鑑",
+      "author": "本鄉峻、山極壽一",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "動物",
+        "生態"
+      ],
+      "sourceName": "金石堂中文書新書－自然科普",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2013850013821/",
+      "file": "Books/03_natural_science/03_natural_science-20260824-06.json",
+      "workId": "findbook-20260824-1442"
+    },
+    {
+      "id": "03_natural_science-20260824-07",
+      "title": "雙連埤霧語：濕地生態.山村歷史與人文",
+      "author": "陳胡彥",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "濕地",
+        "生態"
+      ],
+      "sourceName": "ISBN資料庫－自然科普",
+      "sourceUrl": "https://isbn.tw/9789866433771",
+      "file": "Books/03_natural_science/03_natural_science-20260824-07.json",
+      "workId": "findbook-20260824-1442"
+    },
+    {
+      "id": "03_natural_science-20260824-08",
+      "title": "不白吃漫畫大百科 昆蟲都有超能力：蠶裁縫的委託",
+      "author": "我是不白吃",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "昆蟲",
+        "生態"
+      ],
+      "sourceName": "ISBN資料庫－自然科普",
+      "sourceUrl": "https://isbn.tw/9786264376204",
+      "file": "Books/03_natural_science/03_natural_science-20260824-08.json",
+      "workId": "findbook-20260824-1442"
+    },
+    {
+      "id": "03_natural_science-20260824-09",
+      "title": "1分鐘物理1：往颱風眼裡扔一顆原子彈會怎樣？",
+      "author": "中國科學院物理研究所",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "物理"
+      ],
+      "sourceName": "大雁出版基地新書－自然科普",
+      "sourceUrl": "https://asifbooks.com.tw/book.php?book_sn=5009",
+      "file": "Books/03_natural_science/03_natural_science-20260824-09.json",
+      "workId": "findbook-20260824-1442"
+    },
+    {
+      "id": "03_natural_science-20260824-10",
+      "title": "1分鐘物理2：皮卡丘發的是直流電還是交流電？",
+      "author": "中國科學院物理研究所",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "物理"
+      ],
+      "sourceName": "大雁出版基地新書－自然科普",
+      "sourceUrl": "https://www.acornbooks.com.tw/book.php?book_sn=5010",
+      "file": "Books/03_natural_science/03_natural_science-20260824-10.json",
+      "workId": "findbook-20260824-1442"
+    },
+    {
+      "id": "04_healthcare-20260824-01",
+      "title": "舌力：影響下顎線、法令紋、睡眠品質、甚至口腔的重要器官，5分鐘舌頭伸展操，啟動全身健康循環！",
+      "author": "桂文裕",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "口腔",
+        "睡眠"
+      ],
+      "sourceName": "城邦讀書花園新書－醫療保健",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108605",
+      "file": "Books/04_healthcare/04_healthcare-20260824-01.json",
+      "workId": "findbook-20260824-1442"
+    },
+    {
+      "id": "04_healthcare-20260824-02",
+      "title": "不是失智！是可治癒的老年憂鬱：爸媽有點怪怪的？悲觀易怒、健忘失眠可能都是心病！照護必讀老年憂鬱症指南",
+      "author": "和田秀樹",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "憂鬱",
+        "照護"
+      ],
+      "sourceName": "城邦讀書花園新書－醫療保健",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108481",
+      "file": "Books/04_healthcare/04_healthcare-20260824-02.json",
+      "workId": "findbook-20260824-1442"
+    },
+    {
+      "id": "04_healthcare-20260824-03",
+      "title": "催眠腦科學：醫學與心理實證下的臨床催眠大全",
+      "author": "卞子康",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "催眠",
+        "腦科學"
+      ],
+      "sourceName": "城邦讀書花園新書－醫療保健",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108446",
+      "file": "Books/04_healthcare/04_healthcare-20260824-03.json",
+      "workId": "findbook-20260824-1442"
+    },
+    {
+      "id": "04_healthcare-20260824-04",
+      "title": "香港常見癌症中醫藥治療經驗【新修版】",
+      "author": "陳抗生",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "中醫",
+        "癌症"
+      ],
+      "sourceName": "三民網路書店新書－醫療保健",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015749442",
+      "file": "Books/04_healthcare/04_healthcare-20260824-04.json",
+      "workId": "findbook-20260824-1442"
+    },
+    {
+      "id": "04_healthcare-20260824-05",
+      "title": "搞懂孩子的感覺統合問題 全新修訂版",
+      "author": "木村順、小黑早苗",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "感覺統合",
+        "兒童"
+      ],
+      "sourceName": "城邦讀書花園新書－醫療保健",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108607",
+      "file": "Books/04_healthcare/04_healthcare-20260824-05.json",
+      "workId": "findbook-20260824-1442"
     }
   ],
-  "totalBooks": 3518,
+  "totalBooks": 3538,
   "searchDateRange": {
     "from": "2026-07-25",
     "to": "2026-08-24"
   },
   "generatedFrom": "FindBook_Skill.md reservation checkpoint",
-  "generatedAt": "2026-08-24T11:16:54+08:00"
+  "generatedAt": "2026-08-24T18:43:58+08:00"
 }

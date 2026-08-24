@@ -1,7 +1,0 @@
-﻿PATH C:\Users\johso\OneDrive\Desktop\Johsok_BookReading\Books\07_other\07_other-20260717-48.json
-COUNT 150
-FIRST 001、一九七五年普通家庭的孩子，沒有航海世家光環，後來的艦長履歷是一站一站考出來的。
-LAST 150、水邊千字若寫成成功學提要，潮聲會把句子退回，要求補上那晚的浪高與閥門名。
-STATUS complete SOURCE grok
-FAIL
-ERR chapter_147
