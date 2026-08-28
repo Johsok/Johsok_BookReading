@@ -52626,13 +52626,353 @@
       "sourceUrl": "https://www.sanmin.com.tw/product/index/015623113",
       "file": "Books/04_healthcare/04_healthcare-20260828-05.json",
       "workId": "findbook-20260828-2030"
+    },
+    {
+      "id": "01_business_startup-20260828-06",
+      "title": "看懂股市，不被行情牽著走：給普通人的圖解投資理財課",
+      "author": "洪子睿",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "股市"
+      ],
+      "sourceName": "金石堂本月新書－財經企管／投資理財",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2015630850367/",
+      "file": "Books/01_business_startup/01_business_startup-20260828-06.json",
+      "workId": "findbook-20260828-2130"
+    },
+    {
+      "id": "01_business_startup-20260828-07",
+      "title": "銀髮行銷商機：長白青年消費市場全攻略",
+      "author": "王福闓",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "行銷"
+      ],
+      "sourceName": "金石堂本月新書－財經企管／行銷業務",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2014960470078/",
+      "file": "Books/01_business_startup/01_business_startup-20260828-07.json",
+      "workId": "findbook-20260828-2130"
+    },
+    {
+      "id": "01_business_startup-20260828-08",
+      "title": "新富裕階層：為什麼他們能夠白手起家，成為億萬富翁？",
+      "author": "大森健史",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "財富"
+      ],
+      "sourceName": "金石堂本月新書－財經企管／投資理財",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2015630849668/",
+      "file": "Books/01_business_startup/01_business_startup-20260828-08.json",
+      "workId": "findbook-20260828-2130"
+    },
+    {
+      "id": "01_business_startup-20260828-09",
+      "title": "超圖解強大品牌經營學",
+      "author": "戴國良",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "品牌"
+      ],
+      "sourceName": "金石堂本月新書－財經企管／領導管理",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2014960470818/",
+      "file": "Books/01_business_startup/01_business_startup-20260828-09.json",
+      "workId": "findbook-20260828-2130"
+    },
+    {
+      "id": "01_business_startup-20260828-10",
+      "title": "巴菲特成功方程式",
+      "author": "管唯中",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "價值投資"
+      ],
+      "sourceName": "金石堂本月新書－財經企管／投資理財",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2015630849958/",
+      "file": "Books/01_business_startup/01_business_startup-20260828-10.json",
+      "workId": "findbook-20260828-2130"
+    },
+    {
+      "id": "02_psychology_growth-20260828-06",
+      "title": "這不是一本悲傷的書（但悲傷也沒關係）：陪你熬過哀傷、失去與艱難時光的指南",
+      "author": "伊莉莎白．維寇、凱莉．阿布拉莫斯基",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "習慣",
+        "成長",
+        "情緒",
+        "哀傷"
+      ],
+      "sourceName": "金石堂本月新書－心理勵志／自我成長",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2011920825800/",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260828-06.json",
+      "workId": "findbook-20260828-2130"
+    },
+    {
+      "id": "02_psychology_growth-20260828-07",
+      "title": "寫給正在成為自己的你：理解自己，也寫給未來的自己",
+      "author": "DT企劃",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "習慣",
+        "成長",
+        "情緒",
+        "自我"
+      ],
+      "sourceName": "金石堂本月新書－心理勵志／自我成長",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2011771642076/",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260828-07.json",
+      "workId": "findbook-20260828-2130"
+    },
+    {
+      "id": "02_psychology_growth-20260828-08",
+      "title": "你的想法，不必照單全收",
+      "author": "洪承主",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "習慣",
+        "成長",
+        "情緒",
+        "思考"
+      ],
+      "sourceName": "金石堂本月新書－心理勵志／自我成長",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2011720051447/",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260828-08.json",
+      "workId": "findbook-20260828-2130"
+    },
+    {
+      "id": "02_psychology_growth-20260828-09",
+      "title": "如何讓討厭的人通通消失：放下情緒內耗的思維重置法",
+      "author": "堀Motoko",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "習慣",
+        "成長",
+        "情緒",
+        "人際"
+      ],
+      "sourceName": "金石堂本月新書－心理勵志／自我成長",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2011771641284/",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260828-09.json",
+      "workId": "findbook-20260828-2130"
+    },
+    {
+      "id": "02_psychology_growth-20260828-10",
+      "title": "恐懼，是最好的教練：一位奧運冠軍關於失敗、改變、未知與重生的心理鍛鍊",
+      "author": "維多利亞．彭德爾頓",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "習慣",
+        "成長",
+        "情緒",
+        "韌性"
+      ],
+      "sourceName": "金石堂本月新書－心理勵志／自我成長",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2011760429718/",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260828-10.json",
+      "workId": "findbook-20260828-2130"
+    },
+    {
+      "id": "03_natural_science-20260828-06",
+      "title": "我能聽懂鳥在說什麼：解密山雀語法結構，日本動物語言學家震驚世界的18年熱血研究實錄",
+      "author": "鈴木俊貴",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "科普",
+        "自然",
+        "動物",
+        "語言"
+      ],
+      "sourceName": "金石堂本月新書－自然科普",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2013880064572/",
+      "file": "Books/03_natural_science/03_natural_science-20260828-06.json",
+      "workId": "findbook-20260828-2130"
+    },
+    {
+      "id": "03_natural_science-20260828-07",
+      "title": "伽利略：孤獨的真理捍衛者，與神權抗衡的科學先驅",
+      "author": "潘于真、馬貝",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "科普",
+        "自然",
+        "物理",
+        "科學史"
+      ],
+      "sourceName": "金石堂本月新書－自然科普",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2017840147183/",
+      "file": "Books/03_natural_science/03_natural_science-20260828-07.json",
+      "workId": "findbook-20260828-2130"
+    },
+    {
+      "id": "03_natural_science-20260828-08",
+      "title": "博物學家的自然創世紀【10周年暢銷經典版】：亞歷山大・馮・洪堡德的科學探險與「生命之網」",
+      "author": "安德列雅．沃爾芙",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "科普",
+        "自然",
+        "生態",
+        "探險"
+      ],
+      "sourceName": "金石堂本月新書－自然科普",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2017840146971/",
+      "file": "Books/03_natural_science/03_natural_science-20260828-08.json",
+      "workId": "findbook-20260828-2130"
+    },
+    {
+      "id": "03_natural_science-20260828-09",
+      "title": "脂肪的祕密生命（暢銷改版）：最不為人知的器官脂肪背後的科學與它對身體的影響（曾獲博客來、誠品、泛科學當月選書，金石堂強力推薦）",
+      "author": "席薇亞．塔拉",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "科普",
+        "自然",
+        "生物",
+        "脂肪"
+      ],
+      "sourceName": "金石堂本月新書－自然科普",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2014110955417/",
+      "file": "Books/03_natural_science/03_natural_science-20260828-09.json",
+      "workId": "findbook-20260828-2130"
+    },
+    {
+      "id": "03_natural_science-20260828-10",
+      "title": "噴射機引擎的構造與原理（全彩修訂版）",
+      "author": "中村寬治",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "科普",
+        "自然",
+        "物理",
+        "航空"
+      ],
+      "sourceName": "金石堂本月新書－自然科普",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2014470131377/",
+      "file": "Books/03_natural_science/03_natural_science-20260828-10.json",
+      "workId": "findbook-20260828-2130"
+    },
+    {
+      "id": "04_healthcare-20260828-06",
+      "title": "攔截胰臟癌：破解癌王無聲警報，及早攔截沉默殺手",
+      "author": "章明珠",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "癌症",
+        "胰臟"
+      ],
+      "sourceName": "金石堂本月新書－醫療保健／疾病百科",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2014150616200/",
+      "file": "Books/04_healthcare/04_healthcare-20260828-06.json",
+      "workId": "findbook-20260828-2130"
+    },
+    {
+      "id": "04_healthcare-20260828-07",
+      "title": "預防癌症的習慣",
+      "author": "李媛慶",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "癌症",
+        "預防"
+      ],
+      "sourceName": "金石堂本月新書－醫療保健／疾病百科",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2014170157271/",
+      "file": "Books/04_healthcare/04_healthcare-20260828-07.json",
+      "workId": "findbook-20260828-2130"
+    },
+    {
+      "id": "04_healthcare-20260828-08",
+      "title": "睡好覺延壽又抗老：睡眠專科醫揭開重啟賀爾蒙、修復細胞、強化免疫力的科學真相",
+      "author": "西多昌規",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "睡眠",
+        "抗老"
+      ],
+      "sourceName": "金石堂本月新書－醫療保健／疾病百科",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2014110954045/",
+      "file": "Books/04_healthcare/04_healthcare-20260828-08.json",
+      "workId": "findbook-20260828-2130"
+    },
+    {
+      "id": "04_healthcare-20260828-09",
+      "title": "靜水流深：在失智中遇見平安與信實",
+      "author": "約翰．斯溫頓、伊莉莎白．麥金萊",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "失智",
+        "照護"
+      ],
+      "sourceName": "金石堂本月新書－醫療保健／疾病百科",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2014150616910/",
+      "file": "Books/04_healthcare/04_healthcare-20260828-09.json",
+      "workId": "findbook-20260828-2130"
+    },
+    {
+      "id": "04_healthcare-20260828-10",
+      "title": "你看到的健康知識，不一定是真的【2026年新裝增訂版】：流傳已久、網路社群言之鑿鑿的健康知識大診斷！",
+      "author": "柳澤綾子",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "實證",
+        "迷思"
+      ],
+      "sourceName": "金石堂本月新書－醫療保健／醫療人文",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2014110953833/",
+      "file": "Books/04_healthcare/04_healthcare-20260828-10.json",
+      "workId": "findbook-20260828-2130"
     }
   ],
-  "totalBooks": 3558,
+  "totalBooks": 3578,
   "searchDateRange": {
     "from": "2026-07-29",
     "to": "2026-08-28"
   },
   "generatedFrom": "FindBook_Skill.md reservation checkpoint",
-  "generatedAt": "2026-08-28T20:17:43+08:00"
+  "generatedAt": "2026-08-28T21:27:22+08:00"
 }
