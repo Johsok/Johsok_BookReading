@@ -52296,13 +52296,343 @@
       "sourceUrl": "https://www.cite.com.tw/book?id=108607",
       "file": "Books/04_healthcare/04_healthcare-20260824-05.json",
       "workId": "findbook-20260824-1442"
+    },
+    {
+      "id": "01_business_startup-20260828-01",
+      "title": "產業隊長張捷的30個思維練習：從故事裡，看見投資的底層邏輯",
+      "author": "張捷",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "產業"
+      ],
+      "sourceName": "博客來中文書－商業理財新書／暢銷頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011059912",
+      "file": "Books/01_business_startup/01_business_startup-20260828-01.json",
+      "workId": "findbook-20260828-2030"
+    },
+    {
+      "id": "01_business_startup-20260828-02",
+      "title": "你的薪資單，不代表你的資產總額：薪水進來，不一定都是你的！盤點現金、房產、ETF基金、保單與人力資本，打造能長期累積的資產系統",
+      "author": "康昱生",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "資產"
+      ],
+      "sourceName": "金石堂新書－商業理財（博客來詳情不足後改查）",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2015630850817/",
+      "file": "Books/01_business_startup/01_business_startup-20260828-02.json",
+      "workId": "findbook-20260828-2030"
+    },
+    {
+      "id": "01_business_startup-20260828-03",
+      "title": "在世界地圖上找投資機會：AI時代邊旅行邊致富的全球投資筆記",
+      "author": "詹惠珠",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "全球"
+      ],
+      "sourceName": "三民網路書店新書－商業理財（博客來列表不足後改查）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015713745",
+      "file": "Books/01_business_startup/01_business_startup-20260828-03.json",
+      "workId": "findbook-20260828-2030"
+    },
+    {
+      "id": "01_business_startup-20260828-04",
+      "title": "股票作手李佛摩的交易心理學：看懂市場人性，避開散戶致命陷阱",
+      "author": "愛德溫．勒斐佛",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "交易"
+      ],
+      "sourceName": "三民網路書店新書－商業理財（博客來列表不足後改查）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015749811",
+      "file": "Books/01_business_startup/01_business_startup-20260828-04.json",
+      "workId": "findbook-20260828-2030"
+    },
+    {
+      "id": "01_business_startup-20260828-05",
+      "title": "信任複利：AI時代最稀缺的資源，打造企業最被低估的競爭優勢",
+      "author": "吉米．威爾斯、丹．嘉德納",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "信任"
+      ],
+      "sourceName": "三民網路書店新書－商業理財（博客來列表不足後改查）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015748049",
+      "file": "Books/01_business_startup/01_business_startup-20260828-05.json",
+      "workId": "findbook-20260828-2030"
+    },
+    {
+      "id": "02_psychology_growth-20260828-01",
+      "title": "比起努力，人類更需要玩耍：腦科學家教你「掌握大腦=掌握人生」的每日微練習",
+      "author": "中野信子",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "大腦"
+      ],
+      "sourceName": "三民網路書店新書－心理勵志（博客來列表解析失敗後改查）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015748023",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260828-01.json",
+      "workId": "findbook-20260828-2030"
+    },
+    {
+      "id": "02_psychology_growth-20260828-02",
+      "title": "格格不入也沒關係：終於不必再假裝合群，可以在人群裡真正做自己【名醫的３步驟歸屬感練習】",
+      "author": "水島廣子",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "歸屬"
+      ],
+      "sourceName": "三民網路書店新書－心理勵志（博客來列表解析失敗後改查）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015745970",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260828-02.json",
+      "workId": "findbook-20260828-2030"
+    },
+    {
+      "id": "02_psychology_growth-20260828-03",
+      "title": "現在是情商的時代：決定你上限的，從來不是IQ，而是你的EQ！",
+      "author": "譚春虹",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "情商"
+      ],
+      "sourceName": "三民網路書店新書－心理勵志（博客來列表解析失敗後改查）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015749803",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260828-03.json",
+      "workId": "findbook-20260828-2030"
+    },
+    {
+      "id": "02_psychology_growth-20260828-04",
+      "title": "練習不期待：不被得失牽動，告別內耗的31堂課！",
+      "author": "長倉顯太",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "期待"
+      ],
+      "sourceName": "三民網路書店新書－心理勵志（博客來列表解析失敗後改查）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015746011",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260828-04.json",
+      "workId": "findbook-20260828-2030"
+    },
+    {
+      "id": "02_psychology_growth-20260828-05",
+      "title": "在終將告別前，學習活著",
+      "author": "田芳",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "生死"
+      ],
+      "sourceName": "金石堂心理勵志新書預購頁（博客來列表解析失敗後改查）",
+      "sourceUrl": "https://www.kingstone.com.tw/reserve/book/cek/",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260828-05.json",
+      "workId": "findbook-20260828-2030"
+    },
+    {
+      "id": "03_natural_science-20260828-01",
+      "title": "老化可以改變嗎？：探討衰老的機制與永生的可能",
+      "author": "文基．拉馬克里希南",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "老化"
+      ],
+      "sourceName": "三民網路書店新書－自然科學（博客來列表解析失敗後改查）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015748041",
+      "file": "Books/03_natural_science/03_natural_science-20260828-01.json",
+      "workId": "findbook-20260828-2030"
+    },
+    {
+      "id": "03_natural_science-20260828-02",
+      "title": "從粒子到生命的推導，薛丁格的遺傳物質推想：複製、排列、突變、更新……從遺傳資訊的保存到物質與能量的交換，說明生命持續存在的條件",
+      "author": "埃爾文．薛丁格",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "生命"
+      ],
+      "sourceName": "三民網路書店新書－自然科學（博客來列表解析失敗後改查）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015761577",
+      "file": "Books/03_natural_science/03_natural_science-20260828-02.json",
+      "workId": "findbook-20260828-2030"
+    },
+    {
+      "id": "03_natural_science-20260828-03",
+      "title": "超圖解生理學：剖析人體運作機制與臟器作用",
+      "author": "中島雅美",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "生理"
+      ],
+      "sourceName": "金石堂新書－自然科學（博客來列表解析失敗後改查）",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2013970041698/",
+      "file": "Books/03_natural_science/03_natural_science-20260828-03.json",
+      "workId": "findbook-20260828-2030"
+    },
+    {
+      "id": "03_natural_science-20260828-04",
+      "title": "水利古貌：古代水利工程與遺蹟",
+      "author": "肖東發、衡孝芬",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "水利"
+      ],
+      "sourceName": "金石堂新書－自然科學（博客來列表解析失敗後改查）",
+      "sourceUrl": "https://www.kingstone.com.tw/newproduct/book/ei/",
+      "file": "Books/03_natural_science/03_natural_science-20260828-04.json",
+      "workId": "findbook-20260828-2030"
+    },
+    {
+      "id": "03_natural_science-20260828-05",
+      "title": "蝴蝶熱：一段追尋美與蛻變的科學自然史",
+      "author": "蘿賽",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "蝴蝶"
+      ],
+      "sourceName": "ISBN資料庫／貓頭鷹新書－自然科學（博客來列表解析失敗後改查）",
+      "sourceUrl": "https://isbn.tw/9789862628508",
+      "file": "Books/03_natural_science/03_natural_science-20260828-05.json",
+      "workId": "findbook-20260828-2030"
+    },
+    {
+      "id": "04_healthcare-20260828-01",
+      "title": "反安慰劑效應：為何副作用標示和負面預期讓人生病",
+      "author": "麥克．伯恩斯坦等",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "預期"
+      ],
+      "sourceName": "三民網路書店新書－醫療保健（博客來列表解析失敗後改查）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015629833",
+      "file": "Books/04_healthcare/04_healthcare-20260828-01.json",
+      "workId": "findbook-20260828-2030"
+    },
+    {
+      "id": "04_healthcare-20260828-02",
+      "title": "思覺失調症照護指南：認識早期徵兆，學會正確陪伴與應對方法",
+      "author": "水野雅文",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "精神"
+      ],
+      "sourceName": "三民網路書店新書－醫療保健（博客來列表解析失敗後改查）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015613316",
+      "file": "Books/04_healthcare/04_healthcare-20260828-02.json",
+      "workId": "findbook-20260828-2030"
+    },
+    {
+      "id": "04_healthcare-20260828-03",
+      "title": "超仁：花蓮慈濟醫院的韌性醫療與使命",
+      "author": "林欣榮、凃心怡",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "韌性"
+      ],
+      "sourceName": "三民網路書店新書－醫療保健（博客來列表解析失敗後改查）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015622628",
+      "file": "Books/04_healthcare/04_healthcare-20260828-03.json",
+      "workId": "findbook-20260828-2030"
+    },
+    {
+      "id": "04_healthcare-20260828-04",
+      "title": "背脊‧肌筋膜照護百科解剖書：啟動脊椎與肌筋膜自癒力，徹底告別背痛",
+      "author": "狄特里．格內麥爾",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "背脊"
+      ],
+      "sourceName": "金石堂新書－醫療保健（博客來列表解析失敗後改查）",
+      "sourceUrl": "https://www.kingstone.com.tw/monthpublish/book/gbs/",
+      "file": "Books/04_healthcare/04_healthcare-20260828-04.json",
+      "workId": "findbook-20260828-2030"
+    },
+    {
+      "id": "04_healthcare-20260828-05",
+      "title": "遠離洗腎的護腎修復湯：日本腎臟科權威嚴選，少鹽好喝，超市食材就能完成，讓腎臟恢復年輕！",
+      "author": "上月正博",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "腎臟"
+      ],
+      "sourceName": "三民網路書店新書－醫療保健（博客來列表解析失敗後改查）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015623113",
+      "file": "Books/04_healthcare/04_healthcare-20260828-05.json",
+      "workId": "findbook-20260828-2030"
     }
   ],
-  "totalBooks": 3538,
+  "totalBooks": 3558,
   "searchDateRange": {
-    "from": "2026-07-25",
-    "to": "2026-08-24"
+    "from": "2026-07-29",
+    "to": "2026-08-28"
   },
   "generatedFrom": "FindBook_Skill.md reservation checkpoint",
-  "generatedAt": "2026-08-24T18:43:58+08:00"
+  "generatedAt": "2026-08-28T20:17:43+08:00"
 }
