@@ -53757,13 +53757,333 @@
       "sourceUrl": "https://www.cite.com.tw/book?id=108792",
       "file": "Books/04_healthcare/04_healthcare-20260829-11.json",
       "workId": "findbook-20260829-1230"
+    },
+    {
+      "id": "01_business_startup-20260829-11",
+      "title": "異見溝通術：哈佛實證有效的協商工具，助你擺脫生活中的爭論不休，不再大事小事摩擦不斷",
+      "author": "朱莉亞．明森",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "溝通",
+        "協商",
+        "職場"
+      ],
+      "sourceName": "城邦讀書花園－商管理財新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108832",
+      "file": "Books/01_business_startup/01_business_startup-20260829-11.json",
+      "workId": "findbook-20260829-1419"
+    },
+    {
+      "id": "01_business_startup-20260829-12",
+      "title": "只有累積，才有奇蹟",
+      "author": "陳良基",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創新",
+        "累積",
+        "職涯"
+      ],
+      "sourceName": "城邦讀書花園－商管理財新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108831",
+      "file": "Books/01_business_startup/01_business_startup-20260829-12.json",
+      "workId": "findbook-20260829-1419"
+    },
+    {
+      "id": "01_business_startup-20260829-13",
+      "title": "創新的人生【增訂版】",
+      "author": "陳良基",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創新",
+        "管理",
+        "職涯"
+      ],
+      "sourceName": "城邦讀書花園－商管理財新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108830",
+      "file": "Books/01_business_startup/01_business_startup-20260829-13.json",
+      "workId": "findbook-20260829-1419"
+    },
+    {
+      "id": "01_business_startup-20260829-14",
+      "title": "故事課之王：即使人生挫賽了，也要為它找到值得獎賞的理由",
+      "author": "許榮哲",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "敘事",
+        "表達",
+        "品牌"
+      ],
+      "sourceName": "城邦讀書花園－商管理財新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108894",
+      "file": "Books/01_business_startup/01_business_startup-20260829-14.json",
+      "workId": "findbook-20260829-1419"
+    },
+    {
+      "id": "01_business_startup-20260829-15",
+      "title": "有想法，卻說不到位？5天學會精準表達：日本電通頂尖文案高手的3步驟筆記術，讓你不糾結、不詞窮，臨場開口也能說出獨特觀點【獲世界三大廣告獎雙料殊榮】",
+      "author": "荒木俊哉",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "表達",
+        "文案",
+        "職場"
+      ],
+      "sourceName": "城邦讀書花園－商管理財新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108881",
+      "file": "Books/01_business_startup/01_business_startup-20260829-15.json",
+      "workId": "findbook-20260829-1419"
+    },
+    {
+      "id": "02_psychology_growth-20260829-12",
+      "title": "生命美好：該羞愧的人不是我",
+      "author": "吉賽兒．佩立克",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "創傷",
+        "勇氣",
+        "自我"
+      ],
+      "sourceName": "城邦讀書花園－心靈勵志新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108895",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-12.json",
+      "workId": "findbook-20260829-1419"
+    },
+    {
+      "id": "02_psychology_growth-20260829-13",
+      "title": "這才是心理學！（最新經典版）",
+      "author": "史坦諾維奇",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "科學思維",
+        "批判思考",
+        "成長"
+      ],
+      "sourceName": "城邦讀書花園－心靈勵志新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108819",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-13.json",
+      "workId": "findbook-20260829-1419"
+    },
+    {
+      "id": "02_psychology_growth-20260829-14",
+      "title": "我看起來很好欺負嗎？【軟柿子獨自升級指南】：那些讓你為難的人，本來就沒打算讓你好過！別讓「弱者氣息」定義你的價值",
+      "author": "耿向順",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "界線",
+        "人際",
+        "自我"
+      ],
+      "sourceName": "城邦讀書花園－心靈勵志新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108815",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-14.json",
+      "workId": "findbook-20260829-1419"
+    },
+    {
+      "id": "02_psychology_growth-20260829-15",
+      "title": "別讓童年的傷，成為孩子的牆 認清自我情緒枷鎖，讓孩子在愛裡被擁抱",
+      "author": "微微老師（李祐萱）",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "教養",
+        "情緒",
+        "創傷"
+      ],
+      "sourceName": "城邦讀書花園－心靈勵志新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108773",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-15.json",
+      "workId": "findbook-20260829-1419"
+    },
+    {
+      "id": "02_psychology_growth-20260829-16",
+      "title": "如果可以簡單，誰想要複雜(暢銷經典新編版)",
+      "author": "Peter Su",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "生活",
+        "選擇",
+        "成長"
+      ],
+      "sourceName": "城邦讀書花園－心靈勵志新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108663",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-16.json",
+      "workId": "findbook-20260829-1419"
+    },
+    {
+      "id": "03_natural_science-20260829-15",
+      "title": "醫學物理學（簡體書）",
+      "author": "康文斌、喬麗華、郭佳",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "物理",
+        "醫學應用",
+        "科普"
+      ],
+      "sourceName": "三民網路書店－自然科學新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015713777",
+      "file": "Books/03_natural_science/03_natural_science-20260829-15.json",
+      "workId": "findbook-20260829-1419"
+    },
+    {
+      "id": "03_natural_science-20260829-16",
+      "title": "萬物之理（簡體書）",
+      "author": "歐陽良宜",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "複雜系統",
+        "能量",
+        "科普"
+      ],
+      "sourceName": "三民網路書店－自然科學新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015746431",
+      "file": "Books/03_natural_science/03_natural_science-20260829-16.json",
+      "workId": "findbook-20260829-1419"
+    },
+    {
+      "id": "03_natural_science-20260829-17",
+      "title": "生物物理學（簡體書）",
+      "author": "康文斌",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "生物",
+        "物理",
+        "科普"
+      ],
+      "sourceName": "三民網路書店－自然科學新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015747079",
+      "file": "Books/03_natural_science/03_natural_science-20260829-17.json",
+      "workId": "findbook-20260829-1419"
+    },
+    {
+      "id": "03_natural_science-20260829-18",
+      "title": "科學人雜誌 8月號/2026：打開薛丁格的盒子 展開量子革命",
+      "author": "科學人編輯部",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "量子",
+        "物理",
+        "科普"
+      ],
+      "sourceName": "讀墨電子書－科學人2026年8月號",
+      "sourceUrl": "https://readmoo.com/book/220491474000101",
+      "file": "Books/03_natural_science/03_natural_science-20260829-18.json",
+      "workId": "findbook-20260829-1419"
+    },
+    {
+      "id": "03_natural_science-20260829-19",
+      "title": "新小牛頓 8月號／2026 第263期",
+      "author": "好頭腦編輯部",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "科普",
+        "兒童科學",
+        "自然"
+      ],
+      "sourceName": "三民網路書店－自然科學／兒童科普期刊",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/013889059",
+      "file": "Books/03_natural_science/03_natural_science-20260829-19.json",
+      "workId": "findbook-20260829-1419"
+    },
+    {
+      "id": "04_healthcare-20260829-12",
+      "title": "自己做得到的筋膜調理入門：簡單按壓，放鬆舒緩全身緊繃，緩解久坐、用眼過度與腸胃不適，16支示範影片，零基礎也能學會。",
+      "author": "張豫郝",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "筋膜",
+        "痠痛",
+        "保健"
+      ],
+      "sourceName": "城邦讀書花園－醫療保健新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108827",
+      "file": "Books/04_healthcare/04_healthcare-20260829-12.json",
+      "workId": "findbook-20260829-1419"
+    },
+    {
+      "id": "04_healthcare-20260829-13",
+      "title": "大腦修復術【暢銷新版】：一本書教你如何應對憂鬱、焦慮、強迫症、拖延、社交恐懼、注意力不集中等精神困擾，幫助你平衡生活壓力、提升工作表現",
+      "author": "姚乃琳",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "心理健康",
+        "大腦",
+        "焦慮"
+      ],
+      "sourceName": "城邦讀書花園－醫療保健新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108731",
+      "file": "Books/04_healthcare/04_healthcare-20260829-13.json",
+      "workId": "findbook-20260829-1419"
+    },
+    {
+      "id": "04_healthcare-20260829-14",
+      "title": "沙漠奇珍 杏輝 管花肉蓯蓉",
+      "author": "杏輝藥品工業股份有限公司",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "腦健康",
+        "生醫",
+        "保健"
+      ],
+      "sourceName": "城邦讀書花園－醫療保健新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108728",
+      "file": "Books/04_healthcare/04_healthcare-20260829-14.json",
+      "workId": "findbook-20260829-1419"
+    },
+    {
+      "id": "04_healthcare-20260829-15",
+      "title": "InSwim核心游泳：從省力、耐力到速度——張育銘教練的自由式游泳技術訓練系統",
+      "author": "張育銘、徐國峰",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "運動",
+        "游泳",
+        "體能"
+      ],
+      "sourceName": "城邦讀書花園－醫療保健／運動新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108727",
+      "file": "Books/04_healthcare/04_healthcare-20260829-15.json",
+      "workId": "findbook-20260829-1419"
+    },
+    {
+      "id": "04_healthcare-20260829-16",
+      "title": "【全彩圖解】中高齡狗狗按摩撫觸健康照護全書：活化大腦、促進代謝、強健四肢、增強五感",
+      "author": "山田里子",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "照護",
+        "復健",
+        "寵物健康"
+      ],
+      "sourceName": "三民網路書店－醫療保健新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015590994",
+      "file": "Books/04_healthcare/04_healthcare-20260829-16.json",
+      "workId": "findbook-20260829-1419"
     }
   ],
-  "totalBooks": 3624,
+  "totalBooks": 3644,
   "searchDateRange": {
     "from": "2026-07-30",
     "to": "2026-08-29"
   },
   "generatedFrom": "FindBook_Skill.md reservation checkpoint",
-  "generatedAt": "2026-08-29T12:42:12+08:00"
+  "generatedAt": "2026-08-29T14:30:33+08:00"
 }
