@@ -53393,13 +53393,377 @@
       "sourceUrl": "https://www.scimonth.com.tw/archives/14820",
       "file": "Books/03_natural_science/03_natural_science-20260829-09.json",
       "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "01_business_startup-20260829-06",
+      "title": "素書：為什麼有些人不厲害，卻一直贏？謀略奇才黃石公，寫給職場人的生存規則",
+      "author": "黃石公、丁敏翔",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "職場",
+        "謀略",
+        "領導"
+      ],
+      "sourceName": "城邦讀書花園－商管理財新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108775",
+      "file": "Books/01_business_startup/01_business_startup-20260829-06.json",
+      "workId": "findbook-20260829-1230"
+    },
+    {
+      "id": "01_business_startup-20260829-07",
+      "title": "我在偏遠山區開麵包店，生意興隆：從移動銷售到人氣名店，一間偏僻小店，如何每年吸引三萬人朝聖，活出不迎合市場的經營哲學",
+      "author": "平田はる香",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "品牌",
+        "在地經營"
+      ],
+      "sourceName": "城邦讀書花園－商管理財新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108397",
+      "file": "Books/01_business_startup/01_business_startup-20260829-07.json",
+      "workId": "findbook-20260829-1230"
+    },
+    {
+      "id": "01_business_startup-20260829-08",
+      "title": "新冷戰下的經濟棋局：科技、權力與經濟的再平衡看全球競逐與未來走向",
+      "author": "陳國祥",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "地緣經濟",
+        "科技",
+        "全球競逐"
+      ],
+      "sourceName": "城邦讀書花園－人文與商管新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108596",
+      "file": "Books/01_business_startup/01_business_startup-20260829-08.json",
+      "workId": "findbook-20260829-1230"
+    },
+    {
+      "id": "01_business_startup-20260829-09",
+      "title": "貞觀領導學：從帝王學掌握現代管理術",
+      "author": "出口治明",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "領導",
+        "組織",
+        "用人"
+      ],
+      "sourceName": "三民網路書店－商業理財新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015745982",
+      "file": "Books/01_business_startup/01_business_startup-20260829-09.json",
+      "workId": "findbook-20260829-1230"
+    },
+    {
+      "id": "01_business_startup-20260829-10",
+      "title": "科技右派的崛起，會把世界帶往何處？：馬斯克、提爾、奧特曼和布特林，政治經濟觀如何重塑人類的未來",
+      "author": "橘玲",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "科技政治",
+        "意識形態"
+      ],
+      "sourceName": "城邦讀書花園－商管理財／人文新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108574",
+      "file": "Books/01_business_startup/01_business_startup-20260829-10.json",
+      "workId": "findbook-20260829-1230"
+    },
+    {
+      "id": "02_psychology_growth-20260829-07",
+      "title": "灰咪不再灰：人不是突然變好，是慢慢變亮的",
+      "author": "游祥禾",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "自我理解",
+        "療癒"
+      ],
+      "sourceName": "城邦讀書花園－心靈勵志新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108776",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-07.json",
+      "workId": "findbook-20260829-1230"
+    },
+    {
+      "id": "02_psychology_growth-20260829-08",
+      "title": "卡皮巴拉的自我修養：願你不焦慮、不內耗、人間清醒、安然自得、鬆弛感拉滿，水豚系的生活哲學，這世界十分內耗，你只需一分淡定！",
+      "author": "安安",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "焦慮",
+        "內耗",
+        "生活哲學"
+      ],
+      "sourceName": "城邦讀書花園－心靈勵志新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108582",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-08.json",
+      "workId": "findbook-20260829-1230"
+    },
+    {
+      "id": "02_psychology_growth-20260829-09",
+      "title": "別當除草機父母（修訂版）：用REBT理情行為治療的ABCDE走出焦慮，教出未來世界最能生存的孩子",
+      "author": "武自珍",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "教養",
+        "焦慮",
+        "理情治療"
+      ],
+      "sourceName": "城邦讀書花園－心靈勵志新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108726",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-09.json",
+      "workId": "findbook-20260829-1230"
+    },
+    {
+      "id": "02_psychology_growth-20260829-10",
+      "title": "什麼也不想做的貓【SEL情緒素養｜同理心｜心理健康】☆我不是懶，我只是現在心情有點低落☆今天，你可以什麼都不做",
+      "author": "傑克・庫蘭德",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "休息",
+        "同理"
+      ],
+      "sourceName": "城邦讀書花園－心靈勵志新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108465",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-10.json",
+      "workId": "findbook-20260829-1230"
+    },
+    {
+      "id": "02_psychology_growth-20260829-11",
+      "title": "一隻（幾乎）完美的狗【SEL情緒素養｜同理心｜品格教育】☆接受不完美的自己☆不必當一百分的孩子，也能擁有一百分的愛",
+      "author": "傑克・庫蘭德",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "自我接納",
+        "完美主義",
+        "同理"
+      ],
+      "sourceName": "城邦讀書花園－心靈勵志新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108464",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-11.json",
+      "workId": "findbook-20260829-1230"
+    },
+    {
+      "id": "03_natural_science-20260829-10",
+      "title": "小學生的STEM科學研究室：科技篇",
+      "author": "安娜．克雷本",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "STEM",
+        "科技",
+        "科學教育"
+      ],
+      "sourceName": "城邦讀書花園－自然科普新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108793",
+      "file": "Books/03_natural_science/03_natural_science-20260829-10.json",
+      "workId": "findbook-20260829-1230"
+    },
+    {
+      "id": "03_natural_science-20260829-11",
+      "title": "我在海邊撿石頭：從撿拾到品鑑，想像石頭的一千種模樣【首刷隨書贈 · 海風裡的石頭透明貼紙】",
+      "author": "石之人、川端清司",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "地質",
+        "觀察"
+      ],
+      "sourceName": "城邦讀書花園－自然科普新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108755",
+      "file": "Books/03_natural_science/03_natural_science-20260829-11.json",
+      "workId": "findbook-20260829-1230"
+    },
+    {
+      "id": "03_natural_science-20260829-12",
+      "title": "圖解加工材料：兼顧品質╳成本╳交期之外觀與實用性，實現產品設計的最高材料應用學",
+      "author": "西村仁",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "材料",
+        "加工",
+        "產品設計"
+      ],
+      "sourceName": "城邦讀書花園－自然科普／設計新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108572",
+      "file": "Books/03_natural_science/03_natural_science-20260829-12.json",
+      "workId": "findbook-20260829-1230"
+    },
+    {
+      "id": "03_natural_science-20260829-13",
+      "title": "東西從哪裡來？：巧克力醬原料來自全世界？石油怎麼變絨毛玩偶？從物品製作到運送，探索連結世界的全球供應鏈（全球獨家附贈：〈全球供應鏈也會影響臺灣嗎？〉拉頁）",
+      "author": "茱莉雅．杜爾",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "供應鏈",
+        "材料",
+        "製造"
+      ],
+      "sourceName": "城邦讀書花園－自然科普新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108750",
+      "file": "Books/03_natural_science/03_natural_science-20260829-13.json",
+      "workId": "findbook-20260829-1230"
+    },
+    {
+      "id": "03_natural_science-20260829-14",
+      "title": "變色龍在哪裡？【認知學習｜觀察力提升｜語言發展】☆挑戰眼力、激發笑聲的翻頁驚喜☆我們能不能找到變色龍呢？",
+      "author": "強提．豪利",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "生物",
+        "擬態",
+        "觀察"
+      ],
+      "sourceName": "城邦讀書花園－自然科普新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108783",
+      "file": "Books/03_natural_science/03_natural_science-20260829-14.json",
+      "workId": "findbook-20260829-1230"
+    },
+    {
+      "id": "04_healthcare-20260829-07",
+      "title": "你累的不是身體，是大腦！：5個好習慣終結大腦疲勞，提升免疫力！",
+      "author": "梶本修身",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "大腦疲勞",
+        "免疫",
+        "習慣"
+      ],
+      "sourceName": "城邦讀書花園－醫療保健新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108795",
+      "file": "Books/04_healthcare/04_healthcare-20260829-07.json",
+      "workId": "findbook-20260829-1230"
+    },
+    {
+      "id": "04_healthcare-20260829-08",
+      "title": "當痛苦無法逆轉，我想要這樣離去——直擊加拿大「醫助死亡」現場，一位備受尊崇的臨終關懷醫師，如何終結病患痛苦，實現有尊嚴的告別？",
+      "author": "簡．馬莫雷奧、約翰娜．施內勒",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "臨終",
+        "醫助死亡",
+        "照護"
+      ],
+      "sourceName": "城邦讀書花園－醫療保健新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108752",
+      "file": "Books/04_healthcare/04_healthcare-20260829-08.json",
+      "workId": "findbook-20260829-1230"
+    },
+    {
+      "id": "04_healthcare-20260829-09",
+      "title": "從年輕人到銀髮族都適用的強膝訓練：一週兩小時，從喚醒肌肉、關節、結締組織到打造關鍵功能性肌力，從此遠離膝蓋疼痛及退化，擁有不易受傷、行動自如的身體",
+      "author": "梁友瑋",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "膝蓋",
+        "肌力",
+        "復健"
+      ],
+      "sourceName": "城邦讀書花園－醫療保健新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108742",
+      "file": "Books/04_healthcare/04_healthcare-20260829-09.json",
+      "workId": "findbook-20260829-1230"
+    },
+    {
+      "id": "04_healthcare-20260829-10",
+      "title": "超簡易胸椎伸展：每天10分鐘！躺著就好！世界級芭蕾舞者的美姿養成術，解決圓肩駝背、消除痠痛，打造優雅體態。",
+      "author": "石井久美子",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "體態",
+        "胸椎",
+        "痠痛"
+      ],
+      "sourceName": "城邦讀書花園－醫療保健新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108777",
+      "file": "Books/04_healthcare/04_healthcare-20260829-10.json",
+      "workId": "findbook-20260829-1230"
+    },
+    {
+      "id": "04_healthcare-20260829-11",
+      "title": "論健康之隱蔽性",
+      "author": "斯－格奧爾格．高達美",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "醫療哲學",
+        "醫病關係"
+      ],
+      "sourceName": "城邦讀書花園－醫療保健／人文新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108792",
+      "file": "Books/04_healthcare/04_healthcare-20260829-11.json",
+      "workId": "findbook-20260829-1230"
     }
   ],
-  "totalBooks": 3604,
+  "totalBooks": 3624,
   "searchDateRange": {
     "from": "2026-07-30",
     "to": "2026-08-29"
   },
   "generatedFrom": "FindBook_Skill.md reservation checkpoint",
-  "generatedAt": "2026-08-29T11:07:49+08:00"
+  "generatedAt": "2026-08-29T12:42:12+08:00"
 }
