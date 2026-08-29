@@ -52966,13 +52966,440 @@
       "sourceUrl": "https://www.kingstone.com.tw/basic/2014110953833/",
       "file": "Books/04_healthcare/04_healthcare-20260828-10.json",
       "workId": "findbook-20260828-2130"
+    },
+    {
+      "id": "03_natural_science-20260829-01",
+      "title": "哺乳類王朝：從恐龍陰影下竄出的邊緣生物，如何接手稱霸地球？",
+      "author": "史提夫．布魯薩特",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "演化",
+        "哺乳類"
+      ],
+      "sourceName": "博客來中文書－自然科學新書／暢銷頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011058997",
+      "file": "Books/03_natural_science/03_natural_science-20260829-01.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "03_natural_science-20260829-02",
+      "title": "1分鐘物理2：皮卡丘發的是直流電還是交流電？",
+      "author": "中國科學院物理研究所",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "物理"
+      ],
+      "sourceName": "博客來中文書－自然科學新書／暢銷頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011058893",
+      "file": "Books/03_natural_science/03_natural_science-20260829-02.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "03_natural_science-20260829-03",
+      "title": "雙連埤霧語 : 濕地生態.山村歷史與人文",
+      "author": "陳胡彥",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "濕地",
+        "生態"
+      ],
+      "sourceName": "博客來中文書－自然科學新書／暢銷頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011059658",
+      "file": "Books/03_natural_science/03_natural_science-20260829-03.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "03_natural_science-20260829-04",
+      "title": "噴射機引擎的構造與原理（全彩修訂版）",
+      "author": "中村寬治",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "航空",
+        "引擎"
+      ],
+      "sourceName": "博客來中文書－自然科學新書／暢銷頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011060031",
+      "file": "Books/03_natural_science/03_natural_science-20260829-04.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "02_psychology_growth-20260829-01",
+      "title": "惡意是怎麼形成的？：從霸凌、劈腿到仇恨言論，歷時15年、全球超過250萬筆研究數據，心理學家教你揪出身邊有問題的人！",
+      "author": "班雅明．E．席比、莫頓．摩沙根、英格．策特勒",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "人格",
+        "人際",
+        "黑暗因子"
+      ],
+      "sourceName": "金石堂中文書－心理勵志新書",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2011730294261/",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-01.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "02_psychology_growth-20260829-02",
+      "title": "谷底的禮物：每一次跌落，都會長出力量",
+      "author": "林萱",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "界線",
+        "自我照顧"
+      ],
+      "sourceName": "三民網路書店－心理勵志新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015650437",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-02.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "04_healthcare-20260829-01",
+      "title": "正常的迷思：理解壓力與創傷如何形塑身心，鬆動情緒困境與疾病的循環，回到完整的自己",
+      "author": "嘉柏．麥特、丹尼爾．麥特",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "創傷",
+        "壓力",
+        "身心"
+      ],
+      "sourceName": "三民網路書店－醫療保健新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015606571",
+      "file": "Books/04_healthcare/04_healthcare-20260829-01.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "01_business_startup-20260829-01",
+      "title": "直擊要害！把問題拆到只剩關鍵核心：邏輯樹、5W2H、奧坎剃刀、費米估算……把複雜難題化繁為簡，建立快速抓重點的解題能力",
+      "author": "張晨",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "職場",
+        "思考",
+        "決策"
+      ],
+      "sourceName": "三民網路書店－商業理財新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015712745",
+      "file": "Books/01_business_startup/01_business_startup-20260829-01.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "01_business_startup-20260829-02",
+      "title": "底層躍遷：7步實現跳級人生",
+      "author": "王奕迪",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "職涯",
+        "成長",
+        "管理"
+      ],
+      "sourceName": "三民網路書店－商業理財新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015630302",
+      "file": "Books/01_business_startup/01_business_startup-20260829-02.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "01_business_startup-20260829-03",
+      "title": "創作覺醒：從30位知名創作者的故事，學會把文字變聲量，把聲量變資產，累積破圈影響力",
+      "author": "林郁棠",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "創業",
+        "內容",
+        "品牌"
+      ],
+      "sourceName": "三民網路書店－商業理財新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015614450",
+      "file": "Books/01_business_startup/01_business_startup-20260829-03.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "01_business_startup-20260829-04",
+      "title": "自造身價：身價來自自我增值，提升3力，成為搶手人才！",
+      "author": "何思平",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "職涯",
+        "人才",
+        "認知"
+      ],
+      "sourceName": "三民網路書店－商業理財新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015630143",
+      "file": "Books/01_business_startup/01_business_startup-20260829-04.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "02_psychology_growth-20260829-03",
+      "title": "混亂的力量：創新由此而生—為何我們該擁抱干擾、未知與意外，從混亂中創造優勢",
+      "author": "提姆．哈福德",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "成長",
+        "創新",
+        "韌性"
+      ],
+      "sourceName": "三民網路書店－心理勵志新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015748027",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-03.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "03_natural_science-20260829-05",
+      "title": "半導體的未來 人人伽利略 特刊2",
+      "author": "日本Newton Press",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "半導體",
+        "物理"
+      ],
+      "sourceName": "金石堂中文書－自然科普新書",
+      "sourceUrl": "https://www.kingstone.com.tw/bookpublish/publist/02054/",
+      "file": "Books/03_natural_science/03_natural_science-20260829-05.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "04_healthcare-20260829-02",
+      "title": "抗發炎消炎治百病：西醫不能說的秘密，伊維菌素是消炎治癌的良方",
+      "author": "江晃榮",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "發炎",
+        "保健"
+      ],
+      "sourceName": "三民網路書店－醫療保健新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015612480",
+      "file": "Books/04_healthcare/04_healthcare-20260829-02.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "04_healthcare-20260829-03",
+      "title": "台大醫院胃癌術後營養照護與癌症飲食全書套書(共二冊)",
+      "author": "張金堅、柳秀乖、林明燦、吳經閔、賴聖如",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "胃癌",
+        "營養",
+        "照護"
+      ],
+      "sourceName": "三民網路書店－醫療保健新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015630296",
+      "file": "Books/04_healthcare/04_healthcare-20260829-03.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "01_business_startup-20260829-05",
+      "title": "在碎裂的世界共享富裕繁榮：給中產階級、全球貧困者，以及氣候危機的新經濟學",
+      "author": "丹尼．羅德里克",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "經濟",
+        "全球化",
+        "政策"
+      ],
+      "sourceName": "三民網路書店－商業理財新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015614901",
+      "file": "Books/01_business_startup/01_business_startup-20260829-05.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "02_psychology_growth-20260829-04",
+      "title": "離線：登出害你陷入險境的平台，逃離被演算法操控的日常",
+      "author": "愛黛兒．潔妮普．沃爾頓",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "數位",
+        "焦慮",
+        "成長"
+      ],
+      "sourceName": "三民網路書店－心理勵志新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015612428",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-04.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "02_psychology_growth-20260829-05",
+      "title": "語言學證實，改變人生的自我對話法：怎樣的話語會影響情緒、注意力、決策與行動？哈佛、史丹佛、普林斯頓等一流大學研究，把想法換個名字，事情就解決了！",
+      "author": "堀田秀吾",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "成長",
+        "語言",
+        "情緒"
+      ],
+      "sourceName": "城邦讀書花園－心理勵志新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108828",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-05.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "02_psychology_growth-20260829-06",
+      "title": "「離線」焦慮，困在螢幕裡的多巴胺：演算法推播、碎片化學習、效率幻象、多巴胺成癮……在曝光與分享成為常態的時代，人如何在資訊洪流中逐漸模糊了個體價值？",
+      "author": "董光恒",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "數位",
+        "多巴胺",
+        "成長"
+      ],
+      "sourceName": "ISBN資料庫－心理勵志新書",
+      "sourceUrl": "https://isbn.tw/9786269312863",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-06.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "04_healthcare-20260829-04",
+      "title": "脂肪肝，可逆轉：麥得飲食×營養師的護肝及外食攻略",
+      "author": "陳怡婷",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "脂肪肝",
+        "保健"
+      ],
+      "sourceName": "三民網路書店－醫療保健新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015629831",
+      "file": "Books/04_healthcare/04_healthcare-20260829-04.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "04_healthcare-20260829-05",
+      "title": "怕肥胖、失智、癌症上身？就要先解決發炎問題：醫師帶你識破發炎原因，從熱、濕、寒、虛4種體質對症調理，26道簡易居家食譜，輕鬆吃出不生病體質",
+      "author": "丁世涓",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "發炎",
+        "保健"
+      ],
+      "sourceName": "三民網路書店－醫療保健新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015630294",
+      "file": "Books/04_healthcare/04_healthcare-20260829-05.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "04_healthcare-20260829-06",
+      "title": "日韓抗衰老醫師逆轉老化的大腦、細胞、飲食、生活習慣建議套書(共二冊)",
+      "author": "鄭熙元、舛森悠",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "老化",
+        "保健"
+      ],
+      "sourceName": "三民網路書店－醫療保健新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015630297",
+      "file": "Books/04_healthcare/04_healthcare-20260829-06.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "03_natural_science-20260829-06",
+      "title": "新陳代謝24H全圖解：從糖解作用、呼吸鏈到克氏循環！法國大學生必備的生化視覺筆記",
+      "author": "薩維耶．庫穆爾",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "生化",
+        "代謝"
+      ],
+      "sourceName": "城邦讀書花園－自然科普新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108796",
+      "file": "Books/03_natural_science/03_natural_science-20260829-06.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "03_natural_science-20260829-07",
+      "title": "犬之書：從A到Z探索狗生百態【精裝小百科，普林斯頓大學策畫，一本讀懂人狗牽絆】",
+      "author": "潔西卡．皮爾斯",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "動物",
+        "演化"
+      ],
+      "sourceName": "城邦讀書花園－自然科普新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108756",
+      "file": "Books/03_natural_science/03_natural_science-20260829-07.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "03_natural_science-20260829-08",
+      "title": "始於細胞：單一細胞如何孕育出複雜的生物體？一場跨越150年的生命起源探索之旅",
+      "author": "班．史丹格",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "細胞",
+        "發育生物學"
+      ],
+      "sourceName": "城邦讀書花園－自然科普新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108743",
+      "file": "Books/03_natural_science/03_natural_science-20260829-08.json",
+      "workId": "findbook-20260829-1048"
+    },
+    {
+      "id": "03_natural_science-20260829-09",
+      "title": "科學月刊 8月號／2026 第680期：什麼動物都要養？",
+      "author": "科學月刊編輯部",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "生態",
+        "動物"
+      ],
+      "sourceName": "科學月刊官網－当期目錄",
+      "sourceUrl": "https://www.scimonth.com.tw/archives/14820",
+      "file": "Books/03_natural_science/03_natural_science-20260829-09.json",
+      "workId": "findbook-20260829-1048"
     }
   ],
-  "totalBooks": 3578,
+  "totalBooks": 3604,
   "searchDateRange": {
-    "from": "2026-07-29",
-    "to": "2026-08-28"
+    "from": "2026-07-30",
+    "to": "2026-08-29"
   },
   "generatedFrom": "FindBook_Skill.md reservation checkpoint",
-  "generatedAt": "2026-08-28T21:27:22+08:00"
+  "generatedAt": "2026-08-29T11:07:49+08:00"
 }
