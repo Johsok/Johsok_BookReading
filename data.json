@@ -54697,13 +54697,157 @@
       "sourceUrl": "https://www.kingstone.com.tw/basic/2014180409711/",
       "file": "Books/04_healthcare/04_healthcare-20260829-26.json",
       "workId": "findbook-20260829-2135"
+    },
+    {
+      "id": "01_business_startup-20260830-01",
+      "title": "不看盤，我才賺到大錢： 只想靠一檔股票、買了不理也能獲利？你要選真正的ETF，低成本指數型基金。",
+      "author": "比爾．蘇西斯",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "ETF",
+        "理財"
+      ],
+      "sourceName": "金石堂新書－商業理財",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2015630850947/",
+      "file": "Books/01_business_startup/01_business_startup-20260830-01.json",
+      "workId": "findbook-20260830-064700"
+    },
+    {
+      "id": "01_business_startup-20260830-02",
+      "title": "大戶思維 期權獵金：亂世操盤實戰攻略",
+      "author": "李錦榮",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "選擇權",
+        "操盤"
+      ],
+      "sourceName": "金石堂新書－商業理財",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2015630852231/",
+      "file": "Books/01_business_startup/01_business_startup-20260830-02.json",
+      "workId": "findbook-20260830-064700"
+    },
+    {
+      "id": "01_business_startup-20260830-03",
+      "title": "財富大翻身 跨世代FIRE理財攻略",
+      "author": "小白財研社",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "理財",
+        "FIRE",
+        "退休"
+      ],
+      "sourceName": "金石堂新書－商業理財",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2015630852651/",
+      "file": "Books/01_business_startup/01_business_startup-20260830-03.json",
+      "workId": "findbook-20260830-064700"
+    },
+    {
+      "id": "02_psychology_growth-20260830-01",
+      "title": "幸福大富翁",
+      "author": "Hannah善如",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "幸福",
+        "成長",
+        "情緒"
+      ],
+      "sourceName": "金石堂新書－心理勵志",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2011771643998/",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260830-01.json",
+      "workId": "findbook-20260830-064700"
+    },
+    {
+      "id": "02_psychology_growth-20260830-02",
+      "title": "解鎖全腦學習超能力",
+      "author": "Handsome Hung 洪英俊",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "學習",
+        "成長",
+        "習慣"
+      ],
+      "sourceName": "金石堂新書－心理勵志",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2011771644070/",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260830-02.json",
+      "workId": "findbook-20260830-064700"
+    },
+    {
+      "id": "02_psychology_growth-20260830-03",
+      "title": "男人的四個原型：暢銷30年經典，榮格學派帶你剖析男性心理",
+      "author": "羅伯特・摩爾",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "榮格",
+        "男性心理",
+        "自我成長"
+      ],
+      "sourceName": "金石堂新書－心理勵志",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2011730294421/",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260830-03.json",
+      "workId": "findbook-20260830-064700"
+    },
+    {
+      "id": "02_psychology_growth-20260830-04",
+      "title": "世界上最神奇的24堂課【經典新譯版】：「吸引力法則」源頭經典，啟發《思考致富》、影響《祕密》",
+      "author": "查爾斯．哈尼爾",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "心智",
+        "習慣",
+        "成長"
+      ],
+      "sourceName": "金石堂新書－心理勵志",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2011771641154/",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260830-04.json",
+      "workId": "findbook-20260830-064700"
+    },
+    {
+      "id": "04_healthcare-20260830-01",
+      "title": "1天1次！改善身體疑難雜症的速效舌頭運動",
+      "author": "松岡佳余子",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "保健",
+        "復健",
+        "口腔"
+      ],
+      "sourceName": "金石堂新書－醫療保健",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2014110955127/",
+      "file": "Books/04_healthcare/04_healthcare-20260830-01.json",
+      "workId": "findbook-20260830-064700"
+    },
+    {
+      "id": "04_healthcare-20260830-02",
+      "title": "認知功能訓練實務玩出您的最強大腦—認知功能X體適能",
+      "author": "林廣聞",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "認知",
+        "高齡",
+        "照護"
+      ],
+      "sourceName": "金石堂新書－醫療保健",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2014150616330/",
+      "file": "Books/04_healthcare/04_healthcare-20260830-02.json",
+      "workId": "findbook-20260830-064700"
     }
   ],
-  "totalBooks": 3684,
+  "totalBooks": 3693,
   "searchDateRange": {
-    "from": "2026-07-30",
-    "to": "2026-08-29"
+    "from": "2026-07-31",
+    "to": "2026-08-30"
   },
   "generatedFrom": "FindBook_Skill.md reservation checkpoint",
-  "generatedAt": "2026-08-29T22:02:16+08:00"
+  "generatedAt": "2026-08-30T07:19:55+08:00"
 }
