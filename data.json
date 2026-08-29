@@ -54077,13 +54077,633 @@
       "sourceUrl": "https://www.sanmin.com.tw/product/index/015590994",
       "file": "Books/04_healthcare/04_healthcare-20260829-16.json",
       "workId": "findbook-20260829-1419"
+    },
+    {
+      "id": "01_business_startup-20260829-16",
+      "title": "丹麥式3分鐘溝通術：不應酬、不人際內耗！連霸5年商業效率第一的工作心法",
+      "author": "針貝有佳",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "溝通",
+        "職場",
+        "丹麥"
+      ],
+      "sourceName": "城邦讀書花園－商管理財新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108445",
+      "file": "Books/01_business_startup/01_business_startup-20260829-16.json",
+      "workId": "findbook-20260829-1610"
+    },
+    {
+      "id": "01_business_startup-20260829-17",
+      "title": "真希望我早就懂的好運法則：史丹佛創新教育家18堂行動課，創造意想不到的人生機會",
+      "author": "婷娜．希莉格",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "創新",
+        "機會",
+        "職涯",
+        "行動"
+      ],
+      "sourceName": "城邦讀書花園－商管理財新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108643",
+      "file": "Books/01_business_startup/01_business_startup-20260829-17.json",
+      "workId": "findbook-20260829-1610"
+    },
+    {
+      "id": "01_business_startup-20260829-18",
+      "title": "富小孩的商業課1：沙漠的水一瓶一千元？看懂商業經營的16個模式",
+      "author": "郝旭烈",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "財商",
+        "價值",
+        "親子"
+      ],
+      "sourceName": "城邦讀書花園－商管理財新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108662",
+      "file": "Books/01_business_startup/01_business_startup-20260829-18.json",
+      "workId": "findbook-20260829-1610"
+    },
+    {
+      "id": "01_business_startup-20260829-19",
+      "title": "把話說開的職場溝通術：不隱忍、不對立，不用衝突也能精準破局的雙向對話課",
+      "author": "約書亞．葛瑞夫斯",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "職場",
+        "溝通",
+        "衝突",
+        "管理"
+      ],
+      "sourceName": "三民網路書店－財經企管新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015748016",
+      "file": "Books/01_business_startup/01_business_startup-20260829-19.json",
+      "workId": "findbook-20260829-1610"
+    },
+    {
+      "id": "01_business_startup-20260829-20",
+      "title": "用Podcast「聊」癒自己，「聊」到賺錢：獨創三「聊」心法，開啟一門熱情事業【特別附贈：Joanne親錄！一集聽懂這本書】",
+      "author": "Joanne（謝喬安）",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "斜槓",
+        "Podcast",
+        "表達",
+        "創業"
+      ],
+      "sourceName": "城邦讀書花園－商管理財新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108823",
+      "file": "Books/01_business_startup/01_business_startup-20260829-20.json",
+      "workId": "findbook-20260829-1610"
+    },
+    {
+      "id": "02_psychology_growth-20260829-17",
+      "title": "你的情緒稅，憑什麼要我買單：一流神人的大格局思維，11個強大信條讓你「以自我為中心」活出精彩人生",
+      "author": "永松茂久",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "情緒",
+        "自我成長",
+        "心態",
+        "人際"
+      ],
+      "sourceName": "三民網路書店－心理勵志新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015735905",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-17.json",
+      "workId": "findbook-20260829-1610"
+    },
+    {
+      "id": "02_psychology_growth-20260829-18",
+      "title": "單親媽媽移居盧安達開泰式餐廳好吃驚！【真人真事，一本讓人重新思考「想過什麼樣的人生」的勇氣之書】",
+      "author": "唐渡千紗",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "勇氣",
+        "人生選擇",
+        "創業",
+        "自我探索"
+      ],
+      "sourceName": "城邦讀書花園－心靈勵志新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108700",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-18.json",
+      "workId": "findbook-20260829-1610"
+    },
+    {
+      "id": "02_psychology_growth-20260829-19",
+      "title": "我無聊，故我在：致那些想努力生活卻一直斷線的靈魂",
+      "author": "詹姆斯．丹克特、約翰．伊斯特伍德",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "無聊",
+        "心理學",
+        "意義",
+        "行動"
+      ],
+      "sourceName": "三民網路書店－心理勵志新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015612395",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-19.json",
+      "workId": "findbook-20260829-1610"
+    },
+    {
+      "id": "02_psychology_growth-20260829-20",
+      "title": "透視職場冰山：薩提爾帶你終止內耗，打造高能量的行動力",
+      "author": "李崇義、謝佳芸",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "薩提爾",
+        "內耗",
+        "職場",
+        "自我覺察"
+      ],
+      "sourceName": "城邦讀書花園－心靈勵志新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108628",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-20.json",
+      "workId": "findbook-20260829-1610"
+    },
+    {
+      "id": "02_psychology_growth-20260829-21",
+      "title": "湯底要清，日子要滾：一本從金門話慢火熬成的地方書",
+      "author": "丁健剛",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "生活哲學",
+        "金門",
+        "日常",
+        "從容"
+      ],
+      "sourceName": "三民網路書店－生活哲學新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015630232",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-21.json",
+      "workId": "findbook-20260829-1610"
+    },
+    {
+      "id": "03_natural_science-20260829-20",
+      "title": "54321歡迎收聽怪獸訓練電台【首刷限量隨書附贈〔隱藏版單集搶先聽〕】",
+      "author": "何立安、吳肇薰",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "運動科學",
+        "肌力",
+        "訓練",
+        "科普"
+      ],
+      "sourceName": "城邦讀書花園－科學與運動新書",
+      "sourceUrl": "https://www.cite.com.tw/book?id=108716",
+      "file": "Books/03_natural_science/03_natural_science-20260829-20.json",
+      "workId": "findbook-20260829-1610"
+    },
+    {
+      "id": "03_natural_science-20260829-21",
+      "title": "從種苗到「成材」，常見中藥材百問詳解：種苗繁殖、土壤改良、綠色防控、採收乾燥，一本掌握中藥材生產全流程，提高藥材產品價值",
+      "author": "臘貴曉、楊鐵鋼",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "藥用植物",
+        "栽培",
+        "農業",
+        "生態"
+      ],
+      "sourceName": "三民網路書店－自然與農業新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015629376",
+      "file": "Books/03_natural_science/03_natural_science-20260829-21.json",
+      "workId": "findbook-20260829-1610"
+    },
+    {
+      "id": "03_natural_science-20260829-22",
+      "title": "走路教科書：預防足部變形、老化，改善步態和體態的關鍵方法",
+      "author": "亞瑟士運動工學研究所",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "運動工學",
+        "步態",
+        "足型",
+        "身體科學"
+      ],
+      "sourceName": "三民網路書店－自然科學新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015612422",
+      "file": "Books/03_natural_science/03_natural_science-20260829-22.json",
+      "workId": "findbook-20260829-1610"
+    },
+    {
+      "id": "03_natural_science-20260829-23",
+      "title": "地球科學加深加廣講義：天文、大氣、海洋(含解答本)",
+      "author": "三民地科編輯小組",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "地球科學",
+        "天文",
+        "大氣",
+        "海洋"
+      ],
+      "sourceName": "三民網路書店－自然科學新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015585643",
+      "file": "Books/03_natural_science/03_natural_science-20260829-23.json",
+      "workId": "findbook-20260829-1610"
+    },
+    {
+      "id": "03_natural_science-20260829-24",
+      "title": "地球科學加深加廣講義：地質與環境(含解答本)",
+      "author": "三民地科編輯小組",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "地球科學",
+        "地質",
+        "天然災害",
+        "資源"
+      ],
+      "sourceName": "三民網路書店－自然科學新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015585642",
+      "file": "Books/03_natural_science/03_natural_science-20260829-24.json",
+      "workId": "findbook-20260829-1610"
+    },
+    {
+      "id": "04_healthcare-20260829-17",
+      "title": "居家自主復健全圖解：復健科醫師X物理治療師教你在家安全復健、省力照護，從躺姿到站姿，找回生活自主力",
+      "author": "毛琪瑛、吳倉華、李宜蓉、黃淑琪",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "復健",
+        "照護",
+        "高齡",
+        "物理治療"
+      ],
+      "sourceName": "金石堂－醫療保健新書",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2014180410380/",
+      "file": "Books/04_healthcare/04_healthcare-20260829-17.json",
+      "workId": "findbook-20260829-1610"
+    },
+    {
+      "id": "04_healthcare-20260829-18",
+      "title": "接住情緒，從心開始好好過：陪伴青少年的心理健康指南",
+      "author": "美國心理健康協會",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "心理健康",
+        "青少年",
+        "焦慮",
+        "求助"
+      ],
+      "sourceName": "三民網路書店－醫療保健新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015670594",
+      "file": "Books/04_healthcare/04_healthcare-20260829-18.json",
+      "workId": "findbook-20260829-1610"
+    },
+    {
+      "id": "04_healthcare-20260829-19",
+      "title": "走上好孕之道",
+      "author": "胡玉銘",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "生殖醫學",
+        "不孕",
+        "婦產科",
+        "療程"
+      ],
+      "sourceName": "三民網路書店－醫療保健新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015630240",
+      "file": "Books/04_healthcare/04_healthcare-20260829-19.json",
+      "workId": "findbook-20260829-1610"
+    },
+    {
+      "id": "04_healthcare-20260829-20",
+      "title": "甘溫妙方當歸補血湯",
+      "author": "楊建宇、朱慶文、馬界",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "中醫",
+        "方劑",
+        "當歸補血湯",
+        "臨床"
+      ],
+      "sourceName": "三民網路書店－醫療保健新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015629375",
+      "file": "Books/04_healthcare/04_healthcare-20260829-20.json",
+      "workId": "findbook-20260829-1610"
+    },
+    {
+      "id": "04_healthcare-20260829-21",
+      "title": "圖解怕冷與乾燥的真相：全面解析手腳冰冷與皮膚乾燥的解決方案",
+      "author": "石原新菜",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "循環",
+        "微血管",
+        "體寒",
+        "皮膚"
+      ],
+      "sourceName": "三民網路書店－醫療保健新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015630237",
+      "file": "Books/04_healthcare/04_healthcare-20260829-21.json",
+      "workId": "findbook-20260829-1610"
+    },
+    {
+      "id": "01_business_startup-20260829-21",
+      "title": "每月多賺兩萬的小工作圖鑑：不必辭職、無須創業，用零碎時間讓自己多賺一筆，100種副業全收錄，你一定能找到自己喜歡的。",
+      "author": "華井由利奈",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "副業",
+        "職涯",
+        "理財"
+      ],
+      "sourceName": "三民網路書店－商業理財新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015592877",
+      "file": "Books/01_business_startup/01_business_startup-20260829-21.json",
+      "workId": "findbook-20260829-2135"
+    },
+    {
+      "id": "01_business_startup-20260829-22",
+      "title": "浚流湧上：0920四年400萬財商思維",
+      "author": "郭浚豪",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "保險",
+        "理財",
+        "自媒體"
+      ],
+      "sourceName": "三民網路書店－商業理財新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015746014",
+      "file": "Books/01_business_startup/01_business_startup-20260829-22.json",
+      "workId": "findbook-20260829-2135"
+    },
+    {
+      "id": "01_business_startup-20260829-23",
+      "title": "三明治族的慢富筆記",
+      "author": "三明治先生",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "指數投資",
+        "家庭理財",
+        "財務自由"
+      ],
+      "sourceName": "三民網路書店－商業理財新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015606582",
+      "file": "Books/01_business_startup/01_business_startup-20260829-23.json",
+      "workId": "findbook-20260829-2135"
+    },
+    {
+      "id": "01_business_startup-20260829-24",
+      "title": "企業創生03‧台灣新賽道",
+      "author": "黃日燦",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "企業",
+        "產業",
+        "台灣"
+      ],
+      "sourceName": "三民網路書店－商業理財新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015630270",
+      "file": "Books/01_business_startup/01_business_startup-20260829-24.json",
+      "workId": "findbook-20260829-2135"
+    },
+    {
+      "id": "02_psychology_growth-20260829-22",
+      "title": "老師，我想要設計人生！：「十二型輪廓」認識自己、「設計思考」規畫路徑、「儀式感」建立引擎，給18-25歲初級大人的定錨說明書",
+      "author": "林承毅",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "自我認識",
+        "生涯規劃",
+        "儀式感"
+      ],
+      "sourceName": "三民網路書店－心理勵志新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015712817",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-22.json",
+      "workId": "findbook-20260829-2135"
+    },
+    {
+      "id": "02_psychology_growth-20260829-23",
+      "title": "做對大腦練習，表現就升級：頂尖1%菁英都在用的5大心智預演技巧，拆除內耗，提升專注力",
+      "author": "瑪雅・瑞丘拉",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "視覺化",
+        "專注",
+        "心智訓練"
+      ],
+      "sourceName": "三民網路書店－心理勵志新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015610517",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-23.json",
+      "workId": "findbook-20260829-2135"
+    },
+    {
+      "id": "03_natural_science-20260829-25",
+      "title": "麗文老師的奇妙數學故事02：角角王國的幾何冒險（圖形規律˙幾何邏輯）",
+      "author": "鍾麗文-著; 陳志鴻-繪",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "數學",
+        "幾何",
+        "兒童科普"
+      ],
+      "sourceName": "三民網路書店－自然科學新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015735057",
+      "file": "Books/03_natural_science/03_natural_science-20260829-25.json",
+      "workId": "findbook-20260829-2135"
+    },
+    {
+      "id": "03_natural_science-20260829-26",
+      "title": "漫畫動物最強王圖鑑05（面臨生存危機的最終決戰，迎來感動且衝擊的結局！）",
+      "author": "吉田順-作; 漫田畫-繪",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "動物",
+        "生態",
+        "漫畫科普"
+      ],
+      "sourceName": "三民網路書店－自然科學新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015609211",
+      "file": "Books/03_natural_science/03_natural_science-20260829-26.json",
+      "workId": "findbook-20260829-2135"
+    },
+    {
+      "id": "03_natural_science-20260829-27",
+      "title": "1分鐘學物理套書（共二冊）：《1分鐘物理1》、《1分鐘物理2》",
+      "author": "中國科學院物理研究所",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "物理",
+        "科普",
+        "生活科學"
+      ],
+      "sourceName": "三民網路書店－自然科學新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015612416",
+      "file": "Books/03_natural_science/03_natural_science-20260829-27.json",
+      "workId": "findbook-20260829-2135"
+    },
+    {
+      "id": "04_healthcare-20260829-22",
+      "title": "牙科臨床診療程序概論",
+      "author": "Carole Hollins-原著",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "牙科",
+        "臨床",
+        "口腔照護"
+      ],
+      "sourceName": "三民網路書店－醫療保健新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015748550",
+      "file": "Books/04_healthcare/04_healthcare-20260829-22.json",
+      "workId": "findbook-20260829-2135"
+    },
+    {
+      "id": "04_healthcare-20260829-23",
+      "title": "媽媽療癒師：20支推薦精油ｘ24種困擾ｘ18種居家應用ｘ18種手作配方",
+      "author": "李冠儀",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "芳療",
+        "居家照護",
+        "精油"
+      ],
+      "sourceName": "三民網路書店－醫療保健新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015593903",
+      "file": "Books/04_healthcare/04_healthcare-20260829-23.json",
+      "workId": "findbook-20260829-2135"
+    },
+    {
+      "id": "01_business_startup-20260829-25",
+      "title": "工作的法則：太多人可以把工作做好，你要靠什麼脫穎而出？",
+      "author": "理查.譚普勒",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "職涯",
+        "職場",
+        "管理"
+      ],
+      "sourceName": "三民網路書店－商業理財新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015630267",
+      "file": "Books/01_business_startup/01_business_startup-20260829-25.json",
+      "workId": "findbook-20260829-2135"
+    },
+    {
+      "id": "02_psychology_growth-20260829-24",
+      "title": "從男孩到男人：男性的內在創傷和療癒",
+      "author": "詹姆斯.霍利斯",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "男性心理",
+        "創傷",
+        "療癒"
+      ],
+      "sourceName": "三民網路書店－心理勵志新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015745981",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-24.json",
+      "workId": "findbook-20260829-2135"
+    },
+    {
+      "id": "02_psychology_growth-20260829-25",
+      "title": "修復沒有被接住的傷，在愛裡找回安全感：心理治療師帶你看見深層依附模式，突破過去的關係慣性，建立穩定連結",
+      "author": "潔西卡.鮑姆",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "依附",
+        "親密關係",
+        "安全感"
+      ],
+      "sourceName": "三民網路書店－心理勵志新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015749482",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-25.json",
+      "workId": "findbook-20260829-2135"
+    },
+    {
+      "id": "02_psychology_growth-20260829-26",
+      "title": "坦蕩！高手不靠陰招：沉住氣、藏住牌、借對勢，在進退取捨之間掌握人生主動權",
+      "author": "橋心",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "處世",
+        "決策",
+        "主動權"
+      ],
+      "sourceName": "三民網路書店－心理勵志新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015761849",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260829-26.json",
+      "workId": "findbook-20260829-2135"
+    },
+    {
+      "id": "03_natural_science-20260829-28",
+      "title": "當恐龍在地球漫步的時候：恐龍肚子餓的故事！【認知學習｜邏輯思考｜語言發展】☆榮獲奧斯卡圖書獎☆究竟誰會成為超級凶巴巴龍的早餐？",
+      "author": "西恩.泰勒-作; 澤赫拉.希克斯-繪",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "恐龍",
+        "古生物",
+        "兒童科普"
+      ],
+      "sourceName": "三民網路書店－自然科學新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015612492",
+      "file": "Books/03_natural_science/03_natural_science-20260829-28.json",
+      "workId": "findbook-20260829-2135"
+    },
+    {
+      "id": "03_natural_science-20260829-29",
+      "title": "解構名建築！結構設計入門指南",
+      "author": "日建設計結構設計團隊",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "結構",
+        "建築",
+        "應用科學"
+      ],
+      "sourceName": "三民網路書店－自然科學新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015616033",
+      "file": "Books/03_natural_science/03_natural_science-20260829-29.json",
+      "workId": "findbook-20260829-2135"
+    },
+    {
+      "id": "04_healthcare-20260829-24",
+      "title": "筋膜修復對症手療書【暢銷新版】：圖解六大筋膜變形模式，美國筋膜變形協會權威親授；慢性疼痛、運動員、物理治療師都適用！",
+      "author": "托德.卡皮斯特蘭特; 史蒂芬.雷伯",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "筋膜",
+        "疼痛",
+        "徒手治療"
+      ],
+      "sourceName": "三民網路書店－醫療保健新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015735904",
+      "file": "Books/04_healthcare/04_healthcare-20260829-24.json",
+      "workId": "findbook-20260829-2135"
+    },
+    {
+      "id": "04_healthcare-20260829-25",
+      "title": "眼睛骨病學整合療法：眼睛及其全身性影響之多系統徒手治療指南",
+      "author": "丹尼爾‧羅培茲",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "眼科",
+        "骨病醫學",
+        "徒手治療"
+      ],
+      "sourceName": "三民網路書店－醫療保健新書",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/015747115",
+      "file": "Books/04_healthcare/04_healthcare-20260829-25.json",
+      "workId": "findbook-20260829-2135"
+    },
+    {
+      "id": "04_healthcare-20260829-26",
+      "title": "人體與藥草的神秘經典：解讀百年雙經典（特價再送〈魔法四大元素金字塔〉）",
+      "author": "尼可拉斯.寇佩珀; 曼利.帕爾默.霍爾",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "藥草",
+        "自然療法",
+        "照護"
+      ],
+      "sourceName": "金石堂－醫療保健新書",
+      "sourceUrl": "https://www.kingstone.com.tw/basic/2014180409711/",
+      "file": "Books/04_healthcare/04_healthcare-20260829-26.json",
+      "workId": "findbook-20260829-2135"
     }
   ],
-  "totalBooks": 3644,
+  "totalBooks": 3684,
   "searchDateRange": {
     "from": "2026-07-30",
     "to": "2026-08-29"
   },
   "generatedFrom": "FindBook_Skill.md reservation checkpoint",
-  "generatedAt": "2026-08-29T14:30:33+08:00"
+  "generatedAt": "2026-08-29T22:02:16+08:00"
 }
