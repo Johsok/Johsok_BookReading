@@ -1,0 +1,7 @@
+== 01_business_startup-20260830-04 raw=150
+  VALIDATE OK
+== 01_business_startup-20260830-05 raw=150
+  VALIDATE OK
+== 01_business_startup-20260830-12 raw=150
+  VALIDATE OK
+wrote C:\Users\johso\OneDrive\Desktop\Johsok_BookReading\tools\.findbook_results_20260830_batchA.json

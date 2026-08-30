@@ -1,0 +1,60 @@
+{
+  "01_business_startup": [],
+  "02_psychology_growth": [
+    {
+      "title": "媽媽，我還不想去天堂",
+      "author": "俞 嫺",
+      "sourceName": "讀冊－心理勵志2013百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100656653.html",
+      "sourceDateNote": "來源標示出版日期為 2012-11-14；擷取日期 2026-08-30，落在 2006-08-30 至 2016-08-30 的搜尋區間內。",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "媽媽，我還不想去天堂"
+      ],
+      "summary": "整理「媽媽，我還不想去天堂」在心理勵志領域的核心觀念、判斷方法、適用情境與可實踐行動。",
+      "published": "2012-11-14",
+      "sourceSite": "讀冊",
+      "workId": "findbook-20260830-201500"
+    }
+  ],
+  "03_natural_science": [
+    {
+      "title": "超萌圓仔成長全紀錄",
+      "author": "臺北市立動物園",
+      "sourceName": "讀冊－科學2014百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100686921.html",
+      "sourceDateNote": "來源標示出版日期為 2013-07-06；擷取日期 2026-08-30，落在 2006-08-30 至 2016-08-30 的搜尋區間內。",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "超萌圓仔成長全紀錄"
+      ],
+      "summary": "整理「超萌圓仔成長全紀錄」在自然科學領域的核心觀念、判斷方法、適用情境與可實踐行動。",
+      "published": "2013-07-06",
+      "sourceSite": "讀冊",
+      "workId": "findbook-20260830-201500"
+    },
+    {
+      "title": "Facebook――性愛與金錢、天才與背叛交織的祕...",
+      "author": "Ben Mezrich",
+      "sourceName": "讀冊－社會科學2010百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100200556.html",
+      "sourceDateNote": "來源標示出版日期為 2010-11-05；擷取日期 2026-08-30，落在 2006-08-30 至 2016-08-30 的搜尋區間內。",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "Facebook――性愛與金錢、天才與背叛交織的祕..."
+      ],
+      "summary": "整理「Facebook――性愛與金錢、天才與背叛交織的祕...」在自然科學領域的核心觀念、判斷方法、適用情境與可實踐行動。",
+      "published": "2010-11-05",
+      "sourceSite": "讀冊",
+      "workId": "findbook-20260830-201500"
+    }
+  ],
+  "04_healthcare": []
+}

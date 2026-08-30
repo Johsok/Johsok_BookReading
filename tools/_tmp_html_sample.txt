@@ -1,0 +1,74 @@
+
+##### loadViewData 15
+                                                            loadViewDataPartial();                                                                                 console.log("bottom!");                                              
+--
+                                                            loadViewDataPartialMobile();                                                                                 console.log("bottom!");                                        
+--
+                                                            loadViewData();                                                                             }else{                                                                          
+--
+                                                            loadViewData();                                                                             }                                                                             $(
+--
+                                                   function loadViewDataPartial(){                                                                             if(submit == true){                                                      
+--
+              error: function(err){ console.log("請再試一次"); //loadViewData();                                                                                 console.log(err)                                                            
+--
+              error: function(err){ console.log("請再試一次"); //loadViewData();                                                                                                     console.log(err)                                        
+--
+                                                   function loadViewDataPartialMobile(){                                                                             if(submit == true){                                                
+--
+              error: function(err){ console.log("請再試一次"); //loadViewData();                                                                                 console.log(err)                                                            
+--
+
+##### HIDE_P 39
+/> <input id="HIDE_L" type="hidden" value="0" /> <input id="HIDE_P" type="hidden" value='20221159' /> <input id="HIDE_SORT" type="hidden" value="1" /> <input id="HIDE_TOTALSIZE" type="hidden" value="0" /> <input id="HIDE_NOWPA
+--
+t id="HIDE_NOWPAGE_M" type="hidden" value="1" /> <input id="HIDE_PAGESIZE" type="hidden" value="24" /> <input id="HIDE_SHOWMODEL" type="hidden" value="1" /> <input id="HIDE_MAXPAGE" type="hidden" value="5" /> <input id="HIDE_S
+--
+put type="hidden" id="hide_openSchool" value=""> <input id="HIDE_PID" type="hidden" value="" /> <input id="HIDE_SEQ" type="hidden" value="" /> </div> <code id="listViewData" style="display:none;"> </code> <div class="container
+--
+ sp = (parseInt($('#HIDE_NOWPAGE').val())-1) * parseInt($('#HIDE_PAGESIZE').val());                                                                             var ep = (parseInt($('#HIDE_NOWPAGE').val()) * parseInt($('#HIDE_P
+--
+var ep = (parseInt($('#HIDE_NOWPAGE').val()) * parseInt($('#HIDE_PAGESIZE').val()))-1;                                                                             //var ep = sp+29;                                              
+--
+    ep = (parseInt($('#HIDE_NOWPAGE').val()) * parseInt($('#HIDE_PAGESIZE').val()))-1;                                                                             }                                                              
+--
+                                                     if($("#HIDE_P").val() != "")                                                                                 data_url = "../beta/viewTagsAgent.jsp";                         
+--
+""?'00':$("#HIDE_C").val(), 'k':$("#HIDE_K").val(), 'p':$("#HIDE_P").val(), 'startNum':sp, 'endNum':ep, 'sortType':sort},                                                                                 //data: { 'p':'20220842'
+--
+                                     var len = parseInt($('#HIDE_PAGESIZE').val())>JData.result1.length?JData.result1.length:parseInt($('#HIDE_PAGESIZE').val());                                                                 
+--
+
+##### url: 9
+                                                            url: data_url,                                                                                 timeout:1000,                                                        
+--
+                                                            url: pfUrl,                                                                                                     timeout:1000,                                       
+--
+                                                            url: data_url,                                                                                 timeout:1000,                                                        
+--
+                                                            url: data_url,                                                                                 timeout:1000,                                                        
+--
+                                                            url: pfUrl,                                                                                                     timeout:1000,                                       
+--
+                                                            url: "/new_ec/rwd/lib/schoolAutocomplete.jsp",                                                                                             data: "k=" + encodeURICom
+--
+                                                            url:"/queryTitleMain.html",                                                                                 method :"GET",                                          
+--
+                                                            url:"/single_addToSeek.html",                                                                                     timeout:2000,                                     
+--
+                                                            url:"/single_addToSeek.html",                                                                                 dataType: 'json',                                     
+--
+
+##### listAgent 0
+
+##### searchAgent 0
+
+##### rwdList 0
+
+##### paths
+/beta/searchbookAgent.jsp
+/beta/searchbookAgent.jsp
+/new_ec/rwd/lib/schoolAutocomplete.jsp
+/beta/disciplineSelectAgent.jsp
+/beta/disciplineSelectAgent.jsp
+/new_ec/single/addToSeek.jsp

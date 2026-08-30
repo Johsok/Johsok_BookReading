@@ -1,0 +1,9 @@
+count=150
+blank_in_file=0
+num_ok=True
+min_len=34 max_len=50
+ascii=[]
+colon=[]
+dup4=['神經外科']
+dup6=[]
+rep8=[]
