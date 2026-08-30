@@ -55771,13 +55771,355 @@
       "sourceUrl": "https://www.taaze.tw/products/11100778748.html",
       "file": "Books/04_healthcare/04_healthcare-20160830-15.json",
       "workId": "findbook-20260830-110200"
+    },
+    {
+      "id": "01_business_startup-20160830-16",
+      "title": "長尾理論：打破80/20法則，獲利無限延伸（最新增訂版）",
+      "author": "克里斯‧安德森",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "長尾理論",
+        "打破80/20法則，獲利無限延伸（最新增訂版）"
+      ],
+      "sourceName": "三民－商業理財經典書（2006-2016）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/000765222",
+      "file": "Books/01_business_startup/01_business_startup-20160830-16.json",
+      "workId": "findbook-20260830-170800"
+    },
+    {
+      "id": "01_business_startup-20160830-17",
+      "title": "蘋果橘子經濟學（擴充‧修訂紀念版）",
+      "author": "李維特 & 杜伯納",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "蘋果橘子經濟學（擴充‧修訂紀念版）"
+      ],
+      "sourceName": "三民－商業理財經典書（2006-2016）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/000468055",
+      "file": "Books/01_business_startup/01_business_startup-20160830-17.json",
+      "workId": "findbook-20260830-170800"
+    },
+    {
+      "id": "01_business_startup-20160830-18",
+      "title": "這次不一樣：800年金融危機史",
+      "author": "萊茵哈特、羅格夫",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "這次不一樣",
+        "800年金融危機史"
+      ],
+      "sourceName": "三民－商業理財經典書（2006-2016）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/005265373",
+      "file": "Books/01_business_startup/01_business_startup-20160830-18.json",
+      "workId": "findbook-20260830-170800"
+    },
+    {
+      "id": "01_business_startup-20160830-19",
+      "title": "世界是平的（增訂版)",
+      "author": "佛里曼",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "世界是平的（增訂版)"
+      ],
+      "sourceName": "三民－商業理財經典書（2006-2016）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/000579840",
+      "file": "Books/01_business_startup/01_business_startup-20160830-19.json",
+      "workId": "findbook-20260830-170800"
+    },
+    {
+      "id": "01_business_startup-20160830-20",
+      "title": "第二次機器時代：智慧科技如何改變人類的工作、經濟與未來？",
+      "author": "布林優夫森、麥克費",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "第二次機器時代",
+        "智慧科技如何改變人類的工作、經濟與未來？"
+      ],
+      "sourceName": "三民－商業理財經典書（2006-2016）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/004614236",
+      "file": "Books/01_business_startup/01_business_startup-20160830-20.json",
+      "workId": "findbook-20260830-170800"
+    },
+    {
+      "id": "02_psychology_growth-20160830-16",
+      "title": "網路讓我們變笨？：數位科技正在改變我們的大腦、思考與閱讀行為",
+      "author": "卡爾",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "網路讓我們變笨？",
+        "數位科技正在改變我們的大腦、思考與閱讀行為"
+      ],
+      "sourceName": "三民－心理勵志經典書（2006-2016）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/005181301",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160830-16.json",
+      "workId": "findbook-20260830-170800"
+    },
+    {
+      "id": "02_psychology_growth-20160830-17",
+      "title": "遊戲改變世界，讓現實更美好！",
+      "author": "簡‧麥戈尼格爾",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "遊戲改變世界，讓現實更美好！"
+      ],
+      "sourceName": "三民－心理勵志經典書（2006-2016）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/005627700",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160830-17.json",
+      "workId": "findbook-20260830-170800"
+    },
+    {
+      "id": "02_psychology_growth-20160830-18",
+      "title": "抱緊我：扭轉夫妻關係的七種對話",
+      "author": "蘇珊‧強森博士",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "抱緊我",
+        "扭轉夫妻關係的七種對話"
+      ],
+      "sourceName": "三民－心理勵志經典書（2006-2016）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/000934856",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160830-18.json",
+      "workId": "findbook-20260830-170800"
+    },
+    {
+      "id": "02_psychology_growth-20160830-19",
+      "title": "八週正念練習：走出憂鬱與情緒風暴",
+      "author": "馬克．威廉斯、約翰．蒂斯岱、辛德．西格爾",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "八週正念練習",
+        "走出憂鬱與情緒風暴"
+      ],
+      "sourceName": "三民－心理勵志經典書（2006-2016）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/005665150",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160830-19.json",
+      "workId": "findbook-20260830-170800"
+    },
+    {
+      "id": "02_psychology_growth-20160830-20",
+      "title": "EQ：決定一生幸福與成就的永恆力量〔全球暢銷20週年．典藏紀念版〕",
+      "author": "丹尼爾‧高曼",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "決定一生幸福與成就的永恆力量〔全球暢銷20週年．典藏紀念版〕"
+      ],
+      "sourceName": "三民－心理勵志經典書（2006-2016）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/005510965",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160830-20.json",
+      "workId": "findbook-20260830-170800"
+    },
+    {
+      "id": "03_natural_science-20160830-16",
+      "title": "七堂簡單物理課",
+      "author": "羅維理",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "七堂簡單物理課"
+      ],
+      "sourceName": "三民－自然科學經典書（2006-2016）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/005585025",
+      "file": "Books/03_natural_science/03_natural_science-20160830-16.json",
+      "workId": "findbook-20260830-170800"
+    },
+    {
+      "id": "03_natural_science-20160830-17",
+      "title": "新時間簡史",
+      "author": "史蒂芬．霍金、雷納．曼羅迪諾",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "新時間簡史"
+      ],
+      "sourceName": "三民－自然科學經典書（2006-2016）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/003049159",
+      "file": "Books/03_natural_science/03_natural_science-20160830-17.json",
+      "workId": "findbook-20260830-170800"
+    },
+    {
+      "id": "03_natural_science-20160830-18",
+      "title": "自私的基因",
+      "author": "道金斯",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "自私的基因"
+      ],
+      "sourceName": "三民－自然科學經典書（2006-2016）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/000767575",
+      "file": "Books/03_natural_science/03_natural_science-20160830-18.json",
+      "workId": "findbook-20260830-170800"
+    },
+    {
+      "id": "03_natural_science-20160830-19",
+      "title": "植物看得見你：還聞得到、知道蟲子的Size、有方向感、有記憶 ： 你想像不到的超強感受力！",
+      "author": "丹尼爾．查莫維茲",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "植物看得見你",
+        "還聞得到、知道蟲子的Size、有方向感、有記憶"
+      ],
+      "sourceName": "三民－自然科學經典書（2006-2016）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/003088185",
+      "file": "Books/03_natural_science/03_natural_science-20160830-19.json",
+      "workId": "findbook-20260830-170800"
+    },
+    {
+      "id": "03_natural_science-20160830-20",
+      "title": "打造天生贏家：DNA和演化的強力證據",
+      "author": "西恩．卡洛",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "打造天生贏家",
+        "DNA和演化的強力證據"
+      ],
+      "sourceName": "三民－自然科學經典書（2006-2016）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/000927394",
+      "file": "Books/03_natural_science/03_natural_science-20160830-20.json",
+      "workId": "findbook-20260830-170800"
+    },
+    {
+      "id": "04_healthcare-20160830-16",
+      "title": "天生就會跑",
+      "author": "克里斯多福‧麥杜格",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "天生就會跑"
+      ],
+      "sourceName": "三民－醫療保健經典書（2006-2016）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/004508135",
+      "file": "Books/04_healthcare/04_healthcare-20160830-16.json",
+      "workId": "findbook-20260830-170800"
+    },
+    {
+      "id": "04_healthcare-20160830-17",
+      "title": "一位外科醫師的修煉：25週年紀念版",
+      "author": "葛文德",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "一位外科醫師的修煉",
+        "25週年紀念版"
+      ],
+      "sourceName": "三民－醫療保健經典書（2006-2016）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/001615403",
+      "file": "Books/04_healthcare/04_healthcare-20160830-17.json",
+      "workId": "findbook-20260830-170800"
+    },
+    {
+      "id": "04_healthcare-20160830-18",
+      "title": "白袍：一位哈佛醫學生的歷練",
+      "author": "艾倫‧羅絲曼",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "白袍",
+        "一位哈佛醫學生的歷練"
+      ],
+      "sourceName": "三民－醫療保健經典書（2006-2016）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/003708050",
+      "file": "Books/04_healthcare/04_healthcare-20160830-18.json",
+      "workId": "findbook-20260830-170800"
+    },
+    {
+      "id": "04_healthcare-20160830-19",
+      "title": "跑得過一切：天生就會跑主角史考特的跑步與飲食之心",
+      "author": "史考特．傑瑞克",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "跑得過一切",
+        "天生就會跑主角史考特的跑步與飲食之心"
+      ],
+      "sourceName": "三民－醫療保健經典書（2006-2016）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/004037125",
+      "file": "Books/04_healthcare/04_healthcare-20160830-19.json",
+      "workId": "findbook-20260830-170800"
+    },
+    {
+      "id": "04_healthcare-20160830-20",
+      "title": "過勞之島（勞動之王電視劇照版）：台灣職場過勞實錄與對策",
+      "author": "黃怡翎、高有智",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "過勞之島（勞動之王電視劇照版）",
+        "台灣職場過勞實錄與對策"
+      ],
+      "sourceName": "三民－醫療保健經典書（2006-2016）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/005103369",
+      "file": "Books/04_healthcare/04_healthcare-20160830-20.json",
+      "workId": "findbook-20260830-170800"
     }
   ],
-  "totalBooks": 3753,
+  "totalBooks": 3773,
   "searchDateRange": {
     "from": "2006-08-30",
     "to": "2016-08-30"
   },
   "generatedFrom": "FindBook_Skill.md reservation checkpoint",
-  "generatedAt": "2026-08-30T11:09:25+08:00"
+  "generatedAt": "2026-08-30T17:06:43+08:00"
 }
