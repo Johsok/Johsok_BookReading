@@ -54841,13 +54841,323 @@
       "sourceUrl": "https://www.kingstone.com.tw/basic/2014150616330/",
       "file": "Books/04_healthcare/04_healthcare-20260830-02.json",
       "workId": "findbook-20260830-064700"
+    },
+    {
+      "id": "01_business_startup-20160830-01",
+      "title": "賈伯斯傳（軟精裝版）",
+      "author": "華特．艾薩克森",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財"
+      ],
+      "sourceName": "讀冊－商業理財經典書（2006-2016）",
+      "sourceUrl": "https://www.taaze.tw/products/11100582335.html",
+      "file": "Books/01_business_startup/01_business_startup-20160830-01.json",
+      "workId": "findbook-20260830-073200"
+    },
+    {
+      "id": "01_business_startup-20160830-02",
+      "title": "平台革命：席捲全球社交、購物、遊戲、媒體的商業模式創新",
+      "author": "陳威如、余卓軒",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財"
+      ],
+      "sourceName": "讀冊－商業理財經典書（2006-2016）",
+      "sourceUrl": "https://www.taaze.tw/products/11100679998.html",
+      "file": "Books/01_business_startup/01_business_startup-20160830-02.json",
+      "workId": "findbook-20260830-073200"
+    },
+    {
+      "id": "01_business_startup-20160830-03",
+      "title": "獲利世代：自己動手，畫出你的商業模式",
+      "author": "亞歷山大．奧斯瓦爾德等",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財"
+      ],
+      "sourceName": "讀冊－商業理財經典書（2006-2016）",
+      "sourceUrl": "https://www.taaze.tw/products/11100638446.html",
+      "file": "Books/01_business_startup/01_business_startup-20160830-03.json",
+      "workId": "findbook-20260830-073200"
+    },
+    {
+      "id": "01_business_startup-20160830-04",
+      "title": "創業維艱:如何完成比難更難的事",
+      "author": "(美)本·霍洛維茨",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財"
+      ],
+      "sourceName": "讀冊－商業理財經典書（2006-2016）",
+      "sourceUrl": "https://www.taaze.tw/products/12100439281.html",
+      "file": "Books/01_business_startup/01_business_startup-20160830-04.json",
+      "workId": "findbook-20260830-073200"
+    },
+    {
+      "id": "01_business_startup-20160830-05",
+      "title": "第二曲線：英國管理大師韓第的 16個思索，預見社會與個人新出路",
+      "author": "查爾斯‧韓第",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財"
+      ],
+      "sourceName": "讀冊－商業理財經典書（2006-2016）",
+      "sourceUrl": "https://www.taaze.tw/products/11100778167.html",
+      "file": "Books/01_business_startup/01_business_startup-20160830-05.json",
+      "workId": "findbook-20260830-073200"
+    },
+    {
+      "id": "02_psychology_growth-20160830-01",
+      "title": "給予：華頓商學院最啟發人心的一堂課",
+      "author": "亞當‧格蘭特",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒"
+      ],
+      "sourceName": "讀冊－心理勵志經典書（2006-2016）",
+      "sourceUrl": "https://www.taaze.tw/products/11100685206.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160830-01.json",
+      "workId": "findbook-20260830-073200"
+    },
+    {
+      "id": "02_psychology_growth-20160830-02",
+      "title": "蔡康永的說話之道",
+      "author": "蔡康永",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒"
+      ],
+      "sourceName": "讀冊－心理勵志經典書（2006-2016）",
+      "sourceUrl": "https://www.taaze.tw/products/11100221480.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160830-02.json",
+      "workId": "findbook-20260830-073200"
+    },
+    {
+      "id": "02_psychology_growth-20160830-03",
+      "title": "輕鬆駕馭意志力：史丹佛大學最受歡迎的心理素質課",
+      "author": "凱莉．麥高尼格",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒"
+      ],
+      "sourceName": "讀冊－心理勵志經典書（2006-2016）",
+      "sourceUrl": "https://www.taaze.tw/products/11100625589.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160830-03.json",
+      "workId": "findbook-20260830-073200"
+    },
+    {
+      "id": "02_psychology_growth-20160830-04",
+      "title": "決斷2秒間：擷取關鍵資訊，發揮不假思索的力量（典藏紀念版）",
+      "author": "麥爾坎．葛拉威爾",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒"
+      ],
+      "sourceName": "讀冊－心理勵志經典書（2006-2016）",
+      "sourceUrl": "https://www.taaze.tw/products/11100762990.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160830-04.json",
+      "workId": "findbook-20260830-073200"
+    },
+    {
+      "id": "02_psychology_growth-20160830-05",
+      "title": "異數：超凡與平凡的界線在哪裡？〔典藏紀念版〕",
+      "author": "麥爾坎．葛拉威爾",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒"
+      ],
+      "sourceName": "讀冊－心理勵志經典書（2006-2016）",
+      "sourceUrl": "https://www.taaze.tw/products/11100740731.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160830-05.json",
+      "workId": "findbook-20260830-073200"
+    },
+    {
+      "id": "03_natural_science-20160830-01",
+      "title": "大設計",
+      "author": "史蒂芬．霍金、雷納．曼羅迪諾",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普"
+      ],
+      "sourceName": "讀冊－自然科學經典書（2006-2016）",
+      "sourceUrl": "https://www.taaze.tw/products/11100472615.html",
+      "file": "Books/03_natural_science/03_natural_science-20160830-01.json",
+      "workId": "findbook-20260830-073200"
+    },
+    {
+      "id": "03_natural_science-20160830-02",
+      "title": "隱藏的現實：平行宇宙是什麼",
+      "author": "格林",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普"
+      ],
+      "sourceName": "讀冊－自然科學經典書（2006-2016）",
+      "sourceUrl": "https://www.taaze.tw/products/12100415838.html",
+      "file": "Books/03_natural_science/03_natural_science-20160830-02.json",
+      "workId": "findbook-20260830-073200"
+    },
+    {
+      "id": "03_natural_science-20160830-03",
+      "title": "數學女孩：費馬最後定理",
+      "author": "結城浩",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普"
+      ],
+      "sourceName": "讀冊－自然科學經典書（2006-2016）",
+      "sourceUrl": "https://www.taaze.tw/products/11100566138.html",
+      "file": "Books/03_natural_science/03_natural_science-20160830-03.json",
+      "workId": "findbook-20260830-073200"
+    },
+    {
+      "id": "03_natural_science-20160830-04",
+      "title": "萬物簡史I",
+      "author": "比爾．布萊森",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普"
+      ],
+      "sourceName": "讀冊－自然科學經典書（2006-2016）",
+      "sourceUrl": "https://www.taaze.tw/products/11100033719.html",
+      "file": "Books/03_natural_science/03_natural_science-20160830-04.json",
+      "workId": "findbook-20260830-073200"
+    },
+    {
+      "id": "03_natural_science-20160830-05",
+      "title": "萬物簡史II",
+      "author": "比爾．布萊森",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普"
+      ],
+      "sourceName": "讀冊－自然科學經典書（2006-2016）",
+      "sourceUrl": "https://www.taaze.tw/products/11100033720.html",
+      "file": "Books/03_natural_science/03_natural_science-20160830-05.json",
+      "workId": "findbook-20260830-073200"
+    },
+    {
+      "id": "04_healthcare-20160830-01",
+      "title": "最好的告別：善終，讓彼此只有愛，沒有遺憾",
+      "author": "馮以量",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健"
+      ],
+      "sourceName": "讀冊－醫療保健經典書（2006-2016）",
+      "sourceUrl": "https://www.taaze.tw/products/11100752770.html",
+      "file": "Books/04_healthcare/04_healthcare-20160830-01.json",
+      "workId": "findbook-20260830-073200"
+    },
+    {
+      "id": "04_healthcare-20160830-02",
+      "title": "無病時代： 終結盲目醫療、無效保健，拒絕在病痛中後悔！",
+      "author": "大衛．阿格斯醫學博士",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健"
+      ],
+      "sourceName": "讀冊－醫療保健經典書（2006-2016）",
+      "sourceUrl": "https://www.taaze.tw/products/11100638817.html",
+      "file": "Books/04_healthcare/04_healthcare-20160830-02.json",
+      "workId": "findbook-20260830-073200"
+    },
+    {
+      "id": "04_healthcare-20160830-03",
+      "title": "運動改造大腦：IQ和EQ大進步的關鍵",
+      "author": "約翰．瑞提醫師、艾瑞克．海格曼",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健"
+      ],
+      "sourceName": "讀冊－醫療保健經典書（2006-2016）",
+      "sourceUrl": "https://www.taaze.tw/products/11100034749.html",
+      "file": "Books/04_healthcare/04_healthcare-20160830-03.json",
+      "workId": "findbook-20260830-073200"
+    },
+    {
+      "id": "04_healthcare-20160830-04",
+      "title": "癌症傳-眾病之王",
+      "author": "穆克吉",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健"
+      ],
+      "sourceName": "讀冊－醫療保健經典書（2006-2016）",
+      "sourceUrl": "https://www.taaze.tw/products/11100344757.html",
+      "file": "Books/04_healthcare/04_healthcare-20160830-04.json",
+      "workId": "findbook-20260830-073200"
+    },
+    {
+      "id": "04_healthcare-20160830-05",
+      "title": "大腦當家：靈活用腦12守則，學習工作更上層樓",
+      "author": "John Medina",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健"
+      ],
+      "sourceName": "讀冊－醫療保健經典書（2006-2016）",
+      "sourceUrl": "https://www.taaze.tw/products/11100003136.html",
+      "file": "Books/04_healthcare/04_healthcare-20160830-05.json",
+      "workId": "findbook-20260830-073200"
     }
   ],
-  "totalBooks": 3693,
+  "totalBooks": 3713,
   "searchDateRange": {
-    "from": "2026-07-31",
-    "to": "2026-08-30"
+    "from": "2006-08-30",
+    "to": "2016-08-30"
   },
   "generatedFrom": "FindBook_Skill.md reservation checkpoint",
-  "generatedAt": "2026-08-30T07:19:55+08:00"
+  "generatedAt": "2026-08-30T09:53:58+08:00"
 }
