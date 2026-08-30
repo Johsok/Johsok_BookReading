@@ -56113,13 +56113,361 @@
       "sourceUrl": "https://www.sanmin.com.tw/product/index/005103369",
       "file": "Books/04_healthcare/04_healthcare-20160830-20.json",
       "workId": "findbook-20260830-170800"
+    },
+    {
+      "id": "01_business_startup-20160830-21",
+      "title": "一個人的經濟：成熟市場也有大金礦",
+      "author": "大前研一",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "一個人的經濟",
+        "成熟市場也有大金礦"
+      ],
+      "sourceName": "天下文化－商業理財經典書（2006-2016）",
+      "sourceUrl": "https://bookzone.cwgv.com.tw/book/BCB452",
+      "file": "Books/01_business_startup/01_business_startup-20160830-21.json",
+      "workId": "findbook-20260830-181000"
+    },
+    {
+      "id": "01_business_startup-20160830-22",
+      "title": "大債時代：第一本看懂全球債務危機的書",
+      "author": "約翰．蘭徹斯特",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "大債時代",
+        "第一本看懂全球債務危機的書"
+      ],
+      "sourceName": "三民－商業理財經典書（2006-2016）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/002541984",
+      "file": "Books/01_business_startup/01_business_startup-20160830-22.json",
+      "workId": "findbook-20260830-181000"
+    },
+    {
+      "id": "01_business_startup-20160830-23",
+      "title": "哈佛最受歡迎的行銷課：建立商業概念的第一本書",
+      "author": "揚米．穆恩",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "哈佛最受歡迎的行銷課",
+        "建立商業概念的第一本書"
+      ],
+      "sourceName": "博客來－商業理財經典書（2006-2016）",
+      "sourceUrl": "https://www.books.com.tw/products/0010502981",
+      "file": "Books/01_business_startup/01_business_startup-20160830-23.json",
+      "workId": "findbook-20260830-181000"
+    },
+    {
+      "id": "01_business_startup-20160830-24",
+      "title": "真希望我20歲就懂的事：史丹佛大學的創新╳創意╳創業震撼課程（全新增訂版）",
+      "author": "婷娜.希莉格",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "真希望我20歲就懂的事",
+        "史丹佛大學的創新╳創意╳創業震撼課程（全新增訂版"
+      ],
+      "sourceName": "三民－商業理財經典書（2006-2016）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/005411623",
+      "file": "Books/01_business_startup/01_business_startup-20160830-24.json",
+      "workId": "findbook-20260830-181000"
+    },
+    {
+      "id": "01_business_startup-20160830-25",
+      "title": "華頓商學院最受歡迎的談判課：上完這堂課，世界都會聽你的（暢銷20萬冊增修版）",
+      "author": "史都華．戴蒙",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "華頓商學院最受歡迎的談判課",
+        "上完這堂課，世界都會聽你的（暢銷20萬冊增修版）"
+      ],
+      "sourceName": "讀冊－商業理財經典書（2006-2016）2011百大",
+      "sourceUrl": "https://www.taaze.tw/rwd_listViewC.html?a=01&k=03&p=20221068&t=11",
+      "file": "Books/01_business_startup/01_business_startup-20160830-25.json",
+      "workId": "findbook-20260830-181000"
+    },
+    {
+      "id": "02_psychology_growth-20160830-21",
+      "title": "最後的演講",
+      "author": "蘭迪．鮑許、傑弗利．札斯洛",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "最後的演講"
+      ],
+      "sourceName": "博客來－心理勵志經典書（2006-2016）",
+      "sourceUrl": "https://www.books.com.tw/products/0010406898",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160830-21.json",
+      "workId": "findbook-20260830-181000"
+    },
+    {
+      "id": "02_psychology_growth-20160830-22",
+      "title": "讓你瞬間看穿人心的怪咖心理學：史上最搞怪的心理學實驗報告",
+      "author": "李察．韋斯曼",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "讓你瞬間看穿人心的怪咖心理學",
+        "史上最搞怪的心理學實驗報告"
+      ],
+      "sourceName": "博客來－心理勵志經典書（2006-2016）",
+      "sourceUrl": "https://www.books.com.tw/products/0010419767",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160830-22.json",
+      "workId": "findbook-20260830-181000"
+    },
+    {
+      "id": "02_psychology_growth-20160830-23",
+      "title": "讓天賦自由",
+      "author": "肯．羅賓森、盧．亞若尼卡",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "讓天賦自由"
+      ],
+      "sourceName": "博客來－心理勵志經典書（2006-2016）",
+      "sourceUrl": "https://www.books.com.tw/products/0010438673",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160830-23.json",
+      "workId": "findbook-20260830-181000"
+    },
+    {
+      "id": "02_psychology_growth-20160830-24",
+      "title": "FBI這樣學套話 讓他不知不覺說真話",
+      "author": "喬．納瓦羅、約翰．薛佛",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "FBI這樣學套話",
+        "讓他不知不覺說真話"
+      ],
+      "sourceName": "博客來－心理勵志經典書（2006-2016）",
+      "sourceUrl": "https://www.books.com.tw/products/0010487771",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160830-24.json",
+      "workId": "findbook-20260830-181000"
+    },
+    {
+      "id": "02_psychology_growth-20160830-25",
+      "title": "自信沒人能給，更別自己摧毀！：建立自信的七個好習慣（暢銷五萬本紀念版）",
+      "author": "巴登．高史密斯",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "自信沒人能給，更別自己摧毀！",
+        "建立自信的七個好習慣（暢銷五萬本紀念版）"
+      ],
+      "sourceName": "讀冊－心理勵志經典書（2006-2016）2011商業百大",
+      "sourceUrl": "https://www.taaze.tw/rwd_listViewC.html?a=01&k=03&p=20221068&t=11",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160830-25.json",
+      "workId": "findbook-20260830-181000"
+    },
+    {
+      "id": "03_natural_science-20160830-21",
+      "title": "天生愛學樣：發現鏡像神經元從模仿、學習到同理、瞭解人我關係的腦際特派員",
+      "author": "亞科波尼",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "天生愛學樣",
+        "發現鏡像神經元從模仿、學習到同理、瞭解人我關係的"
+      ],
+      "sourceName": "三民－自然科學經典書（2006-2016）",
+      "sourceUrl": "https://www.sanmin.com.tw/product/index/000902875",
+      "file": "Books/03_natural_science/03_natural_science-20160830-21.json",
+      "workId": "findbook-20260830-181000"
+    },
+    {
+      "id": "03_natural_science-20160830-22",
+      "title": "愛因斯坦-他的人生 他的宇宙",
+      "author": "華特．艾薩克森",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "愛因斯坦-他的人生",
+        "他的宇宙"
+      ],
+      "sourceName": "博客來－自然科學經典書（2006-2016）",
+      "sourceUrl": "https://www.books.com.tw/products/0010431923",
+      "file": "Books/03_natural_science/03_natural_science-20160830-22.json",
+      "workId": "findbook-20260830-181000"
+    },
+    {
+      "id": "03_natural_science-20160830-23",
+      "title": "如何用數字唬人--用常識看穿無所不在的數字陷阱",
+      "author": "布拉斯蘭、迪爾納",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "如何用數字唬人--用常識看穿無所不在的數字陷阱"
+      ],
+      "sourceName": "讀冊－自然科學經典書（2006-2016）2009科學百大",
+      "sourceUrl": "https://www.taaze.tw/rwd_listViewC.html?a=01&k=03&p=20221361&t=11",
+      "file": "Books/03_natural_science/03_natural_science-20160830-23.json",
+      "workId": "findbook-20260830-181000"
+    },
+    {
+      "id": "03_natural_science-20160830-24",
+      "title": "電學之父：法拉第的故事（修訂版）",
+      "author": "張文亮",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "電學之父",
+        "法拉第的故事（修訂版）"
+      ],
+      "sourceName": "讀冊－自然科學經典書（2006-2016）2009科學百大",
+      "sourceUrl": "https://www.taaze.tw/rwd_listViewC.html?a=01&k=03&p=20221361&t=11",
+      "file": "Books/03_natural_science/03_natural_science-20160830-24.json",
+      "workId": "findbook-20260830-181000"
+    },
+    {
+      "id": "03_natural_science-20160830-25",
+      "title": "從搖籃到搖籃：綠色經濟的設計提案【ESG永續暢銷三版】",
+      "author": "威廉．麥唐諾、麥克．布朗嘉",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "從搖籃到搖籃",
+        "綠色經濟的設計提案【ESG永續暢銷三版】"
+      ],
+      "sourceName": "讀冊－自然科學經典書（2006-2016）2009科學百大",
+      "sourceUrl": "https://www.taaze.tw/rwd_listViewC.html?a=01&k=03&p=20221361&t=11",
+      "file": "Books/03_natural_science/03_natural_science-20160830-25.json",
+      "workId": "findbook-20260830-181000"
+    },
+    {
+      "id": "04_healthcare-20160830-21",
+      "title": "檢查表：不犯錯的祕密武器",
+      "author": "葛文德",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "檢查表",
+        "不犯錯的祕密武器"
+      ],
+      "sourceName": "天下文化－醫療保健經典書（2006-2016）",
+      "sourceUrl": "https://bookzone.cwgv.com.tw/book/BCBH001",
+      "file": "Books/04_healthcare/04_healthcare-20160830-21.json",
+      "workId": "findbook-20260830-181000"
+    },
+    {
+      "id": "04_healthcare-20160830-22",
+      "title": "向殘酷的仁慈說再見：一位加護病房醫師的善終宣言",
+      "author": "陳秀丹",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "向殘酷的仁慈說再見",
+        "一位加護病房醫師的善終宣言"
+      ],
+      "sourceName": "博客來－醫療保健經典書（2006-2016）",
+      "sourceUrl": "https://www.books.com.tw/products/0010484890",
+      "file": "Books/04_healthcare/04_healthcare-20160830-22.json",
+      "workId": "findbook-20260830-181000"
+    },
+    {
+      "id": "04_healthcare-20160830-23",
+      "title": "回家的路 是這樣走的：無國界醫生在葉門",
+      "author": "宋睿祥",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "回家的路",
+        "是這樣走的",
+        "無國界醫生在葉門"
+      ],
+      "sourceName": "博客來－醫療保健經典書（2006-2016）",
+      "sourceUrl": "https://www.books.com.tw/products/0010488279",
+      "file": "Books/04_healthcare/04_healthcare-20160830-23.json",
+      "workId": "findbook-20260830-181000"
+    },
+    {
+      "id": "04_healthcare-20160830-24",
+      "title": "算病：算出體質，量身訂做養生方案",
+      "author": "樓中亮",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "算病",
+        "算出體質，量身訂做養生方案"
+      ],
+      "sourceName": "讀冊－醫療保健經典書（2006-2016）2011醫學百大",
+      "sourceUrl": "https://www.taaze.tw/rwd_listViewC.html?a=01&k=03&p=20221159&t=11",
+      "file": "Books/04_healthcare/04_healthcare-20160830-24.json",
+      "workId": "findbook-20260830-181000"
+    },
+    {
+      "id": "04_healthcare-20160830-25",
+      "title": "57健康同學會：破除關鍵57健康迷思！",
+      "author": "潘懷宗、隋安德、張雅芳、東森財經新聞台",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "57健康同學會",
+        "破除關鍵57健康迷思！"
+      ],
+      "sourceName": "讀冊－醫療保健經典書（2006-2016）2011醫學百大",
+      "sourceUrl": "https://www.taaze.tw/rwd_listViewC.html?a=01&k=03&p=20221159&t=11",
+      "file": "Books/04_healthcare/04_healthcare-20160830-25.json",
+      "workId": "findbook-20260830-181000"
     }
   ],
-  "totalBooks": 3773,
+  "totalBooks": 3793,
   "searchDateRange": {
     "from": "2006-08-30",
     "to": "2016-08-30"
   },
   "generatedFrom": "FindBook_Skill.md reservation checkpoint",
-  "generatedAt": "2026-08-30T17:06:43+08:00"
+  "generatedAt": "2026-08-30T18:03:13+08:00"
 }
