@@ -58988,13 +58988,359 @@
       "sourceUrl": "https://www.taaze.tw/products/11100637195.html",
       "file": "Books/04_healthcare/04_healthcare-20160831-10.json",
       "workId": "findbook-20260831-184800"
+    },
+    {
+      "id": "01_business_startup-20160831-11",
+      "title": "精準預測：如何從巨量雜訊中，看出重要的訊息?",
+      "author": "奈特．席佛",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "精準預測",
+        "如何從巨量雜訊中，看出重要的訊息?"
+      ],
+      "sourceName": "讀冊－2014年商業暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100671139.html",
+      "file": "Books/01_business_startup/01_business_startup-20160831-11.json",
+      "workId": "findbook-20060831-20160831-n20"
+    },
+    {
+      "id": "01_business_startup-20160831-12",
+      "title": "自食惡果—— 歐債風暴與新第三世界之旅",
+      "author": "麥克．路易士",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "自食惡果——",
+        "歐債風暴與新第三世界之旅"
+      ],
+      "sourceName": "讀冊－2012年商業暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100588783.html",
+      "file": "Books/01_business_startup/01_business_startup-20160831-12.json",
+      "workId": "findbook-20060831-20160831-n20"
+    },
+    {
+      "id": "01_business_startup-20160831-13",
+      "title": "大數據：「數位革命」之後，「資料革命」登場－巨量資料掀起生活、工作和思考方式的全面革新（新版）",
+      "author": "麥爾荀伯格、庫基耶",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "大數據",
+        "「數位革命」之後，「資料革命」登場－巨量資料掀起生活、工作和思考方式的全面革新（新版）"
+      ],
+      "sourceName": "讀冊－2014年商業暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100842913.html",
+      "file": "Books/01_business_startup/01_business_startup-20160831-13.json",
+      "workId": "findbook-20060831-20160831-n20"
+    },
+    {
+      "id": "01_business_startup-20160831-14",
+      "title": "隨機騙局：潛藏在生活與市場中的機率陷阱",
+      "author": "納西姆．尼可拉斯．塔雷伯",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "隨機騙局",
+        "潛藏在生活與市場中的機率陷阱"
+      ],
+      "sourceName": "讀冊－2014年商業暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100704215.html",
+      "file": "Books/01_business_startup/01_business_startup-20160831-14.json",
+      "workId": "findbook-20060831-20160831-n20"
+    },
+    {
+      "id": "01_business_startup-20160831-15",
+      "title": "麥肯錫問題分析與解決技巧：為什麼他們問完問題，答案就跟著出現了？",
+      "author": "高杉尚孝",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "麥肯錫問題分析與解決技巧",
+        "為什麼他們問完問題，答案就跟著出現了？"
+      ],
+      "sourceName": "讀冊－2014年商業暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100867201.html",
+      "file": "Books/01_business_startup/01_business_startup-20160831-15.json",
+      "workId": "findbook-20060831-20160831-n20"
+    },
+    {
+      "id": "02_psychology_growth-20160831-11",
+      "title": "有些事現在不做，一輩子都不會做了：改變自我的勇氣",
+      "author": "韓梅梅",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "有些事現在不做，一輩子都不會做了",
+        "改變自我的勇氣"
+      ],
+      "sourceName": "讀冊－2012年心理勵志暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100595232.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160831-11.json",
+      "workId": "findbook-20060831-20160831-n20"
+    },
+    {
+      "id": "02_psychology_growth-20160831-12",
+      "title": "一個人的老後：獨身晚年是女人的第二人生，請大方快樂地享用！（暢銷十萬本全新改版）",
+      "author": "上野千鶴子",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "一個人的老後",
+        "獨身晚年是女人的第二人生，請大方快樂地享用！（暢銷十萬本全新改版）"
+      ],
+      "sourceName": "讀冊－2010年心理勵志暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100748980.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160831-12.json",
+      "workId": "findbook-20060831-20160831-n20"
+    },
+    {
+      "id": "02_psychology_growth-20160831-13",
+      "title": "卡內基溝通與人際關係﹝2015年新版﹞",
+      "author": "戴爾‧卡內基",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "卡內基溝通與人際關係﹝2015年新版﹞"
+      ],
+      "sourceName": "讀冊－2014年心理勵志暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100734348.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160831-13.json",
+      "workId": "findbook-20060831-20160831-n20"
+    },
+    {
+      "id": "02_psychology_growth-20160831-14",
+      "title": "其實我們都受傷了：在關係中療癒傷痛，學習成長",
+      "author": "蘇絢慧",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "其實我們都受傷了",
+        "在關係中療癒傷痛，學習成長"
+      ],
+      "sourceName": "讀冊－2014年心理勵志暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100652409.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160831-14.json",
+      "workId": "findbook-20060831-20160831-n20"
+    },
+    {
+      "id": "02_psychology_growth-20160831-15",
+      "title": "活出全新的自己【恩佐全彩插圖典藏版】：張德芬經典代表作「身心靈三部曲」療癒篇",
+      "author": "張德芬",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "活出全新的自己【恩佐全彩插圖典藏版】",
+        "張德芬經典代表作「身心靈三部曲」療癒篇"
+      ],
+      "sourceName": "讀冊－2010年心理勵志暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100904081.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160831-15.json",
+      "workId": "findbook-20060831-20160831-n20"
+    },
+    {
+      "id": "03_natural_science-20160831-11",
+      "title": "囚犯的兩難：賽局理論、數學天才馮紐曼，以及原子彈的謎題",
+      "author": "威廉‧龐士東",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "囚犯的兩難",
+        "賽局理論、數學天才馮紐曼，以及原子彈的謎題"
+      ],
+      "sourceName": "讀冊－2012年科學暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100878015.html",
+      "file": "Books/03_natural_science/03_natural_science-20160831-11.json",
+      "workId": "findbook-20060831-20160831-n20"
+    },
+    {
+      "id": "03_natural_science-20160831-12",
+      "title": "地球全史：46億年的奇蹟",
+      "author": "白尾元理、清川昌一",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "地球全史",
+        "46億年的奇蹟"
+      ],
+      "sourceName": "讀冊－2014年科學暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100690097.html",
+      "file": "Books/03_natural_science/03_natural_science-20160831-12.json",
+      "workId": "findbook-20060831-20160831-n20"
+    },
+    {
+      "id": "03_natural_science-20160831-13",
+      "title": "意識究竟從何而來？：從神經科學看人類心智與自我的演化 （改版）",
+      "author": "安東尼歐．達馬吉歐",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "意識究竟從何而來？",
+        "從神經科學看人類心智與自我的演化",
+        "（改版）"
+      ],
+      "sourceName": "讀冊－2012年科學暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100828159.html",
+      "file": "Books/03_natural_science/03_natural_science-20160831-13.json",
+      "workId": "findbook-20060831-20160831-n20"
+    },
+    {
+      "id": "03_natural_science-20160831-14",
+      "title": "蛋白質的一生（暢銷改版）：了解生命活動的秘密，讀懂生命科學的第一本書",
+      "author": "永田和宏",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "蛋白質的一生（暢銷改版）",
+        "了解生命活動的秘密，讀懂生命科學的第一本書"
+      ],
+      "sourceName": "讀冊－2010年科學暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11101058013.html",
+      "file": "Books/03_natural_science/03_natural_science-20160831-14.json",
+      "workId": "findbook-20060831-20160831-n20"
+    },
+    {
+      "id": "03_natural_science-20160831-15",
+      "title": "我的人生簡史（全世界最著名的科學家的獨特自傳霍金本人現身說法—絕無僅有的個人簡史）",
+      "author": "史蒂芬．霍金",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "我的人生簡史（全世界最著名的科學家的獨特自傳霍金本人現身說法—絕無僅有的個人簡史）"
+      ],
+      "sourceName": "讀冊－2014年科學暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100688856.html",
+      "file": "Books/03_natural_science/03_natural_science-20160831-15.json",
+      "workId": "findbook-20060831-20160831-n20"
+    },
+    {
+      "id": "04_healthcare-20160831-11",
+      "title": "小麥完全真相︰最受歡迎的美味不只讓你胖，還潛藏糖尿病、心臟病、慢性發炎、致癌的風險（暢銷新版）",
+      "author": "威廉．戴維斯",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "小麥完全真相︰最受歡迎的美味不只讓你胖，還潛藏糖尿病、心臟病、慢性發炎、致癌的風險（暢銷新版）"
+      ],
+      "sourceName": "讀冊－2014年醫學保健暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100995525.html",
+      "file": "Books/04_healthcare/04_healthcare-20160831-11.json",
+      "workId": "findbook-20060831-20160831-n20"
+    },
+    {
+      "id": "04_healthcare-20160831-12",
+      "title": "腸命百歲：腸道權威最新長齡保健大典【十週年紀念版】",
+      "author": "蔡英傑",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "腸命百歲",
+        "腸道權威最新長齡保健大典【十週年紀念版】"
+      ],
+      "sourceName": "讀冊－2010年醫學保健暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100871084.html",
+      "file": "Books/04_healthcare/04_healthcare-20160831-12.json",
+      "workId": "findbook-20060831-20160831-n20"
+    },
+    {
+      "id": "04_healthcare-20160831-13",
+      "title": "救命聖經．葛森療法（暢銷紀念版）：史上第一個成功的癌症療法，見證奇蹟80年",
+      "author": "夏綠蒂．葛森、莫頓．沃克",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "救命聖經．葛森療法（暢銷紀念版）",
+        "史上第一個成功的癌症療法，見證奇蹟80年"
+      ],
+      "sourceName": "讀冊－2014年醫學保健暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11101013521.html",
+      "file": "Books/04_healthcare/04_healthcare-20160831-13.json",
+      "workId": "findbook-20060831-20160831-n20"
+    },
+    {
+      "id": "04_healthcare-20160831-14",
+      "title": "治百病，就靠體溫！連癌症都是！【暢銷紀念版】7天見效的溫熱療法，日本保健醫學權威教你用體溫改善體質！",
+      "author": "石原結實",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "治百病，就靠體溫！連癌症都是！【暢銷紀念版】7天見效的溫熱療法，日本保健醫學權威教你用體溫改善體質！"
+      ],
+      "sourceName": "讀冊－2010年醫學保健暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11101050644.html",
+      "file": "Books/04_healthcare/04_healthcare-20160831-14.json",
+      "workId": "findbook-20060831-20160831-n20"
+    },
+    {
+      "id": "04_healthcare-20160831-15",
+      "title": "從現在開始，帶孩子遠離過敏（暢銷全新改版）︰異位性皮膚炎、過敏氣喘與過敏鼻炎，從預防、控制到治療，給父母的安心提案",
+      "author": "黃瑽寧",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "從現在開始，帶孩子遠離過敏（暢銷全新改版）︰異位性皮膚炎、過敏氣喘與過敏鼻炎，從預防、控制到治療，給父母的安心提案"
+      ],
+      "sourceName": "讀冊－2014年醫學保健暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11101023558.html",
+      "file": "Books/04_healthcare/04_healthcare-20160831-15.json",
+      "workId": "findbook-20060831-20160831-n20"
     }
   ],
-  "totalBooks": 3940,
+  "totalBooks": 3960,
   "searchDateRange": {
     "from": "2006-08-31",
     "to": "2016-08-31"
   },
   "generatedFrom": "FindBook_Skill.md reservation checkpoint",
-  "generatedAt": "2026-08-31T18:52:04+08:00"
+  "generatedAt": "2026-08-31T19:45:59+08:00"
 }
