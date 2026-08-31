@@ -59334,13 +59334,343 @@
       "sourceUrl": "https://www.taaze.tw/products/11101023558.html",
       "file": "Books/04_healthcare/04_healthcare-20160831-15.json",
       "workId": "findbook-20060831-20160831-n20"
+    },
+    {
+      "id": "01_business_startup-20160831-16",
+      "title": "思考的技術",
+      "author": "大前研一",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "思考的技術"
+      ],
+      "sourceName": "讀冊－2005年商業理財暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100743770.html",
+      "file": "Books/01_business_startup/01_business_startup-20160831-16.json",
+      "workId": "findbook-19960831-20160831-n20"
+    },
+    {
+      "id": "01_business_startup-20160831-17",
+      "title": "執行力（最新修訂版）",
+      "author": "包熙迪、夏藍",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "執行力"
+      ],
+      "sourceName": "讀冊－2005年商業理財暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100612528.html",
+      "file": "Books/01_business_startup/01_business_startup-20160831-17.json",
+      "workId": "findbook-19960831-20160831-n20"
+    },
+    {
+      "id": "01_business_startup-20160831-18",
+      "title": "財報就像一本故事書（20週年與時俱進增訂版）",
+      "author": "劉順仁",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "財報就像一本故事書"
+      ],
+      "sourceName": "讀冊－2005年商業理財暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11101075697.html",
+      "file": "Books/01_business_startup/01_business_startup-20160831-18.json",
+      "workId": "findbook-19960831-20160831-n20"
+    },
+    {
+      "id": "01_business_startup-20160831-19",
+      "title": "富爸爸，窮爸爸【25週年紀念版】",
+      "author": "羅勃特．T．清崎",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "富爸爸，窮爸爸"
+      ],
+      "sourceName": "讀冊－2007年商業理財暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100991691.html",
+      "file": "Books/01_business_startup/01_business_startup-20160831-19.json",
+      "workId": "findbook-19960831-20160831-n20"
+    },
+    {
+      "id": "01_business_startup-20160831-20",
+      "title": "世界又熱、又平、又擠（增訂版）",
+      "author": "湯馬斯．佛里曼",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "世界又熱、又平、又擠"
+      ],
+      "sourceName": "讀冊－2008年商業理財暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100907453.html",
+      "file": "Books/01_business_startup/01_business_startup-20160831-20.json",
+      "workId": "findbook-19960831-20160831-n20"
+    },
+    {
+      "id": "02_psychology_growth-20160831-16",
+      "title": "誰搬走了我的乳酪？ 【全新翻譯．全新插圖．精裝典藏版】",
+      "author": "史賓賽．強森博士",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "誰搬走了我的乳酪"
+      ],
+      "sourceName": "讀冊－2005年心理勵志暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100589495.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160831-16.json",
+      "workId": "findbook-19960831-20160831-n20"
+    },
+    {
+      "id": "02_psychology_growth-20160831-17",
+      "title": "在天堂遇見的五個人",
+      "author": "米奇．艾爾邦",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "在天堂遇見的五個人"
+      ],
+      "sourceName": "讀冊－2005年心理勵志暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100177891.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160831-17.json",
+      "workId": "findbook-19960831-20160831-n20"
+    },
+    {
+      "id": "02_psychology_growth-20160831-18",
+      "title": "為自己出征（燙金珍藏版）",
+      "author": "羅伯．費雪",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "為自己出征"
+      ],
+      "sourceName": "讀冊－2005年心理勵志暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100823760.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160831-18.json",
+      "workId": "findbook-19960831-20160831-n20"
+    },
+    {
+      "id": "02_psychology_growth-20160831-19",
+      "title": "潛水鐘與蝴蝶（暢銷45萬冊全新珍藏版）",
+      "author": "尚-多明尼克．鮑比",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "潛水鐘與蝴蝶"
+      ],
+      "sourceName": "讀冊－2008年心理勵志暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100932740.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160831-19.json",
+      "workId": "findbook-19960831-20160831-n20"
+    },
+    {
+      "id": "02_psychology_growth-20160831-20",
+      "title": "非常關係【恆常真心紀念版】：感情不能只靠「用力」，更要「用心」！鄧惠文透視關係、剖析人心的經典代表作！",
+      "author": "鄧惠文、閻驊",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "非常關係"
+      ],
+      "sourceName": "讀冊－2011年心理勵志暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100969868.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20160831-20.json",
+      "workId": "findbook-19960831-20160831-n20"
+    },
+    {
+      "id": "03_natural_science-20160831-16",
+      "title": "胡桃裡的宇宙",
+      "author": "史蒂芬．霍金",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "胡桃裡的宇宙"
+      ],
+      "sourceName": "讀冊－歷年累計自然科學暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100177704.html",
+      "file": "Books/03_natural_science/03_natural_science-20160831-16.json",
+      "workId": "findbook-19960831-20160831-n20"
+    },
+    {
+      "id": "03_natural_science-20160831-17",
+      "title": "改變是大腦的天性—從大腦發揮自癒力的故事中發現神經可塑性",
+      "author": "Norman Doidge",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "改變是大腦的天性"
+      ],
+      "sourceName": "讀冊－2009年自然科學暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100003135.html",
+      "file": "Books/03_natural_science/03_natural_science-20160831-17.json",
+      "workId": "findbook-19960831-20160831-n20"
+    },
+    {
+      "id": "03_natural_science-20160831-18",
+      "title": "統計，改變了世界",
+      "author": "薩爾斯伯格",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "統計，改變了世界"
+      ],
+      "sourceName": "讀冊－2011年自然科學暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100033226.html",
+      "file": "Books/03_natural_science/03_natural_science-20160831-18.json",
+      "workId": "findbook-19960831-20160831-n20"
+    },
+    {
+      "id": "03_natural_science-20160831-19",
+      "title": "看得到的化學—你一輩子都會用到的化學元素知識",
+      "author": "西奧多．葛雷、尼克．曼恩",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "看得到的化學"
+      ],
+      "sourceName": "讀冊－2010年自然科學暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100241028.html",
+      "file": "Books/03_natural_science/03_natural_science-20160831-19.json",
+      "workId": "findbook-19960831-20160831-n20"
+    },
+    {
+      "id": "03_natural_science-20160831-20",
+      "title": "基因救命手冊",
+      "author": "柯林斯",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "基因救命手冊"
+      ],
+      "sourceName": "讀冊－2011年自然科學暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100480001.html",
+      "file": "Books/03_natural_science/03_natural_science-20160831-20.json",
+      "workId": "findbook-19960831-20160831-n20"
+    },
+    {
+      "id": "04_healthcare-20160831-16",
+      "title": "生命的答案，水知道（典藏紀念版）：全球熱銷突破四百萬冊，揭開心念的強大力量",
+      "author": "江本勝",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "生命的答案，水知道"
+      ],
+      "sourceName": "讀冊－2005年醫療保健暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100974122.html",
+      "file": "Books/04_healthcare/04_healthcare-20160831-16.json",
+      "workId": "findbook-19960831-20160831-n20"
+    },
+    {
+      "id": "04_healthcare-20160831-17",
+      "title": "無毒一身輕：21天改造體質",
+      "author": "林光常",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "無毒一身輕"
+      ],
+      "sourceName": "讀冊－2005年醫療保健暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100004624.html",
+      "file": "Books/04_healthcare/04_healthcare-20160831-17.json",
+      "workId": "findbook-19960831-20160831-n20"
+    },
+    {
+      "id": "04_healthcare-20160831-18",
+      "title": "發明疾病的人（新版）：現代醫療產業如何賣掉我們的健康？",
+      "author": "尤格．布雷希",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "發明疾病的人"
+      ],
+      "sourceName": "讀冊－2005年醫療保健暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100653991.html",
+      "file": "Books/04_healthcare/04_healthcare-20160831-18.json",
+      "workId": "findbook-19960831-20160831-n20"
+    },
+    {
+      "id": "04_healthcare-20160831-19",
+      "title": "YOU─你的身體導覽手冊",
+      "author": "麥克．羅意升、梅曼．歐茲",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "你的身體導覽手冊"
+      ],
+      "sourceName": "讀冊－2006年醫療保健暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100033469.html",
+      "file": "Books/04_healthcare/04_healthcare-20160831-19.json",
+      "workId": "findbook-19960831-20160831-n20"
+    },
+    {
+      "id": "04_healthcare-20160831-20",
+      "title": "你不能沒腸識：頑固教授的24個腸道保健秘訣",
+      "author": "蔡英傑",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "你不能沒腸識"
+      ],
+      "sourceName": "讀冊－2006年醫療保健暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100021576.html",
+      "file": "Books/04_healthcare/04_healthcare-20160831-20.json",
+      "workId": "findbook-19960831-20160831-n20"
     }
   ],
-  "totalBooks": 3960,
+  "totalBooks": 3980,
   "searchDateRange": {
-    "from": "2006-08-31",
+    "from": "1996-08-31",
     "to": "2016-08-31"
   },
   "generatedFrom": "FindBook_Skill.md reservation checkpoint",
-  "generatedAt": "2026-08-31T19:45:59+08:00"
+  "generatedAt": "2026-08-31T21:10:52+08:00"
 }
