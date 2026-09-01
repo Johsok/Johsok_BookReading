@@ -112,6 +112,8 @@ def write_highlights(root: Path, book_id: str, highlights: list[str]) -> dict:
     cleaned = extract_highlights("\n".join(highlights if isinstance(highlights, list) else []))
     if not cleaned:
         cleaned = extract_highlights("\n".join(str(item) for item in highlights))
+    if len(cleaned) != 150:
+        raise RuntimeError(f"{book_id} 擷取到 {len(cleaned)} 點，必須剛好 150")
     book["chatgptHighlights"] = cleaned
     book["chatgptStatus"] = "complete"
     book["highlightsSource"] = "grok"
