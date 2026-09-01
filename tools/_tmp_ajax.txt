@@ -1,0 +1,209 @@
+JS_URLS
+/showLargeImage.html?sc=
+/sing.html?pid=
+/usedList.html?oid=
+/search_go.html?keyType[]=2&keyword[]=
+
+JS_AJAX
+.getJSON("../beta/disciplineSelectAgent.jsp", {discNo:$("#HIDE_DISCIPLINE_NO").val()
+---
+.getJSON("../beta/disciplineSelectAgent.jsp", { 
+---
+.getJSON("../beta/disciplineSelectAgent.jsp", {discNo:$("#HIDE_DISCIPLINE_NO").val()
+---
+.getJSON("../beta/schoolSelectAgent.jsp", {shc:$("#HIDE_SCHOOL_CITY").val(), shn:"", shd:""
+---
+.getJSON("../beta/schoolSelectAgent.jsp", {shc:$("#HIDE_SCHOOL_CITY").val(), shn:$("#HIDE_SCHOOL_NAME").val(), shd:""
+---
+.getJSON("../beta/schoolSelectAgent.jsp", {shc:"", shn:"", shd:""
+---
+.getJSON("../beta/schoolSelectAgent.jsp", {shc:$("#HIDE_SCHOOL_CITY").val(), shn:$("#HIDE_SCHOOL_NAME").val(), shd:$("#HIDE_SCHOOL_DEPT").val()
+---
+.getJSON("../beta/schoolSelectAgent.jsp", {shc:$("#HIDE_SCHOOL_CITY").val(), shn:$("#HIDE_SCHOOL_NAME").val(), shd:$("#HIDE_SCHOOL_DEPT").val()
+---
+.ajax({
+type: "get",
+url: "../beta/viewDataAgent.jsp",
+//timeout:1000,
+data: "a="+$('#GLOBAL_A').val()+"&d="+$('#GLOBAL_D').val()+"&l="+$('#GLOBAL_L').val()+"&t="+$('#GLOBAL_T').val()+"&c="+$('#GLOBAL_C').val()+"&k="+$('#GLOBAL_K').val() + "&startNum=" + sp.toString() + "&endNum=" + ep.toString() + "&sortType="+$('#HIDE_BOOKVIEW_RESULT_SORT').val() + "&shc="+$('#HIDE_SCHOOL_CITY').val() + "&shn="+$('#HIDE_SCHOOL_NAME').val() + "&shd="+$('#HIDE_SCHOOL_DEPT').val() + "&discNo="+$('#HIDE_DISCIPLINE_NO').v
+---
+.ajax({
+type: "get",
+url: "../beta/searchbookAgent.jsp",
+timeout:1000,
+data: "prodId="+$(this).attr("rel") + "&pfLength=160",
+dataType: "json",
+error: function(err){ 
+
+HTML_AROUND
+meout:1000,
+                                                                                data: { 'a':$("#HIDE_A").val(), 'd':$("#HIDE_D").val(), 'l':$("#HIDE_L").val()=="" || $("#HIDE_L").val()=="00"?"0":$("#HIDE_L").val(), 't':t, 'c':$("#HIDE_C").val()==""?'00':$("#HIDE_C").val(), 'k':$("#HIDE_K").val(), 'p':$("#HIDE_P").val(), 'startNum':sp, 'endNum':ep, 'sortType':sort},
+                                                                                //data: { 'p':'20220842', 'startNum':sp, 'endNum':ep, 'sortType':sort},
+                                                                                async: false,
+                                                                                dataType: "text",
+                                                                                error: function(err){ console.log("請再試一次"); //loadViewData();
+                                                                                console.log(err)
+                                                                            },
+                                                                            success: function(data){
+                                                                                submit = false;
+                                                                                var JData;
+                                                                                try {
+                                                                                    JData = jQuery.parseJSON(data);
+                                                                                } catch (e) {
+                                                                                    alert("很抱歉！資料發生錯誤，請稍後再試。");
+                                                                                    $("div#listView").empty();
+                                                   
+
+HTML_AJAX
+.ajax({
+                                                                                type: "get",
+                                                                                url: data_url,
+                                                                                timeout:1000,
+                                                                                data: { 'a':$("#HIDE_A").val(), 'd':$("#HIDE_D").val(), 'l':$("#HIDE_L").val()=="" || $("#HIDE_L").val()=="00"?"0":$("#HIDE_L").val(), 't':t, 'c':$("#HIDE_C").val()==""?'00':$("#HIDE_C").val(), 'k':$("#HIDE_K").val(), 'p':$("#HIDE_P").val(), 'startNum':sp, 'endNum':ep, 'sortType':sort
+---
+.ajax({
+                                                                                                    type: "get",
+                                                                                                    url: pfUrl,
+                                                                                                    timeout:1000,
+                                                                                                    data: {'prodId':JData.result1[i].prodId,'pfLength':'160'
+---
+.ajax({
+                                                                                type: "get",
+                                                                                url: data_url,
+                                                                                timeout:1000,
+                                                                                data: { 'a':$("#HIDE_A").val(), 'd':$("#HIDE_D").val(), 'l':$("#HIDE_L").val()=="" || $("#HIDE_L").val()=="00"?"0":$("#HIDE_L").val(), 't':t, 'c':$("#HIDE_C").val()==""?'00':$("#HIDE_C").val(), 'k':$("#HIDE_K").val(), 'p':$("#HIDE_P").val(), 'startNum':sp, 'endNum':ep, 'sortType':sort
+---
+.ajax({
+                                                                                type: "get",
+                                                                                url: data_url,
+                                                                                timeout:1000,
+                                                                                data: { 'a':$("#HIDE_A").val(), 'd':$("#HIDE_D").val(), 'l':$("#HIDE_L").val()=="" || $("#HIDE_L").val()=="00"?"0":$("#HIDE_L").val(), 't':t, 'c':$("#HIDE_C").val()==""?'00':$("#HIDE_C").val(), 'k':$("#HIDE_K").val(), 'p':$("#HIDE_P").val(), 'startNum':sp, 'endNum':ep, 'sortType':sort
+---
+.ajax({
+                                                                                                    type: "get",
+                                                                                                    url: pfUrl,
+                                                                                                    timeout:1000,
+                                                                                                    data: {'prodId':JData.result1[i].prodId,'pfLength':'160'
+---
+.getJSON("/queryCityId.html",function(data){
+                                                                                $("#field07").empty();
+                                                                                var html = "<select name='setSchoolCity' id='setSchoolCity' class='search_select'>";
+                                                                                $(data).each(function(i){
+                                                                                    if(i==0){
+                                                                                        html += "<option value='" +data[i].cityId+ "' selected='selected'>" +data[i].cityNm+ "</option>";
+                                                                                    
+---
+.getJSON("/querySchool.html",{'cityId':elm.val()
+---
+.getJSON("/querySchoolDepartment.html",{'schoolNo':elm.val()
+---
+.ajax({
+                                                                                            type: "post",
+                                                                                            url: "/new_ec/rwd/lib/schoolAutocomplete.jsp",
+                                                                                            data: "k=" + encodeURIComponent(request.term) + "&type="+i+"&r=" + Math.random(),
+                                                                                            dataType: "json",
+                                                                                            success: function(data) {
+                                                                                                response(data);
+                                        
+---
+.getJSON("/beta/disciplineSelectAgent.jsp", { 
+---
+.getJSON("/beta/disciplineSelectAgent.jsp", {discNo:$("#disciplineList").find(":selected").val()
+---
+.ajax({
+                                                                                url:"/queryTitleMain.html",
+                                                                                method :"GET",
+                                                                                dataType:"json",
+                                                                                data:{"isbn":$('#hide_org_prod_Id').val()
+---
+.get("/getSecondBookNum.html",{"orid":$('#hide_org_prod_Id').val()
+---
+.get('/saveProdUsed.html'+queryString,function(msg,status){
+                                                                                                                if(status=="success" ){
+                                                                                                                    alertify.alert('已加入二手書上架申請清單!', function(){ $("#sendToSell").modal('hide'); 
+---
+.get('/saveProdUsed.html'+queryString,function(msg,status){
+                                                                                                    if(status=="success" ){
+                                                                                                        alertify.alert('已加入二手書上架申請清單!', function(){ $("#sendToSell").modal('hide'); 
+
+HTML_URLS
+/new_include/css/bookview_snd_act_result.css
+/rwd_list.html?t=11&k=01&d=00
+/rwd_list.html?t=21&k=01&d=00
+/rwd_list.html?t=24&k=01&d=00
+/rwd_list.html?t=23&k=01&d=00
+/rwd_list.html?t=22&k=01&d=00
+/rwd_list.html?t=14&k=01&d=00
+/rwd_list.html?t=25&k=01&d=00
+/rwd_list.html?t=11&k=03&d=00
+/rwd_list.html?t=11&k=03&d=12
+/rwd_list.html?t=11&k=03&d=13
+/rwd_list.html?t=11&k=03&d=24
+/rwd_list.html?t=31&k=01&d=00
+/rwd_list.html?t=32&k=01&d=00
+/rwd_list.html?t=61&k=01&d=00
+/rwd_list.html?t=62&k=01&d=00
+//activity.taaze.tw/home.html?m=1000685756
+/rwd_searchResult.html
+/listCartWatch.html
+//wecollect.fun
+/rwd_listViewB.html?t=01&k=00&d=00&a=01&l=00
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20222654
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221723
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221760
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221725
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20222275
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221722
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221302
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221303
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221304
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221305
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221306
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221307
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221308
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221309
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221310
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221311
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221312
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221313
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221314
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221361
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20222655
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221542
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221543
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221544
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20222276
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221545
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20222122
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20222123
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20222124
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20222125
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20222126
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20222127
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20222128
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20222129
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20222130
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221182
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221183
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221726
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221186
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221185
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221187
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221188
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221189
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221190
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221191
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221192
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221199
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221193
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221194
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221195
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221196
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221197
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221198
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20222647
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221632
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221633
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221634
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20222267
+/rwd_listViewC.html?t=11&k=03&d=11&a=01&p=20221635

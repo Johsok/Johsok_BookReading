@@ -1,0 +1,8 @@
+https://www.taaze.tw/beta/viewDataAgent.jsp?a=01&d=11&l=0&t=11&c=00&k=03&p=20221665&startNum=1&endNum=20&sortType=0
+len=11564 head={"result1":[{"adoFlg":"N","author":"廖素慎","bindingType":"","catId":"","cltedQty":"0","collectFlg":"","crtTime":"","endTime":"","freeFlg":"","isbn":"","listPrice":"120","mdfTime":"","moreBook":"false","orgFlg":"","orgProdId":"11100337100","outOfPrint":"","pkNo":"0","previewFlg":"N","previewNum":"0","prodCatId":"","prodCatNm":"","prodId":"11316797174","prodKw":"","prodPf":"","prodRank":"","pubId":"",
+
+https://www.taaze.tw/new_ec/beta/viewDataAgent.jsp?a=01&d=11&l=0&t=11&c=00&k=03&p=20221665&startNum=1&endNum=20&sortType=0
+len=4302 head=     <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns="http://www.w3.org/1999/xhtml"> <head> <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> <title>TAAZE｜404</title> <script language="JavaScript" type="text/JavaScript"> <!-- function MM_swapImgRestore() { //v3.0 var i,x,a=document.MM_sr; for(
+
+https://www.taaze.tw/viewDataAgent.jsp?a=01&d=11&l=0&t=11&c=00&k=03&p=20221665&startNum=1&endNum=20&sortType=0
+len=4302 head=     <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns="http://www.w3.org/1999/xhtml"> <head> <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> <title>TAAZE｜404</title> <script language="JavaScript" type="text/JavaScript"> <!-- function MM_swapImgRestore() { //v3.0 var i,x,a=document.MM_sr; for(

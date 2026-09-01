@@ -1,0 +1,8 @@
+prod_ids=6 unique=3 sample=['11101095369', '11101094356', '11101086450']
+php=['//www.facebook.com/offsite_event.php?id=6008264832579&amp;value=0.01']
+jsonish=["{'prodId':JData.result1[i].prodId,'pfLength':'160'}", "{'prodId':JData.result1[i].prodId,'pfLength':'160'}", '{"isbn":$(\'#hide_org_prod_Id\').val()}', '{"orid":$(\'#hide_org_prod_Id\').val()}']
+js_len=25048
+js_urls=/ajaxFindCat4Xsx.html
+/listSCDetail_newEc.html
+/products/
+js_php=

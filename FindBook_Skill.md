@@ -1,8 +1,8 @@
 # FindBook Skill：書籍重點整理 SOP
 
-本文件是找中文書、登記索引、以 Cursor Grok 4.6 產出 150 點的唯一操作規格。重複敘述已合併；執行時依本文件一次跑完，不要另開平行 SOP。
+本文件是找中文書、登記索引、以 Cursor Grok 4.6 Extra High 產出 150 點的唯一操作規格。重複敘述已合併；執行時依本文件一次跑完，不要另開平行 SOP。
 
-本流程使用 Cursor Agent（Grok 4.6）。不使用 Codex，也不使用 ChatGPT 網頁版。`chatgptHighlights`、`chatgptStatus` 只是 `index.html` 相容欄位名稱。
+本流程使用 Cursor Agent（Grok 4.6 Extra High）。不使用 Codex，也不使用 ChatGPT 網頁版。`chatgptHighlights`、`chatgptStatus` 只是 `index.html` 相容欄位名稱。
 
 ## 預設原則
 
@@ -189,7 +189,7 @@ python tools/findbook_scraper.py --root . --category-ids <id1,id2,...> --quota <
 ## 多工整理與即時寫入
 
 1. 中央排程器維護 Grok 與 retry 兩個佇列。同一批次每個工作都必須帶入該批次 `workId`，並至少包含：書名、作者、分類、來源資訊、`searchDateRange`、`attemptCount`、最後錯誤及 `queued → submitted → captured → written` 狀態。
-2. 以 Cursor Task 子 agent（Grok 4.6）啟動 worker；每本書切成兩段獨立工作與獨立結果暫存。worker 不得直接寫正式 JSON。
+2. 以 Cursor Task 子 agent（Grok 4.6 Extra High））啟動 worker；每本書切成兩段獨立工作與獨立結果暫存。worker 不得直接寫正式 JSON。
 3. 必須以 reservation writer 已提交到 `data.json` 的 book ID 防止本批次重複；後續用「book ID + workId + 段號」追蹤結果。
 4. 同一執行階段只設定一次 `grokMaxWorkers`：預設 `min(6, 待處理書數 × 2)`。使用者指定單工時才改為 1 且不切段。出現限流、品質下降或工作錯置時立即回退 2（一次少一本書）。多工上限以實際 Cursor／Grok 環境為準，不得繞過服務限制。
 5. 未指定單工時，每本固定切 2 段並行：`001–075` 與 `076–150`。同時進行的書數 = `max(1, grokMaxWorkers // 2)`。排程採 `dispatch → collect → write`：同一則訊息填滿生成槽，先完成的段先收；兩段齊了立刻合併寫入並補下一本。不得停在第一本慢回覆上，不使用固定長時間 sleep。

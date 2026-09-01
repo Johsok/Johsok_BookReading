@@ -61064,13 +61064,1105 @@
       "sourceUrl": "https://www.taaze.tw/products/11100744800.html",
       "file": "Books/04_healthcare/04_healthcare-20210901-20.json",
       "workId": "findbook-19860901-20210901-c5b"
+    },
+    {
+      "id": "01_business_startup-20210901-21",
+      "title": "通往財富自由之路（暢銷新裝版）",
+      "author": "李笑來",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "通往財富自由之路（暢銷新裝版）",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010986344",
+      "file": "Books/01_business_startup/01_business_startup-20210901-21.json",
+      "workId": "findbook-19860901-20210901-c6"
+    },
+    {
+      "id": "01_business_startup-20210901-22",
+      "title": "底層邏輯：看清這個世界的底牌",
+      "author": "劉潤",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "底層邏輯",
+        "看清這個世界的底牌",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010919211",
+      "file": "Books/01_business_startup/01_business_startup-20210901-22.json",
+      "workId": "findbook-19860901-20210901-c6"
+    },
+    {
+      "id": "01_business_startup-20210901-23",
+      "title": "影響力：讓人乖乖聽話的說服術(全新增訂版)",
+      "author": "羅伯特．席爾迪尼",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "影響力",
+        "讓人乖乖聽話的說服術(全新增訂版)",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010923407",
+      "file": "Books/01_business_startup/01_business_startup-20210901-23.json",
+      "workId": "findbook-19860901-20210901-c6"
+    },
+    {
+      "id": "01_business_startup-20210901-24",
+      "title": "與成功有約：高效能人士的七個習慣（30週年全新增訂版）",
+      "author": "史蒂芬‧柯維,西恩‧柯維",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "與成功有約",
+        "高效能人士的七個習慣（30週年全新增訂版）",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010874292",
+      "file": "Books/01_business_startup/01_business_startup-20210901-24.json",
+      "workId": "findbook-19860901-20210901-c6"
+    },
+    {
+      "id": "01_business_startup-20210901-25",
+      "title": "佛畏系統：洞察事物背後的規則，在不確定時代做出對的選擇",
+      "author": "萬維鋼",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "佛畏系統",
+        "洞察事物背後的規則，在不確定時代做出對的選擇",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－商業理財暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010939305",
+      "file": "Books/01_business_startup/01_business_startup-20210901-25.json",
+      "workId": "findbook-19860901-20210901-c6"
+    },
+    {
+      "id": "02_psychology_growth-20210901-21",
+      "title": "愛的藝術（史上最暢銷心理學不朽經典世紀新譯本）：心理學大師佛洛姆談愛的真諦，一本學習如何去愛的聖經",
+      "author": "埃里希．佛洛姆",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "愛的藝術（史上最暢銷心理學不朽經典世紀新譯本）",
+        "心理學大師佛洛姆談愛的真諦，一本學習如何去愛的聖經",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010903645",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-21.json",
+      "workId": "findbook-19860901-20210901-c6"
+    },
+    {
+      "id": "02_psychology_growth-20210901-22",
+      "title": "女兒是吸收媽媽情緒長大的：獻給世上所有女兒、母親、女性的自我修復心理學",
+      "author": "朴又蘭",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "女兒是吸收媽媽情緒長大的",
+        "獻給世上所有女兒、母親、女性的自我修復心理學",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010903852",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-22.json",
+      "workId": "findbook-19860901-20210901-c6"
+    },
+    {
+      "id": "02_psychology_growth-20210901-23",
+      "title": "有求必應：22個吸引力法則",
+      "author": "伊絲特．傑瑞．希克斯",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "有求必應",
+        "22個吸引力法則",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010405234",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-23.json",
+      "workId": "findbook-19860901-20210901-c6"
+    },
+    {
+      "id": "02_psychology_growth-20210901-24",
+      "title": "男孩、鼴鼠、狐狸與馬",
+      "author": "查理‧麥克斯",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "男孩、鼴鼠、狐狸與馬",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010914874",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-24.json",
+      "workId": "findbook-19860901-20210901-c6"
+    },
+    {
+      "id": "02_psychology_growth-20210901-25",
+      "title": "最後一次相遇，我們只談喜悅（暢銷新版）",
+      "author": "達賴喇嘛,戴斯蒙‧屠圖,道格拉斯・亞伯拉姆",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "最後一次相遇，我們只談喜悅（暢銷新版）",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－心理勵志暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010928615",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-25.json",
+      "workId": "findbook-19860901-20210901-c6"
+    },
+    {
+      "id": "03_natural_science-20210901-21",
+      "title": "世界史是化學寫成的：從玻璃到手機，從肥料到炸藥，保證有趣的化學入門",
+      "author": "左卷健男",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "世界史是化學寫成的",
+        "從玻璃到手機，從肥料到炸藥，保證有趣的化學入門",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－自然科學暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010914238",
+      "file": "Books/03_natural_science/03_natural_science-20210901-21.json",
+      "workId": "findbook-19860901-20210901-c6"
+    },
+    {
+      "id": "03_natural_science-20210901-22",
+      "title": "自私的基因（新版）",
+      "author": "理查．道金斯",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "自私的基因（新版）",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－自然科學暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010846673",
+      "file": "Books/03_natural_science/03_natural_science-20210901-22.json",
+      "workId": "findbook-19860901-20210901-c6"
+    },
+    {
+      "id": "03_natural_science-20210901-23",
+      "title": "多巴胺國度：在縱慾年代找到身心平衡",
+      "author": "安娜‧蘭布克醫師（Dr. Anna Lembke）",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "多巴胺國度",
+        "在縱慾年代找到身心平衡",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－自然科學暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010950461",
+      "file": "Books/03_natural_science/03_natural_science-20210901-23.json",
+      "workId": "findbook-19860901-20210901-c6"
+    },
+    {
+      "id": "03_natural_science-20210901-24",
+      "title": "為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學",
+      "author": "沃克",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "為什麼要睡覺？",
+        "睡出健康與學習力、夢出創意的新科學",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－自然科學暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010959050",
+      "file": "Books/03_natural_science/03_natural_science-20210901-24.json",
+      "workId": "findbook-19860901-20210901-c6"
+    },
+    {
+      "id": "03_natural_science-20210901-25",
+      "title": "愈「動」愈成功：《新科學人》雜誌實證，身體動起來是最有效的轉念法，既能調節情緒、降低發炎，更能提振自信，翻轉人生的新科學",
+      "author": "卡洛琳．威廉斯",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "愈「動」愈成功",
+        "《新科學人》雜誌實證，身體動起來是最有效的轉念法，既能調節情緒、降低發炎，更能提振自信，翻轉人生的新科學",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－自然科學暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010928109",
+      "file": "Books/03_natural_science/03_natural_science-20210901-25.json",
+      "workId": "findbook-19860901-20210901-c6"
+    },
+    {
+      "id": "04_healthcare-20210901-21",
+      "title": "經穴大全 大字版",
+      "author": "坂元大海,原島廣至,形井秀一,高橋研一",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "經穴大全",
+        "大字版",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－醫療保健暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010777021",
+      "file": "Books/04_healthcare/04_healthcare-20210901-21.json",
+      "workId": "findbook-19860901-20210901-c6"
+    },
+    {
+      "id": "04_healthcare-20210901-22",
+      "title": "運動改造大腦：活化憂鬱腦、預防失智腦，IQ和EQ大進步的關鍵（運動教學指定用書）【活化大腦4.0版】",
+      "author": "約翰．瑞提,艾瑞克．海格曼",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "運動改造大腦",
+        "活化憂鬱腦、預防失智腦，IQ和EQ大進步的關鍵（運動教學指定用書）【活化大腦4.0版】",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－醫療保健暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010892274",
+      "file": "Books/04_healthcare/04_healthcare-20210901-22.json",
+      "workId": "findbook-19860901-20210901-c6"
+    },
+    {
+      "id": "04_healthcare-20210901-23",
+      "title": "他的癌細胞消失了：1～99歲都適合，讓你告別癌細胞、不生病的82道全食物料理",
+      "author": "陳月卿",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "他的癌細胞消失了",
+        "1～99歲都適合，讓你告別癌細胞、不生病的82道全食物料理",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－醫療保健暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010821526",
+      "file": "Books/04_healthcare/04_healthcare-20210901-23.json",
+      "workId": "findbook-19860901-20210901-c6"
+    },
+    {
+      "id": "04_healthcare-20210901-24",
+      "title": "劉博仁 功能醫學癌症大調理：檢測、治療、營養、預後，全面關照，促使腫瘤凋亡不復發！",
+      "author": "劉博仁",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "劉博仁",
+        "功能醫學癌症大調理",
+        "檢測、治療、營養、預後，全面關照，促使腫瘤凋亡不復發！",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－醫療保健暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010957260",
+      "file": "Books/04_healthcare/04_healthcare-20210901-24.json",
+      "workId": "findbook-19860901-20210901-c6"
+    },
+    {
+      "id": "04_healthcare-20210901-25",
+      "title": "90%的病，控糖就會好：挑對食物、吃對順序、控制份量，就能逆轉體質的血糖平衡法",
+      "author": "潔西．伊喬斯佩",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "90%的病，控糖就會好",
+        "挑對食物、吃對順序、控制份量，就能逆轉體質的血糖平衡法",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－醫療保健暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010971109",
+      "file": "Books/04_healthcare/04_healthcare-20210901-25.json",
+      "workId": "findbook-19860901-20210901-c6"
+    },
+    {
+      "id": "01_business_startup-20210901-26",
+      "title": "股票作手回憶錄（經典新校版）",
+      "author": "愛德溫．勒斐佛",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "股票作手回憶錄（經典新校版）",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100927898.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-26.json",
+      "workId": "findbook-20260901-c7"
+    },
+    {
+      "id": "01_business_startup-20210901-27",
+      "title": "有錢人想的和你不一樣",
+      "author": "哈福．艾克",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "有錢人想的和你不一樣",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100178027.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-27.json",
+      "workId": "findbook-20260901-c7"
+    },
+    {
+      "id": "01_business_startup-20210901-28",
+      "title": "Deep Work深度工作力：淺薄時代，個人成功的關鍵能力【暢銷新裝版】",
+      "author": "卡爾．紐波特",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "Work深度工作力",
+        "淺薄時代，個人成功的關鍵能力【暢銷新裝版】",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100967753.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-28.json",
+      "workId": "findbook-20260901-c7"
+    },
+    {
+      "id": "01_business_startup-20210901-29",
+      "title": "亞當理論：跨世紀順勢交易大師經典之作",
+      "author": "威爾斯．威爾德",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "亞當理論",
+        "跨世紀順勢交易大師經典之作",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100956546.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-29.json",
+      "workId": "findbook-20260901-c7"
+    },
+    {
+      "id": "01_business_startup-20210901-30",
+      "title": "失落的百年致富聖經（增訂版）",
+      "author": "華勒斯．華特斯、巴納姆",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "失落的百年致富聖經（增訂版）",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100936150.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-30.json",
+      "workId": "findbook-20260901-c7"
+    },
+    {
+      "id": "02_psychology_growth-20210901-26",
+      "title": "存在心理治療（上冊）－死亡",
+      "author": "歐文．亞隆",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "存在心理治療（上冊）－死亡",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100016396.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-26.json",
+      "workId": "findbook-20260901-c7"
+    },
+    {
+      "id": "02_psychology_growth-20210901-27",
+      "title": "成為一個人：一個治療者對心理治療的觀點",
+      "author": "卡爾．羅哲斯",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "成為一個人",
+        "一個治療者對心理治療的觀點",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100720178.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-27.json",
+      "workId": "findbook-20260901-c7"
+    },
+    {
+      "id": "02_psychology_growth-20210901-28",
+      "title": "敘事治療的工作地圖",
+      "author": "麥克‧懷特",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "敘事治療的工作地圖",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100016427.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-28.json",
+      "workId": "findbook-20260901-c7"
+    },
+    {
+      "id": "02_psychology_growth-20210901-29",
+      "title": "擁抱陰影：從榮格觀點探索心靈的黑暗面",
+      "author": "羅伯特．強森",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "擁抱陰影",
+        "從榮格觀點探索心靈的黑暗面",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100957729.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-29.json",
+      "workId": "findbook-20260901-c7"
+    },
+    {
+      "id": "02_psychology_growth-20210901-30",
+      "title": "超譯卡內基：溝通與人際關係的181則箴言",
+      "author": "戴爾．卡內基（原著）、弓場隆（編譯）",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "超譯卡內基",
+        "溝通與人際關係的181則箴言",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100915849.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-30.json",
+      "workId": "findbook-20260901-c7"
+    },
+    {
+      "id": "03_natural_science-20210901-26",
+      "title": "愛因斯坦的方程式",
+      "author": "阿米爾．艾克塞爾",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "愛因斯坦的方程式",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100211240.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-26.json",
+      "workId": "findbook-20260901-c7"
+    },
+    {
+      "id": "03_natural_science-20210901-27",
+      "title": "尋熊記：我與台灣黑熊的故事",
+      "author": "黃美秀",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "尋熊記",
+        "我與台灣黑熊的故事",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100612616.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-27.json",
+      "workId": "findbook-20260901-c7"
+    },
+    {
+      "id": "03_natural_science-20210901-28",
+      "title": "我們與動物的距離：在動物身上發現無私的人性",
+      "author": "法蘭斯．德瓦爾",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "我們與動物的距離",
+        "在動物身上發現無私的人性",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100970774.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-28.json",
+      "workId": "findbook-20260901-c7"
+    },
+    {
+      "id": "03_natural_science-20210901-29",
+      "title": "大腦百科：神經科學最高水平之作，以前所未見的精密圖解漫遊大腦",
+      "author": "瑞塔．卡特",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "大腦百科",
+        "神經科學最高水平之作，以前所未見的精密圖解漫遊大腦",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100910270.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-29.json",
+      "workId": "findbook-20260901-c7"
+    },
+    {
+      "id": "03_natural_science-20210901-30",
+      "title": "臺灣野鳥圖鑑［陸鳥篇］（增訂版）",
+      "author": "廖本興",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "臺灣野鳥圖鑑［陸鳥篇］（增訂版）",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100957083.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-30.json",
+      "workId": "findbook-20260901-c7"
+    },
+    {
+      "id": "04_healthcare-20210901-26",
+      "title": "新世紀飲食新版（上下合售）",
+      "author": "約翰．羅彬斯",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "新世紀飲食新版（上下合售）",
+        "經典"
+      ],
+      "sourceName": "讀冊－醫學保健歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100236064.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-26.json",
+      "workId": "findbook-20260901-c7"
+    },
+    {
+      "id": "04_healthcare-20210901-27",
+      "title": "動中覺察：改變動作．改善生活．改寫人生",
+      "author": "摩謝•費登奎斯",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "動中覺察",
+        "改變動作．改善生活．改寫人生",
+        "經典"
+      ],
+      "sourceName": "讀冊－醫學保健歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100815248.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-27.json",
+      "workId": "findbook-20260901-c7"
+    },
+    {
+      "id": "04_healthcare-20210901-28",
+      "title": "亞斯伯格症實用指南（增訂新版）",
+      "author": "東尼．艾伍德",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "亞斯伯格症實用指南（增訂新版）",
+        "經典"
+      ],
+      "sourceName": "讀冊－醫學保健歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100931701.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-28.json",
+      "workId": "findbook-20260901-c7"
+    },
+    {
+      "id": "04_healthcare-20210901-29",
+      "title": "家有過動兒：幫助ADHD孩子快樂成長",
+      "author": "高淑芬",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "家有過動兒",
+        "幫助ADHD孩子快樂成長",
+        "經典"
+      ],
+      "sourceName": "讀冊－醫學保健歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100670500.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-29.json",
+      "workId": "findbook-20260901-c7"
+    },
+    {
+      "id": "04_healthcare-20210901-30",
+      "title": "腸漏，發炎的關鍵",
+      "author": "吳佳鴻",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "腸漏，發炎的關鍵",
+        "經典"
+      ],
+      "sourceName": "讀冊－醫學保健歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100818191.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-30.json",
+      "workId": "findbook-20260901-c7"
+    },
+    {
+      "id": "01_business_startup-20210901-31",
+      "title": "讓上司挺你、朋友懂你，跟誰都能聊不停的「回話技術」：談判、責罵、提案、請託，40個讓人欲罷不能、拍手叫好的「臨場說話術」",
+      "author": "福田健",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "讓上司挺你、朋友懂你，跟誰都能聊不停的「回話技術」",
+        "談判、責罵、提案、請託，40個讓人欲罷不能、拍手叫好的「臨場說話術」",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100720741.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-31.json",
+      "workId": "findbook-19860901-20210901-c8"
+    },
+    {
+      "id": "01_business_startup-20210901-32",
+      "title": "蘋果橘子經濟學",
+      "author": "李維特、杜伯納",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "蘋果橘子經濟學",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100177734.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-32.json",
+      "workId": "findbook-19860901-20210901-c8"
+    },
+    {
+      "id": "01_business_startup-20210901-33",
+      "title": "45秒講座「擁有你的人生」",
+      "author": "唐與南西．菲拉",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "45秒講座「擁有你的人生」",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100899698.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-33.json",
+      "workId": "findbook-19860901-20210901-c8"
+    },
+    {
+      "id": "01_business_startup-20210901-34",
+      "title": "回話的藝術：有些時候你不該說「正確答案」，你該說的是「聰明答案」（熱銷再版）",
+      "author": "鈴木銳智",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "回話的藝術",
+        "有些時候你不該說「正確答案」，你該說的是「聰明答案」（熱銷再版）",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100903410.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-34.json",
+      "workId": "findbook-19860901-20210901-c8"
+    },
+    {
+      "id": "01_business_startup-20210901-35",
+      "title": "富爸爸商學院：銷售致富的財商教育",
+      "author": "羅勃特．T．清崎",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "富爸爸商學院",
+        "銷售致富的財商教育",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100913527.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-35.json",
+      "workId": "findbook-19860901-20210901-c8"
+    },
+    {
+      "id": "02_psychology_growth-20210901-31",
+      "title": "蔡康永的說話之道（500萬冊紀念版）",
+      "author": "蔡康永",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "蔡康永的說話之道（500萬冊紀念版）",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100916013.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-31.json",
+      "workId": "findbook-19860901-20210901-c8"
+    },
+    {
+      "id": "02_psychology_growth-20210901-32",
+      "title": "為什麼我們這樣生活，那樣工作？全球瘋行的習慣改造指南",
+      "author": "查爾斯．杜希格",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "為什麼我們這樣生活，那樣工作？全球瘋行的習慣改造指南",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100630762.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-32.json",
+      "workId": "findbook-19860901-20210901-c8"
+    },
+    {
+      "id": "02_psychology_growth-20210901-33",
+      "title": "蔡康永的說話之道（2）",
+      "author": "蔡康永",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "蔡康永的說話之道（2）",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100699463.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-33.json",
+      "workId": "findbook-19860901-20210901-c8"
+    },
+    {
+      "id": "02_psychology_growth-20210901-34",
+      "title": "與焦慮和解：克服過度完美主義、拖延症、害怕批評，從自我檢測中找回生活平衡的實用指南",
+      "author": "愛麗絲．博耶斯",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "與焦慮和解",
+        "克服過度完美主義、拖延症、害怕批評，從自我檢測中找回生活平衡的實用指南",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100868875.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-34.json",
+      "workId": "findbook-19860901-20210901-c8"
+    },
+    {
+      "id": "02_psychology_growth-20210901-35",
+      "title": "蔡康永的情商課（2）：因為這是你的人生",
+      "author": "蔡康永",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "蔡康永的情商課（2）",
+        "因為這是你的人生",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100888928.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-35.json",
+      "workId": "findbook-19860901-20210901-c8"
+    },
+    {
+      "id": "03_natural_science-20210901-31",
+      "title": "大腦喜歡這樣學：先認識自己的大腦，找到正確的思考路徑，就能專注、不拖延，提高記憶力，學會如何學習（二版）",
+      "author": "芭芭拉‧歐克莉",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "大腦喜歡這樣學",
+        "先認識自己的大腦，找到正確的思考路徑，就能專注、不拖延，提高記憶力，學會如何學習（二版）",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100826877.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-31.json",
+      "workId": "findbook-19860901-20210901-c8"
+    },
+    {
+      "id": "03_natural_science-20210901-32",
+      "title": "自私的基因（2020新版）",
+      "author": "理查．道金斯",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "自私的基因（2020新版）",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100898385.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-32.json",
+      "workId": "findbook-19860901-20210901-c8"
+    },
+    {
+      "id": "03_natural_science-20210901-33",
+      "title": "運動改造大腦：活化憂鬱腦、預防失智腦，IQ和EQ大進步的關鍵（運動教學指定用書）【活化大腦4.0版】",
+      "author": "約翰．瑞提醫師、艾瑞克．海格曼",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "運動改造大腦",
+        "活化憂鬱腦、預防失智腦，IQ和EQ大進步的關鍵（運動教學指定用書）【活化大腦4.0版】",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100936484.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-33.json",
+      "workId": "findbook-19860901-20210901-c8"
+    },
+    {
+      "id": "03_natural_science-20210901-34",
+      "title": "有機化學天堂秘笈I",
+      "author": "克萊因",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "有機化學天堂秘笈I",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100844237.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-34.json",
+      "workId": "findbook-19860901-20210901-c8"
+    },
+    {
+      "id": "03_natural_science-20210901-35",
+      "title": "500張病症實境照！植物病蟲害防治全圖鑑 ：4大分類法速查，「蔬菜X果樹X花木X觀葉」從預防到根治完全解析",
+      "author": "高橋孝文",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "500張病症實境照！植物病蟲害防治全圖鑑",
+        "4大分類法速查，「蔬菜X果樹X花木X觀葉」從預防到根治完全解析",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100814447.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-35.json",
+      "workId": "findbook-19860901-20210901-c8"
+    },
+    {
+      "id": "04_healthcare-20210901-31",
+      "title": "筋膜線按摩伸展全書：沿著6條筋膜線，找出真正疼痛點！84組對症‧部位‧強化的全方位按摩法",
+      "author": "凃俐雯",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "筋膜線按摩伸展全書",
+        "沿著6條筋膜線，找出真正疼痛點！84組對症‧部位‧強化的全方位按摩法",
+        "經典"
+      ],
+      "sourceName": "讀冊－醫學保健歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100801215.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-31.json",
+      "workId": "findbook-19860901-20210901-c8"
+    },
+    {
+      "id": "04_healthcare-20210901-32",
+      "title": "人體使用手冊（2）：人體復原工程（修訂版）",
+      "author": "吳清忠",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "人體使用手冊（2）",
+        "人體復原工程（修訂版）",
+        "經典"
+      ],
+      "sourceName": "讀冊－醫學保健歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100840568.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-32.json",
+      "workId": "findbook-19860901-20210901-c8"
+    },
+    {
+      "id": "04_healthcare-20210901-33",
+      "title": "1分鐘變鷹眼 3D立體視力回復法：最有趣的視力訓練法！散光、近視、老花、眼睛疲勞、乾眼症統統OUT！",
+      "author": "栗田昌裕",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "1分鐘變鷹眼",
+        "3D立體視力回復法",
+        "最有趣的視力訓練法！散光、近視、老花、眼睛疲勞、乾眼症統統OUT！",
+        "經典"
+      ],
+      "sourceName": "讀冊－醫學保健歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100799533.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-33.json",
+      "workId": "findbook-19860901-20210901-c8"
+    },
+    {
+      "id": "04_healthcare-20210901-34",
+      "title": "視力回復：１天３分鐘眼球運動！日本眼科第一名醫實證，不點藥水！視力從0.3回復到1.0",
+      "author": "本部千博監修",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "視力回復",
+        "１天３分鐘眼球運動！日本眼科第一名醫實證，不點藥水！視力從0.3回復到1.0",
+        "經典"
+      ],
+      "sourceName": "讀冊－醫學保健歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100776380.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-34.json",
+      "workId": "findbook-19860901-20210901-c8"
+    },
+    {
+      "id": "04_healthcare-20210901-35",
+      "title": "ICU重症醫療現場：熱血暖醫陳志金 勇敢而發真心話",
+      "author": "陳志金",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "ICU重症醫療現場",
+        "熱血暖醫陳志金",
+        "勇敢而發真心話",
+        "經典"
+      ],
+      "sourceName": "讀冊－醫學保健10年暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100903537.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-35.json",
+      "workId": "findbook-19860901-20210901-c8"
     }
   ],
-  "totalBooks": 4060,
+  "totalBooks": 4120,
   "searchDateRange": {
     "from": "1986-09-01",
     "to": "2021-09-01"
   },
   "generatedFrom": "FindBook_Skill.md reservation checkpoint",
-  "generatedAt": "2026-09-01T09:28:00+08:00"
+  "generatedAt": "2026-09-01T11:37:54+08:00"
 }

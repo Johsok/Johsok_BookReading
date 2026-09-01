@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="zh-hant">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>TAAZE 讀冊生活網路書店</title>
+<!-- 新 Bootstrap 核心 CSS 文件 -->
+<!-- 新 Bootstrap 核心 CSS 文件 -->
+<link rel="stylesheet" href="/include2/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="/include2/css/coin-slider-styles.css">
+<link rel="stylesheet" href="/new_ec/rwd/include/css/betaSlider.css">
+<link rel="stylesheet" href="/include2/jquery-ui-1.12.1.custom/jquery-ui.min.css"  />
+<link rel="stylesheet" href="/new_ec/rwd/include/css/mSlideMenu.css"  />
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="/new_ec/rwd/include/bootstrap/html5shiv.min.js"></script>
+<script src="/new_ec/rwd/include/bootstrap/respond.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" href="/new_ec/rwd/include/css/main.css?v=20190806" />
+<link href="/new_include/css/bookview_snd_act_result.css" media="screen, projection" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="/include2/tooltipster/css/tooltipster.bundle.min.css" />
+<link rel="stylesheet" type="text/css" href="/include2/tooltipster/css/plugins/tooltipster/sideTip/themes/tooltipster-sideTip-light.min.css" />
+<link rel="stylesheet" type="text/css" href="/include2/css/alertify.core.css" />
+<link rel="stylesheet" type="text/css" href="/include2/css/alertify.default.css" />
+<style type="text/css">
+#sortm-group>.btn:first-child {
+    color: #9c9c9c;
+    text-align:left;
+    border-color: #979797;
+}
+#sortm>li>a {
+    color: #9c9c9c;
+    padding: 3px 20px 3px 2px;
+    min-width: 105px;
+}
+#sortm{
+    min-width: 105px;
+    border-radius: 0;
+    border-color: #979797;
+}
+#selectSort_m {
+    min-width: 105px;
+    border-radius: 0;
+    padding: 6px 12px 6px 2px
+}
+.sndInfoBtn {
+    border: 1px solid #E3007F;
+    border-radius: 100px;
+    font-weight:700;
+    cursor:pointer;
+    text-align: center;
+    line-height: 30px;
+    letter-spacing: 1.5px;
+    max-width:140px;
+    width:100%;
+    height:30px;
+    color:#E3007F;
+    background-color:#FFFFFF;
+}
+.sndInfoBtn:hover {
+    color:#FFFFFF;
+    background-image: linear-gradient(45deg, #E3007F 0%, #EB8B87 100%);
+}
+.checkDiv {
+    width:15px;
+    height:15px;
+    background:#FFFFFF;
+    border:1px solid #444444;
+    margin:1px 5px;
+    display:inline-block;
+    vertical-align: middle;
+    cursor:pointer;
+}
+.checkY {
+    height:85%;
+    background:#e3007f;
+    text-align:center;
+    margin:1px;
+    display:none;
+}
+.checkY.active {
+    display:block;
+}
+.checkY>span {
+    color: white;
+    top: 0;
+    font-size: 12px;
+    vertical-align:super;
+}
+.radioDiv {
+    width:15px;
+    height:15px;
+    background:#FFFFFF;
+    border:1px solid #444444

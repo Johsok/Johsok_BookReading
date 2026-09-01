@@ -1,0 +1,14 @@
+https://www.taaze.tw/rwdList.html?t=24&k=&c=102000
+ len=4302 books_ids=0 sample=[] taaze=0 sample=[] authors=0 dates=[]
+
+https://www.taaze.tw/rwd_listView.html?t=11&k=&c=102000&d=
+ len=87878 books_ids=0 sample=[] taaze=3 sample=['11101095369', '11101094356', '11101086450', '11101095369', '11101094356', '11101086450'] authors=5 dates=[]
+
+https://www.books.com.tw/web/sys_saletopb/books/02/?o=1&v=1
+ len=139052 books_ids=101 sample=['0011060722', '0011057581', '0011057581', '0011012422', '0011012422', '0011043967'] taaze=0 sample=[] authors=104 dates=[]
+
+https://www.books.com.tw/web/books_topm_02/?o=5&v=1
+ len=154932 books_ids=109 sample=['0011060722', '0011057581', '0011057581', '0011057872', '0011057872', '0011060596'] taaze=0 sample=[] authors=65 dates=['2026/07/27', '2025/02/05', '2026/02/03', '2024/04/30', '2026/05/01', '2024/11/21']
+
+https://www.books.com.tw/web/sys_puballb/books/02/
+ len=6389 books_ids=0 sample=[] taaze=0 sample=[] authors=0 dates=[]

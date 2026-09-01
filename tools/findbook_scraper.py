@@ -6,6 +6,7 @@ import argparse
 import json
 import re
 import ssl
+import subprocess
 import unicodedata
 import urllib.error
 import urllib.request
@@ -17,8 +18,31 @@ from typing import Callable
 
 HAS_HAN = re.compile(r"[\u4e00-\u9fff]")
 PUNCT = re.compile(r"[\s\W_]+", re.UNICODE)
-DATE_RE = re.compile(r"(20\d{2})[./年\-](\d{1,2})[./月\-](\d{1,2})")
+DATE_RE = re.compile(r"((?:19|20)\d{2})[./年\-](\d{1,2})[./月\-](\d{1,2})")
 PRODUCT_ID_RE = re.compile(r"/products/([A-Z0-9]+)", re.I)
+BOOKS_PID_RE = re.compile(r"/products/(001\d{7})", re.I)
+TITLE_SKIP = {
+    "01_business_startup": ("這樣生活，那樣工作",),
+    "03_natural_science": ("靈界", "怪奇", "ㄎㄧㄤ", "漫畫", "生命解碼", "人生十二堂課"),
+    "04_healthcare": (
+        "減脂",
+        "瘦身",
+        "瘦用",
+        "瘦肚子",
+        "增肌",
+        "食譜",
+        "飲食法",
+        "營養科學",
+        "根治飲食",
+        "副食品",
+        "拿鐵",
+        "胎教",
+        "食在",
+        "食物代換",
+        "吃錯",
+        "瑜伽",
+    ),
+}
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -47,46 +71,46 @@ DEFAULT_TAGS = {
 
 BOOKS_URLS = {
     "01_business_startup": [
-        "https://www.books.com.tw/web/books_nbtopm_02/?o=5&v=1",
-        "https://www.books.com.tw/web/books_nbtopm_02/?o=5&page=2&v=1",
-        "https://www.books.com.tw/web/sys_nbmidme/books/02/?o=1&page=1&v=1",
+        "https://www.books.com.tw/web/sys_saletopb/books/02/?o=1&v=1",
         "https://www.books.com.tw/web/books_topm_02/?o=5&v=1",
+        "https://www.books.com.tw/web/books_topm_02/?o=5&page=2&v=1",
+        "https://www.books.com.tw/web/books_topm_02/?o=5&page=3&v=1",
     ],
     "02_psychology_growth": [
-        "https://www.books.com.tw/web/books_nbtopm_07/?o=5&v=1",
-        "https://www.books.com.tw/web/books_nbtopm_07/?o=5&page=2&v=1",
-        "https://www.books.com.tw/web/sys_nbmidme/books/07/?o=1&page=1&v=1",
+        "https://www.books.com.tw/web/sys_saletopb/books/07/?o=1&v=1",
         "https://www.books.com.tw/web/books_topm_07/?o=5&v=1",
+        "https://www.books.com.tw/web/books_topm_07/?o=5&page=2&v=1",
+        "https://www.books.com.tw/web/books_topm_07/?o=5&page=3&v=1",
     ],
     "03_natural_science": [
-        "https://www.books.com.tw/web/books_nbtopm_06/?o=5&v=1",
-        "https://www.books.com.tw/web/books_nbtopm_06/?o=5&page=2&v=1",
-        "https://www.books.com.tw/web/sys_nbmidme/books/06/?o=1&page=1&v=1",
+        "https://www.books.com.tw/web/sys_saletopb/books/06/?o=1&v=1",
         "https://www.books.com.tw/web/books_topm_06/?o=5&v=1",
+        "https://www.books.com.tw/web/books_topm_06/?o=5&page=2&v=1",
+        "https://www.books.com.tw/web/books_topm_06/?o=5&page=3&v=1",
     ],
     "04_healthcare": [
-        "https://www.books.com.tw/web/books_nbtopm_08/?o=5&v=1",
-        "https://www.books.com.tw/web/books_nbtopm_08/?o=5&page=2&v=1",
-        "https://www.books.com.tw/web/sys_nbmidme/books/08/?o=1&page=1&v=1",
+        "https://www.books.com.tw/web/sys_saletopb/books/08/?o=1&v=1",
         "https://www.books.com.tw/web/books_topm_08/?o=5&v=1",
+        "https://www.books.com.tw/web/books_topm_08/?o=5&page=2&v=1",
+        "https://www.books.com.tw/web/books_topm_08/?o=5&page=3&v=1",
     ],
     "05_food_wellness": [
-        "https://www.books.com.tw/web/books_nbtopm_09/?o=5&v=1",
-        "https://www.books.com.tw/web/books_nbtopm_09/?o=5&page=2&v=1",
-        "https://www.books.com.tw/web/sys_nbmidme/books/09/?o=1&page=1&v=1",
+        "https://www.books.com.tw/web/sys_saletopb/books/09/?o=1&v=1",
         "https://www.books.com.tw/web/books_topm_09/?o=5&v=1",
+        "https://www.books.com.tw/web/books_topm_09/?o=5&page=2&v=1",
+        "https://www.books.com.tw/web/books_topm_09/?o=5&page=3&v=1",
     ],
     "06_computer_info": [
-        "https://www.books.com.tw/web/books_nbtopm_19/?o=5&v=1",
-        "https://www.books.com.tw/web/books_nbtopm_19/?o=5&page=2&v=1",
-        "https://www.books.com.tw/web/sys_nbmidme/books/19/?o=1&page=1&v=1",
+        "https://www.books.com.tw/web/sys_saletopb/books/19/?o=1&v=1",
         "https://www.books.com.tw/web/books_topm_19/?o=5&v=1",
+        "https://www.books.com.tw/web/books_topm_19/?o=5&page=2&v=1",
+        "https://www.books.com.tw/web/books_topm_19/?o=5&page=3&v=1",
     ],
     "07_other": [
-        "https://www.books.com.tw/web/books_nbtopm_01/?o=5&v=1",
-        "https://www.books.com.tw/web/books_nbtopm_04/?o=5&v=1",
-        "https://www.books.com.tw/web/books_nbtopm_05/?o=5&v=1",
-        "https://www.books.com.tw/web/sys_nbmidme/books/04/?o=1&page=1&v=1",
+        "https://www.books.com.tw/web/sys_saletopb/books/01/?o=1&v=1",
+        "https://www.books.com.tw/web/sys_saletopb/books/04/?o=1&v=1",
+        "https://www.books.com.tw/web/books_topm_01/?o=5&v=1",
+        "https://www.books.com.tw/web/books_topm_04/?o=5&v=1",
     ],
 }
 
@@ -152,6 +176,38 @@ TAAZE_URLS = {
     ],
 }
 
+# 讀冊歷年／年度暢銷百大（viewTagsAgent.jsp 的 p=）。用於前 5–40 年經典書。
+TAAZE_CLASSIC_LISTS = {
+    "01_business_startup": [
+        ("20221584", "讀冊－商業歷年累計暢銷百大"),
+        ("20221583", "讀冊－商業10年暢銷百大"),
+        ("20221090", "讀冊－商業2021暢銷百大"),
+        ("20221085", "讀冊－商業2016暢銷百大"),
+        ("20221082", "讀冊－商業2013暢銷百大"),
+    ],
+    "02_psychology_growth": [
+        ("20221665", "讀冊－心理勵志歷年累計暢銷百大"),
+        ("20221664", "讀冊－心理勵志10年暢銷百大"),
+        ("20221499", "讀冊－心理勵志2021暢銷百大"),
+        ("20221212", "讀冊－心理勵志2016暢銷百大"),
+        ("20221279", "讀冊－心理勵志2013暢銷百大"),
+    ],
+    "03_natural_science": [
+        ("20221725", "讀冊－科學歷年累計暢銷百大"),
+        ("20221760", "讀冊－科學10年暢銷百大"),
+        ("20221303", "讀冊－科學2021暢銷百大"),
+        ("20221308", "讀冊－科學2016暢銷百大"),
+        ("20221311", "讀冊－科學2013暢銷百大"),
+    ],
+    "04_healthcare": [
+        ("20221522", "讀冊－醫學保健歷年累計暢銷百大"),
+        ("20221521", "讀冊－醫學保健10年暢銷百大"),
+        ("20221148", "讀冊－醫學保健2021暢銷百大"),
+        ("20221154", "讀冊－醫學保健2016暢銷百大"),
+        ("20221157", "讀冊－醫學保健2013暢銷百大"),
+    ],
+}
+
 LogFn = Callable[[str], None]
 StopFn = Callable[[], bool]
 
@@ -192,11 +248,29 @@ def in_date_range(published: str, from_date: str, to_date: str) -> bool:
     return start <= value <= end
 
 
+def undated_product_too_new(item: dict, to_date: str) -> bool:
+    """Drop undated 博客來 new-product IDs when the search window ends before 2022."""
+    if item.get("published"):
+        return False
+    try:
+        end = date.fromisoformat(to_date)
+    except ValueError:
+        return False
+    if end >= date(2022, 1, 1):
+        return False
+    url = str(item.get("sourceUrl") or "")
+    match = BOOKS_PID_RE.search(url)
+    if not match:
+        return False
+    return match.group(1) >= "0011000000"
+
+
 def fetch_html(url: str, referer: str = "") -> str:
     headers = {
         "User-Agent": USER_AGENT,
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         "Accept-Language": "zh-TW,zh;q=0.9,en;q=0.8",
+        "Accept-Encoding": "identity",
     }
     if referer:
         headers["Referer"] = referer
@@ -211,6 +285,26 @@ def fetch_html(url: str, referer: str = "") -> str:
         except Exception as exc:  # noqa: BLE001
             last_error = exc
             continue
+    try:
+        command = [
+            "curl.exe",
+            "-sL",
+            "--max-time",
+            "20",
+            "-A",
+            USER_AGENT,
+            "-H",
+            "Accept-Language: zh-TW,zh;q=0.9,en;q=0.8",
+            "-H",
+            "Accept: text/html,application/xhtml+xml",
+        ]
+        if referer:
+            command.extend(["-e", referer])
+        command.append(url)
+        raw = subprocess.check_output(command)
+        return raw.decode("utf-8", "replace")
+    except Exception as exc:  # noqa: BLE001
+        last_error = last_error or exc
     raise last_error or RuntimeError(f"無法讀取 {url}")
 
 
@@ -315,14 +409,15 @@ def parse_taaze_list(html: str) -> list[dict]:
     items: list[dict] = []
     seen: set[str] = set()
     for match in re.finditer(
-        r'href="(https://www\.taaze\.tw/products/\d+\.html)"[^>]*>\s*(.*?)\s*</a>',
+        r'href="((?:https://www\.taaze\.tw)?/products/(\d+)\.html)"[^>]*>\s*(.*?)\s*</a>',
         html,
         re.S | re.I,
     ):
-        url = match.group(1)
+        prod_id = match.group(2)
+        url = f"https://www.taaze.tw/products/{prod_id}.html"
         if url in seen:
             continue
-        title = strip_html(match.group(2))
+        title = strip_html(match.group(3))
         if not title or not has_han(title) or len(title) < 2:
             continue
         seen.add(url)
@@ -348,6 +443,42 @@ def parse_taaze_detail(html: str) -> tuple[str, str, str]:
     if author_match:
         author = strip_html(author_match.group(1)).strip(" /|,，、")
     return title, author, parse_iso_date(html)
+
+
+def fetch_taaze_tag_items(list_id: str, end_num: int = 80) -> list[dict]:
+    """Read one 讀冊暢銷百大 list via viewTagsAgent (list JSON, not a detail page)."""
+    url = (
+        "https://www.taaze.tw/beta/viewTagsAgent.jsp"
+        f"?a=01&d=11&l=0&t=11&c=00&k=03&p={list_id}"
+        f"&startNum=1&endNum={end_num}&sortType=1"
+    )
+    raw = fetch_html(url, referer="https://www.taaze.tw/")
+    try:
+        payload = json.loads(raw)
+    except json.JSONDecodeError:
+        return []
+    items: list[dict] = []
+    seen: set[str] = set()
+    for row in payload.get("result1") or []:
+        title = str(row.get("titleMain") or "").strip()
+        author = str(row.get("author") or "").strip(" /|,，、")
+        prod_id = str(row.get("prodId") or "").strip()
+        published = str(row.get("publishDate") or "").strip()
+        if published:
+            published = published[:10] if len(published) >= 10 else parse_iso_date(published)
+        if not title or not has_han(title) or not author or not prod_id or prod_id in seen:
+            continue
+        seen.add(prod_id)
+        items.append(
+            {
+                "title": title,
+                "author": author,
+                "sourceUrl": f"https://www.taaze.tw/products/{prod_id}.html",
+                "published": published,
+                "sourceSite": "讀冊",
+            }
+        )
+    return items
 
 
 def _stopped(should_stop: StopFn | None) -> bool:
@@ -396,6 +527,9 @@ def to_candidate(item: dict, category_id: str, from_date: str, to_date: str) -> 
     author = str(item["author"]).strip()
     extra = [part for part in title.replace("：", " ").replace(":", " ").split() if has_han(part)][:3]
     tags = list(DEFAULT_TAGS[category_id]) + extra
+    source_name = str(item.get("sourceName") or "")
+    if any(mark in source_name for mark in ("歷年", "經典", "暢銷百大")) and "經典" not in tags:
+        tags.append("經典")
     return {
         "title": title,
         "author": author,
@@ -438,17 +572,25 @@ def _accept_item(
     seen_keys: set[str],
     from_date: str,
     to_date: str,
+    category_id: str = "",
 ) -> str:
     """Return the dedupe key if the row is usable; otherwise empty."""
     title = str(item.get("title") or "")
     author = str(item.get("author") or "")
     if not has_han(title) or not author:
         return ""
+    if re.search(r"简体|簡體", title) or "二手書" in title:
+        return ""
+    for needle in TITLE_SKIP.get(category_id, ()):
+        if needle in title:
+            return ""
     key = normalized_key(title, author)
     if key in existing_keys or key in seen_keys:
         return ""
     published = str(item.get("published") or "")
     if published and not in_date_range(published, from_date, to_date):
+        return ""
+    if undated_product_too_new(item, to_date):
         return ""
     return key
 
@@ -526,7 +668,7 @@ def _collect_from_pages(
     def _take(item: dict) -> bool:
         if len(found) >= buffer or _stopped(should_stop):
             return False
-        key = _accept_item(item, existing_keys, seen_keys, from_date, to_date)
+        key = _accept_item(item, existing_keys, seen_keys, from_date, to_date, category_id)
         if not key:
             return False
         seen_keys.add(key)
@@ -550,6 +692,40 @@ def _collect_from_pages(
     return found
 
 
+def _collect_taaze_classic(
+    category_id: str,
+    from_date: str,
+    to_date: str,
+    existing_keys: set[str],
+    seen_keys: set[str],
+    buffer: int,
+    should_stop: StopFn | None,
+    log: LogFn | None,
+) -> list[dict]:
+    """Fill buffer from 讀冊歷年／年度暢銷百大 JSON lists."""
+    found: list[dict] = []
+    lists = TAAZE_CLASSIC_LISTS.get(category_id) or []
+    for list_id, source_name in lists:
+        if len(found) >= buffer or _stopped(should_stop):
+            break
+        try:
+            rows = fetch_taaze_tag_items(list_id)
+        except Exception as exc:  # noqa: BLE001
+            _log(log, f"讀冊經典榜失敗 {list_id}：{exc}")
+            continue
+        _log(log, f"{source_name} 解析 {len(rows)} 筆")
+        for item in rows:
+            if len(found) >= buffer or _stopped(should_stop):
+                break
+            item["sourceName"] = source_name
+            key = _accept_item(item, existing_keys, seen_keys, from_date, to_date, category_id)
+            if not key:
+                continue
+            seen_keys.add(key)
+            found.append(to_candidate(item, category_id, from_date, to_date))
+    return found
+
+
 def scrape_category(
     category_id: str,
     from_date: str,
@@ -566,6 +742,29 @@ def scrape_category(
     label = CATEGORY_LABELS[category_id]
     seen_keys: set[str] = set()
     collected: list[dict] = []
+    historical = False
+    try:
+        historical = date.fromisoformat(to_date) < date(2022, 1, 1)
+    except ValueError:
+        historical = False
+
+    if historical and category_id in TAAZE_CLASSIC_LISTS:
+        _log(log, f"開始抓 讀冊經典榜／{label}，目標緩衝 {buffer} 本")
+        collected.extend(
+            _collect_taaze_classic(
+                category_id,
+                from_date,
+                to_date,
+                existing_keys,
+                seen_keys,
+                buffer,
+                should_stop,
+                log,
+            )
+        )
+        _log(log, f"讀冊經典榜／{label} 累計合格 {len(collected)} 本")
+        if len(collected) >= buffer:
+            return collected
 
     sources = [
         (
@@ -573,7 +772,7 @@ def scrape_category(
             parse_books_list,
             parse_books_detail,
             "博客來",
-            f"博客來中文書－{label}新書／暢銷頁",
+            f"博客來中文書－{label}暢銷榜",
             "https://www.books.com.tw/",
         ),
         (
@@ -581,7 +780,7 @@ def scrape_category(
             parse_kingstone_list,
             parse_kingstone_detail,
             "金石堂",
-            f"金石堂新書－{label}",
+            f"金石堂暢銷－{label}",
             "https://www.kingstone.com.tw/",
         ),
         (
@@ -589,7 +788,7 @@ def scrape_category(
             parse_taaze_list,
             parse_taaze_detail,
             "讀冊",
-            f"讀冊新書－{label}",
+            f"讀冊暢銷－{label}",
             "https://www.taaze.tw/",
         ),
     ]
