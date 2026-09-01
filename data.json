@@ -62156,13 +62156,743 @@
       "sourceUrl": "https://www.taaze.tw/products/11100903537.html",
       "file": "Books/04_healthcare/04_healthcare-20210901-35.json",
       "workId": "findbook-19860901-20210901-c8"
+    },
+    {
+      "id": "01_business_startup-20210901-36",
+      "title": "貨幣戰爭：誰掌握了貨幣，誰就能主宰這個世界【暢銷新裝版】",
+      "author": "宋鴻兵 編著",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "貨幣戰爭",
+        "誰掌握了貨幣，誰就能主宰這個世界【暢銷新裝版】",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100905784.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-36.json",
+      "workId": "findbook-19860901-20210901-c9"
+    },
+    {
+      "id": "01_business_startup-20210901-37",
+      "title": "超速學習：我這樣做，一個月學會素描，一年學會四種語言，完成MIT四年課程",
+      "author": "史考特．楊",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "超速學習",
+        "我這樣做，一個月學會素描，一年學會四種語言，完成MIT四年課程",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100905884.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-37.json",
+      "workId": "findbook-19860901-20210901-c9"
+    },
+    {
+      "id": "01_business_startup-20210901-38",
+      "title": "美安賣什麼？：從零售到電商 揭開千億帝國的驚人祕密",
+      "author": "今周刊",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "美安賣什麼？",
+        "從零售到電商",
+        "揭開千億帝國的驚人祕密",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100829105.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-38.json",
+      "workId": "findbook-19860901-20210901-c9"
+    },
+    {
+      "id": "01_business_startup-20210901-39",
+      "title": "跟誰都能聊不停─這樣說話，讓你到處受歡迎",
+      "author": "金井英之",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "跟誰都能聊不停─這樣說話，讓你到處受歡迎",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100226632.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-39.json",
+      "workId": "findbook-19860901-20210901-c9"
+    },
+    {
+      "id": "01_business_startup-20210901-40",
+      "title": "比別人快一步的 Google 工作術：從職場到人生的100個聰明改造提案",
+      "author": "電腦玩物站長",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "比別人快一步的",
+        "工作術",
+        "從職場到人生的100個聰明改造提案",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100813946.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-40.json",
+      "workId": "findbook-19860901-20210901-c9"
+    },
+    {
+      "id": "03_natural_science-20210901-36",
+      "title": "大腦當家（最新增訂版）：12個讓大腦靈活的守則，工作學習都輕鬆有效率",
+      "author": "約翰‧麥迪納",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "大腦當家（最新增訂版）",
+        "12個讓大腦靈活的守則，工作學習都輕鬆有效率",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100804877.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-36.json",
+      "workId": "findbook-19860901-20210901-c9"
+    },
+    {
+      "id": "03_natural_science-20210901-37",
+      "title": "3.3秒的呼吸奧祕︰失傳吐納技法與最新科學研究的絕妙旅程",
+      "author": "詹姆斯．奈斯特",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "3.3秒的呼吸奧祕︰失傳吐納技法與最新科學研究的絕妙旅程",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100955105.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-37.json",
+      "workId": "findbook-19860901-20210901-c9"
+    },
+    {
+      "id": "03_natural_science-20210901-38",
+      "title": "非實用野鳥圖鑑：600種鳥類變身搞笑全紀錄（十週年台灣特有版）",
+      "author": "富士鷹茄子",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "非實用野鳥圖鑑",
+        "600種鳥類變身搞笑全紀錄（十週年台灣特有版）",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100900717.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-38.json",
+      "workId": "findbook-19860901-20210901-c9"
+    },
+    {
+      "id": "03_natural_science-20210901-39",
+      "title": "觀念生物學1-4套書（全新修訂版）",
+      "author": "尼達姆、霍格蘭、麥克佛森、竇德生",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "觀念生物學1-4套書（全新修訂版）",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100818667.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-39.json",
+      "workId": "findbook-19860901-20210901-c9"
+    },
+    {
+      "id": "03_natural_science-20210901-40",
+      "title": "細胞的靈性療癒【典藏增訂版】：生物化學博士教你的細胞轉化修鍊！",
+      "author": "桑德拉‧巴雷特",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "細胞的靈性療癒【典藏增訂版】",
+        "生物化學博士教你的細胞轉化修鍊！",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100783017.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-40.json",
+      "workId": "findbook-19860901-20210901-c9"
+    },
+    {
+      "id": "04_healthcare-20210901-36",
+      "title": "全身激痛點地圖：你真的知道疼痛的根源嗎？一次掌握頭、頸、肩、背、胸、手、腰、腹、臀、腿、膝、足百處激痛點，找到根源、破除迷思，疼痛從此徹底消除！",
+      "author": "侯鐘堡",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "全身激痛點地圖",
+        "你真的知道疼痛的根源嗎？一次掌握頭、頸、肩、背、胸、手、腰、腹、臀、腿、膝、足百處激痛點，找到根源、破除迷思，疼痛從此徹底消除！",
+        "經典"
+      ],
+      "sourceName": "讀冊－醫學保健10年暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100904635.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-36.json",
+      "workId": "findbook-19860901-20210901-c9"
+    },
+    {
+      "id": "04_healthcare-20210901-37",
+      "title": "生酮治病飲食全書：酮體自救飲食者最真實的成功告白",
+      "author": "吉米．摩爾、艾瑞克．魏斯特曼",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "生酮治病飲食全書",
+        "酮體自救飲食者最真實的成功告白",
+        "經典"
+      ],
+      "sourceName": "讀冊－醫學保健10年暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100812637.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-37.json",
+      "workId": "findbook-19860901-20210901-c9"
+    },
+    {
+      "id": "04_healthcare-20210901-38",
+      "title": "圖解黃帝內經大全（暢銷增訂版）",
+      "author": "陳昌駿",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "圖解黃帝內經大全（暢銷增訂版）",
+        "經典"
+      ],
+      "sourceName": "讀冊－醫學保健10年暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100891844.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-38.json",
+      "workId": "findbook-19860901-20210901-c9"
+    },
+    {
+      "id": "04_healthcare-20210901-39",
+      "title": "身體的立體結構網絡：一個結構治療科醫師的筆記",
+      "author": "林兩傳",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "身體的立體結構網絡",
+        "一個結構治療科醫師的筆記",
+        "經典"
+      ],
+      "sourceName": "讀冊－醫學保健10年暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100921719.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-39.json",
+      "workId": "findbook-19860901-20210901-c9"
+    },
+    {
+      "id": "04_healthcare-20210901-40",
+      "title": "神奇西芹汁：醫療靈媒給你這個時代最有效、療癒全球數百萬人的靈藥",
+      "author": "安東尼．威廉",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "神奇西芹汁",
+        "醫療靈媒給你這個時代最有效、療癒全球數百萬人的靈藥",
+        "經典"
+      ],
+      "sourceName": "讀冊－醫學保健10年暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100887120.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-40.json",
+      "workId": "findbook-19860901-20210901-c9"
+    },
+    {
+      "id": "02_psychology_growth-20210901-36",
+      "title": "這世界很煩，但你要很可愛",
+      "author": "萬特特 等",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "這世界很煩，但你要很可愛",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100896614.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-36.json",
+      "workId": "findbook-19860901-20210901-c9"
+    },
+    {
+      "id": "02_psychology_growth-20210901-37",
+      "title": "最後的演講",
+      "author": "蘭迪‧鮑許、傑弗利‧札斯",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "最後的演講",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100019370.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-37.json",
+      "workId": "findbook-19860901-20210901-c9"
+    },
+    {
+      "id": "02_psychology_growth-20210901-38",
+      "title": "遇見未知的自己【恩佐全彩插圖典藏版】：張德芬經典代表作「身心靈三部曲」喚醒篇（限量金句蓋印扉頁）",
+      "author": "張德芬",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "遇見未知的自己【恩佐全彩插圖典藏版】",
+        "張德芬經典代表作「身心靈三部曲」喚醒篇（限量金句蓋印扉頁）",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100896545.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-38.json",
+      "workId": "findbook-19860901-20210901-c9"
+    },
+    {
+      "id": "02_psychology_growth-20210901-39",
+      "title": "Good Luck：當幸運來敲門（全新插圖．30萬冊暢銷典藏版）",
+      "author": "亞歷士‧羅維拉 & 費南多‧德里亞斯迪貝斯",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "當幸運來敲門（全新插圖．30萬冊暢銷典藏版）",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100815397.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-39.json",
+      "workId": "findbook-19860901-20210901-c9"
+    },
+    {
+      "id": "02_psychology_growth-20210901-40",
+      "title": "卡內基 人性的弱點",
+      "author": "戴爾．卡內基",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "卡內基",
+        "人性的弱點",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100926539.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-40.json",
+      "workId": "findbook-19860901-20210901-c9"
+    },
+    {
+      "id": "01_business_startup-20210901-41",
+      "title": "找到你的為什麼:尋找最值得你燃燒自己、點亮別人熱情的行動計畫",
+      "author": "賽門.西奈克、大衛.米德、彼得.道克",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "找到你的為什麼",
+        "尋找最值得你燃燒自己、點亮別人熱情的行動計畫",
+        "經典"
+      ],
+      "sourceName": "讀冊-商業歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100845993.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-41.json",
+      "workId": "findbook-20260901-151200"
+    },
+    {
+      "id": "01_business_startup-20210901-42",
+      "title": "M型窮人只要面紙不要印鈔機:M型富人建構[不斷電印鈔機]的祕密",
+      "author": "張景富",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "M型窮人只要面紙不要印鈔機",
+        "M型富人建構[不斷電印鈔機]的祕密",
+        "經典"
+      ],
+      "sourceName": "讀冊-商業歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100221390.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-42.json",
+      "workId": "findbook-20260901-151200"
+    },
+    {
+      "id": "01_business_startup-20210901-43",
+      "title": "成為有趣人的55條說話公式:日本最幽默導演教你用「聊天」提升人際魅力,讓你職場、情場、交友、演講、自我介紹......處處無往不利!",
+      "author": "吉田照幸",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "成為有趣人的55條說話公式",
+        "日本最幽默導演教你用「聊天」提升人際魅力,讓你職場、情場、交友、演講、自我介紹......處處無往不利!",
+        "經典"
+      ],
+      "sourceName": "讀冊-商業歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100794485.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-43.json",
+      "workId": "findbook-20260901-151200"
+    },
+    {
+      "id": "01_business_startup-20210901-44",
+      "title": "順流致富GPS:從擺脫負債到億萬身價的Step by Step指南",
+      "author": "羅傑.漢彌頓",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "順流致富GPS",
+        "從擺脫負債到億萬身價的Step",
+        "Step指南",
+        "經典"
+      ],
+      "sourceName": "讀冊-商業10年暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100767473.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-44.json",
+      "workId": "findbook-20260901-151200"
+    },
+    {
+      "id": "01_business_startup-20210901-45",
+      "title": "聊天就能把東西賣掉! 修訂版",
+      "author": "箱田忠昭",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "聊天就能把東西賣掉!",
+        "修訂版",
+        "經典"
+      ],
+      "sourceName": "讀冊-商業10年暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100869822.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-45.json",
+      "workId": "findbook-20260901-151200"
+    },
+    {
+      "id": "02_psychology_growth-20210901-41",
+      "title": "異數:超凡與平凡的界線在哪裡?(暢銷慶功版)",
+      "author": "麥爾坎.葛拉威爾",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "異數",
+        "超凡與平凡的界線在哪裡?(暢銷慶功版)",
+        "經典"
+      ],
+      "sourceName": "讀冊-心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100913882.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-41.json",
+      "workId": "findbook-20260901-151200"
+    },
+    {
+      "id": "02_psychology_growth-20210901-42",
+      "title": "可不可以,你也剛好喜歡我?",
+      "author": "肆一",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "可不可以,你也剛好喜歡我?",
+        "經典"
+      ],
+      "sourceName": "讀冊-心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100684121.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-42.json",
+      "workId": "findbook-20260901-151200"
+    },
+    {
+      "id": "02_psychology_growth-20210901-43",
+      "title": "拖延心理學:為什麼我老是愛拖延?是與生俱來的壞習慣,還是身不由己?(暢銷35週年增修新版)",
+      "author": "珍‧博克、萊諾拉‧袁",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "拖延心理學",
+        "為什麼我老是愛拖延?是與生俱來的壞習慣,還是身不由己?(暢銷35週年增修新版)",
+        "經典"
+      ],
+      "sourceName": "讀冊-心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100814407.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-43.json",
+      "workId": "findbook-20260901-151200"
+    },
+    {
+      "id": "02_psychology_growth-20210901-44",
+      "title": "接受不完美的勇氣:阿德勒100句人生革命",
+      "author": "小倉廣",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "接受不完美的勇氣",
+        "阿德勒100句人生革命",
+        "經典"
+      ],
+      "sourceName": "讀冊-心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100734977.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-44.json",
+      "workId": "findbook-20260901-151200"
+    },
+    {
+      "id": "02_psychology_growth-20210901-45",
+      "title": "情緒勒索(全球暢銷20年經典):遇到利用恐懼、責任與罪惡感控制你的人,該怎麼辦?",
+      "author": "蘇珊.佛沃(Susan Forward, Ph.D.)、唐娜.費瑟(Donna Frazier)",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "情緒勒索(全球暢銷20年經典)",
+        "遇到利用恐懼、責任與罪惡感控制你的人,該怎麼辦?",
+        "經典"
+      ],
+      "sourceName": "讀冊-心理勵志10年暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100823762.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-45.json",
+      "workId": "findbook-20260901-151200"
+    },
+    {
+      "id": "03_natural_science-20210901-41",
+      "title": "微積分之屠龍寶刀(2018版)",
+      "author": "亞當斯、湯普森、哈斯",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "微積分之屠龍寶刀(2018版)",
+        "經典"
+      ],
+      "sourceName": "讀冊-科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100865786.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-41.json",
+      "workId": "findbook-20260901-151200"
+    },
+    {
+      "id": "03_natural_science-20210901-42",
+      "title": "我,為什麼會這樣?:喜歡這些,討厭那些,從生物學、腦科學與心理學解釋我們的喜好、情緒、行為與想法,重啟一趟人類的認識之旅",
+      "author": "比爾.蘇利文",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "我,為什麼會這樣?",
+        "喜歡這些,討厭那些,從生物學、腦科學與心理學解釋我們的喜好、情緒、行為與想法,重啟一趟人類的認識之旅",
+        "經典"
+      ],
+      "sourceName": "讀冊-科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100908285.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-42.json",
+      "workId": "findbook-20260901-151200"
+    },
+    {
+      "id": "03_natural_science-20210901-43",
+      "title": "機艙機密:空中旅行大百科",
+      "author": "派翠克・史密斯",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "機艙機密",
+        "空中旅行大百科",
+        "經典"
+      ],
+      "sourceName": "讀冊-科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100867803.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-43.json",
+      "workId": "findbook-20260901-151200"
+    },
+    {
+      "id": "03_natural_science-20210901-44",
+      "title": "100個即將消失的地方",
+      "author": "Co+Life A/S、汪中和",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "100個即將消失的地方",
+        "經典"
+      ],
+      "sourceName": "讀冊-科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100225640.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-44.json",
+      "workId": "findbook-20260901-151200"
+    },
+    {
+      "id": "03_natural_science-20210901-45",
+      "title": "永恆的禮物",
+      "author": "蘿倫麥柯",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "永恆的禮物",
+        "經典"
+      ],
+      "sourceName": "讀冊-科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100806192.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-45.json",
+      "workId": "findbook-20260901-151200"
+    },
+    {
+      "id": "04_healthcare-20210901-41",
+      "title": "精油芳療教科書",
+      "author": "小野江里子",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "精油芳療教科書",
+        "經典"
+      ],
+      "sourceName": "讀冊-醫學保健10年暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100873797.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-41.json",
+      "workId": "findbook-20260901-151200"
+    },
+    {
+      "id": "04_healthcare-20210901-42",
+      "title": "英國長銷經典水晶能量療癒萬用書 : 改善氣場x緩解疼痛x穩定身心x增加財富x促進人緣,250種水晶礦石給你最完整的生活對策",
+      "author": "菲利浦.普慕特",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "英國長銷經典水晶能量療癒萬用書",
+        "改善氣場x緩解疼痛x穩定身心x增加財富x促進人緣,250種水晶礦石給你最完整的生活對策",
+        "經典"
+      ],
+      "sourceName": "讀冊-醫學保健10年暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100869757.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-42.json",
+      "workId": "findbook-20260901-151200"
+    },
+    {
+      "id": "04_healthcare-20210901-43",
+      "title": "抗炎體質這樣吃!台大醫師教你喚醒身體的自癒力",
+      "author": "林曉凌",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "抗炎體質這樣吃!台大醫師教你喚醒身體的自癒力",
+        "經典"
+      ],
+      "sourceName": "讀冊-醫學保健10年暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100780471.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-43.json",
+      "workId": "findbook-20260901-151200"
+    },
+    {
+      "id": "04_healthcare-20210901-44",
+      "title": "神奇顫掌功:白雁教你微幅振動自救術,3分鐘氣通、除病根、氣癒百病!",
+      "author": "白雁、彥寬、葉樹人",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "神奇顫掌功",
+        "白雁教你微幅振動自救術,3分鐘氣通、除病根、氣癒百病!",
+        "經典"
+      ],
+      "sourceName": "讀冊-醫學保健10年暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100839200.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-44.json",
+      "workId": "findbook-20260901-151200"
+    },
+    {
+      "id": "04_healthcare-20210901-45",
+      "title": "視覺與生命:邁向好視力的十步驟",
+      "author": "梅爾.史乃德",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "視覺與生命",
+        "邁向好視力的十步驟",
+        "經典"
+      ],
+      "sourceName": "讀冊-醫學保健10年暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100683579.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-45.json",
+      "workId": "findbook-20260901-151200"
     }
   ],
-  "totalBooks": 4120,
+  "totalBooks": 4160,
   "searchDateRange": {
     "from": "1986-09-01",
     "to": "2021-09-01"
   },
   "generatedFrom": "FindBook_Skill.md reservation checkpoint",
-  "generatedAt": "2026-09-01T11:37:54+08:00"
+  "generatedAt": "2026-09-01T15:16:04+08:00"
 }
