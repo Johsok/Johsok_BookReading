@@ -1,15 +1,18 @@
 # -*- coding: utf-8 -*-
-"""Scrape Chinese new/hot books: 博客來 → 金石堂 → 讀冊."""
+"""Scrape Chinese new/hot books: 博客來 first, then 金石堂／讀冊 if quota remains."""
 from __future__ import annotations
 
+import argparse
+import json
 import re
 import ssl
-import time
 import unicodedata
 import urllib.error
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date, datetime
 from html import unescape
+from pathlib import Path
 from typing import Callable
 
 HAS_HAN = re.compile(r"[\u4e00-\u9fff]")
@@ -202,7 +205,7 @@ def fetch_html(url: str, referer: str = "") -> str:
     last_error: Exception | None = None
     for context in contexts:
         try:
-            with urllib.request.urlopen(request, timeout=28, context=context) as response:
+            with urllib.request.urlopen(request, timeout=12, context=context) as response:
                 raw = response.read()
             return raw.decode("utf-8", "replace")
         except Exception as exc:  # noqa: BLE001
@@ -362,7 +365,8 @@ def enrich_if_needed(
     referer: str,
     should_stop: StopFn | None,
 ) -> dict:
-    if item.get("author") and item.get("published"):
+    """Fill author from the detail page only when the list row has no author."""
+    if item.get("author"):
         return item
     if _stopped(should_stop):
         return item
@@ -374,7 +378,6 @@ def enrich_if_needed(
         item["author"] = author
     if published:
         item["published"] = published
-    time.sleep(0.25)
     return item
 
 
@@ -408,6 +411,81 @@ def to_candidate(item: dict, category_id: str, from_date: str, to_date: str) -> 
     }
 
 
+def _fetch_pages_parallel(pages: list[str], referer: str, log: LogFn | None) -> list[tuple[str, str]]:
+    """Fetch list pages in parallel. Failed URLs are skipped."""
+    if not pages:
+        return []
+    results: list[tuple[str, str]] = []
+
+    def _one(url: str) -> tuple[str, str]:
+        return url, fetch_html(url, referer=referer)
+
+    workers = min(4, len(pages))
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = {pool.submit(_one, url): url for url in pages}
+        for future in as_completed(futures):
+            url = futures[future]
+            try:
+                results.append(future.result())
+            except Exception as exc:  # noqa: BLE001
+                _log(log, f"列表失敗：{url} ({exc})")
+    return results
+
+
+def _accept_item(
+    item: dict,
+    existing_keys: set[str],
+    seen_keys: set[str],
+    from_date: str,
+    to_date: str,
+) -> str:
+    """Return the dedupe key if the row is usable; otherwise empty."""
+    title = str(item.get("title") or "")
+    author = str(item.get("author") or "")
+    if not has_han(title) or not author:
+        return ""
+    key = normalized_key(title, author)
+    if key in existing_keys or key in seen_keys:
+        return ""
+    published = str(item.get("published") or "")
+    if published and not in_date_range(published, from_date, to_date):
+        return ""
+    return key
+
+
+def _enrich_parallel(
+    items: list[dict],
+    parse_detail,
+    referer: str,
+    limit: int,
+    should_stop: StopFn | None,
+    log: LogFn | None,
+    source_site: str,
+) -> list[dict]:
+    """Fetch detail pages only for rows still missing an author."""
+    if not items or limit <= 0:
+        return []
+    filled: list[dict] = []
+
+    def _one(raw: dict) -> dict:
+        return enrich_if_needed(raw, parse_detail, referer, should_stop)
+
+    workers = min(4, len(items), max(1, limit))
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = [pool.submit(_one, raw) for raw in items]
+        for future in as_completed(futures):
+            if _stopped(should_stop) or len(filled) >= limit:
+                break
+            try:
+                item = future.result()
+            except Exception as exc:  # noqa: BLE001
+                _log(log, f"{source_site} 詳情失敗：{exc}")
+                continue
+            if item.get("author"):
+                filled.append(item)
+    return filled
+
+
 def _collect_from_pages(
     pages: list[str],
     parse_list,
@@ -425,39 +503,50 @@ def _collect_from_pages(
     log: LogFn | None,
 ) -> list[dict]:
     found: list[dict] = []
-    for page_url in pages:
-        if _stopped(should_stop) or len(found) >= buffer:
-            break
-        try:
-            html = fetch_html(page_url, referer=referer)
-        except Exception as exc:  # noqa: BLE001
-            _log(log, f"{source_site} 列表失敗：{page_url} ({exc})")
-            continue
+    if not pages or buffer <= 0 or _stopped(should_stop):
+        return found
+
+    parsed_items: list[dict] = []
+    for page_url, html in _fetch_pages_parallel(pages, referer, log):
         parsed = parse_list(html)
         _log(log, f"{source_site} {page_url} 解析 {len(parsed)} 筆")
-        for raw in parsed:
-            if _stopped(should_stop) or len(found) >= buffer:
+        parsed_items.extend(parsed)
+
+    ready: list[dict] = []
+    missing_author: list[dict] = []
+    for raw in parsed_items:
+        title = str(raw.get("title") or "")
+        if not has_han(title):
+            continue
+        if raw.get("author"):
+            ready.append(raw)
+        else:
+            missing_author.append(raw)
+
+    def _take(item: dict) -> bool:
+        if len(found) >= buffer or _stopped(should_stop):
+            return False
+        key = _accept_item(item, existing_keys, seen_keys, from_date, to_date)
+        if not key:
+            return False
+        seen_keys.add(key)
+        item["sourceSite"] = source_site
+        item["sourceName"] = source_name
+        found.append(to_candidate(item, category_id, from_date, to_date))
+        return True
+
+    for raw in ready:
+        if not _take(raw) and len(found) >= buffer:
+            break
+
+    remaining = buffer - len(found)
+    if remaining > 0 and missing_author and not _stopped(should_stop):
+        extra = missing_author[: remaining * 2]
+        for item in _enrich_parallel(
+            extra, parse_detail, referer, remaining, should_stop, log, source_site
+        ):
+            if not _take(item) and len(found) >= buffer:
                 break
-            try:
-                item = enrich_if_needed(raw, parse_detail, referer, should_stop)
-            except Exception as exc:  # noqa: BLE001
-                _log(log, f"{source_site} 詳情失敗：{raw.get('sourceUrl')} ({exc})")
-                continue
-            title = str(item.get("title") or "")
-            author = str(item.get("author") or "")
-            if not has_han(title) or not author:
-                continue
-            key = normalized_key(title, author)
-            if key in existing_keys or key in seen_keys:
-                continue
-            published = str(item.get("published") or "")
-            if published and not in_date_range(published, from_date, to_date):
-                continue
-            seen_keys.add(key)
-            item["sourceSite"] = source_site
-            item["sourceName"] = source_name
-            found.append(to_candidate(item, category_id, from_date, to_date))
-        time.sleep(0.3)
     return found
 
 
@@ -473,7 +562,7 @@ def scrape_category(
     """Find extra Chinese candidates for one category. Caller stops at quota after reserve."""
     if category_id not in CATEGORY_LABELS:
         raise ValueError(f"未知主題：{category_id}")
-    buffer = max(quota + 2, int(quota * 1.2) + 1)
+    buffer = quota + 1
     label = CATEGORY_LABELS[category_id]
     seen_keys: set[str] = set()
     collected: list[dict] = []
@@ -529,10 +618,76 @@ def scrape_category(
     return collected
 
 
-CATEGORY_LABELS = CATEGORY_LABELS
-parse_books_list = parse_books_list
-parse_books_detail = parse_books_detail
-parse_kingstone_list = parse_kingstone_list
-parse_kingstone_detail = parse_kingstone_detail
-parse_taaze_list = parse_taaze_list
-parse_taaze_detail = parse_taaze_detail
+def load_existing_keys(root: Path) -> set[str]:
+    """Build title+author keys from data.json only; do not open book files."""
+    manifest = json.loads((root / "data.json").read_text(encoding="utf-8-sig"))
+    return {
+        normalized_key(str(book.get("title", "")), str(book.get("author", "")))
+        for book in manifest.get("books", [])
+    }
+
+
+def scrape_categories(
+    category_ids: list[str],
+    from_date: str,
+    to_date: str,
+    existing_keys: set[str],
+    quota: int,
+    should_stop: StopFn | None = None,
+    log: LogFn | None = None,
+) -> dict[str, list[dict]]:
+    """Scrape several categories in parallel."""
+    results: dict[str, list[dict]] = {}
+    if not category_ids:
+        return results
+    workers = min(4, len(category_ids))
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        futures = {
+            pool.submit(
+                scrape_category,
+                category_id,
+                from_date,
+                to_date,
+                existing_keys,
+                quota,
+                should_stop,
+                log,
+            ): category_id
+            for category_id in category_ids
+        }
+        for future in as_completed(futures):
+            category_id = futures[future]
+            results[category_id] = future.result()
+    return results
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description="FindBook list-page scraper")
+    parser.add_argument("--root", default=str(Path(__file__).resolve().parents[1]))
+    parser.add_argument("--category-ids", required=True, help="Comma-separated categoryId list")
+    parser.add_argument("--quota", type=int, required=True)
+    parser.add_argument("--from-date", required=True)
+    parser.add_argument("--to-date", required=True)
+    parser.add_argument("--out", required=True, help="JSON object keyed by categoryId")
+    args = parser.parse_args()
+    root = Path(args.root).resolve()
+    category_ids = [item.strip() for item in args.category_ids.split(",") if item.strip()]
+    existing_keys = load_existing_keys(root)
+    payload = scrape_categories(
+        category_ids,
+        args.from_date,
+        args.to_date,
+        existing_keys,
+        args.quota,
+        log=print,
+    )
+    out_path = Path(args.out)
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    out_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    total = sum(len(items) for items in payload.values())
+    print(f"wrote {out_path} categories={len(payload)} candidates={total}")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
