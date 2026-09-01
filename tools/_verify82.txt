@@ -1,5 +1,0 @@
-02_psychology_growth-20260716-78	status=complete	source=grok	n=150	updatedAt=2026-08-17
-02_psychology_growth-20260716-79	status=complete	source=grok	n=150	updatedAt=2026-08-17
-02_psychology_growth-20260716-80	status=complete	source=grok	n=150	updatedAt=2026-08-17
-02_psychology_growth-20260716-81	status=complete	source=grok	n=150	updatedAt=2026-08-17
-02_psychology_growth-20260716-82	status=complete	source=grok	n=150	updatedAt=2026-08-17

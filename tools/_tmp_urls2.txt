@@ -1,14 +1,0 @@
-https://www.taaze.tw/listSCDetail_newEc.html?masNo=20221665
-len=32 taaze=0 [] books=0 [] head=         {"total":0,"items":[]} 
-https://www.taaze.tw/listSCDetail_newEc.html?p=20221665
-len=32 taaze=0 [] books=0 [] head=         {"total":0,"items":[]} 
-https://www.taaze.tw/rwd_list.html?t=11&k=03&a=01&p=20221665
-len=260713 taaze=112 ['11101095369', '11101094356', '11101086450', '11101095369', '11101094356', '11101086450'] books=0 [] head=                                         <!DOCTYPE html> <html lang="zh-hant"> <head> <meta http-equiv="Content-Type" co
-https://www.taaze.tw/ajaxFindCat4Xsx.html?p=20221665
-len=21 taaze=0 [] books=0 [] head=[{"message":"error"}]
-https://www.taaze.tw/new_include/js/bookview_snd_act_result.js
-len=37496 taaze=0 [] books=0 [] head=/** * */ $(document).ready(function() { /* $.blockUI({ // styles for the overlay overlayCSS: { backgroundColor: '#fff', 
-https://www.books.com.tw/web/books_midm_01/?o=5&v=1
-len=6389 taaze=0 [] books=0 [] head=<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "https://www.w3.org/TR/html4/strict.dtd"> <html> <head>     <meta h
-https://search.books.com.tw/search/query/cat/001001/sort/5/v/0/page/1/spell/3
-len=13350 taaze=0 [] books=0 [] head=<!DOCTYPE html> <html lang="zh-Hant-TW"> <head> <meta charset="UTF-8"> <title>博客來-目前您搜尋的關鍵字為: </title> <meta name="keywo
