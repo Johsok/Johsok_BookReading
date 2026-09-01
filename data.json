@@ -60701,13 +60701,376 @@
       "sourceUrl": "https://www.taaze.tw/products/11100942919.html",
       "file": "Books/04_healthcare/04_healthcare-20210901-15.json",
       "workId": "findbook-19860901-20210901-c5n"
+    },
+    {
+      "id": "01_business_startup-20210901-16",
+      "title": "總裁獅子心（20週年全新修訂精裝版）",
+      "author": "嚴長壽",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "經典",
+        "總裁獅子心（20週年全新修訂精裝版）"
+      ],
+      "sourceName": "讀冊－商業歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100821013.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-16.json",
+      "workId": "findbook-19860901-20210901-c5b"
+    },
+    {
+      "id": "01_business_startup-20210901-17",
+      "title": "為什麼聰明人都用方格筆記本？：康乃爾大學、麥肯錫顧問的祕密武器",
+      "author": "高橋政史",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "經典",
+        "為什麼聰明人都用方格筆記本？",
+        "康乃爾大學、麥肯錫顧問的祕密武器"
+      ],
+      "sourceName": "讀冊－商業歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100734552.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-17.json",
+      "workId": "findbook-19860901-20210901-c5b"
+    },
+    {
+      "id": "01_business_startup-20210901-18",
+      "title": "貨幣戰爭：誰掌握了貨幣，誰就能主宰這個世界【暢銷新裝版】",
+      "author": "宋鴻兵",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "經典",
+        "貨幣戰爭",
+        "誰掌握了貨幣，誰就能主宰這個世界【暢銷新裝版】"
+      ],
+      "sourceName": "讀冊－投資理財2021暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100905784.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-18.json",
+      "workId": "findbook-19860901-20210901-c5b"
+    },
+    {
+      "id": "01_business_startup-20210901-19",
+      "title": "OFF學：愈會玩，工作愈成功",
+      "author": "大前研一",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "經典",
+        "OFF學",
+        "愈會玩，工作愈成功"
+      ],
+      "sourceName": "讀冊－商業歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100673061.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-19.json",
+      "workId": "findbook-19860901-20210901-c5b"
+    },
+    {
+      "id": "01_business_startup-20210901-20",
+      "title": "成為有趣人的55條說話公式：日本最幽默導演教你用「聊天」提升人際魅力，讓你職場、情場、交友、演講、自我介紹都不冷場",
+      "author": "吉田照幸",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "經典",
+        "成為有趣人的55條說話公式",
+        "日本最幽默導演教你用「聊天」提升人際魅力，讓你職場、情場、交友、演講、自我介紹都不冷場"
+      ],
+      "sourceName": "讀冊－商業歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100794485.html",
+      "file": "Books/01_business_startup/01_business_startup-20210901-20.json",
+      "workId": "findbook-19860901-20210901-c5b"
+    },
+    {
+      "id": "02_psychology_growth-20210901-16",
+      "title": "Good Luck：當幸運來敲門（全新插圖．30萬冊暢銷典藏版）",
+      "author": "亞歷士‧羅維拉、費南多‧德里亞斯迪貝",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "經典",
+        "當幸運來敲門（全新插圖．30萬冊暢銷典藏版）"
+      ],
+      "sourceName": "讀冊－心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100815397.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-16.json",
+      "workId": "findbook-19860901-20210901-c5b"
+    },
+    {
+      "id": "02_psychology_growth-20210901-17",
+      "title": "禮物",
+      "author": "史賓賽．強森博士",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "經典",
+        "禮物"
+      ],
+      "sourceName": "讀冊－心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100190940.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-17.json",
+      "workId": "findbook-19860901-20210901-c5b"
+    },
+    {
+      "id": "02_psychology_growth-20210901-18",
+      "title": "覺醒的你：暢銷百萬，歐普拉的床頭靈修書",
+      "author": "麥克．辛格",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "經典",
+        "覺醒的你",
+        "暢銷百萬，歐普拉的床頭靈修書"
+      ],
+      "sourceName": "讀冊－心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100839431.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-18.json",
+      "workId": "findbook-19860901-20210901-c5b"
+    },
+    {
+      "id": "02_psychology_growth-20210901-19",
+      "title": "情緒寄生：與自我和解的34則情感教育",
+      "author": "許皓宜",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "經典",
+        "情緒寄生",
+        "與自我和解的34則情感教育"
+      ],
+      "sourceName": "讀冊－心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100856233.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-19.json",
+      "workId": "findbook-19860901-20210901-c5b"
+    },
+    {
+      "id": "02_psychology_growth-20210901-20",
+      "title": "想太多也沒關係：如何紓解紛亂的思緒？不再對人生感到厭倦！",
+      "author": "克莉司德‧布提可南",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "經典",
+        "想太多也沒關係",
+        "如何紓解紛亂的思緒？不再對人生感到厭倦！"
+      ],
+      "sourceName": "讀冊－心理勵志歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100810107.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20210901-20.json",
+      "workId": "findbook-19860901-20210901-c5b"
+    },
+    {
+      "id": "03_natural_science-20210901-16",
+      "title": "大腦解密手冊：誰在做決策、現實是什麼、為何沒有人是孤島、科技將如何改變大腦的未來",
+      "author": "伊葛門",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "經典",
+        "大腦解密手冊",
+        "誰在做決策、現實是什麼、為何沒有人是孤島、科技將如何改變大腦的未來"
+      ],
+      "sourceName": "讀冊－科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100802999.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-16.json",
+      "workId": "findbook-19860901-20210901-c5b"
+    },
+    {
+      "id": "03_natural_science-20210901-17",
+      "title": "大腦的祕密檔案（增訂版）",
+      "author": "Rita Carter",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "經典",
+        "大腦的祕密檔案（增訂版）"
+      ],
+      "sourceName": "讀冊－科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100527976.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-17.json",
+      "workId": "findbook-19860901-20210901-c5b"
+    },
+    {
+      "id": "03_natural_science-20210901-18",
+      "title": "為什麼公車一次來三班？：從自然的奧妙原理到日常的不思議定律，探索生活中隱藏的81個數學謎題",
+      "author": "羅勃．伊斯威、傑瑞米‧溫德漢",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "經典",
+        "為什麼公車一次來三班？",
+        "從自然的奧妙原理到日常的不思議定律，探索生活中隱藏的81個數學謎題"
+      ],
+      "sourceName": "讀冊－科學2021暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100938712.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-18.json",
+      "workId": "findbook-19860901-20210901-c5b"
+    },
+    {
+      "id": "03_natural_science-20210901-19",
+      "title": "第七感：啟動認知自我與感知他人的幸福連結",
+      "author": "丹尼爾．席格",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "經典",
+        "第七感",
+        "啟動認知自我與感知他人的幸福連結"
+      ],
+      "sourceName": "讀冊－科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100863635.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-19.json",
+      "workId": "findbook-19860901-20210901-c5b"
+    },
+    {
+      "id": "03_natural_science-20210901-20",
+      "title": "信念的力量（十週年增訂紀念版）",
+      "author": "布魯斯．立普頓",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "經典",
+        "信念的力量（十週年增訂紀念版）"
+      ],
+      "sourceName": "讀冊－科學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100814883.html",
+      "file": "Books/03_natural_science/03_natural_science-20210901-20.json",
+      "workId": "findbook-19860901-20210901-c5b"
+    },
+    {
+      "id": "04_healthcare-20210901-16",
+      "title": "求醫不如求己（增訂版）",
+      "author": "中里巴人",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "經典",
+        "求醫不如求己（增訂版）"
+      ],
+      "sourceName": "讀冊－醫學保健歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100137636.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-16.json",
+      "workId": "findbook-19860901-20210901-c5b"
+    },
+    {
+      "id": "04_healthcare-20210901-17",
+      "title": "過敏，原來可以根治！陳俊旭博士的抗過敏寶典(4版)",
+      "author": "陳俊旭",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "經典",
+        "過敏，原來可以根治！陳俊旭博士的抗過敏寶典(4版)"
+      ],
+      "sourceName": "讀冊－醫學保健歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100804000.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-17.json",
+      "workId": "findbook-19860901-20210901-c5b"
+    },
+    {
+      "id": "04_healthcare-20210901-18",
+      "title": "病從排寒解：22個自主排寒關鍵，教你從飲食入手，徹底預防新病、根除舊疾、溫養一生！",
+      "author": "李璧如",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "經典",
+        "病從排寒解",
+        "22個自主排寒關鍵，教你從飲食入手，徹底預防新病、根除舊疾、溫養一生！"
+      ],
+      "sourceName": "讀冊－醫學保健歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100858794.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-18.json",
+      "workId": "findbook-19860901-20210901-c5b"
+    },
+    {
+      "id": "04_healthcare-20210901-19",
+      "title": "人體自癒療法【白金增訂版】：三分鐘動出免疫力",
+      "author": "黃木村",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "經典",
+        "人體自癒療法【白金增訂版】",
+        "三分鐘動出免疫力"
+      ],
+      "sourceName": "讀冊－醫學保健歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100248476.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-19.json",
+      "workId": "findbook-19860901-20210901-c5b"
+    },
+    {
+      "id": "04_healthcare-20210901-20",
+      "title": "醫生哪有這麼萌：Nikumon的實習生活全紀錄",
+      "author": "Nikumon",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "經典",
+        "醫生哪有這麼萌",
+        "Nikumon的實習生活全紀錄"
+      ],
+      "sourceName": "讀冊－醫學保健歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100744800.html",
+      "file": "Books/04_healthcare/04_healthcare-20210901-20.json",
+      "workId": "findbook-19860901-20210901-c5b"
     }
   ],
-  "totalBooks": 4040,
+  "totalBooks": 4060,
   "searchDateRange": {
     "from": "1986-09-01",
     "to": "2021-09-01"
   },
   "generatedFrom": "FindBook_Skill.md reservation checkpoint",
-  "generatedAt": "2026-09-01T08:41:36+08:00"
+  "generatedAt": "2026-09-01T09:28:00+08:00"
 }
