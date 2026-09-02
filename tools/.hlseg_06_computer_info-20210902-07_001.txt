@@ -1,0 +1,75 @@
+001、巨集把一連串 Excel 點選與輸入錄成可重播的 VBA 程式，用來把每天相同的報表動作收成一次執行。
+002、VBA 是嵌在 Excel 裡的 Visual Basic for Applications，專門驅動 Application、Workbook、Worksheet 與 Range 這些物件。
+003、錄製巨集的價值在於抓出正確的物件路徑與方法名稱，錄完必須進編輯器刪掉多餘的 Select 與 Activate。
+004、絕對參照錄製會寫死儲存格位址，相對參照錄製會依作用儲存格位移，同一套流程不能混用兩種座標邏輯。
+005、巨集若存在單一工作簿，只隨該檔開啟；放進個人巨集活頁簿 PERSONAL.XLSB，才可在所有活頁簿呼叫。
+006、巨集安全性會封鎖未信任的程式碼，開發前要設好信任位置或啟用內容，否則快捷鍵與按鈕都不會真正執行。
+007、開發人員索引標籤提供錄製、巨集清單與 Visual Basic 按鈕，是進出 VBE 與指定快捷鍵的入口。
+008、VBE 由專案總管、屬性視窗與程式碼視窗組成，找物件名稱看專案總管，改物件屬性看屬性視窗，寫敘述才在程式碼視窗。
+009、標準模組放可被按鈕或快捷鍵呼叫的 Sub，工作表模組與 ThisWorkbook 模組則只適合寫該物件自己的事件程序。
+010、Option Explicit 強迫每個變數先宣告，避免名稱拼錯時 VBA 默默生出新的 Variant 而算錯卻不報錯。
+011、Sub 程序負責執行動作且不回傳值，Function 程序計算後回傳結果，可交給儲存格公式或其他程序使用。
+012、程式預設由上而下依序執行，只有條件、迴圈與 Exit Sub、Exit Function 會改變路徑或提早結束。
+013、Excel VBA 採物件階層，必須先鎖定 Application 或 Workbooks，才能往下取得 Worksheets，最後才碰 Range。
+014、Application 代表 Excel 應用程式，用來切換計算模式、畫面更新、狀態列文字、警告對話與預設路徑。
+015、Workbook 對應一份活頁簿檔案，可用 Workbooks("檔名.xlsx")、Workbooks(索引)、ThisWorkbook 或 ActiveWorkbook 指向。
+016、ThisWorkbook 永遠是程式碼所在的那一份檔，ActiveWorkbook 是使用者當下正在看的檔，多檔操作時兩者不能互換。
+017、Worksheet 用名稱取得較穩定，用索引取得會因工作表被拖動而指向別張表，自動化應優先用名稱。
+018、Range 表示一個儲存格或一塊區域，可用 A1 位址字串、Cells(列, 欄) 數字座標，或 Offset 相對位移來定位。
+019、ActiveCell 是作用儲存格，Selection 是目前選取範圍，錄製結果常出現這兩個，改寫時應換成明確的 Range。
+020、屬性描述物件當下狀態，例如 Value、Name、Count；方法是物件可執行的動作，例如 Copy、Delete、Save。
+021、點運算子由大到小串起階層，寫成 Workbooks(1).Worksheets("銷售").Range("A1").Value 才能鎖定真正要讀寫的格子。
+022、一般數值與字串用等號賦值，物件變數必須用 Set 指定參照，少寫 Set 或對非物件使用 Set 都會造成型別錯誤。
+023、With...End With 讓同一物件的多個屬性與方法共用前綴路徑，減少重複點階層，也降低中途指到別的物件。
+024、變數是暫存資料的名稱，宣告在程序內只活到該 Sub 結束，宣告在模組頂端才能讓同模組多個程序共用。
+025、Dim 是最常用的宣告方式，Public 讓其他模組也能用，Private 把變數限在本模組，範圍選錯會讀到舊值或根本編譯失敗。
+026、Integer 與 Long 存整數，Double 存小數，String 存文字，Boolean 存真假，Date 存日期時間，Currency 存金額避免二進位誤差。
+027、Excel 列數遠超過 Integer 上限，列號、最後一列與迴圈計數應使用 Long，否則資料一長就溢位。
+028、未宣告型別時預設為 Variant，可暫存不定內容但佔記憶體較大，錯誤也延到執行期才出現，入門就應顯式宣告。
+029、Const 常數在編譯期固定值，適合放稅率、標題列號、檔名字首這類流程中不該被改寫的內容。
+030、字串串接用 &，加減乘除用 + - * /，整數除法用 \，取餘數用 Mod，次方用 ^，日期不能拿來當普通數字亂加。
+031、比較運算子 =、<、>、<=、>=、<> 產生 True 或 False，文字比較會受 Option Compare Binary 或 Text 影響大小寫是否視為相同。
+032、And 要求條件全部成立，Or 只要任一成立，Not 把真假反轉，複合條件必須加括號，否則優先順序會把判斷寫反。
+033、If...Then...ElseIf...Else...End If 依條件分流，適合雙向或少數分支，每個條件都應互斥，避免先寫到的分支把後面永遠擋掉。
+034、對同一個運算式比對多個可能值時用 Select Case，Case Else 承接未列出的值，避免漏掉例外就靜默結束。
+035、For counter = start To end Step n 用計數器走固定次數，Step 可為負值由大往小掃，離開迴圈後計數器會超過終值。
+036、For Each 元素 In 集合 用來巡覽 Worksheets、Workbooks 或 Range 裡每一個成員，成員數量不固定時比用數字計數不容易漏。
+037、Do While 先判斷再執行，條件一開始就不成立就一次都不跑；Do...Loop While 會先做一次再判斷，適合至少要處理一筆的流程。
+038、Do Until 在條件成立時停止，和 Do While 的真假方向相反，寫錯會變成無限迴圈或整段程序被跳過。
+039、Exit For 與 Exit Do 在找到目標或已無資料可處理時立刻離開迴圈，不必掃完整張工作表才收手。
+040、巢狀迴圈外層通常走列、內層走欄，內外層計數器名稱必須分開，否則內層會把外層的列號覆蓋掉。
+041、迴圈終止條件要能在資料耗盡時變成 False 或 True，計數器與最後一列都沒更新就會卡住，畫面像當掉。
+042、MsgBox 顯示訊息並可回傳使用者按下的按鈕，Buttons 參數用 vbYesNo、vbOKCancel、vbCritical 等常數組合按鈕與圖示。
+043、MsgBox 的傳回值要拿 vbYes、vbNo、vbOK、vbCancel 比對，不能只看對話框上的中文按鈕文字來寫判斷。
+044、VBA 的 InputBox 一律收回字串，使用者按取消會得到空字串，寫進儲存格前必須先檢查長度與內容是否可轉成數字或日期。
+045、Application.InputBox 可用 Type 參數限制只能輸入數字、公式或儲存格參照，要讓使用者點選 Range 時應使用這個而不是 VBA InputBox。
+046、Range("A1").Value 讀寫儲存格真正的資料，Text 讀到的是畫面格式化後的文字，Formula 讀寫的是公式字串本身。
+047、寫入時 Value 放純值，Formula 放以等號開頭的公式，NumberFormat 只改顯示外觀，三者分開設定才不會把金額變成文字。
+048、Cells(列, 欄) 用數字座標，欄號 1 代表 A 欄，搭配 For 迴圈計算下一格時，比每次拼接 A1 位址字串更不易算錯。
+049、Offset(列位移, 欄位移) 從基準儲存格相對移動，Resize(列數, 欄數) 改變區域大小，兩者串接可框出隨資料增減的動態區塊。
+050、Range.End(xlDown)、End(xlUp)、End(xlToRight) 模擬 Ctrl 加方向鍵跳到資料邊緣，中間若有空白列或空白欄會提早停下。
+051、UsedRange 是工作表曾經用過的矩形範圍，可能因舊格式或刪不乾淨的空格而偏大，不能直接當成真正的資料最後一列。
+052、CurrentRegion 以某儲存格為中心向外擴成連續資料塊，適合選整張清單，但遇到空白列會被切開而漏掉下面區塊。
+053、判斷最後一列的常用寫法是 Cells(Rows.Count, 欄).End(xlUp).Row，讓清單每天增減時迴圈邊界跟著變，而不是寫死列數。
+054、欄位應先用標題列文字找出欄號再讀寫，不要假設金額永遠在 C 欄，表頭一插入欄就會寫到錯誤格子。
+055、複製應寫 Range.Copy Destination:=目標範圍，讓值直接落到目的地，不要先 Select 再 Paste 走剪貼簿中轉。
+056、Clear 會清掉內容與格式，ClearContents 只清值而保留格式，Delete 會讓後續儲存格上移或左移，三者效果不能當成同一件事。
+057、Interior.Color 與 Font.Color 用 RGB 或色指數改底色與字色，NumberFormat 用格式碼控制千分位、日期、百分比與小數位數。
+058、Rows(n) 與 Columns(n) 代表整列整欄，Insert 與 Delete 會推動其他資料位置，插列前要先確定基準列號來自標題還是資料列。
+059、Worksheets.Add 可指定 Before 或 After 決定新表插入位置，接著用 Name 改表名，名稱不可重複也不可含冒號與斜線等非法字元。
+060、刪除工作表會跳出 Excel 確認對話，可暫把 Application.DisplayAlerts 設成 False 關掉警告，該段結束後必須設回 True。
+061、Visible 設 xlSheetHidden 可從活頁簿介面取消隱藏，設 xlSheetVeryHidden 則只能用 VBA 改回 xlSheetVisible，適合藏參數表。
+062、Activate 讓工作表成為作用表，Select 還會改變選取範圍；讀寫 Value 不需要先 Activate，直接用物件路徑操作較穩定。
+063、Save 把變更寫回原檔，SaveAs 另存並可指定 FileFormat，關檔前若不想跳出存檔詢問，要搭配 Saved 屬性或 DisplayAlerts。
+064、Workbooks.Open 用完整路徑開啟已存在的檔，開啟成功後 ActiveWorkbook 會變成新開的那一份，後續路徑要改指這個物件。
+065、Workbook.Close SaveChanges:=True 或 False 只關指定檔並決定是否寫盤，Workbooks.Close 會關全部已開啟活頁簿，範圍差很多。
+066、Application.ScreenUpdating = False 可暫停畫面閃爍以加快巨集，Application.Calculation = xlCalculationManual 可避免每寫一格就重算，程序結束都要還原。
+067、Application.EnableEvents = False 暫時不觸發 Worksheet_Change 等事件，避免事件程序與主程序互相重入，結束時必須設回 True。
+068、On Error GoTo 標籤把執行期錯誤導到處理區，適合檔案不存在、工作表被改名、範圍是 Nothing 這類可預期失敗。
+069、On Error Resume Next 會忽略錯誤繼續往下跑，只用在「試著找物件，找不到就當沒有」的短區段，不能整支程序都開著。
+070、Err.Number 為 0 代表沒有錯誤，非 0 時可用 Err.Description 讀訊息，處理完要以 Err.Clear 或 Resume 清掉錯誤狀態。
+071、Resume 從出錯那一行重試，Resume Next 從下一行繼續，Resume 標籤跳到指定位置，選錯會重複寫入或跳過必要的存檔步驟。
+072、錯誤處理要先讓工作表名稱、檔案路徑與最後一列都可預期，再對找不到物件或空範圍做分流，而不是一出錯就全部略過。
+073、單引號開頭的註解應說明為何暫停畫面更新或為何用標題列找欄，而不是把程式敘述再翻譯成中文說一次。
+074、名稱要能看出用途，例如 lastRow、wsSales、rngHeader，避免 A、x、temp 這種看不出對應哪張表或哪塊範圍。
+075、改寫錄製巨集的核心判斷是拿掉 Select、Activate 與剪貼簿中轉，改成物件變數直接讀寫 Value，並把開啟、計算、寫回、存檔收成一個可重跑的 Sub。

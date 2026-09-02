@@ -767,7 +767,15 @@ def scrape_category(
     collected: list[dict] = []
     historical = False
     try:
-        historical = date.fromisoformat(to_date) < date(2022, 1, 1)
+        start = date.fromisoformat(from_date)
+        end = date.fromisoformat(to_date)
+        today = datetime.now().date()
+        try:
+            year_ago = date(today.year - 1, today.month, today.day)
+        except ValueError:
+            year_ago = date(today.year - 1, today.month, today.day - 1)
+        # 長區間或截止日期已超過一年，改走讀冊經典榜，而不是近 30 天新書榜。
+        historical = (end - start).days >= 365 * 2 or end <= year_ago
     except ValueError:
         historical = False
 

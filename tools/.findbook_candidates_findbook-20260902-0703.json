@@ -1,0 +1,167 @@
+{
+  "workId": "findbook-20260902-0703",
+  "committed": [
+    {
+      "status": "committed",
+      "id": "01_business_startup-20240902-01",
+      "file": "Books/01_business_startup/01_business_startup-20240902-01.json",
+      "title": "賈伯斯傳（紀念增訂版）",
+      "author": "華特．艾薩克森",
+      "categoryId": "01_business_startup"
+    },
+    {
+      "status": "committed",
+      "id": "01_business_startup-20240902-02",
+      "file": "Books/01_business_startup/01_business_startup-20240902-02.json",
+      "title": "真希望我20歲就懂的事【暢銷經典全新擴增修訂版】：史丹佛大學的創新X創意X創業震撼課程",
+      "author": "婷娜．希莉格",
+      "categoryId": "01_business_startup"
+    },
+    {
+      "status": "committed",
+      "id": "01_business_startup-20240902-03",
+      "file": "Books/01_business_startup/01_business_startup-20240902-03.json",
+      "title": "致富心態（暢銷增訂版）",
+      "author": "摩根．豪瑟",
+      "categoryId": "01_business_startup"
+    },
+    {
+      "status": "committed",
+      "id": "01_business_startup-20240902-04",
+      "file": "Books/01_business_startup/01_business_startup-20240902-04.json",
+      "title": "思考致富聖經 愛藏版",
+      "author": "拿破崙．希爾",
+      "categoryId": "01_business_startup"
+    },
+    {
+      "status": "committed",
+      "id": "01_business_startup-20240902-05",
+      "file": "Books/01_business_startup/01_business_startup-20240902-05.json",
+      "title": "輕鬆駕馭意志力（暢銷10年紀念新版）：史丹佛大學最受歡迎的心理素質課",
+      "author": "凱莉．麥高尼格",
+      "categoryId": "01_business_startup"
+    },
+    {
+      "status": "committed",
+      "id": "02_psychology_growth-20240902-01",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20240902-01.json",
+      "title": "蛤蟆先生去看心理師（暢銷300萬冊！英國心理諮商經典）",
+      "author": "羅伯．狄保德",
+      "categoryId": "02_psychology_growth"
+    },
+    {
+      "status": "committed",
+      "id": "02_psychology_growth-20240902-02",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20240902-02.json",
+      "title": "你的善良必須有點鋒芒【暢銷典藏版】：36則讓你有態度、不委曲，深諳世故卻不世故的世道智慧",
+      "author": "慕顏歌",
+      "categoryId": "02_psychology_growth"
+    },
+    {
+      "status": "committed",
+      "id": "02_psychology_growth-20240902-03",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20240902-03.json",
+      "title": "【暢銷經典版】高敏感是種天賦：肯定自己的獨特，感受更多、想像更多、創造更多",
+      "author": "伊麗絲．桑德",
+      "categoryId": "02_psychology_growth"
+    },
+    {
+      "status": "committed",
+      "id": "02_psychology_growth-20240902-04",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20240902-04.json",
+      "title": "不要在該奮鬥時選擇安逸",
+      "author": "老楊的貓頭鷹",
+      "categoryId": "02_psychology_growth"
+    },
+    {
+      "status": "committed",
+      "id": "02_psychology_growth-20240902-05",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20240902-05.json",
+      "title": "心態致勝（2023版）︰全新成功心理學",
+      "author": "卡蘿．杜維克",
+      "categoryId": "02_psychology_growth"
+    },
+    {
+      "status": "committed",
+      "id": "03_natural_science-20240902-01",
+      "file": "Books/03_natural_science/03_natural_science-20240902-01.json",
+      "title": "看得到的化學（全球暢銷破百萬本紀念版）：你一輩子都會用到的化學元素知識",
+      "author": "西奧多．葛雷",
+      "categoryId": "03_natural_science"
+    },
+    {
+      "status": "committed",
+      "id": "03_natural_science-20240902-02",
+      "file": "Books/03_natural_science/03_natural_science-20240902-02.json",
+      "title": "為什麼要睡覺？︰睡出健康與學習力、夢出創意的新科學（2023年新版）",
+      "author": "沃克",
+      "categoryId": "03_natural_science"
+    },
+    {
+      "status": "committed",
+      "id": "03_natural_science-20240902-03",
+      "file": "Books/03_natural_science/03_natural_science-20240902-03.json",
+      "title": "數學大觀念：全面理解從數字到微積分的12大觀念",
+      "author": "亞瑟．班傑明",
+      "categoryId": "03_natural_science"
+    },
+    {
+      "status": "committed",
+      "id": "03_natural_science-20240902-04",
+      "file": "Books/03_natural_science/03_natural_science-20240902-04.json",
+      "title": "多巴胺國度：在縱慾年代找到身心平衡",
+      "author": "安娜．蘭布克醫師",
+      "categoryId": "03_natural_science"
+    },
+    {
+      "status": "committed",
+      "id": "03_natural_science-20240902-05",
+      "file": "Books/03_natural_science/03_natural_science-20240902-05.json",
+      "title": "大腦開竅手冊",
+      "author": "珊卓．阿瑪特、王聲宏",
+      "categoryId": "03_natural_science"
+    },
+    {
+      "status": "committed",
+      "id": "04_healthcare-20240902-01",
+      "file": "Books/04_healthcare/04_healthcare-20240902-01.json",
+      "title": "自己的膝蓋自己救：退化性膝關節炎的真相【暢銷增訂版】",
+      "author": "呂紹睿",
+      "categoryId": "04_healthcare"
+    },
+    {
+      "status": "committed",
+      "id": "04_healthcare-20240902-02",
+      "file": "Books/04_healthcare/04_healthcare-20240902-02.json",
+      "title": "痠痛拉筋解剖書【升級增訂版】（三版）",
+      "author": "布萊德．華克",
+      "categoryId": "04_healthcare"
+    },
+    {
+      "status": "committed",
+      "id": "04_healthcare-20240902-03",
+      "file": "Books/04_healthcare/04_healthcare-20240902-03.json",
+      "title": "心念自癒力：突破中醫、西醫的心療法(2022年新版)",
+      "author": "許瑞云、鄭先安",
+      "categoryId": "04_healthcare"
+    },
+    {
+      "status": "committed",
+      "id": "04_healthcare-20240902-04",
+      "file": "Books/04_healthcare/04_healthcare-20240902-04.json",
+      "title": "要瘦就瘦，要健康就健康【暢銷經典紀念版】──把飲食金字塔倒過來吃，就對了！",
+      "author": "賴宇凡",
+      "categoryId": "04_healthcare"
+    },
+    {
+      "status": "committed",
+      "id": "04_healthcare-20240902-05",
+      "file": "Books/04_healthcare/04_healthcare-20240902-05.json",
+      "title": "更新粒線體，根治慢性病",
+      "author": "陳俊旭",
+      "categoryId": "04_healthcare"
+    }
+  ],
+  "from": "1986-09-02",
+  "to": "2024-09-02"
+}
