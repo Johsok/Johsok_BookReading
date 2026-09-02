@@ -470,37 +470,45 @@ def parse_taaze_detail(html: str) -> tuple[str, str, str]:
 
 def fetch_taaze_tag_items(list_id: str, end_num: int = 80) -> list[dict]:
     """Read one 讀冊暢銷百大 list via viewTagsAgent (list JSON, not a detail page)."""
-    url = (
-        "https://www.taaze.tw/beta/viewTagsAgent.jsp"
-        f"?a=01&d=11&l=0&t=11&c=00&k=03&p={list_id}"
-        f"&startNum=1&endNum={end_num}&sortType=1"
-    )
-    raw = fetch_html(url, referer="https://www.taaze.tw/")
-    try:
-        payload = json.loads(raw)
-    except json.JSONDecodeError:
-        return []
     items: list[dict] = []
     seen: set[str] = set()
-    for row in payload.get("result1") or []:
-        title = str(row.get("titleMain") or "").strip()
-        author = str(row.get("author") or "").strip(" /|,，、")
-        prod_id = str(row.get("prodId") or "").strip()
-        published = str(row.get("publishDate") or "").strip()
-        if published:
-            published = published[:10] if len(published) >= 10 else parse_iso_date(published)
-        if not title or not has_han(title) or not author or not prod_id or prod_id in seen:
-            continue
-        seen.add(prod_id)
-        items.append(
-            {
-                "title": title,
-                "author": author,
-                "sourceUrl": f"https://www.taaze.tw/products/{prod_id}.html",
-                "published": published,
-                "sourceSite": "讀冊",
-            }
+    page_size = 20
+    start = 1
+    while start <= end_num:
+        chunk_end = min(start + page_size - 1, end_num)
+        url = (
+            "https://www.taaze.tw/beta/viewTagsAgent.jsp"
+            f"?a=01&d=11&l=0&t=11&c=00&k=03&p={list_id}"
+            f"&startNum={start}&endNum={chunk_end}&sortType=1"
         )
+        raw = fetch_html(url, referer="https://www.taaze.tw/")
+        try:
+            payload = json.loads(raw)
+        except json.JSONDecodeError:
+            break
+        rows = payload.get("result1") or []
+        if not rows:
+            break
+        for row in rows:
+            title = str(row.get("titleMain") or "").strip()
+            author = str(row.get("author") or "").strip(" /|,，、")
+            prod_id = str(row.get("prodId") or "").strip()
+            published = str(row.get("publishDate") or "").strip()
+            if published:
+                published = published[:10] if len(published) >= 10 else parse_iso_date(published)
+            if not title or not has_han(title) or not author or not prod_id or prod_id in seen:
+                continue
+            seen.add(prod_id)
+            items.append(
+                {
+                    "title": title,
+                    "author": author,
+                    "sourceUrl": f"https://www.taaze.tw/products/{prod_id}.html",
+                    "published": published,
+                    "sourceSite": "讀冊",
+                }
+            )
+        start = chunk_end + 1
     return items
 
 
