@@ -72786,13 +72786,1278 @@
       "sourceUrl": "https://www.taaze.tw/products/11100671804.html",
       "file": "Books/04_healthcare/04_healthcare-20240903-10.json",
       "workId": "findbook-20260903-0645"
+    },
+    {
+      "id": "05_food_wellness-20210903-11",
+      "title": "舌尖上的東協─東南亞美食與蔬果植物誌：既熟悉又陌生，那些悄然融入台灣土地的南洋植物與料理",
+      "author": "胖胖樹 王瑞閔",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "養生",
+        "舌尖上的東協─東南亞美食與蔬果植物誌",
+        "既熟悉又陌生，那些悄然融入台灣土地的南洋植物與料理",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－經典區間暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010815650",
+      "file": "Books/05_food_wellness/05_food_wellness-20210903-11.json",
+      "workId": "findbook-20260903-0816"
+    },
+    {
+      "id": "05_food_wellness-20210903-12",
+      "title": "365日日食材＆藥膳事典：中醫教你用200種日常食材／藥材+300道料理對症食療，節氣調養，改變體質",
+      "author": "陳潮宗,中華民國中醫師公會全聯會",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "養生",
+        "365日日食材＆藥膳事典",
+        "中醫教你用200種日常食材／藥材+300道料理對症食療，節氣調養，改變體質",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－經典區間暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010816207",
+      "file": "Books/05_food_wellness/05_food_wellness-20210903-12.json",
+      "workId": "findbook-20260903-0816"
+    },
+    {
+      "id": "05_food_wellness-20210903-13",
+      "title": "台灣菜 的文化史：食物消費中的國家體現",
+      "author": "陳玉箴",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "養生",
+        "台灣菜",
+        "的文化史",
+        "食物消費中的國家體現",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－經典區間暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010859584",
+      "file": "Books/05_food_wellness/05_food_wellness-20210903-13.json",
+      "workId": "findbook-20260903-0816"
+    },
+    {
+      "id": "05_food_wellness-20210903-14",
+      "title": "黃婉玲經典重現失傳的台菜譜：40道阿舍菜、酒家菜、嫁妝菜、辦桌菜、家常菜，詳細步驟示範讓你也能成為台菜傳人。",
+      "author": "黃婉玲",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "養生",
+        "黃婉玲經典重現失傳的台菜譜",
+        "40道阿舍菜、酒家菜、嫁妝菜、辦桌菜、家常菜，詳細步驟示範讓你也能成為台菜傳人。",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－經典區間暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010693292",
+      "file": "Books/05_food_wellness/05_food_wellness-20210903-14.json",
+      "workId": "findbook-20260903-0816"
+    },
+    {
+      "id": "05_food_wellness-20210903-15",
+      "title": "台灣小吃教科書【遺珠增訂版】：人氣名師的料理武功祕笈122道全公開",
+      "author": "林美慧",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "養生",
+        "台灣小吃教科書【遺珠增訂版】",
+        "人氣名師的料理武功祕笈122道全公開",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－經典區間暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010893879",
+      "file": "Books/05_food_wellness/05_food_wellness-20210903-15.json",
+      "workId": "findbook-20260903-0816"
+    },
+    {
+      "id": "06_computer_info-20210903-11",
+      "title": "Excel VBA經典程式碼：一行抵萬行「偷懶程式碼」應用大全（上）",
+      "author": "Excel Home",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦",
+        "資訊",
+        "科技",
+        "VBA經典程式碼",
+        "一行抵萬行「偷懶程式碼」應用大全（上）",
+        "經典"
+      ],
+      "sourceName": "讀冊－電腦2020暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100893445.html",
+      "file": "Books/06_computer_info/06_computer_info-20210903-11.json",
+      "workId": "findbook-20260903-0816"
+    },
+    {
+      "id": "06_computer_info-20210903-12",
+      "title": "NumPy 高速運算徹底解說 - 六行寫一隻程式？你真懂深度學習？手工算給你看！",
+      "author": "吉田拓真、尾原颯",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦",
+        "資訊",
+        "科技",
+        "高速運算徹底解說",
+        "六行寫一隻程式？你真懂深度學習？手工算給你看！",
+        "經典"
+      ],
+      "sourceName": "讀冊－電腦2020暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100896064.html",
+      "file": "Books/06_computer_info/06_computer_info-20210903-12.json",
+      "workId": "findbook-20260903-0816"
+    },
+    {
+      "id": "06_computer_info-20210903-13",
+      "title": "科班出身的AI人必修課：OpenCV影像處理 使用 python",
+      "author": "李立宗",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦",
+        "資訊",
+        "科技",
+        "科班出身的AI人必修課",
+        "OpenCV影像處理",
+        "使用",
+        "經典"
+      ],
+      "sourceName": "讀冊－電腦2020暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100889120.html",
+      "file": "Books/06_computer_info/06_computer_info-20210903-13.json",
+      "workId": "findbook-20260903-0816"
+    },
+    {
+      "id": "06_computer_info-20210903-14",
+      "title": "學好跨平台網頁設計(第三版)--HTML5、CSS3、JavaScript、jQuery與Bootstrap 5超完美特訓班(附範例/RWD影音教學)",
+      "author": "鄧文淵、文淵閣工作室",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦",
+        "資訊",
+        "科技",
+        "學好跨平台網頁設計(第三版)--HTML5、CSS3、JavaScript、jQuery與Bootstrap",
+        "5超完美特訓班(附範例/RWD影音教學)",
+        "經典"
+      ],
+      "sourceName": "讀冊－電腦2020暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100941889.html",
+      "file": "Books/06_computer_info/06_computer_info-20210903-14.json",
+      "workId": "findbook-20260903-0816"
+    },
+    {
+      "id": "06_computer_info-20210903-15",
+      "title": "TensorFlow+Keras深度學習人工智慧實務應用",
+      "author": "林大貴",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦",
+        "資訊",
+        "科技",
+        "TensorFlow+Keras深度學習人工智慧實務應用",
+        "經典"
+      ],
+      "sourceName": "讀冊－電腦2020暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100816697.html",
+      "file": "Books/06_computer_info/06_computer_info-20210903-15.json",
+      "workId": "findbook-20260903-0816"
+    },
+    {
+      "id": "07_other-20210903-11",
+      "title": "一九八四",
+      "author": "喬治．歐威爾",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "生活",
+        "人文",
+        "一九八四",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－經典區間暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010556364",
+      "file": "Books/07_other/07_other-20210903-11.json",
+      "workId": "findbook-20260903-0816"
+    },
+    {
+      "id": "07_other-20210903-12",
+      "title": "荷馬史詩：伊里亞德",
+      "author": "荷馬",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "生活",
+        "人文",
+        "荷馬史詩",
+        "伊里亞德",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－經典區間暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010904117",
+      "file": "Books/07_other/07_other-20210903-12.json",
+      "workId": "findbook-20260903-0816"
+    },
+    {
+      "id": "07_other-20210903-13",
+      "title": "少年臺灣史 二○一九年增訂版",
+      "author": "周婉窈",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "生活",
+        "人文",
+        "少年臺灣史",
+        "二○一九年增訂版",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－經典區間暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010834309",
+      "file": "Books/07_other/07_other-20210903-13.json",
+      "workId": "findbook-20260903-0816"
+    },
+    {
+      "id": "07_other-20210903-14",
+      "title": "吃佛：從一座城市窺見西藏的劫難與求生",
+      "author": "芭芭拉．德米克",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "生活",
+        "人文",
+        "吃佛",
+        "從一座城市窺見西藏的劫難與求生",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－經典區間暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010894686",
+      "file": "Books/07_other/07_other-20210903-14.json",
+      "workId": "findbook-20260903-0816"
+    },
+    {
+      "id": "07_other-20210903-15",
+      "title": "嫌疑犯X的獻身【15週年紀念全新譯本】",
+      "author": "東野圭吾",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "生活",
+        "人文",
+        "嫌疑犯X的獻身【15週年紀念全新譯本】",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－經典區間暢銷榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010864587",
+      "file": "Books/07_other/07_other-20210903-15.json",
+      "workId": "findbook-20260903-0816"
+    },
+    {
+      "id": "01_business_startup-20240903-11",
+      "title": "第3選擇：解決人生所有難題的關鍵思維",
+      "author": "史蒂芬．柯維",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "第3選擇",
+        "解決人生所有難題的關鍵思維",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100845997.html",
+      "file": "Books/01_business_startup/01_business_startup-20240903-11.json",
+      "workId": "findbook-20260903-c24"
+    },
+    {
+      "id": "01_business_startup-20240903-12",
+      "title": "好策略．壞策略：第一本讓歐洲首席經濟學家欲罷不能、愛不釋手的策略書",
+      "author": "魯梅特",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "好策略．壞策略",
+        "第一本讓歐洲首席經濟學家欲罷不能、愛不釋手的策略書",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100858864.html",
+      "file": "Books/01_business_startup/01_business_startup-20240903-12.json",
+      "workId": "findbook-20260903-c24"
+    },
+    {
+      "id": "01_business_startup-20240903-13",
+      "title": "十八歲起，你的格局不一樣：像十年後的自己，做出最聰明的選擇",
+      "author": "鍾子偉",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "十八歲起，你的格局不一樣",
+        "像十年後的自己，做出最聰明的選擇",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100636584.html",
+      "file": "Books/01_business_startup/01_business_startup-20240903-13.json",
+      "workId": "findbook-20260903-c24"
+    },
+    {
+      "id": "01_business_startup-20240903-14",
+      "title": "議題思考：用單純的心面對複雜問題，交出有價值的成果，看穿表象、找到本質的知識生產術",
+      "author": "安宅和人",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "議題思考",
+        "用單純的心面對複雜問題，交出有價值的成果，看穿表象、找到本質的知識生產術",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100874181.html",
+      "file": "Books/01_business_startup/01_business_startup-20240903-14.json",
+      "workId": "findbook-20260903-c24"
+    },
+    {
+      "id": "01_business_startup-20240903-15",
+      "title": "尹教授的10堂課：興學興人的神隱總裁",
+      "author": "張殿文、口述／尹衍樑、整理／郭議鴻",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "尹教授的10堂課",
+        "興學興人的神隱總裁",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100678145.html",
+      "file": "Books/01_business_startup/01_business_startup-20240903-15.json",
+      "workId": "findbook-20260903-c24"
+    },
+    {
+      "id": "02_psychology_growth-20240903-11",
+      "title": "不愛會死",
+      "author": "路嘉怡",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "不愛會死",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100645343.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20240903-11.json",
+      "workId": "findbook-20260903-c24"
+    },
+    {
+      "id": "02_psychology_growth-20240903-12",
+      "title": "初心",
+      "author": "江振誠",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "初心",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100653241.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20240903-12.json",
+      "workId": "findbook-20260903-c24"
+    },
+    {
+      "id": "02_psychology_growth-20240903-13",
+      "title": "寂寞，於是你的人生有更多可能：我喜歡有個人，但我更喜歡一個人",
+      "author": "瑪麗拉‧薩托里歐斯",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "寂寞，於是你的人生有更多可能",
+        "我喜歡有個人，但我更喜歡一個人",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100645673.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20240903-13.json",
+      "workId": "findbook-20260903-c24"
+    },
+    {
+      "id": "02_psychology_growth-20240903-14",
+      "title": "后宮甄嬛傳教我的80件事",
+      "author": "夕顏",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "后宮甄嬛傳教我的80件事",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100645619.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20240903-14.json",
+      "workId": "findbook-20260903-c24"
+    },
+    {
+      "id": "02_psychology_growth-20240903-15",
+      "title": "那些未曾說過的話：周興哲．音樂故事集",
+      "author": "周興哲、李慧研、左不右",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "那些未曾說過的話",
+        "周興哲．音樂故事集",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100910098.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20240903-15.json",
+      "workId": "findbook-20260903-c24"
+    },
+    {
+      "id": "03_natural_science-20240903-11",
+      "title": "睡眠學校：揭開睡眠奧祕，為何想要成功快樂，要睡飽一點？",
+      "author": "李察‧韋斯曼",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "睡眠學校",
+        "揭開睡眠奧祕，為何想要成功快樂，要睡飽一點？",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學2016暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100747544.html",
+      "file": "Books/03_natural_science/03_natural_science-20240903-11.json",
+      "workId": "findbook-20260903-c24"
+    },
+    {
+      "id": "03_natural_science-20240903-12",
+      "title": "下流科學：是天性還是怪癖？從「性」看穿人性！",
+      "author": "傑西．白令",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "下流科學",
+        "是天性還是怪癖？從「性」看穿人性！",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100656265.html",
+      "file": "Books/03_natural_science/03_natural_science-20240903-12.json",
+      "workId": "findbook-20260903-c24"
+    },
+    {
+      "id": "03_natural_science-20240903-13",
+      "title": "數學之書+物理之書",
+      "author": "柯利弗德．皮寇弗",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "數學之書+物理之書",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100644988.html",
+      "file": "Books/03_natural_science/03_natural_science-20240903-13.json",
+      "workId": "findbook-20260903-c24"
+    },
+    {
+      "id": "03_natural_science-20240903-14",
+      "title": "這個問題，你用數學方式想過嗎？：史丹佛大學教授最受歡迎的4堂思考力訓練課，打造最強數學思維，讓你擁有關鍵的邏輯力、證明力、數字力",
+      "author": "齊斯．德福林",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "這個問題，你用數學方式想過嗎？",
+        "史丹佛大學教授最受歡迎的4堂思考力訓練課，打造最強數學思維，讓你擁有關鍵的邏輯力、證明力、數字力",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100859141.html",
+      "file": "Books/03_natural_science/03_natural_science-20240903-14.json",
+      "workId": "findbook-20260903-c24"
+    },
+    {
+      "id": "03_natural_science-20240903-15",
+      "title": "人類三部曲（增訂版）：人類大歷史、人類大命運、21世紀的21堂課",
+      "author": "哈拉瑞",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "人類三部曲（增訂版）",
+        "人類大歷史、人類大命運、21世紀的21堂課",
+        "經典"
+      ],
+      "sourceName": "博客來中文書－自然科學暢銷月榜",
+      "sourceUrl": "https://www.books.com.tw/products/0010939357",
+      "file": "Books/03_natural_science/03_natural_science-20240903-15.json",
+      "workId": "findbook-20260903-c24"
+    },
+    {
+      "id": "04_healthcare-20240903-11",
+      "title": "最新的老眼回復法： 老花眼、白內障、青光眼、老年黃斑部病變，統統有效！即使活到100歲也能保持正常視力！",
+      "author": "中川和宏",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "最新的老眼回復法",
+        "老花眼、白內障、青光眼、老年黃斑部病變，統統有效！即使活到100歲也能保持正常視力！",
+        "經典"
+      ],
+      "sourceName": "讀冊－醫學保健2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100659345.html",
+      "file": "Books/04_healthcare/04_healthcare-20240903-11.json",
+      "workId": "findbook-20260903-c24"
+    },
+    {
+      "id": "04_healthcare-20240903-12",
+      "title": "一個動作治好腰痛！：疾病開始於「腰」與「臀」！連名醫都治不好的腰痛，只要3分鐘就能自己治好！",
+      "author": "吉田始史",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "一個動作治好腰痛！",
+        "疾病開始於「腰」與「臀」！連名醫都治不好的腰痛，只要3分鐘就能自己治好！",
+        "經典"
+      ],
+      "sourceName": "讀冊－醫學保健2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100632696.html",
+      "file": "Books/04_healthcare/04_healthcare-20240903-12.json",
+      "workId": "findbook-20260903-c24"
+    },
+    {
+      "id": "04_healthcare-20240903-13",
+      "title": "不吃西藥：中醫媽媽養出不生病、不過敏的健康孩子",
+      "author": "李思儀",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "不吃西藥",
+        "中醫媽媽養出不生病、不過敏的健康孩子",
+        "經典"
+      ],
+      "sourceName": "讀冊－醫學保健2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100630586.html",
+      "file": "Books/04_healthcare/04_healthcare-20240903-13.json",
+      "workId": "findbook-20260903-c24"
+    },
+    {
+      "id": "04_healthcare-20240903-14",
+      "title": "我發瘋的那段日子：一個全球熱議的醫療案例（暢銷紀念版）",
+      "author": "蘇珊娜．卡哈蘭（Susannah Cahalan）",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "我發瘋的那段日子",
+        "一個全球熱議的醫療案例（暢銷紀念版）",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學2016暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11101002923.html",
+      "file": "Books/04_healthcare/04_healthcare-20240903-14.json",
+      "workId": "findbook-20260903-c24"
+    },
+    {
+      "id": "04_healthcare-20240903-15",
+      "title": "活著離開",
+      "author": "林金宏",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "活著離開",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學2016暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100849203.html",
+      "file": "Books/04_healthcare/04_healthcare-20240903-15.json",
+      "workId": "findbook-20260903-c24"
+    },
+    {
+      "id": "01_business_startup-20240903-16",
+      "title": "（全新增訂版）Evernote 100個做筆記的好方法：數位化重整你的工作與人生",
+      "author": "電腦玩物站長",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "（全新增訂版）Evernote",
+        "100個做筆記的好方法",
+        "數位化重整你的工作與人生",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100791176.html",
+      "file": "Books/01_business_startup/01_business_startup-20240903-16.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "01_business_startup-20240903-17",
+      "title": "大店長開講：店長必修12學分／ 50個開店KnowWhy(修訂版)",
+      "author": "周俊吉、李明元、戴勝益、尤子彥",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "大店長開講",
+        "店長必修12學分／",
+        "50個開店KnowWhy(修訂版)",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100798495.html",
+      "file": "Books/01_business_startup/01_business_startup-20240903-17.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "01_business_startup-20240903-18",
+      "title": "毒型人物：毀掉你美好人生的13種人際毒害",
+      "author": "貝納鐸‧史達馬提亞斯",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "毒型人物",
+        "毀掉你美好人生的13種人際毒害",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100662432.html",
+      "file": "Books/01_business_startup/01_business_startup-20240903-18.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "01_business_startup-20240903-19",
+      "title": "頂尖業務員都在用的3T筆記術：業績提高50%的秘密武器，比人脈、話術還重要的成功關鍵",
+      "author": "後藤裕人",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "頂尖業務員都在用的3T筆記術",
+        "業績提高50%的秘密武器，比人脈、話術還重要的成功關鍵",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100659938.html",
+      "file": "Books/01_business_startup/01_business_startup-20240903-19.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "01_business_startup-20240903-20",
+      "title": "等待的技術：慢想，讓決定更好",
+      "author": "帕特諾伊",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業",
+        "投資",
+        "創業",
+        "理財",
+        "等待的技術",
+        "慢想，讓決定更好",
+        "經典"
+      ],
+      "sourceName": "讀冊－商業2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100664105.html",
+      "file": "Books/01_business_startup/01_business_startup-20240903-20.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "02_psychology_growth-20240903-16",
+      "title": "第3選擇（2023年新版）︰解決人生所有難題的關鍵思維",
+      "author": "史蒂芬．柯維",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "第3選擇（2023年新版）︰解決人生所有難題的關鍵思維",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11101009046.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20240903-16.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "02_psychology_growth-20240903-17",
+      "title": "有多想要，就有多幸福",
+      "author": "蘇陳端（貴婦奈奈）",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "有多想要，就有多幸福",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100655214.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20240903-17.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "02_psychology_growth-20240903-18",
+      "title": "你本就擁有的完美生命：讓每一口呼吸都喜悅圓滿的方法",
+      "author": "夏鉑坦真仁波切",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "你本就擁有的完美生命",
+        "讓每一口呼吸都喜悅圓滿的方法",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100653632.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20240903-18.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "02_psychology_growth-20240903-19",
+      "title": "逆．進 阿基師",
+      "author": "鄭衍基",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "逆．進",
+        "阿基師",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100648551.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20240903-19.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "02_psychology_growth-20240903-20",
+      "title": "幸福的魔法：更快樂的101個選擇",
+      "author": "塔爾．班夏哈",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒",
+        "幸福的魔法",
+        "更快樂的101個選擇",
+        "經典"
+      ],
+      "sourceName": "讀冊－心理勵志2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100653480.html",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20240903-20.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "03_natural_science-20240903-16",
+      "title": "記憶的風景：我們為什麼「想起」，又為什麼「遺忘」？",
+      "author": "杜威‧德拉伊斯瑪",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "記憶的風景",
+        "我們為什麼「想起」，又為什麼「遺忘」？",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100645114.html",
+      "file": "Books/03_natural_science/03_natural_science-20240903-16.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "03_natural_science-20240903-17",
+      "title": "2100科技大未來：從現在到2100年，科技將如何改變我們的生活（在台暢銷萬冊，2019年全新封面版）",
+      "author": "加來道雄",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "2100科技大未來",
+        "從現在到2100年，科技將如何改變我們的生活（在台暢銷萬冊，2019年全新封面版）",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100864225.html",
+      "file": "Books/03_natural_science/03_natural_science-20240903-17.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "03_natural_science-20240903-18",
+      "title": "我們真的有自由意志嗎？認知神經科學之父葛詹尼加對意志的大哉問",
+      "author": "葛詹尼加",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "我們真的有自由意志嗎？認知神經科學之父葛詹尼加對意志的大哉問",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100939333.html",
+      "file": "Books/03_natural_science/03_natural_science-20240903-18.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "03_natural_science-20240903-19",
+      "title": "為什麼E=mc2？看懂質能互換與相對論的第一本書",
+      "author": "考克斯、福肖",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "為什麼E=mc2？看懂質能互換與相對論的第一本書",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100879963.html",
+      "file": "Books/03_natural_science/03_natural_science-20240903-19.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "03_natural_science-20240903-20",
+      "title": "怪咖生活實驗室︰93個頂尖科學家告訴你生活小事背後的大智慧",
+      "author": "嘉斯．桑頓",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "科學",
+        "自然",
+        "科普",
+        "怪咖生活實驗室︰93個頂尖科學家告訴你生活小事背後的大智慧",
+        "經典"
+      ],
+      "sourceName": "讀冊－科學2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100657099.html",
+      "file": "Books/03_natural_science/03_natural_science-20240903-20.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "04_healthcare-20240903-16",
+      "title": "低GI飲食聖經【10周年暢銷精華版】：首創紅綠燈三色區分食物GI值，醫界一致認可推行的減重飲食原則",
+      "author": "力克．蓋洛普",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "低GI飲食聖經【10周年暢銷精華版】",
+        "首創紅綠燈三色區分食物GI值，醫界一致認可推行的減重飲食原則",
+        "經典"
+      ],
+      "sourceName": "讀冊－醫學保健2016暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100787181.html",
+      "file": "Books/04_healthcare/04_healthcare-20240903-16.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "04_healthcare-20240903-17",
+      "title": "椰子生酮飲食代謝法：促進新陳代謝、提高甲狀腺功能、減掉多餘脂肪",
+      "author": "布魯斯．菲佛",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "椰子生酮飲食代謝法",
+        "促進新陳代謝、提高甲狀腺功能、減掉多餘脂肪",
+        "經典"
+      ],
+      "sourceName": "讀冊－醫學保健2016暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100771994.html",
+      "file": "Books/04_healthcare/04_healthcare-20240903-17.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "04_healthcare-20240903-18",
+      "title": "一日一餐的健康奇蹟：日本名醫57歲比30歲更年輕的秘密，做起來真的沒那麼難",
+      "author": "南雲吉則",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "一日一餐的健康奇蹟",
+        "日本名醫57歲比30歲更年輕的秘密，做起來真的沒那麼難",
+        "經典"
+      ],
+      "sourceName": "讀冊－醫學保健2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100625969.html",
+      "file": "Books/04_healthcare/04_healthcare-20240903-18.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "04_healthcare-20240903-19",
+      "title": "便活：自律神經名醫帶你提升排便力，自然瘦下7公斤",
+      "author": "小林弘幸",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "便活",
+        "自律神經名醫帶你提升排便力，自然瘦下7公斤",
+        "經典"
+      ],
+      "sourceName": "讀冊－醫學保健2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100629189.html",
+      "file": "Books/04_healthcare/04_healthcare-20240903-19.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "04_healthcare-20240903-20",
+      "title": "排毒舒食盛宴",
+      "author": "韓柏檉、張幼香",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健",
+        "排毒舒食盛宴",
+        "經典"
+      ],
+      "sourceName": "讀冊－醫學保健2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100617085.html",
+      "file": "Books/04_healthcare/04_healthcare-20240903-20.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "05_food_wellness-20210903-16",
+      "title": "完美醬料全書：暢銷增訂版---廚藝零失誤，全靠這一味做出五星級料理",
+      "author": "世界級金牌賞主廚曾良泉◎著",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "養生",
+        "完美醬料全書",
+        "暢銷增訂版---廚藝零失誤，全靠這一味做出五星級料理",
+        "經典"
+      ],
+      "sourceName": "讀冊－飲食2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100778764.html",
+      "file": "Books/05_food_wellness/05_food_wellness-20210903-16.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "05_food_wellness-20210903-17",
+      "title": "廚藝好好玩：探究真正飲食科學‧破解廚房祕技‧料理好食物（全新增訂版）",
+      "author": "傑夫‧波特",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "養生",
+        "廚藝好好玩",
+        "探究真正飲食科學‧破解廚房祕技‧料理好食物（全新增訂版）",
+        "經典"
+      ],
+      "sourceName": "讀冊－飲食2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100815945.html",
+      "file": "Books/05_food_wellness/05_food_wellness-20210903-17.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "05_food_wellness-20210903-18",
+      "title": "400 道電鍋聖經",
+      "author": "楊桃文化",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "養生",
+        "道電鍋聖經",
+        "經典"
+      ],
+      "sourceName": "讀冊－飲食2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100242500.html",
+      "file": "Books/05_food_wellness/05_food_wellness-20210903-18.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "05_food_wellness-20210903-19",
+      "title": "露營×居家 荷蘭鍋55道秒殺料理",
+      "author": "爆肝護士肉圓",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "養生",
+        "露營×居家",
+        "荷蘭鍋55道秒殺料理",
+        "經典"
+      ],
+      "sourceName": "讀冊－飲食2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100696960.html",
+      "file": "Books/05_food_wellness/05_food_wellness-20210903-19.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "05_food_wellness-20210903-20",
+      "title": "好笑華娟撞見維也納咖啡",
+      "author": "鄭華娟",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食",
+        "營養",
+        "養生",
+        "好笑華娟撞見維也納咖啡",
+        "經典"
+      ],
+      "sourceName": "讀冊－飲食2013暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100649368.html",
+      "file": "Books/05_food_wellness/05_food_wellness-20210903-20.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "06_computer_info-20210903-16",
+      "title": "超人氣Facebook粉絲專頁行銷加油讚(第五版) - 解鎖社群行銷困局+突破粉絲經營盲點=變身最神小編難波萬！",
+      "author": "鄧文淵、文淵閣工作室",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦",
+        "資訊",
+        "科技",
+        "超人氣Facebook粉絲專頁行銷加油讚(第五版)",
+        "解鎖社群行銷困局+突破粉絲經營盲點=變身最神小編難波萬！",
+        "經典"
+      ],
+      "sourceName": "讀冊－電腦2020暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100888051.html",
+      "file": "Books/06_computer_info/06_computer_info-20210903-16.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "06_computer_info-20210903-17",
+      "title": "資訊架構學 第四版",
+      "author": "Louis Rosenfeld等",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦",
+        "資訊",
+        "科技",
+        "資訊架構學",
+        "第四版",
+        "經典"
+      ],
+      "sourceName": "讀冊－電腦2020暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100834692.html",
+      "file": "Books/06_computer_info/06_computer_info-20210903-17.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "06_computer_info-20210903-18",
+      "title": "IBM部長強力推薦的Excel 商用技巧：用大數據分析商品、達成預算、美化報告的70個絕招！（熱銷再版）",
+      "author": "加藤昌生",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦",
+        "資訊",
+        "科技",
+        "IBM部長強力推薦的Excel",
+        "商用技巧",
+        "用大數據分析商品、達成預算、美化報告的70個絕招！（熱銷再版）",
+        "經典"
+      ],
+      "sourceName": "讀冊－電腦2019暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100908697.html",
+      "file": "Books/06_computer_info/06_computer_info-20210903-18.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "06_computer_info-20210903-19",
+      "title": "深度學習入門教室：6堂基礎課程+Python實作練習，Deep Learning、人工智慧、機器學習的理論和應用全圖解",
+      "author": "谷岡広樹、康鑫",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦",
+        "資訊",
+        "科技",
+        "深度學習入門教室",
+        "6堂基礎課程+Python實作練習，Deep",
+        "Learning、人工智慧、機器學習的理論和應用全圖解",
+        "經典"
+      ],
+      "sourceName": "讀冊－電腦2019暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100867959.html",
+      "file": "Books/06_computer_info/06_computer_info-20210903-19.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "06_computer_info-20210903-20",
+      "title": "Python 網路爬蟲與資料分析入門實戰",
+      "author": "林俊瑋、林修博",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦",
+        "資訊",
+        "科技",
+        "網路爬蟲與資料分析入門實戰",
+        "經典"
+      ],
+      "sourceName": "讀冊－電腦2019暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100857622.html",
+      "file": "Books/06_computer_info/06_computer_info-20210903-20.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "07_other-20210903-16",
+      "title": "姊姊的守護者 （10週年紀念版）",
+      "author": "茱迪．皮考特",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "生活",
+        "人文",
+        "姊姊的守護者",
+        "（10週年紀念版）",
+        "經典"
+      ],
+      "sourceName": "讀冊－世界文學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100832003.html",
+      "file": "Books/07_other/07_other-20210903-16.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "07_other-20210903-17",
+      "title": "第十三個故事",
+      "author": "黛安．賽特菲爾德",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "生活",
+        "人文",
+        "第十三個故事",
+        "經典"
+      ],
+      "sourceName": "讀冊－世界文學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100219334.html",
+      "file": "Books/07_other/07_other-20210903-17.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "07_other-20210903-18",
+      "title": "少年小樹之歌",
+      "author": "佛瑞斯特．卡特",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "生活",
+        "人文",
+        "少年小樹之歌",
+        "經典"
+      ],
+      "sourceName": "讀冊－世界文學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100929623.html",
+      "file": "Books/07_other/07_other-20210903-18.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "07_other-20210903-19",
+      "title": "24個比利【完整新譯本】",
+      "author": "丹尼爾．凱斯",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "生活",
+        "人文",
+        "24個比利【完整新譯本】",
+        "經典"
+      ],
+      "sourceName": "讀冊－世界文學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100705037.html",
+      "file": "Books/07_other/07_other-20210903-19.json",
+      "workId": "findbook-20260903-0834"
+    },
+    {
+      "id": "07_other-20210903-20",
+      "title": "長日將盡",
+      "author": "石黑一雄",
+      "categoryId": "07_other",
+      "tags": [
+        "其他",
+        "生活",
+        "人文",
+        "長日將盡",
+        "經典"
+      ],
+      "sourceName": "讀冊－世界文學歷年累計暢銷百大",
+      "sourceUrl": "https://www.taaze.tw/products/11100743319.html",
+      "file": "Books/07_other/07_other-20210903-20.json",
+      "workId": "findbook-20260903-0834"
     }
   ],
-  "totalBooks": 4710,
+  "totalBooks": 4780,
   "searchDateRange": {
     "from": "1986-09-03",
-    "to": "2024-09-03"
+    "to": "2021-09-03"
   },
   "generatedFrom": "FindBook_Skill.md reservation checkpoint",
-  "generatedAt": "2026-09-03T06:51:06+08:00"
+  "generatedAt": "2026-09-03T08:37:33+08:00"
 }

@@ -1,0 +1,95 @@
+{
+  "workId": "findbook-20260903-0834",
+  "committed": [
+    {
+      "id": "05_food_wellness-20210903-16",
+      "title": "完美醬料全書：暢銷增訂版---廚藝零失誤，全靠這一味做出五星級料理",
+      "author": "世界級金牌賞主廚曾良泉◎著",
+      "categoryId": "05_food_wellness"
+    },
+    {
+      "id": "05_food_wellness-20210903-17",
+      "title": "廚藝好好玩：探究真正飲食科學‧破解廚房祕技‧料理好食物（全新增訂版）",
+      "author": "傑夫‧波特",
+      "categoryId": "05_food_wellness"
+    },
+    {
+      "id": "05_food_wellness-20210903-18",
+      "title": "400 道電鍋聖經",
+      "author": "楊桃文化",
+      "categoryId": "05_food_wellness"
+    },
+    {
+      "id": "05_food_wellness-20210903-19",
+      "title": "露營×居家 荷蘭鍋55道秒殺料理",
+      "author": "爆肝護士肉圓",
+      "categoryId": "05_food_wellness"
+    },
+    {
+      "id": "05_food_wellness-20210903-20",
+      "title": "好笑華娟撞見維也納咖啡",
+      "author": "鄭華娟",
+      "categoryId": "05_food_wellness"
+    },
+    {
+      "id": "06_computer_info-20210903-16",
+      "title": "超人氣Facebook粉絲專頁行銷加油讚(第五版) - 解鎖社群行銷困局+突破粉絲經營盲點=變身最神小編難波萬！",
+      "author": "鄧文淵、文淵閣工作室",
+      "categoryId": "06_computer_info"
+    },
+    {
+      "id": "06_computer_info-20210903-17",
+      "title": "資訊架構學 第四版",
+      "author": "Louis Rosenfeld等",
+      "categoryId": "06_computer_info"
+    },
+    {
+      "id": "06_computer_info-20210903-18",
+      "title": "IBM部長強力推薦的Excel 商用技巧：用大數據分析商品、達成預算、美化報告的70個絕招！（熱銷再版）",
+      "author": "加藤昌生",
+      "categoryId": "06_computer_info"
+    },
+    {
+      "id": "06_computer_info-20210903-19",
+      "title": "深度學習入門教室：6堂基礎課程+Python實作練習，Deep Learning、人工智慧、機器學習的理論和應用全圖解",
+      "author": "谷岡広樹、康鑫",
+      "categoryId": "06_computer_info"
+    },
+    {
+      "id": "06_computer_info-20210903-20",
+      "title": "Python 網路爬蟲與資料分析入門實戰",
+      "author": "林俊瑋、林修博",
+      "categoryId": "06_computer_info"
+    },
+    {
+      "id": "07_other-20210903-16",
+      "title": "姊姊的守護者 （10週年紀念版）",
+      "author": "茱迪．皮考特",
+      "categoryId": "07_other"
+    },
+    {
+      "id": "07_other-20210903-17",
+      "title": "第十三個故事",
+      "author": "黛安．賽特菲爾德",
+      "categoryId": "07_other"
+    },
+    {
+      "id": "07_other-20210903-18",
+      "title": "少年小樹之歌",
+      "author": "佛瑞斯特．卡特",
+      "categoryId": "07_other"
+    },
+    {
+      "id": "07_other-20210903-19",
+      "title": "24個比利【完整新譯本】",
+      "author": "丹尼爾．凱斯",
+      "categoryId": "07_other"
+    },
+    {
+      "id": "07_other-20210903-20",
+      "title": "長日將盡",
+      "author": "石黑一雄",
+      "categoryId": "07_other"
+    }
+  ]
+}
