@@ -387,7 +387,10 @@ def parse_books_detail(html: str) -> tuple[str, str, str]:
     author = ""
     author_match = re.search(r"作者[：:]\s*(?:<a[^>]*>)?([^<]+)", html)
     if author_match:
-        author = strip_html(author_match.group(1)).strip(" /|,，、")
+        author = strip_html(author_match.group(1))
+        for sep in ("出版日期", "類別", "原文作者", "譯者", "出版社"):
+            author = author.split(sep)[0]
+        author = author.strip(" /|,，、\">'")
     published = ""
     date_match = re.search(r"出版日期[：:]\s*([0-9]{4}/[0-9]{1,2}/[0-9]{1,2})", html)
     if date_match:

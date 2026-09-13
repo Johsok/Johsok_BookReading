@@ -1,0 +1,162 @@
+[
+  {
+    "status": "committed",
+    "id": "01_business_startup-20240913-26",
+    "file": "Books/01_business_startup/01_business_startup-20240913-26.json",
+    "title": "BCG問題解決力：一生受用的策略顧問思考法",
+    "author": "徐瑞廷、 黃菁媺（文字整理）",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "status": "committed",
+    "id": "01_business_startup-20240913-27",
+    "file": "Books/01_business_startup/01_business_startup-20240913-27.json",
+    "title": "天才的關鍵習慣：耶魯最受歡迎課程教你如何超越天賦、智商與運氣",
+    "author": "克雷格．萊特",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "status": "committed",
+    "id": "01_business_startup-20240913-28",
+    "file": "Books/01_business_startup/01_business_startup-20240913-28.json",
+    "title": "一流的人如何保持顛峰",
+    "author": "布萊德．史托伯格、史蒂夫．麥格尼斯",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "status": "committed",
+    "id": "01_business_startup-20240913-29",
+    "file": "Books/01_business_startup/01_business_startup-20240913-29.json",
+    "title": "引誘科學：在分心時代，如何抓住眾人注意力，讓世界聽你的、看你的，甚至願意掏錢買單？",
+    "author": "班．帕爾",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "status": "committed",
+    "id": "01_business_startup-20240913-30",
+    "file": "Books/01_business_startup/01_business_startup-20240913-30.json",
+    "title": "你只要做好一件事就夠了：愈複雜的人生，愈需要用簡單來解題（新版）",
+    "author": "夏．瓦茲蒙德",
+    "categoryId": "01_business_startup"
+  },
+  {
+    "status": "committed",
+    "id": "02_psychology_growth-20240913-26",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20240913-26.json",
+    "title": "我還在",
+    "author": "黃子佼",
+    "categoryId": "02_psychology_growth"
+  },
+  {
+    "status": "committed",
+    "id": "02_psychology_growth-20240913-27",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20240913-27.json",
+    "title": "我在飛機上學會的事",
+    "author": "李牧宜",
+    "categoryId": "02_psychology_growth"
+  },
+  {
+    "status": "committed",
+    "id": "02_psychology_growth-20240913-28",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20240913-28.json",
+    "title": "走在夢想的路上（2023年新版）",
+    "author": "謝哲青",
+    "categoryId": "02_psychology_growth"
+  },
+  {
+    "status": "committed",
+    "id": "02_psychology_growth-20240913-29",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20240913-29.json",
+    "title": "每一天，都是全新的時刻：用創造預想畫面探索內在的自己，得到生命中所真心渴望的",
+    "author": "夏克蒂‧高文",
+    "categoryId": "02_psychology_growth"
+  },
+  {
+    "status": "committed",
+    "id": "02_psychology_growth-20240913-30",
+    "file": "Books/02_psychology_growth/02_psychology_growth-20240913-30.json",
+    "title": "我的改變練習曲",
+    "author": "于美人",
+    "categoryId": "02_psychology_growth"
+  },
+  {
+    "status": "committed",
+    "id": "03_natural_science-20240913-26",
+    "file": "Books/03_natural_science/03_natural_science-20240913-26.json",
+    "title": "10種物質改變世界",
+    "author": "米奧多尼克",
+    "categoryId": "03_natural_science"
+  },
+  {
+    "status": "committed",
+    "id": "03_natural_science-20240913-27",
+    "file": "Books/03_natural_science/03_natural_science-20240913-27.json",
+    "title": "有機化學天堂祕笈II",
+    "author": "克萊因",
+    "categoryId": "03_natural_science"
+  },
+  {
+    "status": "committed",
+    "id": "03_natural_science-20240913-28",
+    "file": "Books/03_natural_science/03_natural_science-20240913-28.json",
+    "title": "植物比你想的更聰明：植物智能的探索之旅",
+    "author": "司特凡諾．曼庫索、阿歷珊德拉．維歐拉",
+    "categoryId": "03_natural_science"
+  },
+  {
+    "status": "committed",
+    "id": "03_natural_science-20240913-29",
+    "file": "Books/03_natural_science/03_natural_science-20240913-29.json",
+    "title": "多肉植物圖鑑",
+    "author": "梁群健",
+    "categoryId": "03_natural_science"
+  },
+  {
+    "status": "committed",
+    "id": "03_natural_science-20240913-30",
+    "file": "Books/03_natural_science/03_natural_science-20240913-30.json",
+    "title": "汽車維修DIY：新手都能學會自己來的汽車保養圖解全集",
+    "author": "朴泰洙",
+    "categoryId": "03_natural_science"
+  },
+  {
+    "status": "committed",
+    "id": "04_healthcare-20240913-26",
+    "file": "Books/04_healthcare/04_healthcare-20240913-26.json",
+    "title": "史上最完整1000種全食物營養大圖鑑：營養是有科學根據，探索110種食材，1000個OK和NG組合，全營養聖經！",
+    "author": "好食材研究團隊",
+    "categoryId": "04_healthcare"
+  },
+  {
+    "status": "committed",
+    "id": "04_healthcare-20240913-27",
+    "file": "Books/04_healthcare/04_healthcare-20240913-27.json",
+    "title": "15天抖掉內臟脂肪：56歲，血管年齡28、體脂率10%，心血管名醫的終極鏟油手段",
+    "author": "池谷敏郎",
+    "categoryId": "04_healthcare"
+  },
+  {
+    "status": "committed",
+    "id": "04_healthcare-20240913-28",
+    "file": "Books/04_healthcare/04_healthcare-20240913-28.json",
+    "title": "頂尖營養師教你吃出瘦子體質【暢銷修訂版】：1分鐘學會「4321黃金餐盤」飲食，啟動身體的年輕基因，5週腰瘦3吋！",
+    "author": "林佳靜",
+    "categoryId": "04_healthcare"
+  },
+  {
+    "status": "committed",
+    "id": "04_healthcare-20240913-29",
+    "file": "Books/04_healthcare/04_healthcare-20240913-29.json",
+    "title": "無麩質飲食，讓你不生病！︰揭開小麥、碳水化合物、糖傷腦又傷身的驚人真相",
+    "author": "大衛．博瑪特醫師、克莉絲汀．羅伯格",
+    "categoryId": "04_healthcare"
+  },
+  {
+    "status": "committed",
+    "id": "04_healthcare-20240913-30",
+    "file": "Books/04_healthcare/04_healthcare-20240913-30.json",
+    "title": "鬆肩頸、解疼痛、通鼻病、救失眠，我有一「套」！ 閉嘴咬一咬，調整筋膜自癒力",
+    "author": "撰述：林彥璋、林子宸",
+    "categoryId": "04_healthcare"
+  }
+]
