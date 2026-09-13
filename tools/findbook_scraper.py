@@ -23,6 +23,7 @@ PRODUCT_ID_RE = re.compile(r"/products/([A-Z0-9]+)", re.I)
 BOOKS_PID_RE = re.compile(r"/products/(001\d{7})", re.I)
 TITLE_SKIP = {
     "01_business_startup": ("這樣生活，那樣工作",),
+    "02_psychology_growth": ("繪本",),
     "03_natural_science": ("靈界", "怪奇", "ㄎㄧㄤ", "漫畫", "生命解碼", "人生十二堂課"),
     "04_healthcare": (
         "減脂",
@@ -184,6 +185,7 @@ TAAZE_CLASSIC_LISTS = {
         ("20221090", "讀冊－商業2021暢銷百大"),
         ("20221085", "讀冊－商業2016暢銷百大"),
         ("20221082", "讀冊－商業2013暢銷百大"),
+        ("20221068", "讀冊－商業2011暢銷百大"),
     ],
     "02_psychology_growth": [
         ("20221665", "讀冊－心理勵志歷年累計暢銷百大"),
@@ -198,6 +200,7 @@ TAAZE_CLASSIC_LISTS = {
         ("20221303", "讀冊－科學2021暢銷百大"),
         ("20221308", "讀冊－科學2016暢銷百大"),
         ("20221311", "讀冊－科學2013暢銷百大"),
+        ("20221361", "讀冊－科學2009暢銷百大"),
     ],
     "04_healthcare": [
         ("20221522", "讀冊－醫學保健歷年累計暢銷百大"),
@@ -205,6 +208,7 @@ TAAZE_CLASSIC_LISTS = {
         ("20221148", "讀冊－醫學保健2021暢銷百大"),
         ("20221154", "讀冊－醫學保健2016暢銷百大"),
         ("20221157", "讀冊－醫學保健2013暢銷百大"),
+        ("20221159", "讀冊－醫學保健2011暢銷百大"),
     ],
     "05_food_wellness": [
         ("20221759", "讀冊－飲食10年暢銷百大"),
@@ -272,20 +276,24 @@ def in_date_range(published: str, from_date: str, to_date: str) -> bool:
 
 
 def undated_product_too_new(item: dict, to_date: str) -> bool:
-    """Drop undated 博客來 new-product IDs when the search window ends before 2022."""
+    """Drop 博客來 product IDs that are newer than the search window."""
     if item.get("published"):
-        return False
-    try:
-        end = date.fromisoformat(to_date)
-    except ValueError:
-        return False
-    if end >= date(2022, 1, 1):
         return False
     url = str(item.get("sourceUrl") or "")
     match = BOOKS_PID_RE.search(url)
     if not match:
         return False
-    return match.group(1) >= "0011000000"
+    try:
+        end = date.fromisoformat(to_date)
+    except ValueError:
+        return False
+    pid = match.group(1)
+    # 0011000000+ are roughly 2022+; 0011020000+ are late-2023 to 2026 new products.
+    if end < date(2022, 1, 1):
+        return pid >= "0011000000"
+    if end < date(2025, 1, 1):
+        return pid >= "0011020000"
+    return False
 
 
 def fetch_html(url: str, referer: str = "") -> str:
@@ -468,7 +476,7 @@ def parse_taaze_detail(html: str) -> tuple[str, str, str]:
     return title, author, parse_iso_date(html)
 
 
-def fetch_taaze_tag_items(list_id: str, end_num: int = 80) -> list[dict]:
+def fetch_taaze_tag_items(list_id: str, end_num: int = 100) -> list[dict]:
     """Read one 讀冊暢銷百大 list via viewTagsAgent (list JSON, not a detail page)."""
     items: list[dict] = []
     seen: set[str] = set()
@@ -739,10 +747,17 @@ def _collect_taaze_classic(
     for list_id, source_name in lists:
         if len(found) >= buffer or _stopped(should_stop):
             break
-        try:
-            rows = fetch_taaze_tag_items(list_id)
-        except Exception as exc:  # noqa: BLE001
-            _log(log, f"讀冊經典榜失敗 {list_id}：{exc}")
+        rows: list[dict] = []
+        last_error: Exception | None = None
+        for attempt in range(3):
+            try:
+                rows = fetch_taaze_tag_items(list_id)
+                last_error = None
+                break
+            except Exception as exc:  # noqa: BLE001
+                last_error = exc
+        if last_error is not None:
+            _log(log, f"讀冊經典榜失敗 {list_id}：{last_error}")
             continue
         _log(log, f"{source_name} 解析 {len(rows)} 筆")
         for item in rows:
@@ -811,7 +826,7 @@ def scrape_category(
             parse_books_list,
             parse_books_detail,
             "博客來",
-            f"博客來中文書－{label}暢銷榜",
+            f"博客來中文書－{label}{'經典' if historical else ''}暢銷榜",
             "https://www.books.com.tw/",
         ),
         (

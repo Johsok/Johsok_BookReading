@@ -1,0 +1,454 @@
+{
+  "workId": "findbook-20260913-1501",
+  "committed": [
+    {
+      "status": "committed",
+      "id": "05_food_wellness-20210913-11",
+      "file": "Books/05_food_wellness/05_food_wellness-20210913-11.json",
+      "title": "agnès b. COOKBOOK經典蛋糕食譜",
+      "author": "三采文化",
+      "categoryId": "05_food_wellness"
+    },
+    {
+      "status": "committed",
+      "id": "05_food_wellness-20210913-12",
+      "file": "Books/05_food_wellness/05_food_wellness-20210913-12.json",
+      "title": "孟老師的中式麵食",
+      "author": "孟兆慶",
+      "categoryId": "05_food_wellness"
+    },
+    {
+      "status": "committed",
+      "id": "05_food_wellness-20210913-13",
+      "file": "Books/05_food_wellness/05_food_wellness-20210913-13.json",
+      "title": "35分鐘就OK！新手零失敗超手感麵包（修訂版）：34款一吃上癮的烤箱麵包 × 16道經典佐餐料理輕鬆上桌，人氣麵包店就在我家",
+      "author": "Backe晶子",
+      "categoryId": "05_food_wellness"
+    },
+    {
+      "status": "committed",
+      "id": "05_food_wellness-20210913-14",
+      "file": "Books/05_food_wellness/05_food_wellness-20210913-14.json",
+      "title": "到MASA家學幸福料理 ─ 溫暖料理新手的101道貼心食譜",
+      "author": "MASA",
+      "categoryId": "05_food_wellness"
+    },
+    {
+      "status": "committed",
+      "id": "05_food_wellness-20210913-15",
+      "file": "Books/05_food_wellness/05_food_wellness-20210913-15.json",
+      "title": "一學就會！法國經典甜點：70道老師傅家傳配方，人人在家就能輕鬆做",
+      "author": "法蘭西斯‧馬耶斯&林鳳美",
+      "categoryId": "05_food_wellness"
+    },
+    {
+      "status": "committed",
+      "id": "06_computer_info-20210913-11",
+      "file": "Books/06_computer_info/06_computer_info-20210913-11.json",
+      "title": "大師級Excel 取巧工作術（長銷五年紀念版）：一秒搞定搬、找、換、改、抄，資料分析一鍵結果就出來，對方秒懂、服你專業。",
+      "author": "望月實、花房幸範",
+      "categoryId": "06_computer_info"
+    },
+    {
+      "status": "committed",
+      "id": "06_computer_info-20210913-12",
+      "file": "Books/06_computer_info/06_computer_info-20210913-12.json",
+      "title": "專門為中學生寫的程式語言設計：強化邏輯思考力",
+      "author": "李家同、劉國有、謝一功、侯冠維、陳庭偉",
+      "categoryId": "06_computer_info"
+    },
+    {
+      "status": "committed",
+      "id": "06_computer_info-20210913-13",
+      "file": "Books/06_computer_info/06_computer_info-20210913-13.json",
+      "title": "提升程式設計師的面試力｜189道面試題目與解答 第六版 修訂版",
+      "author": "Gayle Laakmann McDowell",
+      "categoryId": "06_computer_info"
+    },
+    {
+      "status": "committed",
+      "id": "06_computer_info-20210913-14",
+      "file": "Books/06_computer_info/06_computer_info-20210913-14.json",
+      "title": "多元裝置時代的UI/UX設計法則：打造出讓使用者完美體驗的好用介面(第二版)",
+      "author": "原田秀司",
+      "categoryId": "06_computer_info"
+    },
+    {
+      "status": "committed",
+      "id": "06_computer_info-20210913-15",
+      "file": "Books/06_computer_info/06_computer_info-20210913-15.json",
+      "title": "詳細解說！人物「上色」步驟完全剖析：CLIP STUDIO PAINT PRO電繪技法大全",
+      "author": "乃樹坂くしお",
+      "categoryId": "06_computer_info"
+    },
+    {
+      "status": "committed",
+      "id": "07_other-20210913-11",
+      "file": "Books/07_other/07_other-20210913-11.json",
+      "title": "孽子",
+      "author": "白先勇",
+      "categoryId": "07_other"
+    },
+    {
+      "status": "committed",
+      "id": "07_other-20210913-12",
+      "file": "Books/07_other/07_other-20210913-12.json",
+      "title": "媽，親一下 （新版）",
+      "author": "九把刀",
+      "categoryId": "07_other"
+    },
+    {
+      "status": "committed",
+      "id": "07_other-20210913-13",
+      "file": "Books/07_other/07_other-20210913-13.json",
+      "title": "剛剛好：張曼娟散文精選",
+      "author": "張曼娟",
+      "categoryId": "07_other"
+    },
+    {
+      "status": "committed",
+      "id": "07_other-20210913-14",
+      "file": "Books/07_other/07_other-20210913-14.json",
+      "title": "別人",
+      "author": "任明信",
+      "categoryId": "07_other"
+    },
+    {
+      "status": "committed",
+      "id": "07_other-20210913-15",
+      "file": "Books/07_other/07_other-20210913-15.json",
+      "title": "29張當票（2）：當舖裡特有的人生風景",
+      "author": "秦嗣林",
+      "categoryId": "07_other"
+    }
+  ],
+  "candidates": {
+    "07_other": [
+      {
+        "title": "孽子",
+        "author": "白先勇",
+        "sourceName": "讀冊－華文文學歷年累計暢銷百大",
+        "sourceUrl": "https://www.taaze.tw/products/11100030668.html",
+        "sourceDateNote": "來源標示出版日期為 2000-03-10；擷取日期 2026-09-13，落在 1986-09-13 至 2021-09-13 的搜尋區間內。",
+        "tags": [
+          "其他",
+          "生活",
+          "人文",
+          "孽子",
+          "經典"
+        ],
+        "summary": "整理「孽子」在其他領域的核心觀念、判斷方法、適用情境與可實踐行動。",
+        "published": "2000-03-10",
+        "sourceSite": "讀冊"
+      },
+      {
+        "title": "媽，親一下 （新版）",
+        "author": "九把刀",
+        "sourceName": "讀冊－華文文學歷年累計暢銷百大",
+        "sourceUrl": "https://www.taaze.tw/products/11100202128.html",
+        "sourceDateNote": "來源標示出版日期為 2008-01-22；擷取日期 2026-09-13，落在 1986-09-13 至 2021-09-13 的搜尋區間內。",
+        "tags": [
+          "其他",
+          "生活",
+          "人文",
+          "媽，親一下",
+          "（新版）",
+          "經典"
+        ],
+        "summary": "整理「媽，親一下 （新版）」在其他領域的核心觀念、判斷方法、適用情境與可實踐行動。",
+        "published": "2008-01-22",
+        "sourceSite": "讀冊"
+      },
+      {
+        "title": "剛剛好：張曼娟散文精選",
+        "author": "張曼娟",
+        "sourceName": "讀冊－華文文學歷年累計暢銷百大",
+        "sourceUrl": "https://www.taaze.tw/products/11100485604.html",
+        "sourceDateNote": "來源標示出版日期為 2011-03-15；擷取日期 2026-09-13，落在 1986-09-13 至 2021-09-13 的搜尋區間內。",
+        "tags": [
+          "其他",
+          "生活",
+          "人文",
+          "剛剛好",
+          "張曼娟散文精選",
+          "經典"
+        ],
+        "summary": "整理「剛剛好：張曼娟散文精選」在其他領域的核心觀念、判斷方法、適用情境與可實踐行動。",
+        "published": "2011-03-15",
+        "sourceSite": "讀冊"
+      },
+      {
+        "title": "別人",
+        "author": "任明信",
+        "sourceName": "讀冊－華文文學歷年累計暢銷百大",
+        "sourceUrl": "https://www.taaze.tw/products/11100817294.html",
+        "sourceDateNote": "來源標示出版日期為 2017-06-12；擷取日期 2026-09-13，落在 1986-09-13 至 2021-09-13 的搜尋區間內。",
+        "tags": [
+          "其他",
+          "生活",
+          "人文",
+          "別人",
+          "經典"
+        ],
+        "summary": "整理「別人」在其他領域的核心觀念、判斷方法、適用情境與可實踐行動。",
+        "published": "2017-06-12",
+        "sourceSite": "讀冊"
+      },
+      {
+        "title": "29張當票（2）：當舖裡特有的人生風景",
+        "author": "秦嗣林",
+        "sourceName": "讀冊－華文文學歷年累計暢銷百大",
+        "sourceUrl": "https://www.taaze.tw/products/11100650196.html",
+        "sourceDateNote": "來源標示出版日期為 2013-03-31；擷取日期 2026-09-13，落在 1986-09-13 至 2021-09-13 的搜尋區間內。",
+        "tags": [
+          "其他",
+          "生活",
+          "人文",
+          "29張當票（2）",
+          "當舖裡特有的人生風景",
+          "經典"
+        ],
+        "summary": "整理「29張當票（2）：當舖裡特有的人生風景」在其他領域的核心觀念、判斷方法、適用情境與可實踐行動。",
+        "published": "2013-03-31",
+        "sourceSite": "讀冊"
+      },
+      {
+        "title": "棄業日記︰這輩子一定要出走一次啊！（2019增訂版）",
+        "author": "買買氏",
+        "sourceName": "讀冊－華文文學歷年累計暢銷百大",
+        "sourceUrl": "https://www.taaze.tw/products/11100894067.html",
+        "sourceDateNote": "來源標示出版日期為 2019-12-02；擷取日期 2026-09-13，落在 1986-09-13 至 2021-09-13 的搜尋區間內。",
+        "tags": [
+          "其他",
+          "生活",
+          "人文",
+          "棄業日記︰這輩子一定要出走一次啊！（2019增訂版）",
+          "經典"
+        ],
+        "summary": "整理「棄業日記︰這輩子一定要出走一次啊！（2019增訂版）」在其他領域的核心觀念、判斷方法、適用情境與可實踐行動。",
+        "published": "2019-12-02",
+        "sourceSite": "讀冊"
+      }
+    ],
+    "05_food_wellness": [
+      {
+        "title": "agnès b. COOKBOOK經典蛋糕食譜",
+        "author": "三采文化",
+        "sourceName": "讀冊－飲食2013暢銷百大",
+        "sourceUrl": "https://www.taaze.tw/products/11100635441.html",
+        "sourceDateNote": "來源標示出版日期為 2012-12-14；擷取日期 2026-09-13，落在 1986-09-13 至 2021-09-13 的搜尋區間內。",
+        "tags": [
+          "飲食",
+          "營養",
+          "養生",
+          "COOKBOOK經典蛋糕食譜",
+          "經典"
+        ],
+        "summary": "整理「agnès b. COOKBOOK經典蛋糕食譜」在飲食養生領域的核心觀念、判斷方法、適用情境與可實踐行動。",
+        "published": "2012-12-14",
+        "sourceSite": "讀冊"
+      },
+      {
+        "title": "孟老師的中式麵食",
+        "author": "孟兆慶",
+        "sourceName": "讀冊－飲食2013暢銷百大",
+        "sourceUrl": "https://www.taaze.tw/products/11100164306.html",
+        "sourceDateNote": "來源標示出版日期為 2009-03-01；擷取日期 2026-09-13，落在 1986-09-13 至 2021-09-13 的搜尋區間內。",
+        "tags": [
+          "飲食",
+          "營養",
+          "養生",
+          "孟老師的中式麵食",
+          "經典"
+        ],
+        "summary": "整理「孟老師的中式麵食」在飲食養生領域的核心觀念、判斷方法、適用情境與可實踐行動。",
+        "published": "2009-03-01",
+        "sourceSite": "讀冊"
+      },
+      {
+        "title": "35分鐘就OK！新手零失敗超手感麵包（修訂版）：34款一吃上癮的烤箱麵包 × 16道經典佐餐料理輕鬆上桌，人氣麵包店就在我家",
+        "author": "Backe晶子",
+        "sourceName": "讀冊－飲食2013暢銷百大",
+        "sourceUrl": "https://www.taaze.tw/products/11100736479.html",
+        "sourceDateNote": "來源標示出版日期為 2015-02-12；擷取日期 2026-09-13，落在 1986-09-13 至 2021-09-13 的搜尋區間內。",
+        "tags": [
+          "飲食",
+          "營養",
+          "養生",
+          "35分鐘就OK！新手零失敗超手感麵包（修訂版）",
+          "34款一吃上癮的烤箱麵包",
+          "16道經典佐餐料理輕鬆上桌，人氣麵包店就在我家",
+          "經典"
+        ],
+        "summary": "整理「35分鐘就OK！新手零失敗超手感麵包（修訂版）：34款一吃上癮的烤箱麵包 × 16道經典佐餐料理輕鬆上桌，人氣麵包店就在我家」在飲食養生領域的核心觀念、判斷方法、適用情境與可實踐行動。",
+        "published": "2015-02-12",
+        "sourceSite": "讀冊"
+      },
+      {
+        "title": "到MASA家學幸福料理 ─ 溫暖料理新手的101道貼心食譜",
+        "author": "MASA",
+        "sourceName": "讀冊－飲食2013暢銷百大",
+        "sourceUrl": "https://www.taaze.tw/products/11100243529.html",
+        "sourceDateNote": "來源標示出版日期為 2010-10-01；擷取日期 2026-09-13，落在 1986-09-13 至 2021-09-13 的搜尋區間內。",
+        "tags": [
+          "飲食",
+          "營養",
+          "養生",
+          "到MASA家學幸福料理",
+          "溫暖料理新手的101道貼心食譜",
+          "經典"
+        ],
+        "summary": "整理「到MASA家學幸福料理 ─ 溫暖料理新手的101道貼心食譜」在飲食養生領域的核心觀念、判斷方法、適用情境與可實踐行動。",
+        "published": "2010-10-01",
+        "sourceSite": "讀冊"
+      },
+      {
+        "title": "一學就會！法國經典甜點：70道老師傅家傳配方，人人在家就能輕鬆做",
+        "author": "法蘭西斯‧馬耶斯&林鳳美",
+        "sourceName": "讀冊－飲食2013暢銷百大",
+        "sourceUrl": "https://www.taaze.tw/products/11100751465.html",
+        "sourceDateNote": "來源標示出版日期為 2015-07-01；擷取日期 2026-09-13，落在 1986-09-13 至 2021-09-13 的搜尋區間內。",
+        "tags": [
+          "飲食",
+          "營養",
+          "養生",
+          "一學就會！法國經典甜點",
+          "70道老師傅家傳配方，人人在家就能輕鬆做",
+          "經典"
+        ],
+        "summary": "整理「一學就會！法國經典甜點：70道老師傅家傳配方，人人在家就能輕鬆做」在飲食養生領域的核心觀念、判斷方法、適用情境與可實踐行動。",
+        "published": "2015-07-01",
+        "sourceSite": "讀冊"
+      },
+      {
+        "title": "男人的菜市場",
+        "author": "劉克襄",
+        "sourceName": "讀冊－飲食2013暢銷百大",
+        "sourceUrl": "https://www.taaze.tw/products/11100929957.html",
+        "sourceDateNote": "來源標示出版日期為 2021-03-04；擷取日期 2026-09-13，落在 1986-09-13 至 2021-09-13 的搜尋區間內。",
+        "tags": [
+          "飲食",
+          "營養",
+          "養生",
+          "男人的菜市場",
+          "經典"
+        ],
+        "summary": "整理「男人的菜市場」在飲食養生領域的核心觀念、判斷方法、適用情境與可實踐行動。",
+        "published": "2021-03-04",
+        "sourceSite": "讀冊"
+      }
+    ],
+    "06_computer_info": [
+      {
+        "title": "大師級Excel 取巧工作術（長銷五年紀念版）：一秒搞定搬、找、換、改、抄，資料分析一鍵結果就出來，對方秒懂、服你專業。",
+        "author": "望月實、花房幸範",
+        "sourceName": "讀冊－電腦2018暢銷百大",
+        "sourceUrl": "https://www.taaze.tw/products/11100950703.html",
+        "sourceDateNote": "來源標示出版日期為 2021-09-01；擷取日期 2026-09-13，落在 1986-09-13 至 2021-09-13 的搜尋區間內。",
+        "tags": [
+          "電腦",
+          "資訊",
+          "科技",
+          "大師級Excel",
+          "取巧工作術（長銷五年紀念版）",
+          "一秒搞定搬、找、換、改、抄，資料分析一鍵結果就出來，對方秒懂、服你專業。",
+          "經典"
+        ],
+        "summary": "整理「大師級Excel 取巧工作術（長銷五年紀念版）：一秒搞定搬、找、換、改、抄，資料分析一鍵結果就出來，對方秒懂、服你專業。」在電腦資訊領域的核心觀念、判斷方法、適用情境與可實踐行動。",
+        "published": "2021-09-01",
+        "sourceSite": "讀冊"
+      },
+      {
+        "title": "專門為中學生寫的程式語言設計：強化邏輯思考力",
+        "author": "李家同、劉國有、謝一功、侯冠維、陳庭偉",
+        "sourceName": "讀冊－電腦2018暢銷百大",
+        "sourceUrl": "https://www.taaze.tw/products/11100853595.html",
+        "sourceDateNote": "來源標示出版日期為 2018-08-23；擷取日期 2026-09-13，落在 1986-09-13 至 2021-09-13 的搜尋區間內。",
+        "tags": [
+          "電腦",
+          "資訊",
+          "科技",
+          "專門為中學生寫的程式語言設計",
+          "強化邏輯思考力",
+          "經典"
+        ],
+        "summary": "整理「專門為中學生寫的程式語言設計：強化邏輯思考力」在電腦資訊領域的核心觀念、判斷方法、適用情境與可實踐行動。",
+        "published": "2018-08-23",
+        "sourceSite": "讀冊"
+      },
+      {
+        "title": "提升程式設計師的面試力｜189道面試題目與解答 第六版 修訂版",
+        "author": "Gayle Laakmann McDowell",
+        "sourceName": "讀冊－電腦2022暢銷百大",
+        "sourceUrl": "https://www.taaze.tw/products/11100927844.html",
+        "sourceDateNote": "來源標示出版日期為 2021-01-28；擷取日期 2026-09-13，落在 1986-09-13 至 2021-09-13 的搜尋區間內。",
+        "tags": [
+          "電腦",
+          "資訊",
+          "科技",
+          "提升程式設計師的面試力｜189道面試題目與解答",
+          "第六版",
+          "修訂版",
+          "經典"
+        ],
+        "summary": "整理「提升程式設計師的面試力｜189道面試題目與解答 第六版 修訂版」在電腦資訊領域的核心觀念、判斷方法、適用情境與可實踐行動。",
+        "published": "2021-01-28",
+        "sourceSite": "讀冊"
+      },
+      {
+        "title": "多元裝置時代的UI/UX設計法則：打造出讓使用者完美體驗的好用介面(第二版)",
+        "author": "原田秀司",
+        "sourceName": "讀冊－電腦2022暢銷百大",
+        "sourceUrl": "https://www.taaze.tw/products/11100941281.html",
+        "sourceDateNote": "來源標示出版日期為 2021-07-16；擷取日期 2026-09-13，落在 1986-09-13 至 2021-09-13 的搜尋區間內。",
+        "tags": [
+          "電腦",
+          "資訊",
+          "科技",
+          "多元裝置時代的UI/UX設計法則",
+          "打造出讓使用者完美體驗的好用介面(第二版)",
+          "經典"
+        ],
+        "summary": "整理「多元裝置時代的UI/UX設計法則：打造出讓使用者完美體驗的好用介面(第二版)」在電腦資訊領域的核心觀念、判斷方法、適用情境與可實踐行動。",
+        "published": "2021-07-16",
+        "sourceSite": "讀冊"
+      },
+      {
+        "title": "詳細解說！人物「上色」步驟完全剖析：CLIP STUDIO PAINT PRO電繪技法大全",
+        "author": "乃樹坂くしお",
+        "sourceName": "讀冊－電腦2022暢銷百大",
+        "sourceUrl": "https://www.taaze.tw/products/11100940172.html",
+        "sourceDateNote": "來源標示出版日期為 2021-08-06；擷取日期 2026-09-13，落在 1986-09-13 至 2021-09-13 的搜尋區間內。",
+        "tags": [
+          "電腦",
+          "資訊",
+          "科技",
+          "詳細解說！人物「上色」步驟完全剖析",
+          "PRO電繪技法大全",
+          "經典"
+        ],
+        "summary": "整理「詳細解說！人物「上色」步驟完全剖析：CLIP STUDIO PAINT PRO電繪技法大全」在電腦資訊領域的核心觀念、判斷方法、適用情境與可實踐行動。",
+        "published": "2021-08-06",
+        "sourceSite": "讀冊"
+      },
+      {
+        "title": "深入淺出設計模式 第二版",
+        "author": "Eric Freeman、Elisabeth Robson",
+        "sourceName": "讀冊－電腦2022暢銷百大",
+        "sourceUrl": "https://www.taaze.tw/products/11100955473.html",
+        "sourceDateNote": "來源標示出版日期為 2021-09-02；擷取日期 2026-09-13，落在 1986-09-13 至 2021-09-13 的搜尋區間內。",
+        "tags": [
+          "電腦",
+          "資訊",
+          "科技",
+          "深入淺出設計模式",
+          "第二版",
+          "經典"
+        ],
+        "summary": "整理「深入淺出設計模式 第二版」在電腦資訊領域的核心觀念、判斷方法、適用情境與可實踐行動。",
+        "published": "2021-09-02",
+        "sourceSite": "讀冊"
+      }
+    ]
+  }
+}
