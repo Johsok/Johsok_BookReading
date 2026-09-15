@@ -27,12 +27,15 @@ def build_prompt(title: str, author: str, start: int = 1, end: int = 150) -> str
     start3 = f"{start:03d}、"
     end3 = f"{end:03d}、"
     focus = CHUNK_FOCUS.get((start, end), "本書互不重複的具體重點")
-    range_line = (
-        f"用繁體中文輸出本書剛好 {count} 個互不重複的具體重點。"
-        if start == 1 and end == 150
-        else f"用繁體中文輸出本書第 {start} 至 {end} 個互不重複的具體重點，共 {count} 行。"
-    )
-    focus_line = "" if start == 1 and end == 150 else f"本段聚焦：{focus}。不要寫其他段會覆蓋的內容。\n"
+    if start == 1 and end == 150:
+        range_line = "用繁體中文輸出本書剛好 150 個互不重複的具體重點。"
+        focus_line = (
+            "001–075：核心定義、原理、架構、判斷標準、方法工具。\n"
+            "076–150：情境案例、風險例外、行動復盤、取捨與應用。\n"
+        )
+    else:
+        range_line = f"用繁體中文輸出本書第 {start} 至 {end} 個互不重複的具體重點，共 {count} 行。"
+        focus_line = f"本段聚焦：{focus}。不要寫其他段會覆蓋的內容。\n"
     return f"""書名：{title}
 作者：{author}
 {range_line}
@@ -127,3 +130,32 @@ def write_highlights(root: Path, book_id: str, highlights: list[str]) -> dict:
         "file": relative_file,
         "count": len(saved.get("chatgptHighlights") or []),
     }
+
+
+def main() -> int:
+    """CLI: `prompt` prints the 150-point prompt; `write` reads stdin and saves."""
+    import argparse
+    import sys
+
+    parser = argparse.ArgumentParser(description="FindBook Grok highlights helper")
+    parser.add_argument("command", choices=["write", "prompt"])
+    parser.add_argument("--root", default=str(Path(__file__).resolve().parents[1]))
+    parser.add_argument("--book-id", default="")
+    parser.add_argument("--title", default="")
+    parser.add_argument("--author", default="")
+    args = parser.parse_args()
+    if args.command == "prompt":
+        sys.stdout.write(build_prompt(args.title, args.author))
+        return 0
+    if not args.book_id:
+        raise SystemExit("write 需要 --book-id")
+    if hasattr(sys.stdin, "reconfigure"):
+        sys.stdin.reconfigure(encoding="utf-8")
+    text = sys.stdin.read()
+    result = write_highlights(Path(args.root), args.book_id, extract_highlights(text))
+    print(json.dumps(result, ensure_ascii=False))
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

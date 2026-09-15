@@ -279,6 +279,26 @@ def in_date_range(published: str, from_date: str, to_date: str) -> bool:
     return start <= value <= end
 
 
+def in_classic_date_range(published: str, from_date: str) -> bool:
+    """Keep reprints: only enforce the older bound. Undated classic-list rows stay."""
+    if not published:
+        return True
+    try:
+        value = date.fromisoformat(published)
+        start = date.fromisoformat(from_date)
+    except ValueError:
+        return True
+    return value >= start
+
+
+SIMPLIFIED_MARKERS = re.compile(r"[国这书对门东见马风车开关头过还经个应学现电钟医语]")
+
+
+def looks_simplified(text: str) -> bool:
+    """True when a title/author has several simplified-only glyphs."""
+    return len(SIMPLIFIED_MARKERS.findall(text or "")) >= 2
+
+
 def undated_product_too_new(item: dict, to_date: str) -> bool:
     """Drop 博客來 product IDs that are newer than the search window."""
     if item.get("published"):
@@ -493,11 +513,38 @@ def parse_taaze_detail(html: str) -> tuple[str, str, str]:
     return title, author, parse_iso_date(html)
 
 
-def fetch_taaze_tag_items(list_id: str, end_num: int = 100) -> list[dict]:
-    """Read one 讀冊暢銷百大 list via viewTagsAgent (list JSON, not a detail page)."""
+def parse_taaze_tag_rows(raw: str) -> list[dict]:
+    """Parse one viewTagsAgent JSON page into list rows."""
+    try:
+        payload = json.loads(raw)
+    except json.JSONDecodeError:
+        return []
     items: list[dict] = []
     seen: set[str] = set()
-    page_size = 20
+    for row in payload.get("result1") or []:
+        title = str(row.get("titleMain") or "").strip()
+        author = str(row.get("author") or "").strip(" /|,，、")
+        prod_id = str(row.get("prodId") or "").strip()
+        published = str(row.get("publishDate") or "").strip()
+        if published:
+            published = published[:10] if len(published) >= 10 else parse_iso_date(published)
+        if not title or not has_han(title) or not author or not prod_id or prod_id in seen:
+            continue
+        seen.add(prod_id)
+        items.append(
+            {
+                "title": title,
+                "author": author,
+                "sourceUrl": f"https://www.taaze.tw/products/{prod_id}.html",
+                "published": published,
+                "sourceSite": "讀冊",
+            }
+        )
+    return items
+
+
+def iter_taaze_tag_pages(list_id: str, page_size: int = 20, end_num: int = 100):
+    """Yield 讀冊暢銷百大 pages; caller stops as soon as quota is filled."""
     start = 1
     while start <= end_num:
         chunk_end = min(start + page_size - 1, end_num)
@@ -506,34 +553,37 @@ def fetch_taaze_tag_items(list_id: str, end_num: int = 100) -> list[dict]:
             f"?a=01&d=11&l=0&t=11&c=00&k=03&p={list_id}"
             f"&startNum={start}&endNum={chunk_end}&sortType=1"
         )
-        raw = fetch_html(url, referer="https://www.taaze.tw/")
-        try:
-            payload = json.loads(raw)
-        except json.JSONDecodeError:
-            break
-        rows = payload.get("result1") or []
+        raw = ""
+        last_error: Exception | None = None
+        for _attempt in range(2):
+            try:
+                raw = fetch_html(url, referer="https://www.taaze.tw/")
+                last_error = None
+                break
+            except Exception as exc:  # noqa: BLE001
+                last_error = exc
+        if last_error is not None:
+            raise last_error
+        rows = parse_taaze_tag_rows(raw)
         if not rows:
             break
-        for row in rows:
-            title = str(row.get("titleMain") or "").strip()
-            author = str(row.get("author") or "").strip(" /|,，、")
-            prod_id = str(row.get("prodId") or "").strip()
-            published = str(row.get("publishDate") or "").strip()
-            if published:
-                published = published[:10] if len(published) >= 10 else parse_iso_date(published)
-            if not title or not has_han(title) or not author or not prod_id or prod_id in seen:
-                continue
-            seen.add(prod_id)
-            items.append(
-                {
-                    "title": title,
-                    "author": author,
-                    "sourceUrl": f"https://www.taaze.tw/products/{prod_id}.html",
-                    "published": published,
-                    "sourceSite": "讀冊",
-                }
-            )
+        yield rows
+        if len(rows) < (chunk_end - start + 1):
+            break
         start = chunk_end + 1
+
+
+def fetch_taaze_tag_items(list_id: str, end_num: int = 100) -> list[dict]:
+    """Read one 讀冊暢銷百大 list via viewTagsAgent (list JSON, not a detail page)."""
+    items: list[dict] = []
+    seen: set[str] = set()
+    for rows in iter_taaze_tag_pages(list_id, end_num=end_num):
+        for item in rows:
+            url = str(item.get("sourceUrl") or "")
+            if url in seen:
+                continue
+            seen.add(url)
+            items.append(item)
     return items
 
 
@@ -581,8 +631,7 @@ def to_candidate(item: dict, category_id: str, from_date: str, to_date: str) -> 
         date_note = "來源未提供明確日期"
     title = str(item["title"]).strip()
     author = str(item["author"]).strip()
-    extra = [part for part in title.replace("：", " ").replace(":", " ").split() if has_han(part)][:3]
-    tags = list(DEFAULT_TAGS[category_id]) + extra
+    tags = list(DEFAULT_TAGS[category_id])
     source_name = str(item.get("sourceName") or "")
     if any(mark in source_name for mark in ("歷年", "經典", "暢銷百大")) and "經典" not in tags:
         tags.append("經典")
@@ -629,6 +678,8 @@ def _accept_item(
     from_date: str,
     to_date: str,
     category_id: str = "",
+    classic: bool = False,
+    prefer_hant: bool = False,
 ) -> str:
     """Return the dedupe key if the row is usable; otherwise empty."""
     title = str(item.get("title") or "")
@@ -637,6 +688,8 @@ def _accept_item(
         return ""
     if re.search(r"简体|簡體", title) or "二手書" in title:
         return ""
+    if prefer_hant and (looks_simplified(title) or looks_simplified(author)):
+        return ""
     for needle in TITLE_SKIP.get(category_id, ()):
         if needle in title:
             return ""
@@ -644,10 +697,14 @@ def _accept_item(
     if key in existing_keys or key in seen_keys:
         return ""
     published = str(item.get("published") or "")
-    if published and not in_date_range(published, from_date, to_date):
-        return ""
-    if undated_product_too_new(item, to_date):
-        return ""
+    if classic:
+        if not in_classic_date_range(published, from_date):
+            return ""
+    else:
+        if published and not in_date_range(published, from_date, to_date):
+            return ""
+        if undated_product_too_new(item, to_date):
+            return ""
     return key
 
 
@@ -699,6 +756,7 @@ def _collect_from_pages(
     buffer: int,
     should_stop: StopFn | None,
     log: LogFn | None,
+    prefer_hant: bool = False,
 ) -> list[dict]:
     found: list[dict] = []
     if not pages or buffer <= 0 or _stopped(should_stop):
@@ -724,7 +782,15 @@ def _collect_from_pages(
     def _take(item: dict) -> bool:
         if len(found) >= buffer or _stopped(should_stop):
             return False
-        key = _accept_item(item, existing_keys, seen_keys, from_date, to_date, category_id)
+        key = _accept_item(
+            item,
+            existing_keys,
+            seen_keys,
+            from_date,
+            to_date,
+            category_id,
+            prefer_hant=prefer_hant,
+        )
         if not key:
             return False
         seen_keys.add(key)
@@ -757,35 +823,45 @@ def _collect_taaze_classic(
     buffer: int,
     should_stop: StopFn | None,
     log: LogFn | None,
+    prefer_hant: bool = False,
 ) -> list[dict]:
-    """Fill buffer from 讀冊歷年／年度暢銷百大 JSON lists."""
+    """Fill buffer from 讀冊歷年／年度暢銷百大 JSON lists; stop at quota."""
     found: list[dict] = []
     lists = TAAZE_CLASSIC_LISTS.get(category_id) or []
     for list_id, source_name in lists:
         if len(found) >= buffer or _stopped(should_stop):
             break
-        rows: list[dict] = []
+        rows_found = 0
         last_error: Exception | None = None
-        for attempt in range(3):
-            try:
-                rows = fetch_taaze_tag_items(list_id)
-                last_error = None
-                break
-            except Exception as exc:  # noqa: BLE001
-                last_error = exc
+        try:
+            for rows in iter_taaze_tag_pages(list_id):
+                if len(found) >= buffer or _stopped(should_stop):
+                    break
+                rows_found += len(rows)
+                for item in rows:
+                    if len(found) >= buffer or _stopped(should_stop):
+                        break
+                    item["sourceName"] = source_name
+                    key = _accept_item(
+                        item,
+                        existing_keys,
+                        seen_keys,
+                        from_date,
+                        to_date,
+                        category_id,
+                        classic=True,
+                        prefer_hant=prefer_hant,
+                    )
+                    if not key:
+                        continue
+                    seen_keys.add(key)
+                    found.append(to_candidate(item, category_id, from_date, to_date))
+        except Exception as exc:  # noqa: BLE001
+            last_error = exc
         if last_error is not None:
             _log(log, f"讀冊經典榜失敗 {list_id}：{last_error}")
             continue
-        _log(log, f"{source_name} 解析 {len(rows)} 筆")
-        for item in rows:
-            if len(found) >= buffer or _stopped(should_stop):
-                break
-            item["sourceName"] = source_name
-            key = _accept_item(item, existing_keys, seen_keys, from_date, to_date, category_id)
-            if not key:
-                continue
-            seen_keys.add(key)
-            found.append(to_candidate(item, category_id, from_date, to_date))
+        _log(log, f"{source_name} 解析 {rows_found} 筆，累計合格 {len(found)} 本")
     return found
 
 
@@ -797,6 +873,7 @@ def scrape_category(
     quota: int,
     should_stop: StopFn | None = None,
     log: LogFn | None = None,
+    prefer_hant: bool = False,
 ) -> list[dict]:
     """Find extra Chinese candidates for one category. Caller stops at quota after reserve."""
     if category_id not in CATEGORY_LABELS:
@@ -831,10 +908,12 @@ def scrape_category(
                 buffer,
                 should_stop,
                 log,
+                prefer_hant=prefer_hant,
             )
         )
         _log(log, f"讀冊經典榜／{label} 累計合格 {len(collected)} 本")
-        if len(collected) >= buffer:
+        # 經典區間不要再打新書榜；新書日期幾乎都會被刷掉，只會拖時間。
+        if collected:
             return collected
 
     sources = [
@@ -882,6 +961,7 @@ def scrape_category(
             buffer - len(collected),
             should_stop,
             log,
+            prefer_hant=prefer_hant,
         )
         collected.extend(batch)
         _log(log, f"{site}／{label} 累計合格 {len(collected)} 本")
@@ -905,6 +985,7 @@ def scrape_categories(
     quota: int,
     should_stop: StopFn | None = None,
     log: LogFn | None = None,
+    prefer_hant: bool = False,
 ) -> dict[str, list[dict]]:
     """Scrape several categories in parallel."""
     results: dict[str, list[dict]] = {}
@@ -922,6 +1003,7 @@ def scrape_categories(
                 quota,
                 should_stop,
                 log,
+                prefer_hant,
             ): category_id
             for category_id in category_ids
         }
@@ -931,6 +1013,49 @@ def scrape_categories(
     return results
 
 
+def commit_candidates(
+    root: Path,
+    payload: dict[str, list[dict]],
+    quota: int,
+    from_date: str,
+    to_date: str,
+    work_id: str,
+) -> list[dict]:
+    """Reserve scraped rows in-process so the agent never writes a candidates file."""
+    import sys
+
+    tools_dir = str(Path(__file__).resolve().parent)
+    if tools_dir not in sys.path:
+        sys.path.insert(0, tools_dir)
+    from findbook_writer import reserve_one
+
+    committed: list[dict] = []
+    for category_id, items in payload.items():
+        got = 0
+        for item in items:
+            if got >= quota:
+                break
+            candidate = dict(item)
+            if work_id:
+                candidate["workId"] = work_id
+            result = reserve_one(root, category_id, candidate, from_date, to_date)
+            if result.get("status") == "committed":
+                result.update(
+                    {
+                        "sourceName": candidate.get("sourceName", ""),
+                        "sourceUrl": candidate.get("sourceUrl", ""),
+                        "sourceDateNote": candidate.get("sourceDateNote", ""),
+                        "tags": candidate.get("tags", []),
+                        "summary": candidate.get("summary", ""),
+                        "workId": work_id,
+                        "searchDateRange": {"from": from_date, "to": to_date},
+                    }
+                )
+                committed.append(result)
+                got += 1
+    return committed
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="FindBook list-page scraper")
     parser.add_argument("--root", default=str(Path(__file__).resolve().parents[1]))
@@ -938,11 +1063,19 @@ def main() -> int:
     parser.add_argument("--quota", type=int, required=True)
     parser.add_argument("--from-date", required=True)
     parser.add_argument("--to-date", required=True)
-    parser.add_argument("--out", required=True, help="JSON object keyed by categoryId")
+    parser.add_argument(
+        "--out",
+        default="",
+        help="Optional JSON dump keyed by categoryId; omit to avoid extra files",
+    )
+    parser.add_argument("--commit", action="store_true", help="Reserve into data.json after scrape")
+    parser.add_argument("--work-id", default="", help="Batch workId written onto reserved books")
+    parser.add_argument("--hant", action="store_true", help="Drop titles/authors with simplified glyphs")
     args = parser.parse_args()
     root = Path(args.root).resolve()
     category_ids = [item.strip() for item in args.category_ids.split(",") if item.strip()]
     existing_keys = load_existing_keys(root)
+    work_id = args.work_id.strip() or datetime.now().strftime("findbook-%Y%m%d-%H%M")
     payload = scrape_categories(
         category_ids,
         args.from_date,
@@ -950,12 +1083,38 @@ def main() -> int:
         existing_keys,
         args.quota,
         log=print,
+        prefer_hant=args.hant,
     )
-    out_path = Path(args.out)
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    total = sum(len(items) for items in payload.values())
-    print(f"wrote {out_path} categories={len(payload)} candidates={total}")
+    if args.out:
+        out_path = Path(args.out)
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        out_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        print(f"wrote {out_path} categories={len(payload)} candidates={sum(len(v) for v in payload.values())}")
+    if args.commit:
+        committed = commit_candidates(
+            root,
+            payload,
+            args.quota,
+            args.from_date,
+            args.to_date,
+            work_id,
+        )
+        print(json.dumps({"workId": work_id, "committed": committed}, ensure_ascii=False))
+        counts: dict[str, int] = {category_id: 0 for category_id in category_ids}
+        for item in committed:
+            counts[str(item.get("categoryId", ""))] = counts.get(str(item.get("categoryId", "")), 0) + 1
+        short = [category_id for category_id in category_ids if counts.get(category_id, 0) < args.quota]
+        print(
+            f"committed={len(committed)} workId={work_id} "
+            + " ".join(f"{key}={counts.get(key, 0)}" for key in category_ids)
+        )
+        if short:
+            raise RuntimeError(f"未達配額：{', '.join(short)}")
+        return 0
+    if not args.out:
+        print(json.dumps(payload, ensure_ascii=False))
+        total = sum(len(items) for items in payload.values())
+        print(f"categories={len(payload)} candidates={total} workId={work_id}")
     return 0
 
 
