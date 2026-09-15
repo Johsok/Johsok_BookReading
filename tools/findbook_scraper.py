@@ -193,6 +193,9 @@ TAAZE_CLASSIC_LISTS = {
         ("20221499", "讀冊－心理勵志2021暢銷百大"),
         ("20221212", "讀冊－心理勵志2016暢銷百大"),
         ("20221279", "讀冊－心理勵志2013暢銷百大"),
+        ("20222102", "讀冊－心理勵志專題暢銷"),
+        ("20221213", "讀冊－心理勵志鄰近年度暢銷百大"),
+        ("20221498", "讀冊－心理勵志鄰近年度暢銷百大"),
     ],
     "03_natural_science": [
         ("20221725", "讀冊－科學歷年累計暢銷百大"),
@@ -218,6 +221,7 @@ TAAZE_CLASSIC_LISTS = {
         ("20221107", "讀冊－飲食2010暢銷百大"),
     ],
     "06_computer_info": [
+        ("20222613", "讀冊－電腦歷年累計暢銷百大"),
         ("20221745", "讀冊－電腦2021暢銷百大"),
         ("20221746", "讀冊－電腦2020暢銷百大"),
         ("20221747", "讀冊－電腦2019暢銷百大"),
@@ -336,6 +340,16 @@ def fetch_html(url: str, referer: str = "") -> str:
         return raw.decode("utf-8", "replace")
     except Exception as exc:  # noqa: BLE001
         last_error = last_error or exc
+    if url.startswith("https://"):
+        http_url = "http://" + url[8:]
+        request = urllib.request.Request(http_url, headers=headers)
+        try:
+            with urllib.request.urlopen(
+                request, timeout=12, context=ssl._create_unverified_context()
+            ) as response:
+                return response.read().decode("utf-8", "replace")
+        except Exception as exc:  # noqa: BLE001
+            last_error = last_error or exc
     raise last_error or RuntimeError(f"無法讀取 {url}")
 
 
