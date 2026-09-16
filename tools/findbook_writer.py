@@ -16,6 +16,10 @@ from zoneinfo import ZoneInfo
 
 PUNCT_RE = re.compile(r"[\s\W_]+", re.UNICODE)
 NUMBER_RE = re.compile(r"^\d{3}、")
+PUBLISHED_ISO_RE = re.compile(r"出版日期[為：:\s]*(\d{4}-\d{2}-\d{2})")
+PUBLISHED_YEAR_RE = re.compile(r"(?:出版日期[為：:\s]*|初版年份為\s*)(\d{4})(?!\d)")
+ISO_DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+YEAR_RE = re.compile(r"^\d{4}$")
 NATURAL_COLON_SUFFIXES = ("是", "為", "在於", "說", "問", "提醒", "表示", "指出")
 TAIPEI = ZoneInfo("Asia/Taipei")
 
@@ -65,6 +69,51 @@ def now_iso() -> str:
     return datetime.now(TAIPEI).isoformat(timespec="seconds")
 
 
+def parse_published_date(*texts: object) -> str:
+    """Extract YYYY-MM-DD or YYYY from scraper fields or sourceDateNote."""
+    for raw in texts:
+        value = str(raw or "").strip()
+        if not value:
+            continue
+        if ISO_DATE_RE.fullmatch(value) or YEAR_RE.fullmatch(value):
+            return value
+        iso_match = PUBLISHED_ISO_RE.search(value)
+        if iso_match:
+            return iso_match.group(1)
+        year_match = PUBLISHED_YEAR_RE.search(value)
+        if year_match:
+            return year_match.group(1)
+    return ""
+
+
+def published_sort_tuple(value: object) -> tuple[int, int, int]:
+    """Turn a published value into Y/M/D for newest-first sorting."""
+    text = str(value or "").strip()
+    if ISO_DATE_RE.fullmatch(text):
+        year, month, day = text.split("-")
+        return (int(year), int(month), int(day))
+    if YEAR_RE.fullmatch(text):
+        return (int(text), 1, 1)
+    return (0, 0, 0)
+
+
+def sort_manifest_books(manifest: dict) -> None:
+    """Keep category order; within each series sort newest published first."""
+    category_order = {
+        str(item.get("id") or ""): index
+        for index, item in enumerate(manifest.get("categories") or [])
+    }
+    books = list(manifest.get("books") or [])
+    books.sort(
+        key=lambda book: (
+            category_order.get(str(book.get("categoryId") or ""), 999),
+            tuple(-part for part in published_sort_tuple(book.get("published"))),
+            str(book.get("id") or ""),
+        )
+    )
+    manifest["books"] = books
+
+
 def candidate_payload(candidate: dict, book_id: str, from_date: str, to_date: str) -> dict:
     required = ("title", "author", "sourceName", "sourceUrl", "sourceDateNote", "tags", "summary")
     missing = [field for field in required if not candidate.get(field)]
@@ -87,6 +136,9 @@ def candidate_payload(candidate: dict, book_id: str, from_date: str, to_date: st
         "chatgptStatus": "pending_grok",
         "highlightsSource": "pending_grok",
     }
+    published = parse_published_date(candidate.get("published"), candidate.get("sourceDateNote"))
+    if published:
+        payload["published"] = published
     work_id = str(candidate.get("workId", "")).strip()
     if work_id:
         payload["workId"] = work_id
@@ -108,6 +160,8 @@ def manifest_payload(book: dict, category_id: str) -> dict:
         "sourceUrl": book["sourceUrl"],
         "file": book_relative_path(category_id, book["id"]),
     }
+    if book.get("published"):
+        payload["published"] = book["published"]
     if book.get("workId"):
         payload["workId"] = book["workId"]
     return payload
@@ -225,6 +279,7 @@ def reserve_one(
         if key in latest_keys:
             raise RuntimeError(f"{book_id} 單書檔已寫入，但 data.json 出現 reservation 衝突")
         manifest.setdefault("books", []).append(manifest_payload(book, category_id))
+        sort_manifest_books(manifest)
         update_manifest_metadata(manifest, from_date, to_date)
         write_json_atomic(manifest_path, manifest)
         check_manifest = read_json(manifest_path)
@@ -399,6 +454,8 @@ read_json = read_json
 write_json_atomic = write_json_atomic
 now_iso = now_iso
 normalized_key = normalized_key
+parse_published_date = parse_published_date
+sort_manifest_books = sort_manifest_books
 reserve_one = reserve_one
 book_relative_path = book_relative_path
 check_index_link = check_index_link

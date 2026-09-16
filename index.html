@@ -436,7 +436,7 @@
       "use strict";
 
       const manifestUrl = "data.json";
-      const pageSize = 50;
+      const pageSize = 80;
       const state = {
         manifest: null,
         category: null,
@@ -596,7 +596,7 @@
 
         const results = asArray(state.manifest.books).filter(function (book) {
           return normalize(book.title).includes(query) || normalize(book.author).includes(query);
-        });
+        }).slice().sort(comparePublishedDesc);
 
         state.mode = "search";
         state.searchQuery = els.searchInput.value.trim();
@@ -623,6 +623,8 @@
         if (state.cache.has(url)) return state.cache.get(url);
         const data = await loadJson(url);
         validateBookIndex(indexBook, data);
+        if (!data.published && indexBook.published) data.published = indexBook.published;
+        if (!data.sourceDateNote && indexBook.sourceDateNote) data.sourceDateNote = indexBook.sourceDateNote;
         state.cache.set(url, data);
         return data;
       }
@@ -667,7 +669,8 @@
         const pageItems = state.bookOptions.slice(start, start + pageSize);
 
         els.bookSelect.innerHTML = pageItems.map(function (book) {
-          const label = state.mode === "search" ? `${categoryLabel(book.categoryId)}｜${book.title}` : book.title;
+          const titled = titleWithYear(book);
+          const label = state.mode === "search" ? `${categoryLabel(book.categoryId)}｜${titled}` : titled;
           return `<option value="${escapeAttr(makeOptionValue(book.categoryId, book.id))}">${escapeHtml(label)}</option>`;
         }).join("");
 
@@ -702,9 +705,10 @@
           ["作者", book.author]
         ].filter(function (row) { return row[1]; });
 
-        document.title = `${book.title} - 讀書後重點整理`;
+        const titled = titleWithYear(book);
+        document.title = `${titled} - 讀書後重點整理`;
         if (state.mode !== "search") {
-          setStatus(`${book.title}｜${book.author}`);
+          setStatus(`${titled}｜${book.author}`);
         }
         els.bookView.className = "book-view";
         els.bookView.innerHTML = `
@@ -712,7 +716,7 @@
             <div class="book-side-inner">
               <div class="book-mark" aria-hidden="true"></div>
               <div>
-                <h2>${escapeHtml(book.title)}</h2>
+                <h2>${escapeHtml(titled)}</h2>
                 <p>${escapeHtml(book.author)}</p>
               </div>
               <div class="book-meta">
@@ -832,7 +836,24 @@
       function categoryBooks(categoryId) {
         return state.manifest ? asArray(state.manifest.books).filter(function (book) {
           return book.categoryId === categoryId;
-        }) : [];
+        }).slice().sort(comparePublishedDesc) : [];
+      }
+
+      /** 同一系列由新到舊；無出版日期者排最後。 */
+      function comparePublishedDesc(left, right) {
+        const leftValue = publishedSortValue(left);
+        const rightValue = publishedSortValue(right);
+        if (leftValue !== rightValue) return rightValue - leftValue;
+        return String(left.id || "").localeCompare(String(right.id || ""));
+      }
+
+      function publishedSortValue(book) {
+        const year = publishedYear(book);
+        if (!year) return 0;
+        const published = String(book && book.published || "");
+        const iso = published.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+        if (iso) return Number(iso[1] + iso[2] + iso[3]);
+        return Number(`${year}0101`);
       }
 
       function categoryLabel(categoryId) {
@@ -845,8 +866,27 @@
           id: book.id,
           title: book.title,
           author: book.author,
+          published: book.published || "",
+          sourceDateNote: book.sourceDateNote || "",
           categoryId: categoryId || book.categoryId
         };
+      }
+
+      /** 從 published 或來源日期說明取出西元年。 */
+      function publishedYear(book) {
+        const published = String(book && book.published || "").trim();
+        const publishedMatch = published.match(/^(\d{4})(?:-\d{2}-\d{2})?$/);
+        if (publishedMatch) return publishedMatch[1];
+        const note = String(book && book.sourceDateNote || "");
+        const noteMatch = note.match(/出版日期[為：:\s]*(\d{4})/) || note.match(/初版年份為\s*(\d{4})/);
+        return noteMatch ? noteMatch[1] : "";
+      }
+
+      /** 書名後方附上出版年份，例如「原子習慣 (2024年)」。 */
+      function titleWithYear(book) {
+        const title = String(book && book.title || "");
+        const year = publishedYear(book);
+        return year ? `${title} (${year}年)` : title;
       }
 
       function makeOptionValue(categoryId, bookId) {

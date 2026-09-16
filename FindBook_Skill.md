@@ -68,6 +68,13 @@ stdout 的 `committed` 陣列就是本批書單。不要再呼叫 `findbook_writ
 
 去重鍵：ISBN（有則優先）→ 正規化「書名+作者」。已在庫的書不抵扣新批次配額，改收下一本。`data.json` 是 reservation 唯一權威來源。
 
+每次把新書寫入 `data.json` 後，必須立刻依出版日期重排再落盤，不得維持抓取順序。規則：
+
+1. 先依 `categories` 的系列順序（`01`→`07`）分組。
+2. 同一系列內依 `published` 由新到舊；無出版日期的書排在該系列最後。
+3. 索引列必須寫入 `published`（`YYYY-MM-DD` 或僅年份 `YYYY`），來源為 scraper 的出版日期或 `sourceDateNote`。
+4. 只准透過 `findbook_writer.py` 的 reservation 寫入；writer 已內建排序，禁止手改 `data.json` 順序。
+
 新批次：使用者再說「找新書／新增」就是新 `workId`，即使條件與上次相同也要重新湊滿配額。只有「續跑／驗證／不新增」或同一 `workId` 仍 pending 才續跑。`chatgptStatus: complete` 略過；pending 只補缺的 150 點。
 
 ## 分類
@@ -149,6 +156,7 @@ reservation 已由 scraper `--commit` 寫入 pending 骨架。150 點完成時�
   "sourceName": "來源榜單",
   "sourceUrl": "https://example.com",
   "sourceDateNote": "出版日期、上架日期、榜單日期或來源未提供明確日期",
+  "published": "YYYY-MM-DD",
   "searchDateRange": { "from": "YYYY-MM-DD", "to": "YYYY-MM-DD" },
   "tags": ["標籤"],
   "summary": "短摘要",
@@ -160,6 +168,6 @@ reservation 已由 scraper `--commit` 寫入 pending 骨架。150 點完成時�
 }
 ```
 
-索引連結：`file` 必須是 `Books/{categoryId}/{book-id}.json`（正斜線、大小寫一致）。單書與索引的 `id`、`categoryId`、`title`、`author` 必須相同；該 ID 與 `file` 在 `data.json` 各只出現一次。批次結束只核對本批 committed ID，並確認 `totalBooks === data.json.books.length`。異常先保留現況並回報，不得用別本書覆寫。
+索引連結：`file` 必須是 `Books/{categoryId}/{book-id}.json`（正斜線、大小寫一致）。單書與索引的 `id`、`categoryId`、`title`、`author` 必須相同；該 ID 與 `file` 在 `data.json` 各只出現一次。索引列需含 `published`（有來源日期時）。批次結束只核對本批 committed ID，確認 `totalBooks === data.json.books.length`，並確認各系列已依 `published` 由新到舊排列。異常先保留現況並回報，不得用別本書覆寫。
 
 同一 `workId` 的 pending 檔還沒進索引時，只能依原 checkpoint 補原列；相反則補回 pending 檔。不得從檔名猜書名或分類。
