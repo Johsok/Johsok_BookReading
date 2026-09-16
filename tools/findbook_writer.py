@@ -17,9 +17,23 @@ from zoneinfo import ZoneInfo
 PUNCT_RE = re.compile(r"[\s\W_]+", re.UNICODE)
 NUMBER_RE = re.compile(r"^\d{3}、")
 PUBLISHED_ISO_RE = re.compile(r"出版日期[為：:\s]*(\d{4}-\d{2}-\d{2})")
+PUBLISHED_SLASH_RE = re.compile(r"出版日[期]?[為：:\s]*(\d{4})[./](\d{1,2})[./](\d{1,2})")
+PUBLISHED_ABOUT_RE = re.compile(r"初版約\s*(\d{4}-\d{2}-\d{2})")
 PUBLISHED_YEAR_RE = re.compile(r"(?:出版日期[為：:\s]*|初版年份為\s*)(\d{4})(?!\d)")
+PUBLISHED_YEAR_EDITION_RE = re.compile(r"(\d{4})年(?:初版|出版)")
 ISO_DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 YEAR_RE = re.compile(r"^\d{4}$")
+HTML_PUBLISHED_RES = (
+    re.compile(r"出版日期[：:].{0,120}?(\d{4})[./-](\d{1,2})[./-](\d{1,2})", re.I | re.S),
+    re.compile(r"出版日[：:].{0,80}?(\d{4})[./-](\d{1,2})[./-](\d{1,2})", re.I | re.S),
+    re.compile(
+        r'"name"\s*:\s*"出版日"\s*,\s*"value"\s*:\s*"(\d{4})[./](\d{1,2})[./](\d{1,2})"',
+        re.I,
+    ),
+    re.compile(r'"datePublished"\s*:\s*"(\d{4})(?:\\/|/)(\d{1,2})(?:\\/|/)(\d{1,2})"', re.I),
+    re.compile(r"datePublished[\"'\s:]+(\d{4})[./-](\d{1,2})[./-](\d{1,2})", re.I),
+    re.compile(r"(\d{4})[./-](\d{1,2})[./-](\d{1,2})\s*出版"),
+)
 NATURAL_COLON_SUFFIXES = ("是", "為", "在於", "說", "問", "提醒", "表示", "指出")
 TAIPEI = ZoneInfo("Asia/Taipei")
 
@@ -69,6 +83,21 @@ def now_iso() -> str:
     return datetime.now(TAIPEI).isoformat(timespec="seconds")
 
 
+def normalize_ymd(year: object, month: object, day: object) -> str:
+    """Return YYYY-MM-DD when the calendar parts are usable."""
+    try:
+        year_n = int(year)
+        month_n = int(month)
+        day_n = int(day)
+    except (TypeError, ValueError):
+        return ""
+    if not 1900 <= year_n <= 2026:
+        return ""
+    if not 1 <= month_n <= 12 or not 1 <= day_n <= 31:
+        return ""
+    return f"{year_n:04d}-{month_n:02d}-{day_n:02d}"
+
+
 def parse_published_date(*texts: object) -> str:
     """Extract YYYY-MM-DD or YYYY from scraper fields or sourceDateNote."""
     for raw in texts:
@@ -80,9 +109,33 @@ def parse_published_date(*texts: object) -> str:
         iso_match = PUBLISHED_ISO_RE.search(value)
         if iso_match:
             return iso_match.group(1)
+        slash_match = PUBLISHED_SLASH_RE.search(value)
+        if slash_match:
+            parsed = normalize_ymd(*slash_match.groups())
+            if parsed:
+                return parsed
+        about_match = PUBLISHED_ABOUT_RE.search(value)
+        if about_match:
+            return about_match.group(1)
         year_match = PUBLISHED_YEAR_RE.search(value)
         if year_match:
             return year_match.group(1)
+        edition_match = PUBLISHED_YEAR_EDITION_RE.search(value)
+        if edition_match:
+            return edition_match.group(1)
+    return ""
+
+
+def extract_published_from_html(html: str) -> str:
+    """Read a product-page publication date, ignoring listing or crawl dates."""
+    text = str(html or "")
+    for regex in HTML_PUBLISHED_RES:
+        match = regex.search(text)
+        if not match:
+            continue
+        parsed = normalize_ymd(*match.groups())
+        if parsed:
+            return parsed
     return ""
 
 
@@ -455,6 +508,7 @@ write_json_atomic = write_json_atomic
 now_iso = now_iso
 normalized_key = normalized_key
 parse_published_date = parse_published_date
+extract_published_from_html = extract_published_from_html
 sort_manifest_books = sort_manifest_books
 reserve_one = reserve_one
 book_relative_path = book_relative_path
