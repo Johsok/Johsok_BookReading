@@ -71,9 +71,9 @@ stdout 的 `committed` 陣列就是本批書單。不要再呼叫 `findbook_writ
 每次把新書寫入 `data.json` 後，必須立刻依出版日期重排再落盤，不得維持抓取順序。規則：
 
 1. 先依 `categories` 的系列順序（`01`→`07`）分組。
-2. 同一系列內依 `published` 由新到舊；無出版日期的書排在該系列最後。
-3. 索引列必須寫入 `published`（`YYYY-MM-DD` 或僅年份 `YYYY`），來源為 scraper 的出版日期或 `sourceDateNote`。
-4. 只准透過 `findbook_writer.py` 的 reservation 寫入；writer 已內建排序，禁止手改 `data.json` 順序。
+2. 同一系列內依 `published` 由新到舊（完整 `YYYY-MM-DD` 優先於僅年份 `YYYY`；僅年份視為該年 `01-01`）。無出版日期的書排在該系列最後。
+3. 索引列與單書 JSON 都必須寫入 `published`（`YYYY-MM-DD` 或僅年份 `YYYY`）。來源依序：scraper 出版日期 → `sourceDateNote` → 博客來商品頁／書名搜尋 → momo 圖書搜尋。必須對到同一書名（短書名還要比對作者），不得套用書名相近的其他書。兩邊都找不到就留空並排該系列最後，據實回報，不得捏造日期。
+4. 只准透過 `findbook_writer.py` 的 reservation 寫入；writer 已內建 `sort_manifest_books`，禁止手改 `data.json` 順序。
 
 新批次：使用者再說「找新書／新增」就是新 `workId`，即使條件與上次相同也要重新湊滿配額。只有「續跑／驗證／不新增」或同一 `workId` 仍 pending 才續跑。`chatgptStatus: complete` 略過；pending 只補缺的 150 點。
 

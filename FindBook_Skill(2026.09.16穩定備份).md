@@ -103,7 +103,7 @@ python tools/findbook_scraper.py --root . --category-ids <id1,id2,...> --quota <
 1. 各分類平行；有效新書達到該類配額後，立刻停止該類其餘搜尋。不要五站同時打滿。
 2. 跨平台去重鍵依序為：ISBN（有則優先）→ 正規化「書名 + 作者」。同一本書出現在多站時，保留最先通過亂碼快路徑且資料最完整的一筆，不要開第二個詳情頁。
 3. 候選緩衝最多「需求數 + 1」。因日期、重複、亂碼修不好或資料不足被淘汰時，只按缺額補找。
-4. 列表已有日期才用來判斷搜尋區間；沒有日期仍可列入，`sourceDateNote` 標註「來源未提供明確日期」。不要為了補日期而開詳情。
+4. 列表已有日期才用來判斷搜尋區間；沒有日期仍可列入，`sourceDateNote` 標註「來源未提供明確日期」。搜尋階段不要為了過濾區間而開詳情；寫入 `data.json` 前若仍缺 `published`，依「出版日期與索引排序」補日期。
 5. 每筆至少記錄：書名、作者、來源網站、來源網址、榜單名稱、擷取日期、日期區間、來源日期說明。列表沒有 ISBN 就不要另查。
 
 ## 亂碼文字閘門
@@ -170,11 +170,20 @@ python tools/findbook_scraper.py --root . --category-ids <id1,id2,...> --quota <
 1. `data.json` 是去重與 reservation 的唯一權威來源；共享 reservation set 只能當它的記憶體鏡像。
 2. 搜尋 worker 找到合格新書後，只能把已通過亂碼快路徑的候選交給單一 reservation writer。worker 不得自行「先查再寫」。
 3. reservation writer 在同一個串行臨界區執行 `reload → 亂碼複檢 → normalize → dedupe → allocate ID → prepare → write`：重新載入最新 `data.json`；依中文書名、ISBN 與正規化「書名 + 作者」處理。已存在就回傳既有 ID 並拒絕新增；不存在才配置唯一 ID。
-4. 同一 checkpoint 以同一份不可變 reservation payload 建立單書資料與索引列。先原子建立 `Books/{categoryId}/{book-id}.json` pending 骨架，再原子寫入 `data.json`。`data.json.books` 必須立刻寫入完整有效索引列，至少包含 `id`、`title`、`author`、`categoryId`、`tags`、`sourceName`、`sourceUrl`、`file`，並同步更新 `totalBooks`、`generatedFrom`、`generatedAt`。索引列的 `file` 必須精確等於 `Books/{categoryId}/{book-id}.json`。pending 骨架需包含相同的 `id`、`categoryId`、`title`、`author`、完整基本資料、空的 highlights 及相容 pending 狀態。`data.json` 最後寫入，作為 reservation 已提交的標記。
+4. 同一 checkpoint 以同一份不可變 reservation payload 建立單書資料與索引列。先原子建立 `Books/{categoryId}/{book-id}.json` pending 骨架，再原子寫入 `data.json`。`data.json.books` 必須立刻寫入完整有效索引列，至少包含 `id`、`title`、`author`、`categoryId`、`tags`、`sourceName`、`sourceUrl`、`file`，有來源日期時還必須含 `published`，並同步更新 `totalBooks`、`generatedFrom`、`generatedAt`。寫入後必須依「出版日期與索引排序」重排再落盤。索引列的 `file` 必須精確等於 `Books/{categoryId}/{book-id}.json`。pending 骨架需包含相同的 `id`、`categoryId`、`title`、`author`、完整基本資料、空的 highlights 及相容 pending 狀態。`data.json` 最後寫入，作為 reservation 已提交的標記。
 5. writer 只有在該筆索引連結提交檢查通過後才能回傳 `committed + book ID`。Grok worker 收到 committed 後才開始產生重點，後續都以該 ID 為主鍵。
 6. 每次 committed 後立即通知所有 worker 使用最新索引。下一個候選仍必須交給 reservation writer 原子檢查。
 7. 若 writer 回傳已存在：只有同一 `workId` 且仍為 pending 才排入 Grok 佇列；其他 `workId` 的既有書不計入本次配額，必須改找下一本。
-8. 正式流程使用 `tools/findbook_writer.py reserve --category-id <categoryId> ...`。同一分類把本回合候選一次交給 writer，不要一本呼叫一次。不得再向根目錄分類大檔附加資料。
+8. 正式流程使用 `tools/findbook_writer.py reserve --category-id <categoryId> ...`。同一分類把本回合候選一次交給 writer，不要一本呼叫一次。不得再向根目錄分類大檔附加資料。writer 已內建 `sort_manifest_books`，禁止手改 `data.json` 順序。
+
+## 出版日期與索引排序
+
+每次把新書寫入 `data.json` 後，必須立刻依出版日期重排再落盤，不得維持抓取順序。
+
+1. 先依 `categories` 的系列順序（`01`→`07`）分組。
+2. 同一系列內依 `published` 由新到舊（完整 `YYYY-MM-DD` 優先於僅年份 `YYYY`；僅年份視為該年 `01-01`）。無出版日期的書排在該系列最後。
+3. 索引列與單書 JSON 都必須寫入 `published`（`YYYY-MM-DD` 或僅年份 `YYYY`）。來源依序：scraper 出版日期 → `sourceDateNote` → 博客來商品頁／書名搜尋 → momo 圖書搜尋。必須對到同一書名（短書名還要比對作者），不得套用書名相近的其他書。兩邊都找不到就留空並排該系列最後，據實回報，不得捏造日期。
+4. 批次結束除核對本批 committed ID 外，還須確認各系列已依 `published` 由新到舊排列。
 
 ## 索引連結完整性
 
@@ -183,7 +192,7 @@ python tools/findbook_scraper.py --root . --category-ids <id1,id2,...> --quota <
 1. 單筆 reservation writer 在串行臨界區完成 `reload → dedupe → allocate ID → build one payload → write book atomically → write manifest atomically → check link → committed`。單書 JSON 與索引列必須從同一份 payload 產生，不得分別重新組合書名、作者、分類或 ID。
 2. 單筆 `check link` 只檢查提交完整性：索引路徑存在且可解析、路徑精確符合規則、索引與單書 JSON 的 `id`、`categoryId`、`title`、`author` 完全一致，且該 ID 與 `file` 在 `data.json` 中各自唯一。任一項失敗都不得 committed，也不得送 Grok。
 3. 批次結束時先停止派送並等待本批次 reservation／result writer 完成。只核對本批次 committed ID：索引列存在、對應單書檔存在、四欄一致。不要掃整個 `Books/`。
-4. 另確認 `totalBooks === data.json.books.length`。結構異常先保留現況並回報書名、ID、目前路徑與預期路徑；不得以第一筆搜尋結果或相似書籍自動覆寫。
+4. 另確認 `totalBooks === data.json.books.length`，並確認各系列已依 `published` 由新到舊排列。結構異常先保留現況並回報書名、ID、目前路徑與預期路徑；不得以第一筆搜尋結果或相似書籍自動覆寫。
 5. 同一 `workId` 的 pending 單書檔尚未進入 `data.json` 時，只能依原 reservation checkpoint 補上原索引列；索引已存在但單書檔缺少時，只能依同一 checkpoint 補回 pending 檔。不得從檔名猜測作者、書名或分類，也不得套用其他書的路徑。
 
 ## 多工整理與即時寫入
@@ -250,6 +259,7 @@ python tools/findbook_scraper.py --root . --category-ids <id1,id2,...> --quota <
   "sourceName": "來源榜單",
   "sourceUrl": "https://example.com",
   "sourceDateNote": "出版日期、上架日期、榜單日期或來源未提供明確日期",
+  "published": "YYYY-MM-DD",
   "searchDateRange": {
     "from": "YYYY-MM-DD",
     "to": "YYYY-MM-DD"

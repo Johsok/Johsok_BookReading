@@ -4828,6 +4828,36 @@
       "published": "2026-06-01"
     },
     {
+      "id": "01_business_startup-20260718-15",
+      "title": "銀行轉型2035：邁向智能體銀行的範式躍遷",
+      "author": "何大勇,孫中東,譚彥",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18098388",
+      "file": "Books/01_business_startup/01_business_startup-20260718-15.json",
+      "workId": "findbook-20260718-121027",
+      "published": "2026-06-01"
+    },
+    {
+      "id": "01_business_startup-20260718-16",
+      "title": "中國近代對外貿易管理制度史研究(1840-1949)",
+      "author": "張國義",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18114954",
+      "file": "Books/01_business_startup/01_business_startup-20260718-16.json",
+      "workId": "findbook-20260718-121027",
+      "published": "2026-06-01"
+    },
+    {
       "id": "01_business_startup-20260724-09",
       "title": "博雅管理核心課程：社會生態學的視角（上）︰杜拉克論管理／企業的目的與戰略",
       "author": "黃建東",
@@ -4858,6 +4888,21 @@
       "sourceName": "博客來商業理財暢銷榜 TOP 15",
       "sourceUrl": "https://www.books.com.tw/products/0011052900?loc=P_0003_015",
       "file": "Books/01_business_startup/01_business_startup-20260710-04.json",
+      "published": "2026-05-30"
+    },
+    {
+      "id": "01_business_startup-20260718-17",
+      "title": "AI時代創新法則：AI RaaS模式重新定義企業",
+      "author": "劉燕,彭志強",
+      "categoryId": "01_business_startup",
+      "tags": [
+        "商業理財",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－商業理財分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18096176",
+      "file": "Books/01_business_startup/01_business_startup-20260718-17.json",
+      "workId": "findbook-20260718-121027",
       "published": "2026-05-30"
     },
     {
@@ -24469,48 +24514,6 @@
       "published": "1985-06-01"
     },
     {
-      "id": "01_business_startup-20260718-15",
-      "title": "銀行轉型2035：邁向智能體銀行的範式躍遷",
-      "author": "何大勇,孫中東,譚彥",
-      "categoryId": "01_business_startup",
-      "tags": [
-        "商業理財",
-        "中文書"
-      ],
-      "sourceName": "博客來中文書－商業理財分類頁",
-      "sourceUrl": "https://www.books.com.tw/products/CN18098388",
-      "file": "Books/01_business_startup/01_business_startup-20260718-15.json",
-      "workId": "findbook-20260718-121027"
-    },
-    {
-      "id": "01_business_startup-20260718-16",
-      "title": "中國近代對外貿易管理制度史研究(1840-1949)",
-      "author": "張國義",
-      "categoryId": "01_business_startup",
-      "tags": [
-        "商業理財",
-        "中文書"
-      ],
-      "sourceName": "博客來中文書－商業理財分類頁",
-      "sourceUrl": "https://www.books.com.tw/products/CN18114954",
-      "file": "Books/01_business_startup/01_business_startup-20260718-16.json",
-      "workId": "findbook-20260718-121027"
-    },
-    {
-      "id": "01_business_startup-20260718-17",
-      "title": "AI時代創新法則：AI RaaS模式重新定義企業",
-      "author": "劉燕,彭志強",
-      "categoryId": "01_business_startup",
-      "tags": [
-        "商業理財",
-        "中文書"
-      ],
-      "sourceName": "博客來中文書－商業理財分類頁",
-      "sourceUrl": "https://www.books.com.tw/products/CN18096176",
-      "file": "Books/01_business_startup/01_business_startup-20260718-17.json",
-      "workId": "findbook-20260718-121027"
-    },
-    {
       "id": "02_psychology_growth-20260916-02",
       "title": "我是如此幸運",
       "author": "克里斯欽．華森",
@@ -29880,6 +29883,23 @@
       "published": "2026-06-01"
     },
     {
+      "id": "02_psychology_growth-20260724-13",
+      "title": "【三分鐘就有用的高效懶人瑜伽套書】（二冊）：《懶人瑜伽 【漫畫解剖‧人氣暢銷版】》、《懶人瑜伽之0壓力修復》",
+      "author": "崎田美菜",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理",
+        "勵志",
+        "成長",
+        "情緒"
+      ],
+      "sourceName": "博客來中文書－醫療保健分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011053207",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260724-13.json",
+      "workId": "findbook-20260724-2120",
+      "published": "2026-06-01"
+    },
+    {
       "id": "02_psychology_growth-20260718-115",
       "title": "停止精神內耗：Google提倡的64個微型正念，遠離煩躁情緒的練習",
       "author": "荻野淳也",
@@ -31227,6 +31247,21 @@
       "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07",
       "file": "Books/02_psychology_growth/02_psychology_growth-20260716-192.json",
       "workId": "findbook-20260716-125349-b10",
+      "published": "2026-02-12"
+    },
+    {
+      "id": "02_psychology_growth-20260717-35",
+      "title": "初心",
+      "author": "陌漠",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/books_topm_07",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260717-35.json",
+      "workId": "findbook-20260717-214500-b2",
       "published": "2026-02-12"
     },
     {
@@ -36764,6 +36799,21 @@
       "sourceName": "博客來中文書商品頁（心理勵志／個人成長）",
       "sourceUrl": "https://www.books.com.tw/products/0011021859",
       "file": "Books/02_psychology_growth/02_psychology_growth-20260710-50.json",
+      "published": "2025-05-29"
+    },
+    {
+      "id": "02_psychology_growth-20260718-124",
+      "title": "【蛤蟆的冒險生活.心理三部曲】柳林風聲+河岸風景+蛤蟆先生去看心理師",
+      "author": "姬吉．強森 羅伯．狄保德 肯尼斯．葛拉罕 郭漁 張美惠 林婉婷 Dinner illustration",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011021634",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-124.json",
+      "workId": "findbook-20260718-135724-b3",
       "published": "2025-05-29"
     },
     {
@@ -42368,6 +42418,21 @@
       "published": "2020-08-18"
     },
     {
+      "id": "02_psychology_growth-20260718-134",
+      "title": "兒童心理創傷後的遊戲治療：實務工作者應該知道的事：實務工作者應該知道的事",
+      "author": "Eliana Gil 陳信昭 陳宏儒 陳碧玲 自然就好心理諮商所",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0010867874",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-134.json",
+      "workId": "findbook-20260718-135724-b3",
+      "published": "2020-08-17"
+    },
+    {
       "id": "02_psychology_growth-20210901-41",
       "title": "異數:超凡與平凡的界線在哪裡?(暢銷慶功版)",
       "author": "麥爾坎.葛拉威爾",
@@ -42962,6 +43027,21 @@
       "file": "Books/02_psychology_growth/02_psychology_growth-20210901-36.json",
       "workId": "findbook-19860901-20210901-c9",
       "published": "2020-01-08"
+    },
+    {
+      "id": "02_psychology_growth-20260718-135",
+      "title": "諮商與心理治療倫理：準則、研究與新興議題(2020年全新修訂版)",
+      "author": "Elizabeth Reynolds Welfel 廖宗慈 楊雅婷 王文秀 蔡欣憓 鍾榕芳 陳俊言",
+      "categoryId": "02_psychology_growth",
+      "tags": [
+        "心理勵志",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－心理勵志分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0010866823",
+      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-135.json",
+      "workId": "findbook-20260718-135724-b3",
+      "published": "2020-01-07"
     },
     {
       "id": "02_psychology_growth-20160831-08",
@@ -49439,20 +49519,6 @@
       "published": "2000-01-05"
     },
     {
-      "id": "02_psychology_growth-20260717-35",
-      "title": "初心",
-      "author": "陌漠",
-      "categoryId": "02_psychology_growth",
-      "tags": [
-        "心理勵志",
-        "中文書"
-      ],
-      "sourceName": "博客來中文書－心理勵志分類頁",
-      "sourceUrl": "https://www.books.com.tw/web/books_topm_07",
-      "file": "Books/02_psychology_growth/02_psychology_growth-20260717-35.json",
-      "workId": "findbook-20260717-214500-b2"
-    },
-    {
       "id": "02_psychology_growth-20260717-36",
       "title": "情緒復原力：在壓力中重新找回平衡",
       "author": "心理健康編輯團隊",
@@ -49507,64 +49573,6 @@
       "sourceUrl": "https://www.books.com.tw/web/sys_nbmidme/books/07",
       "file": "Books/02_psychology_growth/02_psychology_growth-20260717-40.json",
       "workId": "findbook-20260717-214500-b2"
-    },
-    {
-      "id": "02_psychology_growth-20260718-124",
-      "title": "【蛤蟆的冒險生活.心理三部曲】柳林風聲+河岸風景+蛤蟆先生去看心理師",
-      "author": "姬吉．強森 羅伯．狄保德 肯尼斯．葛拉罕 郭漁 張美惠 林婉婷 Dinner illustration",
-      "categoryId": "02_psychology_growth",
-      "tags": [
-        "心理勵志",
-        "中文書"
-      ],
-      "sourceName": "博客來中文書－心理勵志分類頁",
-      "sourceUrl": "https://www.books.com.tw/products/0011021634",
-      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-124.json",
-      "workId": "findbook-20260718-135724-b3"
-    },
-    {
-      "id": "02_psychology_growth-20260718-134",
-      "title": "兒童心理創傷後的遊戲治療：實務工作者應該知道的事：實務工作者應該知道的事",
-      "author": "Eliana Gil 陳信昭 陳宏儒 陳碧玲 自然就好心理諮商所",
-      "categoryId": "02_psychology_growth",
-      "tags": [
-        "心理勵志",
-        "中文書"
-      ],
-      "sourceName": "博客來中文書－心理勵志分類頁",
-      "sourceUrl": "https://www.books.com.tw/products/0010867874",
-      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-134.json",
-      "workId": "findbook-20260718-135724-b3"
-    },
-    {
-      "id": "02_psychology_growth-20260718-135",
-      "title": "諮商與心理治療倫理：準則、研究與新興議題(2020年全新修訂版)",
-      "author": "Elizabeth Reynolds Welfel 廖宗慈 楊雅婷 王文秀 蔡欣憓 鍾榕芳 陳俊言",
-      "categoryId": "02_psychology_growth",
-      "tags": [
-        "心理勵志",
-        "中文書"
-      ],
-      "sourceName": "博客來中文書－心理勵志分類頁",
-      "sourceUrl": "https://www.books.com.tw/products/0010866823",
-      "file": "Books/02_psychology_growth/02_psychology_growth-20260718-135.json",
-      "workId": "findbook-20260718-135724-b3"
-    },
-    {
-      "id": "02_psychology_growth-20260724-13",
-      "title": "【三分鐘就有用的高效懶人瑜伽套書】（二冊）：《懶人瑜伽 【漫畫解剖‧人氣暢銷版】》、《懶人瑜伽之0壓力修復》",
-      "author": "崎田美菜",
-      "categoryId": "02_psychology_growth",
-      "tags": [
-        "心理",
-        "勵志",
-        "成長",
-        "情緒"
-      ],
-      "sourceName": "博客來中文書－醫療保健分類頁",
-      "sourceUrl": "https://www.books.com.tw/products/0011053207",
-      "file": "Books/02_psychology_growth/02_psychology_growth-20260724-13.json",
-      "workId": "findbook-20260724-2120"
     },
     {
       "id": "02_psychology_growth-20260724-39",
@@ -52515,6 +52523,21 @@
       "published": "2026-06-02"
     },
     {
+      "id": "03_natural_science-20260718-10",
+      "title": "對手與權威：古代希臘與古代中國的科學和思想",
+      "author": "（英）G·E·R.勞埃德",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18110946",
+      "file": "Books/03_natural_science/03_natural_science-20260718-10.json",
+      "workId": "findbook-20260718-121027",
+      "published": "2026-06-01"
+    },
+    {
       "id": "03_natural_science-20260718-80",
       "title": "酷哆啦的科學課：人工智慧可以做什麼",
       "author": "叁川上 介于",
@@ -54643,6 +54666,21 @@
       "published": "2025-12-23"
     },
     {
+      "id": "03_natural_science-20260718-55",
+      "title": "解藥：改變生命的八種創新藥物",
+      "author": "包惠霖",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011039544",
+      "file": "Books/03_natural_science/03_natural_science-20260718-55.json",
+      "workId": "findbook-20260718-163000-b6",
+      "published": "2025-12-23"
+    },
+    {
       "id": "03_natural_science-20260716-141",
       "title": "節理岩體的非線性力學特性描述方法與應用",
       "author": "李樹武、符文熹、劉高等",
@@ -54655,6 +54693,21 @@
       "sourceUrl": "https://www.books.com.tw/web/sys_pcbtopm/china/10",
       "file": "Books/03_natural_science/03_natural_science-20260716-141.json",
       "workId": "findbook-20260716-213659-b14",
+      "published": "2025-12-21"
+    },
+    {
+      "id": "03_natural_science-20260717-13",
+      "title": "節理岩體的非線性力學特性描述方法與應用",
+      "author": "李樹武、符文熹、劉高",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_pcbtopm/china/10",
+      "file": "Books/03_natural_science/03_natural_science-20260717-13.json",
+      "workId": "findbook-20260717-214500-b2",
       "published": "2025-12-21"
     },
     {
@@ -54875,6 +54928,21 @@
       "published": "2025-12-05"
     },
     {
+      "id": "03_natural_science-20260718-63",
+      "title": "【實驗王特輯】科學實驗王理科關鍵字2：生物(一)附資優學習單",
+      "author": "Story a. 徐月珠 洪鐘賢（Hong-Jong Hyun）",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011038117",
+      "file": "Books/03_natural_science/03_natural_science-20260718-63.json",
+      "workId": "findbook-20260718-135724-b3",
+      "published": "2025-12-05"
+    },
+    {
       "id": "03_natural_science-20260710-86",
       "title": "潮汐國度：生命的繁衍密語",
       "author": "劉毅, 尉鵬",
@@ -55082,6 +55150,21 @@
       "published": "2025-12-01"
     },
     {
+      "id": "03_natural_science-20260718-60",
+      "title": "學驗思：文化承啟與科學教育",
+      "author": "劉源俊　著",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011044778",
+      "file": "Books/03_natural_science/03_natural_science-20260718-60.json",
+      "workId": "findbook-20260718-163000-b6",
+      "published": "2025-12-01"
+    },
+    {
       "id": "03_natural_science-20260710-72",
       "title": "宇宙大解構：從大霹靂到黑洞，窺見宇宙的誕生、演化與未來",
       "author": "劉俊初",
@@ -55283,6 +55366,21 @@
       "sourceUrl": "https://www.books.com.tw/web/sys_natopm/china/10/?cus_id=3078&loc=P_0001_010",
       "file": "Books/03_natural_science/03_natural_science-20260717-10.json",
       "workId": "findbook-20260717-212000",
+      "published": "2025-11-01"
+    },
+    {
+      "id": "03_natural_science-20260717-14",
+      "title": "碳達峰規律和我國碳達峰行動方案研究",
+      "author": "董鋒、喬均、崔珏",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/web/sys_pcbtopm/china/10",
+      "file": "Books/03_natural_science/03_natural_science-20260717-14.json",
+      "workId": "findbook-20260717-214500-b2",
       "published": "2025-11-01"
     },
     {
@@ -56005,6 +56103,21 @@
       "sourceUrl": "https://www.taaze.tw/products/11101066340.html",
       "file": "Books/03_natural_science/03_natural_science-20240916-07.json",
       "workId": "findbook-20260916-0836",
+      "published": "2025-07-04"
+    },
+    {
+      "id": "03_natural_science-20260718-68",
+      "title": "【實驗王特輯】科學實驗王理科關鍵字1：地球科學(附資優學習單)",
+      "author": "Story a. 徐月珠 洪鐘賢",
+      "categoryId": "03_natural_science",
+      "tags": [
+        "自然科學",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－自然科學分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011023994",
+      "file": "Books/03_natural_science/03_natural_science-20260718-68.json",
+      "workId": "findbook-20260718-135724-b3",
       "published": "2025-07-04"
     },
     {
@@ -65639,34 +65752,6 @@
       "published": "1997-11-30"
     },
     {
-      "id": "03_natural_science-20260717-13",
-      "title": "節理岩體的非線性力學特性描述方法與應用",
-      "author": "李樹武、符文熹、劉高",
-      "categoryId": "03_natural_science",
-      "tags": [
-        "自然科學",
-        "中文書"
-      ],
-      "sourceName": "博客來中文書－自然科學分類頁",
-      "sourceUrl": "https://www.books.com.tw/web/sys_pcbtopm/china/10",
-      "file": "Books/03_natural_science/03_natural_science-20260717-13.json",
-      "workId": "findbook-20260717-214500-b2"
-    },
-    {
-      "id": "03_natural_science-20260717-14",
-      "title": "碳達峰規律和我國碳達峰行動方案研究",
-      "author": "董鋒、喬均、崔珏",
-      "categoryId": "03_natural_science",
-      "tags": [
-        "自然科學",
-        "中文書"
-      ],
-      "sourceName": "博客來中文書－自然科學分類頁",
-      "sourceUrl": "https://www.books.com.tw/web/sys_pcbtopm/china/10",
-      "file": "Books/03_natural_science/03_natural_science-20260717-14.json",
-      "workId": "findbook-20260717-214500-b2"
-    },
-    {
       "id": "03_natural_science-20260717-16",
       "title": "量子世界入門：從微觀現象理解現代物理",
       "author": "科普物理研究團隊",
@@ -65721,76 +65806,6 @@
       "sourceUrl": "https://www.books.com.tw/web/sys_topme/books/06",
       "file": "Books/03_natural_science/03_natural_science-20260717-20.json",
       "workId": "findbook-20260717-214500-b2"
-    },
-    {
-      "id": "03_natural_science-20260718-10",
-      "title": "對手與權威：古代希臘與古代中國的科學和思想",
-      "author": "（英）G·E·R.勞埃德",
-      "categoryId": "03_natural_science",
-      "tags": [
-        "自然科學",
-        "中文書"
-      ],
-      "sourceName": "博客來中文書－自然科學分類頁",
-      "sourceUrl": "https://www.books.com.tw/products/CN18110946",
-      "file": "Books/03_natural_science/03_natural_science-20260718-10.json",
-      "workId": "findbook-20260718-121027"
-    },
-    {
-      "id": "03_natural_science-20260718-55",
-      "title": "解藥：改變生命的八種創新藥物",
-      "author": "包惠霖",
-      "categoryId": "03_natural_science",
-      "tags": [
-        "自然科學",
-        "中文書"
-      ],
-      "sourceName": "博客來中文書－自然科學分類頁",
-      "sourceUrl": "https://www.books.com.tw/products/0011039544",
-      "file": "Books/03_natural_science/03_natural_science-20260718-55.json",
-      "workId": "findbook-20260718-163000-b6"
-    },
-    {
-      "id": "03_natural_science-20260718-60",
-      "title": "學驗思：文化承啟與科學教育",
-      "author": "劉源俊　著",
-      "categoryId": "03_natural_science",
-      "tags": [
-        "自然科學",
-        "中文書"
-      ],
-      "sourceName": "博客來中文書－自然科學分類頁",
-      "sourceUrl": "https://www.books.com.tw/products/0011044778",
-      "file": "Books/03_natural_science/03_natural_science-20260718-60.json",
-      "workId": "findbook-20260718-163000-b6"
-    },
-    {
-      "id": "03_natural_science-20260718-63",
-      "title": "【實驗王特輯】科學實驗王理科關鍵字2：生物(一)附資優學習單",
-      "author": "Story a. 徐月珠 洪鐘賢（Hong-Jong Hyun）",
-      "categoryId": "03_natural_science",
-      "tags": [
-        "自然科學",
-        "中文書"
-      ],
-      "sourceName": "博客來中文書－自然科學分類頁",
-      "sourceUrl": "https://www.books.com.tw/products/0011038117",
-      "file": "Books/03_natural_science/03_natural_science-20260718-63.json",
-      "workId": "findbook-20260718-135724-b3"
-    },
-    {
-      "id": "03_natural_science-20260718-68",
-      "title": "【實驗王特輯】科學實驗王理科關鍵字1：地球科學(附資優學習單)",
-      "author": "Story a. 徐月珠 洪鐘賢",
-      "categoryId": "03_natural_science",
-      "tags": [
-        "自然科學",
-        "中文書"
-      ],
-      "sourceName": "博客來中文書－自然科學分類頁",
-      "sourceUrl": "https://www.books.com.tw/products/0011023994",
-      "file": "Books/03_natural_science/03_natural_science-20260718-68.json",
-      "workId": "findbook-20260718-135724-b3"
     },
     {
       "id": "04_healthcare-20260916-10",
@@ -67498,6 +67513,22 @@
       "file": "Books/04_healthcare/04_healthcare-20260718-02.json",
       "workId": "findbook-20260718-121027",
       "published": "2026-06-26"
+    },
+    {
+      "id": "04_healthcare-20260719-01",
+      "title": "【湯液經法圖講記套書】（二冊）：《「湯液經法圖」講記①：解構經方、時方的底層邏輯》＋《「湯液經法圖」講記②：還原中藥的五行屬性》",
+      "author": "金銳",
+      "categoryId": "04_healthcare",
+      "tags": [
+        "醫療",
+        "健康",
+        "保健"
+      ],
+      "sourceName": "博客來中文書－醫療保健分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011054951",
+      "file": "Books/04_healthcare/04_healthcare-20260719-01.json",
+      "workId": "findbook-20260719-220407",
+      "published": "2026-06-24"
     },
     {
       "id": "04_healthcare-20260724-09",
@@ -76952,21 +76983,6 @@
       "workId": "findbook-20260717-214500-b2"
     },
     {
-      "id": "04_healthcare-20260719-01",
-      "title": "【湯液經法圖講記套書】（二冊）：《「湯液經法圖」講記①：解構經方、時方的底層邏輯》＋《「湯液經法圖」講記②：還原中藥的五行屬性》",
-      "author": "金銳",
-      "categoryId": "04_healthcare",
-      "tags": [
-        "醫療",
-        "健康",
-        "保健"
-      ],
-      "sourceName": "博客來中文書－醫療保健分類頁",
-      "sourceUrl": "https://www.books.com.tw/products/0011054951",
-      "file": "Books/04_healthcare/04_healthcare-20260719-01.json",
-      "workId": "findbook-20260719-220407"
-    },
-    {
       "id": "05_food_wellness-20260818-02",
       "title": "精準抗癌湯：【日本癌症權威八大飲食法實踐版】天天這樣吃，讓癌細胞消失！120道強化免疫力、改善代謝異常的食療湯粥",
       "author": "濟陽高穗、上尾美由紀",
@@ -78923,6 +78939,21 @@
       "sourceName": "博客來中文書－飲食養生分類頁",
       "sourceUrl": "https://www.books.com.tw/products/0011037722",
       "file": "Books/05_food_wellness/05_food_wellness-20260718-29.json",
+      "workId": "findbook-20260718-163000-b6",
+      "published": "2025-11-27"
+    },
+    {
+      "id": "05_food_wellness-20260718-30",
+      "title": "【博客來獨家套書】大象主廚教你【會開瓦斯就會煮】(1)~(3)套書三冊",
+      "author": "大象主廚",
+      "categoryId": "05_food_wellness",
+      "tags": [
+        "飲食養生",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－飲食養生分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/0011038235",
+      "file": "Books/05_food_wellness/05_food_wellness-20260718-30.json",
       "workId": "findbook-20260718-163000-b6",
       "published": "2025-11-27"
     },
@@ -83322,20 +83353,6 @@
       "workId": "findbook-20260717-214500-b2"
     },
     {
-      "id": "05_food_wellness-20260718-30",
-      "title": "【博客來獨家套書】大象主廚教你【會開瓦斯就會煮】(1)~(3)套書三冊",
-      "author": "大象主廚",
-      "categoryId": "05_food_wellness",
-      "tags": [
-        "飲食養生",
-        "中文書"
-      ],
-      "sourceName": "博客來中文書－飲食養生分類頁",
-      "sourceUrl": "https://www.books.com.tw/products/0011038235",
-      "file": "Books/05_food_wellness/05_food_wellness-20260718-30.json",
-      "workId": "findbook-20260718-163000-b6"
-    },
-    {
       "id": "06_computer_info-20260818-02",
       "title": "AI Agent新紀元",
       "author": "孫大千",
@@ -84290,6 +84307,21 @@
       "sourceUrl": "https://www.books.com.tw/products/0011053016",
       "file": "Books/06_computer_info/06_computer_info-20260711-03.json",
       "published": "2026-06-04"
+    },
+    {
+      "id": "06_computer_info-20260718-05",
+      "title": "LLaMA+ChatGLM大模型實戰",
+      "author": "薛棟",
+      "categoryId": "06_computer_info",
+      "tags": [
+        "電腦資訊",
+        "中文書"
+      ],
+      "sourceName": "博客來中文書－電腦資訊分類頁",
+      "sourceUrl": "https://www.books.com.tw/products/CN18097685",
+      "file": "Books/06_computer_info/06_computer_info-20260718-05.json",
+      "workId": "findbook-20260718-121027",
+      "published": "2026-06-01"
     },
     {
       "id": "06_computer_info-20260719-01",
@@ -89682,20 +89714,6 @@
       "sourceUrl": "https://www.books.com.tw/web/books_topm_11",
       "file": "Books/06_computer_info/06_computer_info-20260717-10.json",
       "workId": "findbook-20260717-214500-b2"
-    },
-    {
-      "id": "06_computer_info-20260718-05",
-      "title": "LLaMA+ChatGLM大模型實戰",
-      "author": "薛棟",
-      "categoryId": "06_computer_info",
-      "tags": [
-        "電腦資訊",
-        "中文書"
-      ],
-      "sourceName": "博客來中文書－電腦資訊分類頁",
-      "sourceUrl": "https://www.books.com.tw/products/CN18097685",
-      "file": "Books/06_computer_info/06_computer_info-20260718-05.json",
-      "workId": "findbook-20260718-121027"
     },
     {
       "id": "07_other-20260718-16",
@@ -96265,5 +96283,5 @@
     "to": "2026-09-17"
   },
   "generatedFrom": "FindBook_Skill.md reservation checkpoint",
-  "generatedAt": "2026-09-17T07:23:39+08:00"
+  "generatedAt": "2026-09-17T12:29:48+08:00"
 }

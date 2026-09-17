@@ -1,4 +1,4 @@
-﻿{
+{
   "id": "06_computer_info-20260718-05",
   "categoryId": "06_computer_info",
   "title": "LLaMA+ChatGLM大模型實戰",
@@ -171,5 +171,6 @@
   "chatgptStatus": "complete",
   "highlightsSource": "grok",
   "workId": "findbook-20260718-121027",
-  "highlightsCapturedAt": "2026-08-18T09:15:00+08:00"
+  "highlightsCapturedAt": "2026-08-18T09:15:00+08:00",
+  "published": "2026-06-01"
 }
